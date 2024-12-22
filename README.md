@@ -1,4 +1,10 @@
 # Project GTA:SA Bahasa Indonesia
-By: Buset Project
+Oleh: Buset Project
 ## Dimulai 22/12/24
-
+## Selesai ??/??/25
+## Progress
+<details>
+  <summary>BUKA</summary>
+  - [ ] Test
+  - [x] Test
+</details>
