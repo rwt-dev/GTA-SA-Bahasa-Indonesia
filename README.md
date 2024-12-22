@@ -4,7 +4,8 @@ Oleh: Buset Project
 ## Selesai ??/??/25
 ## Progress
 <details>
-  <summary>BUKA</summary>
-  - [ ] Test
-  - [x] Test
+<summary>BUKA</summary>
+
+  - [ ] 
+  - [ ] 
 </details>
