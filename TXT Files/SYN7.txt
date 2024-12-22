@@ -1,0 +1,58 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+SYN7@00	5815273B	Carl! You're a fucking hero down in LS, I just spoke to my cousin.
+SYN7@01	2F1217AD	Not wit' my people I ain't. Shit's still fucked up.
+SYN7@02	B61B4617	Man, I got homies I used to run with that turn their back on me, over this.
+SYN7@03	C11C7681	Yeah, well, what are you going to do, huh?
+SYN7@04	5F78E322	Fucking Ryder man! That was my homie.
+SYN7@05	287FD3B4	And I've killed him!
+SYN7@06	B176820E	Fucking midget deserved it, eh.
+SYN7@07	C671B298	Little asshole tried to bang your sister, you know that?
+SYN7@08	56CEAF09	Maybe you're right, then, man. But...
+SYN7@09	21C99F9F	Cheer the fuck up. You're going soft on me, man.
+SYN7@10	410E167A	You did something good, eh?
+SYN7@11	360926EC	Yes you did. But this isn't over yet.
+SYN7@12	AF007756	What you mean?
+SYN7@13	D80747C0	Well, your former friends have a factory. And the way I see it, if you take that out
+SYN7@14	4663D263	you will have put them out of business for good.
+SYN7@15	3164E2F5	...No...For real...? Shit.
+SYN7_01	3868F3E0	~s~Go and pick up the wired car from the ~y~Bomb Shop~s~.
+SYN7_03	D66692CC	~s~ Park the car inside the ~y~Crack lab~s~.
+SYN7_05	3F0537F9	~s~ Bomb activated.
+SYN7_13	CF7DA38D	~s~They've shut the gate!
+SYN7_18	58AF7A05	Bomb ~1~
+SYN7_20	7D59A1F4	~m~~widget_vehicle_bomb~ Activate bomb.
+SYN7_23	E450F04E	~s~Escape out the ~y~Main gates~s~.
+SYN7_24	7A3465ED	~r~You got caught in the blast!
+SYN7_29	04851950	~s~Get back in the ~b~car ~s~and set the bomb!
+SYN7_32	8A4CF199	~s~Get back in the ~b~car~s~!
+SYN7_34	632F54AC	~s~Park the car near the ~y~Chemical containers~s~.
+SYN7_35	1428643A	~s~Use the ~y~Ramp ~s~to get into the crack lab.
+SYN7_36	8D213580	~r~The car has been destroyed!
+SYN7_37	FA260516	~s~Get out of the warehouse before the timer runs out.
+SYN7_38	6A991887	~s~Use the ~b~Car ~s~to ramp over the wall.
+SYN7_39	1D9E2811	~s~Get back to the ~y~Garage~s~.
+SYN7_52	DC16561F	~s~Kill the ~r~Guards~s~, that will get their attention.
+SYN7_53	AB116689	~s~Find another ~b~car ~s~so you can stunt jump out of the yard!
+SYN7_8	BEEAACA1	~s~Get as far away from the crack lab as possible!
+SYN7_9	C9ED9C37	~r~The blast did not destroy the crack lab!
+SYN7_AA	5E49CA6B	Hey man, is it ready?
+SYN7_AB	C7409BD1	She's all set. Get in.
+SYN7_AC	B047AB47	She's packing enough to take out that crack lab.
+SYN7_AD	2E233EE4	I've wired in a delay timer, to give you time to get out.
+SYN7_AE	59240E72	Cool. Good lookin'.
+SYN7_BA	756499A8	Hey, some loco bastard is blasting on our homeboys!
+SYN7_BB	EC6DC812	It's a hit!
+SYN7_BC	9B6AF884	We're being hit!
+SYN7_CA	6C7FA8E9	Get out there and kill the fool!
+SYN7_CB	F576F953	Open the gates and waste the dumb fuck, holmes!
+SYN7_CC	8271C9C5	Blast the moron, open the gate!
+SYN7_DA	233E3E2E	Who the fuck are you!
+SYN7_DB	BA376F94	What the fuck is he doing?
+SYN7_DC	CD305F02	This ain't no parking lot!
+SYN7_DD	5354CAA1	Shit, I'm so fried I'm seeing shit!
+SYN7_DE	2453FA37	Have I missed something here?

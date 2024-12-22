@@ -1,0 +1,20 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+SYN6_01	80D49485	~s~Toreno's boarding a helicopter at a ~y~helipad~s~ nearby. Get there and stop him.
+SYN6_02	19DDC53F	~s~Toreno's men have ~g~heavy duty weaponry~s~ at their disposal. Claim it for yourself!
+SYN6_03	6EDAF5A9	~s~The helicopter's airborne! Get that ~g~rocket launcher~s~ to bring it down!
+SYN6_04	F0BE600A	~s~ Follow that ~r~helicopter~s~ and bring it down! Use any means necessary!
+SYN6_05	87B9509C	Heli Health
+SYN6_06	1EB00126	~r~You failed to destroy the helicopter!
+SYN6_07	69B731B0	~s~It's an ambush! Stop that ~r~helicopter~s~ from getting away!
+SYN6_08	F9082C21	~r~Too late! Toreno's helicopter is well out of range now!
+SYN6_09	8E0F1CB7	~s~Excellent. Toreno can't have survived that fireball.
+SYN6_10	EEC89552	~r~Toreno's tricked you! He's left and you've got trouble!
+SYN6_11	99CFA5C4	~s~Chase the ~r~helicopter~s~ and use the rocket launcher to destroy it!
+SYN6_12	00C6F47E	~s~Toreno's ~r~helicopter~s~ is getting out of range! Keep up!
+SYN6_13	77C1C4E8	~s~Good. Get close to the ~r~helicopter~s~ and shoot it down.
+SYN6_20	C5E5C691	~s~Get on to the freeway and shoot that ~r~helicopter~s~ down.

@@ -1,0 +1,86 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+SYN5_01	92613B6B	~s~Go upstairs and meet ~b~Cesar~s~.
+SYN5_02	0B686AD1	~s~Clear the roof so that the Triads can proceed.
+SYN5_03	7C6F5A47	~s~Walk into the ~y~doorway~s~ to access the roof.
+SYN5_04	E20BCFE4	~r~Cesar has been killed!
+SYN5_05	950CFF72	~r~The Triad Leader has been killed!
+SYN5_06	0C05AEC8	~s~Find and kill ~r~T-Bone~s~!
+SYN5_07	7B029E5E	~s~Jump into the water and swim after ~r~Ryder~s~.
+SYN5_08	EBBD83CF	~s~Kill ~r~Ryder~s~.
+SYN5_09	9CBAB359	~r~Ryder has escaped!
+SYN5_10	FC7D3ABC	~s~You have left ~b~Cesar~s~ behind.
+SYN5_11	8B7A0A2A	~s~Get in the ~b~boat~s~.
+SYN5_12	12735B90	~s~Kill ~r~Ryder~s~. You can do a drive-by on his boat.
+SYN5_AA	F44002E0	Hey, holmes, I'm up here. Go around the back!
+SYN5_BA	DF6D5123	Hey man.
+SYN5_BB	46640099	Nice job getting that phone message.
+SYN5_BC	3163300F	So, what's up with Jizzy?
+SYN5_BD	AF07A5AC	Dead. So, what's the plan?
+SYN5_BE	D800953A	T-Bone's security got here real early.
+SYN5_BF	4109C480	They've got men on the roofs watching over the pier.
+SYN5_BG	360EF416	Eh.
+SYN5_BH	A6B1E987	OK, yeah, yeah, yeah, I see you.
+SYN5_BJ	48BF88AB	That was Woozie's boys, they're in place.
+SYN5_BK	3FB8B83D	Look, down by the side entrance.
+SYN5_BL	A1DC2D9E	Shit, they headin' up to the roof!
+SYN5_BM	D6DB1D08	Shit!
+SYN5_BN	4FD24CB2	Mira, we're gonna have to take out T-Bone's men on the rooftops before this whole gig blows wide open!
+SYN5_CA	C6766062	Take the shot, CJ, they'll be up there any moment!
+SYN5_CB	5F7F31D8	Shit they walked right into it!
+SYN5_CC	2878014E	Take 'em out, CJ, they're right in the thick of it!
+SYN5_CD	B61C94ED	One of those Triad boys is down!
+SYN5_CE	C11BA47B	Hey, that's one more Mountain Cloud Boy down!
+SYN5_CF	5812F5C1	They're getting cut to pieces, CJ, shoot those damn Rifas!
+SYN5_DA	8937F6A5	Oh yeah, One down...
+SYN5_DB	103EA71F	That's it, CJ, keep icing those Rifa!
+SYN5_DC	67399789	Just a few more, holmes...
+SYN5_DD	F95D022A	Some more to the right..
+SYN5_DE	8E5A32BC	Hey, there's still some on the left, CJ...
+SYN5_EA	902CC7E4	Oh, man, you just let them get wiped out!
+SYN5_EB	0925965E	CJ, what happened? You just let them get cut to pieces!
+SYN5_EC	7E22A6C8	We can't do this without Woozie's boys, man...
+SYN5_ED	E046336B	You can break the news to Woozie, holmes.
+SYN5_FA	BB019427	Nice one, CJ!
+SYN5_FB	2208C59D	Let's head on over and see what we can see.
+SYN5_GA	A21AA566	Nice shooting, CJ.
+SYN5_GB	3B13F4DC	We should be able to see everything from up here.
+SYN5_GC	4C14C44A	Here comes T-Bone....
+SYN5_GD	D27051E9	And here's that snake Ryder.
+SYN5_GE	A577617F	Look at that fool, hanging out with the Ballas like they was life long pals.
+SYN5_GF	3C7E30C5	CJ, you head down when you're ready,
+SYN5_GG	4B790053	we'll give you cover from up here.
+SYN5_GH	DBC61DC2	Something ain't right. Where's Toreno?
+SYN5_GJ	35C87CEE	Chopper inbound!
+SYN5_GK	42CF4C78	That's gotta be Toreno.
+SYN5_GL	DCABD9DB	Oh shit, he'll see the bodies on the rooftops!
+SYN5_GM	ABACE94D	Too late, man, he's tripping out!
+SYN5_GN	32A5B8F7	Tear gas! They're taking off!
+SYN5_GO	45A28861	Head down, we'll cover you!
+SYN5_GW	56CE1037	So much for a surprise, c'mon, we gotta take these fools right now!
+SYN5_GX	C6710DA6	Smoke grenades!
+SYN5_GY	B1763D30	Hold up, something ain't right. Where's Toreno at?
+SYN5_GZ	287F6C8A	Man, my busting was tight!
+SYN5_HA	2582B9A9	Hey Ryder, sherm-head asshole,
+SYN5_HB	BC8BE813	where do you think you're going?
+SYN5_HC	CB8CD885	C... Can't stop me...
+SYN5_HD	55E84D26	What you wanna do with him, holmes?
+SYN5_HE	22EF7DB0	You sold us out Ryder. You fucked with us all!
+SYN5_HF	BBE62C0A	I'm a motherfucking genius!
+SYN5_HG	CCE11C9C	Aauuuauuughhhh...!
+SYN5_HH	5C5E010D	Mendez, I see you, Rifa motherfucker!
+SYN5_HJ	B2506021	Yeah, I'll be back for you, Johnson!
+SYN5_HK	C55750B7	He's headed for those boats!
+SYN5_HL	5B33C514	Don't worry about it, I got this.
+SYN5_JA	17B4DB2B	Hey, that's my pinche boat!
+SYN5_JB	8EBD8A91	Oh my God, my boat!
+SYN5_JC	F9BABA07	Stop, you pinche bastard!
+SYN5_KA	0EAFEA6A	'Sup Cesar.
+SYN5_KB	97A6BBD0	You OK, holmes, we been watching from the pier with binoculars!
+SYN5_KC	E0A18B46	Yeah, I'm good, I think.
+SYN5_KD	7EC51EE5	Listen, you better clear out. The cops gonna be all over the spot in a minute.
+SYN5_KE	09C22E73	Sure thing, see you back at the garage!

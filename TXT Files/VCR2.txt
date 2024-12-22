@@ -1,0 +1,57 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+CRV2@00	32426747	Carl! Hope we didn't keep you waiting, holmes!
+CRV2@01	454557D1	Nah, I was just chillin'.
+CRV2@02	DC4C066B	Ha, I bet you were.
+CRV2@03	AB4B36FD	That the dossier? Hand it over.
+CRV2@04	352FA35E	Hey, everything cool now?
+CRV2@05	422893C8	I don't know, Carl. Eddie?
+CRV2@06	DB21C272	Our boy's done good!
+CRV2@07	AC26F2E4	YOU SNITCH PIECE OF SHIT!
+CRV2@08	3C99EF75	YOU VATO ASSHOLE!
+CRV2@09	4B9EDFE3	YOU SOLD US OUT!
+CRV2@10	2B595606	Time to dig, Carl.
+CRV2@11	5C5E6690	You take care of things.
+CRV2@12	C557372A	Whuh - where you going?
+CRV2@13	B25007BC	To get drunk and get laid - you got a problem with that?
+CRV2@14	2C34921F	No, Frank, relax.
+CRV2@15	5B33A289	Good. I'll see you back at the precinct.
+CRV2@16	C23AF333	And I'll see YOU in the next life, Carl.
+CRV2@17	B53DC3A5	Awright, that's good - that's deep enough for two.
+CRV2@18	2582DE34	Eddie, Tenpenny's just using you, he's using all of us.
+CRV2@19	5285EEA2	You're the next one he's gonna silence, man.
+CRV2@20	007405C5	Shut the fuck up, scum! And it's Officer Pulaski to you!
+CRV2@21	77733553	Fucking die!!
+VCR2__1	B8B60063	~s~Kill ~r~Pulaski!
+VCR2__2	21BF51D9	~r~Pulaski is getting away!
+VCR2__3	56B8614F	~r~Pulaski got away!
+VCR2_AA	3CF24E80	Hey Eddie! You know Tenpenny gonna rub you out too!
+VCR2_AB	A5FB1F3A	Carl, you got it all wrong, pal!
+VCR2_AC	D2FC2FAC	Tenpenny was the one saving your ass!
+VCR2_AD	4C98BA0F	Every time I wanted to get rid of you he'd find some excuse to keep you alive!
+VCR2_AE	3B9F8A99	Well, now it's up to me, and I ain't such a fucking soft touch!
+VCR2_BA	17DF1D43	So how's your sister?
+VCR2_BB	8ED64CF9	I always had a thing for her.
+VCR2_BC	F9D17C6F	Tenpenny and I got some great shots of her and her varrio boyfriend going at it like a couple of horny Chihuahuas.
+VCR2_BD	67B5E9CC	going at it like two horny Chihuahuas.
+VCR2_BE	10B2D95A	Man, does she put out like a pro!
+VCR2_BF	89BB88E0	Screw you Pulaski!
+VCR2_BG	FEBCB876	I know what you're trying to do, and you ain't gonna crawl inside my head.
+VCR2_BH	6E03A5E7	I ain't kidding!
+VCR2_BJ	800DC4CB	It's the best stake-out I ever done!
+VCR2_CA	0EC42C02	Carl, you should have seen your moms before she was buried.
+VCR2_CB	97CD7DB8	She was a real mess - most her face was hanging off!
+VCR2_CC	E0CA4D2E	Don't fucking talk about my Moms!
+VCR2_CD	7EAED88D	The boys, you know, they fooled around with her at the scene, you know...
+VCR2_CE	09A9E81B	... touching her, joking around and shit.
+VCR2_CF	90A0B9A1	Fuck you, Pulaski, FUCK YOU!
+VCR2_CG	E7A78937	Heh heh heh!
+VCR2_DA	4185BAC5	Not feeling so fucking full of yourself now, huh?
+VCR2_DB	D88CEB7F	Yeah, well them's the breaks... fuck...
+VCR2_DC	AF8BDBE9	Any last requests?
+VCR2_DD	31EF4E4A	Yeah... can I fuck your sister?
+VCR2_DE	46E87EDC	You a asshole to the end. Punk motherfucker!

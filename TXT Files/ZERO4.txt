@@ -1,0 +1,122 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	CAA07697	Press ~m~~widget_vehicle_turret_right~ to rotate the helicopter clockwise.
+	53A9272D	Press ~m~~widget_vehicle_turret_left~ to rotate the helicopter counter-clockwise.
+	650D5E9D	Press ~m~~widget_magnet~ to drop object.
+	2A4CC85A	Press ~m~~widget_magnet~ to pick up object.
+	9EB54B55	Press and hold the lower right corner of the screen to increase the rotor speed of the helicopter. This will propel it upwards.
+Z4_H1	3AA91CC4	Your Goblin helicopter is fitted with a magnet which can pick up objects.
+Z4_H10	BAEA9F19	Pick up a ~b~Bomb ~w~from your base and drop it on Berkley's ~r~Tigers ~w~to destroy them.
+Z4_H11	CDEDAF8F	Other objects can also be dropped on ~r~Tigers ~w~which will cause them damage.
+Z4_H12	54E4FE35	If the ~b~Bandit ~w~gets destroyed another will start from your base, be careful as you only have 3 ~b~Bandits~w~.
+Z4_H13	23E3CEA3	Tap ~m~~widget_magnet~ to pick up object.
+Z4_H14	BD875B00	Tap ~m~~widget_magnet~ to drop object.
+Z4_H17	248E0ABA	Press and hold ~m~~widget_accelerate~ to increase the rotor speed of the helicopter. This will propel it upwards.
+Z4_H18	B431172B	Use the steering controls to tilt the helicopter in the direction you wish to maneuver it.
+Z4_H19	C33627BD	Tap ~m~~widget_vehicle_turret_left~ to rotate the helicopter counter-clockwise.
+Z4_H20	91C7CCDA	Tap ~m~~widget_vehicle_turret_right~ to rotate the helicopter clockwise.
+Z4_H21	E6C0FC4C	Press and hold ~m~~widget_brake~ to decrease the rotor speed of the helicopter this will bring it down towards the ground.
+Z4_H22	7FC9ADF6	Use the camera movement controls to look around the helicopter.
+Z4_H4	4AC3E84B	Berkley's ~r~Goblin~w~ will constantly try and block the path of your ~b~Bandit~w~.
+Z4_H5	3DC4D8DD	You must remove any obstructions before your ~b~Bandit ~w~can continue.
+Z4_H8	4375A460	When the ~b~Bandit ~w~gets to a river you must lift a plank from your base using the ~b~Goblin ~w~and place it over the river.
+Z4_H9	347294F6	If your ~b~Bandit ~w~takes damage from Berkley's ~r~Tigers ~w~ it will reverse until it is safe.
+Z4_M01	D23D5C25	~s~This is the RC battlefield.
+Z4_M02	4B340D9F	~s~To win you must safely escort the RC Bandit to Berkley's base.
+Z4_M03	3C333D09	~s~There are a few challenges along the way. You must use a RC Goblin to help clear a path for your Bandit.
+Z4_M06	4C59C986	Bandit
+Z4_M11	CB266D64	Timer
+Z4_M12	522F3CDE	~r~You ran out of time.
+Z4_M13	25280C48	~r~All your Goblins are destroyed.
+Z4_M14	BB4C99EB	~s~You have 2 Goblins remaining.
+Z4_M15	CC4BA97D	~r~All your Bandits have been destroyed.
+Z4_M16	5542F8C7	~s~You have 2 Bandits remaining.
+Z4_M18	B2FAD5C0	~s~Your ~b~Bandit~s~ is obstructed by a barrel. Lift the barrel to allow the ~b~Bandit~s~ to continue.
+Z4_M19	C5FDE556	~s~Your ~b~Bandit~s~ is taking damage from a ~r~tank~s~! Use the bombs at your base to attack!
+Z4_M20	970C0E31	~s~Get a plank from your base.
+Z4_M21	E00B3EA7	~s~Drop the plank at the river crossing.
+Z4_M22	79026F1D	~s~This is your last Bandit.
+Z4_M23	0E055F8B	~s~This is your last Goblin.
+Z4_M25	E766FABE	~s~Your Bandit is obstructed by a ~r~RC TIGER~s~. Destroy or lift the tank to allow the Bandit to continue.
+Z4_M26	7E6FAB04	~s~Pick up a ~g~Bomb~s~ from the base.
+Z4_M27	09689B92	~s~Now drop the bomb on ~r~Berkley's Tigers~s~
+Z4_M28	99D78603	~s~Pick up a ~g~plank~s~ from the base.
+Z4_M29	EED0B695	~s~Drop the plank at the river to bridge the gap.
+ZER4@00	0E3C7565	What's happening, Zero?
+ZER4@01	793B45F3	I'm off to engage with destiny, good or bad.
+ZER4@02	E0321449	What the hell are you talking about now?
+ZER4@03	973524DF	The hour of judgment is upon me
+ZER4@04	0951B17C	and I must ask myself if I am a sheep or a goat.
+ZER4@05	7E5681EA	Carl, will you be my second?
+ZER4@06	E75FD050	Here are some letters.
+ZER4@07	9058E0C6	I have left everything to you in case I don't make it. Please.
+ZER4@08	00E7FD57	I already own it. What's wrong with you, man?
+ZER4@09	77E0CDC1	We are crossing the Rubicon.
+ZER4@10	17274424	I am to engage in battle with Berkley.
+ZER4@11	602074B2	At stake, honor and our very lives.
+ZER4@12	F9292508	It's funny... I've never noticed before
+ZER4@13	8E2E159E	how beautiful this time of year can be...
+ZER4@14	104A803D	I may never again see Rome in the springtime.
+ZER4@15	674DB0AB	C'mon with all the talking, man - is you going to battle Berkley or what?
+ZER4@16	FE44E111	It's a fight to the death! Come hither!
+ZER4@17	8943D187	A butterfly...
+ZER4_AA	08609835	Behold, No Man's Land!
+ZER4_AB	9169C98F	Man, y'all take this shit seriously.
+ZER4_AC	E66EF919	Berkley's HQ is across No Man's Land.
+ZER4_AD	780A6CBA	I'll drive the Bandit, you fly the Goblin and help any way you can!
+ZER4_AE	0F0D5C2C	If I get the Bandit into Berkley's base, he must leave San Fierro for good!
+ZER4_AF	96040D96	LET BATTLE COMMENCE!
+ZER4_BA	234DCBF6	Berkley's trying to stop my progress with obstacles!
+ZER4_BB	BA449A4C	Curse you and your blocking tactics, Berkley!
+ZER4_BC	CD43AADA	My way is blocked! All will be lost!
+ZER4_CA	3A56FAB7	Carl, don't be an idiot, use the Goblin to move that barrel!
+ZER4_CB	A35FAB0D	Move the barrel with the Goblin's magnet, Carl!
+ZER4_CC	D4589B9B	Use the Goblin to remove the obstacle!
+ZER4_DA	75176C70	Carl, move that obstruction!
+ZER4_DB	EC1E3DCA	Carl, I'm blocked!
+ZER4_DC	9B190D5C	There's another cursed barrel in the way!
+ZER4_DD	057D98FF	Move it, Carl, Berkley's blocked me again!
+ZER4_DE	727AA869	Curse you, Berkley! Carl, move that barrel!
+ZER4_EA	6C0C5D31	Berkley's using tanks!
+ZER4_EB	F5050C8B	Carl, grab a bomb and get rid of any tanks that threaten our progress!
+ZER4_FA	47210EF2	I'm taking hits, Carl, bomb Berkley's tanks!
+ZER4_FB	DE285F48	Bomb that tank, Carl!
+ZER4_FC	A92F6FDE	Carl, Berkley's tanks are tearing the Bandit to pieces!
+ZER4_FD	374BFA7D	Argh! Where's my backup, Carl!
+ZER4_FE	404CCAEB	Protect the Bandit, Carl, it's getting shot up!
+ZER4_FF	D9459B51	Bomb those tanks! Bomb them, Carl!
+ZER4_GA	5E3A3FB3	Get a plank from our base and make a bridge across that gap!
+ZER4_HA	D9A2237C	Carl, I need a bridge, now!
+ZER4_HB	40AB72C6	Get me a plank to cross that river!
+ZER4_HC	37AC4250	Carl, there's no bridge, there's no bridge!
+ZER4_JA	EB9441FE	Berkley's dropping barrels all along the track!
+ZER4_JB	729D1044	Another obstruction! Damn you Berkley!
+ZER4_JC	059A20D2	He's dropping barrels in my way!
+ZER4_JD	9BFEB571	Get out of my way, Berkley!
+ZER4_JE	ECF985E7	Carl, move those barrels!
+ZER4_JF	75F0D45D	Get those barrels out the way, Carl!
+ZER4_KA	F28F70BF	Shite, Carl, this bandit's nearly had it!
+ZER4_KB	6B862105	Shitskys! This bandit's nearly had it.
+ZER4_KC	1C811193	Oh my God, Berkley's shot this bandit up pretty good!
+ZER4_LA	BDCEE678	He nailed me, he nailed me.
+ZER4_LB	24C7B7C2	You let Berkley blow up my Bandit!
+ZER4_LC	53C08754	Carl, who's side are you on?
+ZER4_LD	CDA412F7	Damn you Berkley! Damn you to hell!
+ZER4_MA	A4D5D739	Ha, ha Berkley! I still have two bandits left!
+ZER4_MB	3DDC8683	Luckily we still have two bandits left!
+ZER4_MC	4ADBB615	Carl, we're down to our last bandit!
+ZER4_MD	D4BF23B6	Only one Bandit left, Carl, protect it at all costs!
+ZER4_NA	8FF884FA	Failure... I only hope you are happy, Carl...I for one, am not.
+ZER4_NB	16F1D540	Berkley, this is not the end of this, DO YOU HEAR ME?
+ZER4_NC	61F6E5D6	It's always one lazy soldier who lets the whole side down...isn't it, Carl?
+ZER4_OA	96E3B5BB	Ha ha! HA!
+ZER4_OB	0FEAE401	Berkley, you sir, are a loser.
+ZER4_OC	78EDD497	Leave the field of battle in shame,
+ZER4_OD	E6894134	pack up your crummy mail order model business
+ZER4_OE	918E71A2	and GET OUT OF MY TOWN!
+ZER4_OF	08872018	Carl, you were all a duelist like me could want in a second.
+ZER4_OG	7F80108E	Sir, I salute you!

@@ -1,0 +1,134 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	FBF9E1C1	Holding ~m~~widget_gang_hold~ for a few seconds while nobody is targeted, or moving too far away from them will disband your group.
+	62F0B07B	Tap ~m~~widget_gang_follow~ to instruct your gang to follow you or ~m~~widget_gang_hold~ to instruct them to stay in position.
+	8E96CE07	Target a gang member and press ~m~~widget_gang_recruit~ to recruit him to your group.
+	2F5F76CA	Press ~m~~widget_gang_follow~ to instruct your gang to follow you or ~m~~widget_gang_hold~ to instruct them to stay in position.
+SWE7_AA	13939A0A	We're gonna need some allies.
+SWE7_AB	8A9ACBB0	Yeah I'm gonna call up the homies and get us a little crew.
+SWE7_AC	FD9DFB26	But I warned you about putting time in for the homies.
+SWE7_AD	63F96E85	You ain't got enough stripes to rally up the troops.
+SWE7_AE	14FE5E13	What can I do about that now?
+SWE7_AF	8DF70FA9	Head over to Ballas' hood, and put some work in.
+SWE7_AG	FAF03F3F	Bad news travels fast.
+SWE7_AH	6A4F22AE	I'll be waiting for you back here.
+SWE7_BA	38BEC9C9	Cool, we'll take my ride.
+SWE7_BB	A1B79873	Hey, where to?
+SWE7_BC	D6B0A8E5	Just along the block up there by the bridge.
+SWE7_BD	48D43D46	I know a couple of Grove Streets we can bring along.
+SWE7_BE	3FD30DD0	A Grove posse? Man, you know I'm down with that.
+SWE7_CA	21A5F888	Get out and muster up the troops, CJ!
+SWE7_CB	B8ACA932	There they go - get out and bring them along.
+SWE7_CC	CFAB99A4	There they are, go get 'em!
+SWE7_DA	6EE46E4F	CJ, you been hitting Ryder's wet stick?
+SWE7_DB	F7ED3FF5	What the fuck you doing, CJ?
+SWE7_DC	80EA0F63	Oh, CJ, you such a asshole!
+SWE7_DD	1E8E9AC0	Tell those guys to beat it - I got two OGs in mind.
+SWE7_DE	6989AA56	I told you I had two Gs in mind - tell these fools to roll!
+SWE7_EA	77FF5F0E	OK, let's cut corners - we got a couple of homies to meet up with.
+SWE7_EB	EEF60EB4	We'll go around back of Los Sepulcros and sneak over the wall.
+SWE7_EC	99F13E22	C'mon, CJ, we gotta get in position before the funeral starts.
+SWE7_ED	0795AB81	Get a move on, CJ, we gonna be late!
+SWE7_EE	70929B17	We got get there early, CJ!
+SWE7_EF	E99BCAAD	We missed the damn funeral!
+SWE7_EG	9E9CFA3B	Too late, man, the funeral's over.
+SWE7_EH	0E23E7AA	This is it.
+SWE7_EJ	E02D8686	Carl, you stay put while we hop over the wall and check it out.
+SWE7_EK	972AB610	OK, CJ, come on over!
+SWE7_FA	5CD20CCD	Y'all know CJ, right?
+SWE7_FB	C5DB5D77	These two boys been watching Front Yard Ballas set things up.
+SWE7_GA	45C93D8C	Y'all take up positions, and wait for Kane.
+SWE7_GB	DCC06C36	Kane? Ain't that cat front yard royalty?
+SWE7_GC	ABC75CA0	Yeah, so if there's a hint of trouble, he's a no-show.
+SWE7_HA	C2512143	CJ. you fool, Kane won't show now!
+SWE7_HB	5B5870F9	Aw, man, Kane ain't gonna show now.
+SWE7_HC	2C5F406F	You blew the ambush, CJ, you buster!
+SWE7_JA	F06743C1	Here he comes...
+SWE7_JB	696E127B	Looks like that buster's wearing armor.
+SWE7_JC	1E6922ED	Might take a round or two to drop his ass.
+SWE7_KA	E97C7280	OK, CJ, you take Kane, and we'll take the rest of these fools out.
+SWE7_KB	7075233A	You take Kane, CJ - we got the small fry.
+SWE7_KC	077213AC	CJ, you take care of Kane - you guys, take care of these other marks!
+SWE7_LA	A63DE447	Kane's headed for that Ballas car!
+SWE7_LB	3F34B5FD	There's a Ballas car coming to bail out Kane!
+SWE7_LC	4833856B	Kane's bailing!
+SWE7_MA	BF26D506	C'mon, we'll take that car over there!
+SWE7_MB	262F84BC	C'mon, let's use this car!
+SWE7_MC	5128B42A	We can take this car!
+SWE7_MD	CF4C2189	Get that ride for us, CJ!
+SWE7_NA	940B86C5	OK, I've busted in, c'mon!
+SWE7_NB	0D02D77F	C'mon, CJ, I've busted into this bucket!
+SWE7_OA	8D10B784	Smash, CJ, smash! We gotta catch him before he reaches the Front Yard set!
+SWE7_OB	1419E63E	Stamp it, CJ, we gotta get after that fool before he gets home!
+SWE7_PA	404AB91A	Get me close, CJ!
+SWE7_PB	D943E8A0	Keep it steady!
+SWE7_PC	AE44D836	Get me alongside!
+SWE7_PD	30204D95	Get alongside so I can blast this fool!
+SWE7_QA	5951885B	Aw, shit, he's safe and sound now.
+SWE7_QB	C058D9E1	Aw, shit, he done made it to the pizzad.
+SWE7_QC	B75FE977	Aw fuck! He outran us, FUCK!
+SWE7_RA	727CDB98	Eat that you Front Yard FOOL!
+SWE7_RB	EB758A22	Nobody messes with GROVE STREET!
+SWE7_RC	9C72BAB4	C'mon, let's bail back to Ganton!
+SWE7_SA	6B67EAD9	Nice one, CJ!
+SWE7_SB	F26EBB63	I'll get us a getaway car, you guys take out the rest of those Ballas!
+SWE7_SC	85698BF5	OK, everybody in, let's roll!
+SWE7_TA	24267C1E	Man, we was a force back there.
+SWE7_TB	BD2F2DA4	Everybody go home, stay low, we ain't seen each other all day, copy?
+SWE7_TC	CA281D32	I'll catch you later, Carl.
+SWE7A00	140D1D6D	Carl, whassup, baby brother?
+SWE7A01	630A2DFB	What's happening.
+SWE7A02	FA037C41	Peep this - Tenpenny just came by.
+SWE7A03	8D044CD7	Said that one of them Ballas that you and Smoke
+SWE7A04	1360D974	laid out, Little Weasel, is getting buried.
+SWE7A05	6467E9E2	And all the OG's gonna be there.
+SWE7A06	FD6EB858	At a funeral?
+SWE7A07	8A6988CE	Yeah, we just catch all those ball-sack-ass-niggas at one time!
+SWE7A08	1AD6955F	At a funeral.
+SWE7A09	6DD1A5C9	Just like Momma's. Let's go pop these motherfuckers out.
+SWE7A10	0D162C2C	Hey, look, we gotta go do something real big.
+SWE7A11	7A111CBA	Put Grove Street on the map for good. 4 life!
+SWE7A12	E3184D00	A'ight, nigga. Let's roll.
+TWAR610	6077CD86	~s~Join Sweet in that ~b~car~s~. You need to pick up some help for the hit.
+TWAR611	1770FD10	~s~You need help on this hit but before you can recruit gang members you need to be respected.
+TWAR612	8E79ACAA	~s~Get to Ballas territory and take out some tough ~r~gang members~s~ to earn respect.
+TWAR615	101D3909	~s~Good. Your respect is increasing, keep taking out enemy gang members.
+TWAR617	FE135825	~s~You've earned enough respect. Join Sweet back at his ~b~car~s~ now.
+TWAR618	6EAC45B4	~r~Getting rough with Sweet won't earn you any respect!
+TWAR619	19AB7522	~r~The funeral will be over! Kane's going to survive another day!
+TWAR620	4B5A9E45	Time
+TWAR625	3B306ACA	~r~You've started trouble too early! Kane won't arrive now!
+TWAR626	A2393B70	~r~Kane's~s~ making a dash for that vehicle! Get him!
+TWAR627	D53E0BE6	~r~Too late! Kane's in his own neighborhood! It's not safe to continue the pursuit!
+TWAR628	45811677	~s~Kane's dead! Take out the rest of his ~r~men~s~ now!
+TWAR629	328626E1	~s~Kane is getting away! Follow ~b~Sweet~s~, he's going to hijack that car!
+TWAR630	5241AF04	~s~Get in Sweet's ~b~car~s~. You need to get to the cemetery before the funeral's over.
+TWAR631	25469F92	~s~Everybody's in. Drive to the back of the ~y~cemetery~s~ before Kane arrives.
+TWAR632	BC4FCE28	~s~Get yourself and those gang members back in the ~b~car~s~ quickly.
+TWAR633	CB48FEBE	~r~You've wrecked Sweet's car and the job hasn't been done!
+TWAR635	222B5B8B	~s~Climb over the wall and approach ~b~Sweet~s~ and his men.
+TWAR636	BB220A31	~s~Kill ~r~Kane~s~, don't let him get away!
+TWAR638	5C9A2736	~r~Sweet's been killed! That wasn't part of the plan!
+TWAR640	1D0039C3	~s~Sweet's hot-wired that ~b~car~s~! Get in!
+TWAR641	6A070955	~s~Follow ~r~Kane~s~ and kill him!
+TWAR643	84096879	~s~It will be harder to catch Kane on foot! Get back in the ~b~vehicle~s~ now!
+TWAR644	1A6DFDDA	~s~Get in the ~b~car~s~ and drive Sweet back home!
+TWAR645	6D6ACD4C	~s~Get in the ~b~car~s~ and drive!
+TWAR646	F4639CF6	~s~Kane's dead, get Sweet back ~y~home~s~ safely!
+TWAR647	8364AC60	~s~Get Sweet safely back ~y~home~s~ now!
+TWAR648	13DBB1F1	~r~That car could have been useful! There was no need to destroy it!
+TWAR649	64DC8167	~s~Drive the car near ~r~Kane~s~ so Sweet has a clear shot!
+TWAR650	041B0882	~s~Drive to the nearby Grove Street ~y~hangout~s~ to find some help.
+TWAR652	EA1569AE	~s~Get those ~b~gang members~s~ to join you. They respect you enough to provide help.
+TWAR654	0376CC9B	~s~Get in the ~b~car~s~ with your gang and take them to the funeral.
+TWAR656	ED78ADB7	The higher the respect you have with a gang the more members you can recruit to your group.
+TWAR658	0AC080B0	~r~The job isn't going to be any easier short-handed!
+TWAR659	7DC7B026	~s~You've got two gang members in your group now but not the men wanted for the job! Pick the right two this time!
+TWAR660	2F365B41	Tap on a gang member to target him and tap ~m~~widget_gang_recruit~ to recruit him to your group.
+TWAR664	285B9F58	~r~Sweet's car is ablaze and he's too smart to get back in!
+TWAR800	73F2D1CD	You command enough respect to recruit gang members to your group.
+TWAR801	04F5E15B	Get your gang to follow you by tapping ~m~~widget_gang_follow~.

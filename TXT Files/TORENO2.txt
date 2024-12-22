@@ -1,0 +1,98 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+DES2@00	21D6E49A	Hey, what the fuck, man! Hey, Toreno, I told you my bad, man.
+DES2@01	56D1D40C	- What the hell can I say? I screwed you over.~n~- Calm down, kid.
+DES2@02	CFD885B6	Calm down, kid.
+DES2@03	B8DFB520	- Just go ahead and kill me then.~n~- Calm down!
+DES2@04	26BB2083	- Man, you ain't nothin' but a fucking yayo dealer anyway, Toreno.~n~- Shut up and sit down!
+DES2@05	51BC1015	Shut up and sit down.
+DES2@06	C8B541AF	What, you think I'm a drug dealer?
+DES2@07	BFB27139	You think you're a crusader for good?
+DES2@08	2F0D6CA8	Do you have any idea what's going on? Any idea whatsoever? Do you? DO YOU?
+DES2@09	580A5C3E	No. I pay as little attention to things as possible.
+DES2@10	38CDD5DB	Do not be a fucking smartass with me.
+DES2@11	4FCAE54D	I work for a government agency. It is not important which one.
+DES2@12	D6C3B4F7	I will try not to confuse you.
+DES2@13	A1C48461	Yes, when we last met, I was involved in battling threats in Latin America,
+DES2@14	3FA011C2	BY ANY MEANS NECESSARY.
+DES2@15	48A72154	That does not make me a drug dealer.
+DES2@16	D1AE70EE	Now, the money that we raised, the friends that we won over,
+DES2@17	A6A94078	have helped us immeasurably in our overseas interests.
+DES2@18	36165DE9	Government agency?
+DES2@19	41116D7F	Kids like you. You expect heroes.
+DES2@20	13E08618	We're fighting a war out there.
+DES2@21	64E7B68E	I'll be a hero and I'll lose, and what'll we have?
+DES2@22	FDEEE734	Communism in Ohio. People sharing. Nobody buying stuff.
+DES2@23	8AE9D7A2	That kind of bullshit.
+DES2@24	148D4201	So relax, and listen.
+DES2@25	638A7297	Alright, alright, I'm listening.
+DES2@26	FA83232D	I know what kind of a guy you are.
+DES2@27	8D8413BB	I need a guy like you.
+DES2@28	1D3B0E2A	To do things I can't get caught doing.
+DES2@29	6A3C3EBC	Like what?
+DES2@30	0AFBB759	I need you to commandeer a truck.
+DES2@31	7DFC87CF	A rival agency, with a confused social agenda.
+DES2@32	E4F5D675	They got things that we need.
+DES2@33	93F2E6E3	Now this is a two-man job. You'll need a friend.
+DES2@34	0D967340	Use your sister's boyfriend, but don't tell him a thing.
+DES2@35	7A9143D6	Remember. I'll be watching you.
+DES2@36	E398126C	Hey, Carl.
+DES2@37	949F22FA	Calm down.
+DES2_AA	278A09CA	I got here as fast as I could, CJ.
+DES2_AB	BE835870	Yeah, you sure did. How you know I needed help?
+DES2_AC	C98468E6	Man, you losing it, holmes.
+DES2_AD	57E0FD45	You phoned me a half an hour ago, man!
+DES2_AE	20E7CDD3	I did? I mean, oh yeah, I did.
+DES2_AF	B9EE9C69	Sorry man, I got a whole lot on my mind.
+DES2_BA	0CA75A09	We need to 'jack a truck on the freeway.
+DES2_BB	95AE0BB3	It's headed to San Fierro.
+DES2_BC	E2A93B25	We can get on the freeway here, holmes.
+DES2_CA	15BC6B48	Man, you crazy, this is the rail bridge!
+DES2_CB	8CB53AF2	The road bridge is over there!
+DES2_CC	FBB20A64	We jacking a train, holmes?
+DES2_DA	5AFDFD8F	You missed the turnpike, holmes!
+DES2_DB	C3F4AC35	The freeway's back there!
+DES2_DC	B4F39CA3	Dude, you missed the turn!
+DES2_EA	43E6CCCE	There's the rig up ahead!
+DES2_EB	DAEF9D74	What's the plan?
+DES2_EC	ADE8ADE2	I'm gonna pull alongside and you're gonna hop on board!
+DES2_ED	338C3841	Oh shit, you did not mention that on the phone.
+DES2_EE	448B08D7	It'll be a walk in the park!
+DES2_EF	DD82596D	Tell Kendl I love her!
+DES2_FA	68CB9F0D	Closer, CJ, closer!
+DES2_FB	F1C2CEB7	Just a little closer!
+DES2_FC	86C5FE21	What do you think, I'm a Mexican jumping bean? Closer!
+DES2_GA	71D0AE4C	Hold her steady, CJ!
+DES2_GB	E8D9FFF6	Steady... steady!
+DES2_GC	9FDECF60	Just let me get my balance!
+DES2_HA	F648B283	Speed up, CJ!
+DES2_HB	6F41E339	Match the truck's speed!
+DES2_HC	1846D3AF	Keep level, CJ, keep it level!
+DES2_JA	C47ED001	Slow down, CJ!
+DES2_JB	5D7781BB	Just a bit slower!
+DES2_JC	2A70B12D	Calm it down, CJ, you're too fast!
+DES2_KA	DD65E140	OK, CJ, let's get this rig back to the garage!
+DES2_KB	446CB0FA	Where we going to take this thing?
+DES2_KC	336B806C	There's a hauling firm over in Whetstone county. We can take it there and get some money for it.
+DES2_KD	AD0F15CF	We can take it there and get some cash for it.
+DES2_KE	DA082559	OK, Drop me off and I'll make my own way back to the garage.
+DES2_LA	92247787	See you later, holmes!
+HOLD_1	BD399AFD	Hold this position!
+TOR1_01	A83B09B7	~s~You need to use that ~b~bike~s~ in order to get Cesar close enough to the truck.
+TOR1_02	3132580D	~r~The bike has been destroyed.
+TOR1_03	4635689B	~r~Cesar has been killed.
+TOR1_04	D851FD38	~s~The ~r~truck~s~ is coming from Las Venturas and going to Foster Valley along the Garver Bridge.
+TOR1_05	AF56CDAE	~s~Catch up to the ~r~truck~s~.
+TOR1_06	365F9C14	~s~Drive the truck back to the ~y~garage~s~.
+TOR1_10	C6270860	~s~Pull up to the left hand side of the ~r~truck~s~ and hold the bike in position until Cesar is ready to jump.
+TOR1_11	B12038F6	~s~Get into the ~b~truck~s~ and drive it back to the garage.
+TOR1_12	2829694C	~r~You failed to steal the truck!
+TOR1_13	5F2E59DA	~s~You have left ~b~Cesar~s~ behind.
+TOR1_14	C14ACC79	~r~The transport has been destroyed.
+TOR1_16	2F44AD55	~s~Pick up Cesar then catch up to the ~r~truck~s~.
+TOR1_20	ED0A5BA3	~s~Get on the ~b~bike~s~.
+TOR1_21	9A0D6B35	~s~Reconnect to the ~b~tanker~s~.

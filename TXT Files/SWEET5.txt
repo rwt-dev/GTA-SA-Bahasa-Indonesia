@@ -1,0 +1,81 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	A76292F0	Use low walls and objects for cover. Press ~m~~widget_explicit_crouch~ to crouch.
+	2E041003	Use low walls and objects for cover. Double tap the lower left corner of the screen to crouch.
+MSWE01A	08416691	Hey Sweet, I was just looking for you man, wassup?
+MSWE01B	9148372B	I been with some girl and now I'm stuck.
+MSWE01C	E64F07BD	I ain't about to come help prise you two apart!
+MSWE01D	782B921E	No, CJ, that ain't what I meant.
+MSWE01E	0F2CA288	She's Seville Boulevard Familes,
+MSWE01F	9625F332	And we ain't cool no more..
+MSWE01G	E122C3A4	They all over the streets outside her house and I ain't heated!
+MSWE01H	719DDE35	Yo' dick still dropping you in it, Bro!
+MSWE01J	9F93BF19	I'll see what I can do.
+MSWE01K	E8948F8F	Be ready to run when I holla, alright?
+MSWE01L	76F01A2C	That's my nigga! I'll be ready!
+MSWE01M	01F72ABA	Oh, and swing by Emmet's, you might need a nine!
+SW5_14	09E8A5C7	~s~Fetch a four door car to ~y~pick up~s~ Sweet and his girl.
+SW5_16	E7E6C4EB	Sweet needs a getaway car, not one of these!
+SW5_17	90E1F47D	~s~Get over to ~g~Emmet's~s~ if you need a piece.
+SW5_A1	56BD28BE	~S~Wait for Sweet and his Ho' to get into the vehicle.
+SW5_A2	CFB47904	~S~Get over to ~r~Sweet~s~ before the Seville Boulevard set finish him off.
+SW5_A3	B8B34992	SWEET
+SW5_C	E0E2FC28	~s~Take out the ~r~Seville boys~s~ pinning Sweet down.
+SW5_E	0981591D	~s~Get a car ~y~outside~s~ the apartment.
+SW5_G	E78F3831	~s~Get a four door car.
+SW5_I	00371536	~s~Get back to your ~y~hood~s~.
+SW5_J	993E448C	~s~The Seville Boulevard Families have Sweet surrounded in his girl's flat. Take those ~r~Seville boys~s~ out!
+SW5_L	705DE1B9	~r~Sweet died!
+SW5_M	075AD12F	~r~Sweet's girlfriend died!
+SW5_P	645CBDF6	~S~Phone ringing.
+SW5_T	633179EF	~s~You left ~b~Sweet~s~ behind! Go back and get him.
+SW5_U	14364979	~s~You left ~b~Sweet's girlfriend~s~ behind! Go back and get her.
+SWE5_AA	B99A5281	Cover my girl, CJ!
+SWE5_AB	2093033B	Keep their heads down, my girl's coming out!
+SWE5_AC	579433AD	Hurry it up, CJ, we gotta move!
+SWE5_AD	C9F0A60E	CJ, get in this damn car and roll!
+SWE5_AE	BEF79698	CJ, there's some heat in my car!
+SWE5_AF	27FEC722	CJ, there's a piece in the trunk of my car!
+SWE5_BA	92B70142	Where we goin' then?
+SWE5_BB	0BBE50F8	She should hang out at our place, until those Seville fools calm down.
+SWE5_BC	7CB9606E	Just want to make things clear, though, we ain't no item or nothing like that - nothing like that, baby.
+SWE5_BD	E2DDF5CD	And what was last night, huh?
+SWE5_BE	95DAC55B	And what's with all the, "Girl, you're somethin' special!"
+SWE5_BF	0CD394E1	And, "C'mon, girl, you know I love you!"
+SWE5_BG	7BD4A477	Well I do, just don't think there's no wedding bells around the corner, that's all.
+SWE5_BH	EB6BB9E6	We will talk about this in private, Sweet Johnson!
+SWE5_BI	9C6C8970	You in trouble now, Sweet.
+SWE5_BJ	0565D8CA	Eyes on the road, motherfucker!
+SWE5_CA	8BAC3003	We got Seville on our tail, CJ!
+SWE5_CB	12A561B9	Pick it up, CJ, we ain't givin' up!
+SWE5_CC	65A2512F	Seville Families on our case, nigga!
+SWE5_DA	C4EDA6C4	Shit, they're trying to ram us!
+SWE5_DB	5DE4F77E	CJ, they're trying to ram us!
+SWE5_EA	DDF69785	I'll see you inside, baby.
+SWE5_EB	44FFC63F	Man, this set tripping is killing the Families.
+SWE5_EC	33F8F6A9	You did good back there!
+SWE5_ED	AD9C630A	Hey, I'm a Johnson boy!
+SWE5_EE	DA9B539C	Hey, I got unfinished business. Big love.
+SWE5_EF	43920226	Big love, bro, big love.
+SWE5_FA	F6DBC446	That's my brother!
+SWE5_FB	6FD295FC	Get a car and we'll meet you out front!
+SWE5_GA	EFC0F507	Don't worry, girl, I don't drive as bad as CJ!
+SWE5_GB	76C9A4BD	She's got a sister, CJ, you want her number?
+SWE5_GC	01CE942B	Man, Seville Families gone too far this time!
+SWE5_GD	9FAA0188	Seville trying to start a war or something!
+SWE5_GE	E8AD311E	Yo' dick getting us both in trouble again, Sweet!
+SWE5_GF	71A460A4	Shit is crazy, bro! We gotta bring the Families back together!
+SWE5_GG	06A35032	Green blasting on green ain't no way to run the Families!
+SWE5_GH	961C4DA3	This wasn't the 'good time' I was thinking about, Sweet!
+SWE5_GJ	78122C8F	You better make this up to me, Sweet!
+SWE5_GK	0F151C19	I can't never go back home now!
+SWE5_GL	917189BA	Sweet, we gotta go back for my stuff!
+SWE5A00	BE04D5E6	Yo, Sweet!
+SWE5A01	C903E570	Sweet, Smoke?
+SWE5A02	500AB4CA	Shit, where all the homies at?
+SWE5A03	270D845C	...fuck they at? Damn!
+SWE5A04	B96911FF	Fuck it.

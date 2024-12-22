@@ -1,0 +1,82 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+TRK_CE0	91098A00	~s~Red County, East San Andreas
+TRK_CE1	E60EBA96	~s~Blueberry, Central San Andreas
+TRK_CE2	7F07EB2C	~s~Blueberry Acres, Central San Andreas
+TRK_CE3	0800DBBA	~s~Dillimore, East San Andreas
+TRK_CE4	96644E19	~s~Montgomery, East San Andreas
+TRK_CE5	E1637E8F	~s~Montgomery, East San Andreas
+TRK_CN0	72FD53CB	~s~El Quebrados, North West San Andreas
+TRK_CN1	05FA635D	~s~Bayside Marina, North West San Andreas
+TRK_CN2	9CF332E7	~s~Tierra Robada, North West San Andreas
+TRK_CS0	8D913FD7	~s~Whetstone, South San Andreas
+TRK_CS1	FA960F41	~s~Angel Pine, South San Andreas
+TRK_CS2	639F5EFB	~s~Whetstone, South San Andreas
+TRK_CSH	D34FC6D9	Cash
+TRK_DLN	F2397BF7	Deadline
+TRK_DMG	92FEF212	Damage
+TRK_F1	47F9D61E	~r~Out of cash
+TRK_F2	DEF087A4	~r~Out of time
+TRK_F3	A9F7B732	~r~Truck destroyed!
+TRK_F4	37932291	~r~Not in cab
+TRK_F5	40941207	~r~Trailer not attached
+TRK_H10	D60FD913	These goods are very hot and will attract a lot of police interest.
+TRK_H11	A108E985	You must deliver these fragile goods quickly and safely.
+TRK_H12	3801B83F	These goods are extremely fragile.
+TRK_H14	D1621D0A	The goods are late. Your cash has been halved.
+TRK_H15	A6652D9C	The goods are very late. Your cash has been halved again.
+TRK_H16	3F6C7C26	You are running out of time. Deliver the goods by the deadline to pass this mission.
+TRK_H17	486B4CB0	The next trucking mission will be available when you have access to Las Venturas.
+TRK_H18	D8D45121	The next trucking mission will be available when you have access to San Fierro.
+TRK_H1A	F10D98B9	~s~Transport goods to different destinations all across San Andreas.
+TRK_H4	A9100F1F	~s~You have ~1~ seconds to reattach the ~b~trailer~s~ to the cab.
+TRK_H4B	15733D46	~s~You have ~1~ second to reattach the ~b~trailer~s~ to the cab.
+TRK_H5	DE173F89	~s~You have ~1~ seconds to get back in the ~b~cab~s~.
+TRK_H5B	0C680C07	~s~You have ~1~ second to get back in the ~b~cab~s~.
+TRK_H6	471E6E33	This is a fragile load. Deliver the goods intact or lose cash for damages.
+TRK_H7	30195EA5	Deliver the goods as quickly as possible. If you are late you'll lose cash.
+TRK_H8	A0A64334	These goods are hot and will attract police interest.
+TRK_H9	D7A173A2	These goods are hot and will attract police interest.
+TRK_LS0	86CD78EA	~s~Ocean Docks, Los Santos
+TRK_LS1	F1CA487C	~s~Ocean Docks, Los Santos
+TRK_LS2	68C319C6	~s~Willowfield, Los Santos
+TRK_LS3	1FC42950	~s~El Corona, Los Santos
+TRK_MFD	E7D241EC	~s~Extremely fragile goods to ~a~
+TRK_MHI	07E010DF	~s~Highly illegal goods to ~a~
+TRK_MI	FAD3F6DB	~s~Illegal goods to ~a~
+TRK_MND	2F0BCBE4	~s~Goods must be delivered without damage to ~a~
+TRK_MNT	32BCDB80	~s~Goods must be delivered quickly to ~a~
+TRK_MSI	AED6DB45	~s~Slightly illegal goods to ~a~
+TRK_MTD	9F26313F	~s~Goods must be delivered quickly without damage to ~a~
+TRK_NC0	CF8BBED5	~s~Green Palms, North San Andreas
+TRK_NC1	B88C8E43	~s~Bone County, North San Andreas
+TRK_NC2	2185DFF9	~s~Bone County, North San Andreas
+TRK_NC3	5682EF6F	~s~The Sherman Dam, North San Andreas
+TRK_NC4	C8E67ACC	~s~Verdant Meadows, North San Andreas
+TRK_P1	5B6163C9	~s~You've completed your first trucking mission. Return to the depot at any time for more.
+TRK_P2	C2683273	~s~All future missions will be of variable distance, difficulty, and reward.
+TRK_P3	B56F02E5	~s~~1~ trucking missions complete.
+TRK_P4	2B0B9746	Trucking Complete!
+TRK_SF0	A6027AB3	~s~Easter Bay Airport, San Fierro
+TRK_SF1	D1054A25	~s~Battery Point, San Fierro
+TRK_SF2	480C1B9F	~s~Easter Basin, San Fierro
+TRK_SF3	3F0B2B09	~s~Easter Basin, San Fierro
+TRK_TIM	0A617D78	Deliver by
+TRK_V0	7A3CF4D9	~s~Redsands West, Las Venturas
+TRK_V1	0D3BC44F	~s~Whitewood Estates, Las Venturas
+TRK_V10	C0B75769	~s~Randolph Ind. Est., Las Venturas
+TRK_V11	B7B067FF	~s~LVA Freight depot, Las Venturas
+TRK_V12	2EB93645	~s~Las Venturas Airport, Las Venturas
+TRK_V13	59BE06D3	~s~Redsands West, Las Venturas
+TRK_V2	943295F5	~s~Whitewood Estates, Las Venturas
+TRK_V3	E335A563	~s~Las Venturas Airport Depot, Las Venturas
+TRK_V4	7D5130C0	~s~Starfish Casino, Las Venturas
+TRK_V5	0A560056	~s~Creek, Las Venturas
+TRK_V6	935F51EC	~s~Spinybed, Las Venturas
+TRK_V7	E458617A	~s~Pilgrim, Las Venturas
+TRK_V8	74E77CEB	~s~Rockshore East, Las Venturas
+TRK_V9	03E04C7D	~s~Rockshore East, Las Venturas

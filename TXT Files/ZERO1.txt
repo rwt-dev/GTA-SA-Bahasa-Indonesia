@@ -1,0 +1,72 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+ZER1@00	39E28557	Hey, whattup, Zee?
+ZER1@01	4EE5B5C1	Nothing is up, Carl, apart from my blood pressure,
+ZER1@02	D7ECE47B	and the imminent collapse of my hopes and dreams.
+ZER1@03	A0EBD4ED	Why?
+ZER1@04	3E8F414E	As usual, the forces of darkness have triumphed over good.
+ZER1@05	498871D8	Life is nothing but misery, briefly interspersed with agony.
+ZER1@06	D0812062	Homie, what you on? Whatever it is, you need to reduce the dosage.
+ZER1@07	A78610F4	Excuse me, but I never take drugs.
+ZER1@08	37390D65	We all know drugs are for losers, and/or sex maniacs.
+ZER1@09	403E3DF3	And right now, sex is the last thing on my mind.
+ZER1@10	20F9B416	Thank God for that!
+ZER1@11	57FE8480	Berkley is back!
+ZER1@12	CEF7D53A	Ooohhh. Berkley.
+ZER1@13	B9F0E5AC	Just a man I once beat in fair competition.
+ZER1@14	2794700F	A man literally obsessed with revenge.
+ZER1@15	50934099	Oh, you put hands on him?
+ZER1@16	C99A1123	No, please. I never initiate violence.
+ZER1@17	BE9D21B5	Oh, I know - you knocked his bitch!
+ZER1@18	2E223C24	No. I won the prize in the science fair. First prize, that is.
+ZER1@19	59250CB2	And now he wanna pop you?
+ZER1@20	0BD4E7D5	And they say gang bangers is petty and small minded!
+ZER1@21	7CD3D743	Hey, what's that bleeping sound?
+ZER1@22	E5DA86F9	That's him! We shall fight to the end!
+ZER1@23	92DDB66F	Yes.
+ZER1@24	0CB923CC	Who the fuck is Berkley?
+ZER1_13	AE8A01E1	ENEMY VISIBLE AT 9 AND 12 O'CLOCK!!
+ZER1_14	30EE9442	~s~You must protect the 4 Transmitters from attacking planes. Damage will decrease the Transmitter's Signal.
+ZER1_15	47E9A4D4	~s~Take out the enemy aircraft before they destroy our Transmitters and immobilize our signal.
+ZER1_19	4E5FE8FF	~r~All the transmitters were destroyed.
+ZER1_20	1CAE0398	SIGNAL:
+ZER1_22	F2A062B4	~s~Use the minigun to eliminate the enemy threat.
+ZER1_23	85A75222	~s~Zero will try and maintain the Transmitters during the attack.
+ZER1_24	1BC3C781	Press and hold ~m~~widget_vc_shoot~ to fire the Minigun.
+ZER1_25	6CC4F717	~r~Zero's dead!
+ZER1_26	F5CDA6AD	TIME:
+ZER1_6	C50F3E78	You have defeated Berkley's forces!
+ZER1_AA	3FBE6807	Berkley's launched a full-scale attack!
+ZER1_AB	A6B739BD	This is insanity!
+ZER1_AC	D1B0092B	All batteries commence fire!
+ZER1_AD	4FD49C88	No problem man, but they only toys.
+ZER1_AE	38D3AC1E	They're not toys! They're just smaller!
+ZER1_BA	14933BC4	He's going for my transmitters!
+ZER1_BB	8D9A6A7E	If he takes them out, I'll never be able to launch a counter attack!
+ZER1_BC	FA9D5AE8	Kamikazes at 6 o'clock!
+ZER1_BD	64F9CF4B	RC Barons at 9 o'clock high, Carl!
+ZER1_BE	13FEFFDD	CJ, bogies at 12 o'clock!
+ZER1_BF	8AF7AE67	Squadron at 3 o'clock, Carl!
+ZER1_BG	FDF09EF1	We've lost a transmitter!
+ZER1_BH	6D4F8360	Another transmitters ruined!
+ZER1_BJ	8341E24C	Another blow to our war effort!
+ZER1_BK	F446D2DA	We can't lose another transmitter!
+ZER1_BL	6A224779	Berkley's going for the last transmitter,
+ZER1_BM	1D2577EF	you've got to stop those planes, Carl!
+ZER1_BN	842C2655	I thought you said you could shoot, Carl!
+ZER1_CA	0D880A85	Great, kid, don't get cocky!
+ZER1_DA	42C99C42	Hey, hey, hey! FRIENDLY FIRE! FRIENDLY FIRE!
+ZER1_EA	5BD2AD03	Curse you, Berkley, CURSE YOOUUU!
+ZER1_EB	C2DBFCB9	NOOOOOOOOOooooooooooo!
+ZER1_EC	B5DCCC2F	My humiliation is complete!
+ZER1_FA	70FFFEC0	Ha ha ha ha Berkley!
+ZER1_FB	E9F6AF7A	As long as we have opposable thumbs, WE WILL FIGHT YOU!
+ZER1_FC	9EF19FEC	...Well done, Carl.
+ZER1_FD	00950A4F	Now leave, I must prepare for the battles ahead!
+ZER1_FE	77923AD9	Never have so few owed so many...
+ZER1_FF	EE9B6B63	We will fight him on the beaches, well, rooftops...
+ZER1_FG	999C5BF5	too little, three.. no that's not it, what is it?

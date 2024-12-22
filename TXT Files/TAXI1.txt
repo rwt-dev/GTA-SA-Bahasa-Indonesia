@@ -1,0 +1,145 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+TX_ADDS	DDDBAFAE	TIP
+TX_ANYP	B62917DE	~s~You have ~1~ seconds to get into any ~r~taxi~s~.
+TX_ANYS	2F204664	~s~You have ~1~ second to get into any ~r~taxi~s~.
+TX_BC1	BBBBCA11	~s~DESTINATION ~y~The Big Spread Ranch.
+TX_BC2	22B29BAB	~s~DESTINATION ~y~The Sherman Dam.
+TX_BC3	55B5AB3D	~s~DESTINATION ~y~Desert Airfield.
+TX_BC4	CBD13E9E	~s~DESTINATION ~y~Shooting Range.
+TX_BC5	BCD60E08	~s~DESTINATION ~y~Lil' Probe Inn.
+TX_CABP	BE4A53F2	~s~You have ~1~ seconds to get back in the ~r~taxi~s~.
+TX_CABS	27430248	~s~You have ~1~ second to get back in the ~r~taxi~s~.
+TX_DONE	E86BEDA6	Taxi Missions Complete!
+TX_END	2B35276A	Taxi mission over
+TX_F1	6AEAC790	~r~Not in taxi!
+TX_F2	F3E3962A	~r~Out of time!
+TX_F3	84E4A6BC	~r~Taxi destroyed!
+TX_FAST	DD2044C9	SPEED BONUS!
+TX_FLED	D4D77229	~r~Your passenger wants to escape!
+TX_H1	F469EA1E	Stop near a highlighted pedestrian to pick them up then drive them to their destination before the time runs out.
+TX_JUNK	FEBD9134	~r~Your car is trashed. Get it repaired.
+TX_LS1	FBE7F54A	~s~DESTINATION ~y~Liquor Mart.
+TX_LS10	B02B7FD7	~s~DESTINATION ~y~Mama's Cinema.
+TX_LS11	C72C4F41	~s~DESTINATION ~y~A 24 hour motel.
+TX_LS12	5E251EFB	~s~DESTINATION ~y~The Well Stacked Pizza Co.
+TX_LS13	29222E6D	~s~DESTINATION ~y~Reece's Barber Shop.
+TX_LS14	B746BBCE	~s~DESTINATION ~y~The tattoo shop.
+TX_LS15	C0418B58	~s~DESTINATION ~y~The truck park.
+TX_LS16	5948DAE2	~s~DESTINATION ~y~Unity Station.
+TX_LS17	2E4FEA74	~s~DESTINATION ~y~The Airport.
+TX_LS18	BEF0F7E5	~s~DESTINATION ~y~The Airport.
+TX_LS19	C9F7C773	~s~DESTINATION ~y~The Observatory.
+TX_LS2	62EEA4F0	~s~DESTINATION ~y~The Stadium.
+TX_LS20	9B062C14	~s~DESTINATION ~y~The police station.
+TX_LS21	EC011C82	~s~DESTINATION ~y~Pershing Square.
+TX_LS22	75084D38	~s~DESTINATION ~y~Skate Park.
+TX_LS23	020F7DAE	~s~DESTINATION ~y~County General Hospital.
+TX_LS24	9C6BE80D	~s~DESTINATION ~y~Ammu-Nation.
+TX_LS25	EB6CD89B	~s~DESTINATION ~y~All Saints General Hospital.
+TX_LS26	72658921	~s~DESTINATION ~y~The Donut Shop.
+TX_LS27	0562B9B7	~s~DESTINATION ~y~Market Station.
+TX_LS28	95DDA426	~s~DESTINATION ~y~The Country Club.
+TX_LS29	E2DA94B0	~s~DESTINATION ~y~Brown Starfish bar and grill.
+TX_LS3	15E99466	~s~DESTINATION ~y~Glen Park.
+TX_LS30	821D1D55	~s~DESTINATION ~y~Santa Maria Beach.
+TX_LS31	F51A2DC3	~s~DESTINATION ~y~Pro Laps store.
+TX_LS32	6C137C79	~s~DESTINATION ~y~Burger Shot.
+TX_LS33	1B144CEF	~s~DESTINATION ~y~Burger Shot.
+TX_LS34	8570D94C	~s~DESTINATION ~y~The Legal Cinema.
+TX_LS4	8B8D01C5	~s~DESTINATION ~y~Sculpture Park.
+TX_LS5	FC8A3153	~s~DESTINATION ~y~Church.
+TX_LS6	658360E9	~s~DESTINATION ~y~Jefferson Motel.
+TX_LS7	1284507F	~s~DESTINATION ~y~The Pik 'n' Go market.
+TX_LS8	823B4DEE	~s~DESTINATION ~y~Leon Diamonds.
+TX_LS9	F53C7D78	~s~DESTINATION ~y~Ten Green Bottles.
+TX_NONE	87D60DC2	~s~There are no fares nearby. Keep looking.
+TX_NTRO	9107F510	All taxis have Nitro.
+TX_OOPS	1FFFE029	~s~Oops! You better find another ~b~passenger~s~.
+TX_PAY	D54636E7	$~1~
+TX_PKUP	F4F2AAC3	~s~Look for a ~b~fare~s~.
+TX_REP	CB729F29	~r~Your car is trashed. It needs to be repaired.
+TX_SEQ	BDB7C588	~1~ IN A ROW bonus! $~1~
+TX_SF1	DB28F713	~s~DESTINATION ~y~Downtown skyscraper.
+TX_SF10	A2BC5985	~s~DESTINATION ~y~Vank Hoff in the Park Hotel.
+TX_SF11	D5BB6913	~s~DESTINATION ~y~Biffin Bridge Hotel.
+TX_SF12	4CB238A9	~s~DESTINATION ~y~Central Hashbury.
+TX_SF13	3BB5083F	~s~DESTINATION ~y~Missionary Hill viewpoint.
+TX_SF14	A5D19D9C	~s~DESTINATION ~y~Downtown skyscraper.
+TX_SF15	D2D6AD0A	~s~DESTINATION ~y~Easter Basin Naval Station.
+TX_SF16	4BDFFCB0	~s~DESTINATION ~y~Easter Basin Docks.
+TX_SF17	3CD8CC26	~s~DESTINATION ~y~Airport.
+TX_SF18	AC67D1B7	~s~DESTINATION ~y~Under Gant Bridge.
+TX_SF19	DB60E121	~s~DESTINATION ~y~Downtown Square.
+TX_SF2	4221A6A9	~s~DESTINATION ~y~Skyscraper in King's.
+TX_SF20	89910A46	~s~DESTINATION ~y~Top of the twisty path.
+TX_SF21	FE963AD0	~s~DESTINATION ~y~Burger Shot.
+TX_SF22	679F6B6A	~s~DESTINATION ~y~Tuff Nut Donuts.
+TX_SF23	10985BFC	~s~DESTINATION ~y~Pier 69.
+TX_SF24	8EFCCE5F	~s~DESTINATION ~y~Chinatown Gates.
+TX_SF25	F9FBFEC9	~s~DESTINATION ~y~The Well Stacked Pizza Co.
+TX_SF26	60F2AF73	~s~DESTINATION ~y~Church.
+TX_SF27	17F59FE5	~s~DESTINATION ~y~The bridge.
+TX_SF3	3526963F	~s~DESTINATION ~y~Mall.
+TX_SF4	AB42039C	~s~DESTINATION ~y~Cranberry Station.
+TX_SF5	DC45330A	~s~DESTINATION ~y~Stadium.
+TX_SF6	454C62B0	~s~DESTINATION ~y~Country Club.
+TX_SF7	324B5226	~s~DESTINATION ~y~Cathedral.
+TX_SF8	A2F44FB7	~s~DESTINATION ~y~Library.
+TX_SF9	D5F37F21	~s~DESTINATION ~y~City Hall.
+TX_TIME	97D29548	TIME
+TX_TIP	634AAC97	The tip bar decreases with time and damage.
+TX_TOTL	7183F846	FARES
+TX_TR1	F0C936C3	~s~DESTINATION ~y~Art-Deco Cafe.
+TX_TR2	69C06779	~s~DESTINATION ~y~The Smokin' Beef Grill.
+TX_VE1	F6CE663B	~s~DESTINATION ~y~The oil refinery.
+TX_VE10	972417EE	~s~DESTINATION ~y~Greenglass College.
+TX_VE11	E0232778	~s~DESTINATION ~y~Las Venturas Airport.
+TX_VE12	792A76C2	~s~DESTINATION ~y~Military fuel depot.
+TX_VE13	0E2D4654	~s~DESTINATION ~y~Golf clubhouse.
+TX_VE14	9049D3F7	~s~DESTINATION ~y~Yellow Bell train station.
+TX_VE15	E74EE361	~s~DESTINATION ~y~Baseball stadium.
+TX_VE16	7E47B2DB	~s~DESTINATION ~y~The Steakhouse.
+TX_VE17	0940824D	~s~DESTINATION ~y~Redsands West fire station.
+TX_VE18	99FF9FDC	~s~DESTINATION ~y~Hotel.
+TX_VE19	EEF8AF4A	~s~DESTINATION ~y~Souvenir Shop.
+TX_VE2	6FC73781	~s~DESTINATION ~y~The shopping mall.
+TX_VE20	BC09442D	~s~DESTINATION ~y~Art Gallery.
+TX_VE21	CB0E74BB	~s~DESTINATION ~y~Bank.
+TX_VE22	52072501	~s~DESTINATION ~y~The courthouse.
+TX_VE23	25001597	~s~DESTINATION ~y~Estate agents.
+TX_VE24	BB648034	~s~DESTINATION ~y~Freemont St. Casino.
+TX_VE25	CC63B0A2	~s~DESTINATION ~y~Topless Girls of Bush County.
+TX_VE26	556AE118	~s~DESTINATION ~y~Ammu-Nation.
+TX_VE27	226DD18E	~s~DESTINATION ~y~24/7.
+TX_VE28	B2D2CC1F	~s~DESTINATION ~y~Chinese Mall.
+TX_VE29	C5D5FC89	~s~DESTINATION ~y~Burger Shot.
+TX_VE3	18C00717	~s~DESTINATION ~y~Clown's Pocket Casino.
+TX_VE30	A512756C	~s~DESTINATION ~y~Visage Casino.
+TX_VE31	D21545FA	~s~DESTINATION ~y~Tourist Information.
+TX_VE32	4B1C1440	~s~DESTINATION ~y~Caligula's Casino.
+TX_VE33	3C1B24D6	~s~DESTINATION ~y~Pirates in Men's Pants Casino.
+TX_VE34	A27FB175	~s~DESTINATION ~y~Royal Casino.
+TX_VE35	D57881E3	~s~DESTINATION ~y~High Roller Casino.
+TX_VE36	4C71D059	~s~DESTINATION ~y~Camel's Toe Casino.
+TX_VE37	3B76E0CF	~s~DESTINATION ~y~Come-a-lot Casino.
+TX_VE38	ABC9FD5E	~s~DESTINATION ~y~Pink Swan Casino.
+TX_VE39	DCCECDC8	~s~DESTINATION ~y~The Four Dragons Casino.
+TX_VE4	86A492B4	~s~DESTINATION ~y~The Starfish Casino.
+TX_VE40	EA53E3AB	~s~DESTINATION ~y~Hospital.
+TX_VE41	9D54D33D	~s~DESTINATION ~y~Church.
+TX_VE42	045D8287	~s~DESTINATION ~y~24Hrs Men's club.
+TX_VE43	735AB211	~s~DESTINATION ~y~Tiki Hotel.
+TX_VE44	ED3E27B2	~s~DESTINATION ~y~Linden Station.
+TX_VE45	9A391724	~s~DESTINATION ~y~Sex shop.
+TX_VE5	F1A3A222	~s~DESTINATION ~y~The Emerald Isle.
+TX_VE6	68AAF398	~s~DESTINATION ~y~Police station.
+TX_VE7	1FADC30E	~s~DESTINATION ~y~VRock Casino.
+TX_VE8	8F12DE9F	~s~DESTINATION ~y~Blackfield Chapel.
+TX_VE9	F815EE09	~s~DESTINATION ~y~Blackfield Stadium.
+TX_WIN	9B032FAD	Fare complete!
+TX_ZERO	5398FC9F	~r~You're out of time!

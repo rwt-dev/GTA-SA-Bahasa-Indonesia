@@ -1,0 +1,68 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+ZER3@00	93EB4DDC	What's wrong with you now?
+ZER3@01	E4EC7D4A	I've learned an important lesson.
+ZER3@02	7DE52CF0	What?
+ZER3@03	0AE21C66	That it's fun to have an enemy.
+ZER3@04	948689C5	That with Berkley dead my life is also over.
+ZER3@05	E381B953	What do you mean?
+ZER3@06	7A88E8E9	It is perfectly natural, Carl.
+ZER3@07	0D8FD87F	We're fighting machines, Carl, as much as this tank, or that chopper.
+ZER3@08	9D30C5EE	And with no one to fight, we're nothing.
+ZER3@09	EA37F578	I am just facing up to the void.
+ZER3@10	8AF07C9D	Don't mind me, Carl. I am having an existential crisis.
+ZER3@11	FDF74C0B	You carry on painting graffiti and wearing your gold chains.
+ZER3@12	64FE1DB1	All I want is a little peace.
+ZER3@13	13F92D27	I got the cops on my case,
+ZER3@14	8D9DB884	a big fat prick who betrayed me and you're having such a crisis?
+ZER3@15	FA9A8812	Man, I'll give you 'exi-mental', you damn square.
+ZER3@16	6393D9A8	What's that noise?
+ZER3@17	1494E93E	Sounds like a model 7, a 5:1 ratio, equipped with cannon.
+ZER3@18	842BF4AF	No, it doesn't. No it doesn't...
+ZER3@19	F32CC439	It sounds like a whole army of them!
+ZER3@20	A1DD2F5E	Oh dear God - Berkley is alive?
+ZER3_AA	95B7A08C	Whoa, dude, a tiny war machine!
+ZER3_AB	0CBEF136	Hey, is that, like for real?
+ZER3_AC	7BB9C1A0	Oh man, ain't it cute!
+ZER3_AD	E5DD5403	Holy Gaia! It's a bad trip Satan toy!
+ZER3_AE	92DA6495	Mother of God! It's blasting!
+ZER3_AF	0BD3352F	Fucking shit! It's packing!
+ZER3_BA	BE9AF34F	It must have been a patrol we heard.
+ZER3_BB	2793A2F5	If Berkley's still alive, he'll be servicing his transmitters!
+ZER3_BC	50949263	We've got to go stop him!
+ZER3_BD	CEF007C0	How?
+ZER3_BE	B9F73756	You're the gangster, you tell me!
+ZER3_DA	E8C054C9	Carl, where are you going?
+ZER3_DB	71C90573	What are you doing, Carl?
+ZER3_EA	F1DB6588	That's Berkley over there!
+ZER3_EB	68D23432	Right, I'm going to go beat on that fool!
+ZER3_EC	1FD504A4	Wait!
+ZER3_ED	81B19107	Berkley is a master tactician, a cautious general!
+ZER3_EE	F6B6A191	Meaning?
+ZER3_EF	6FBFF02B	Meaning it's a trap!
+ZER3_EG	18B8C0BD	Deploy the tank!
+ZER3_FA	DAF6364B	Use the tank to take out those buggies!
+ZER3_FB	43FF67F1	What's the problem, they're only little cars?
+ZER3_FC	34F85767	Trust me, stop them at all costs!
+ZER3_GA	C3ED070A	Holy fuck!
+ZER3_GB	5AE456B0	See, Berkley isn't a kid and these things aren't toys!
+ZER3_HA	44751BC5	Ohmygod! Stop those buggies, Carl!
+ZER3_HB	DD7C4A7F	Shit, Carl, what are you doing?
+ZER3_HC	AA7B7AE9	We going to die, I know it!
+ZER3_HD	341FEF4A	Curse you, Berkley, Curse you!
+ZER3_HE	4318DFDC	Ow, that really hurt!
+ZER3_HF	DA118E66	We can't take much more!
+ZER3_HG	AD16BEF0	One more hit and Berkley's won!
+ZER3_JA	76437947	Man, you guys play hard!
+ZER3_JB	EF4A28FD	I told you, Carl, this is war, just on a tiny scale!
+ZER3_JC	984D186B	I've got a LOT of work to do!
+ZER3_ZA	3C816B16	Hey, a cute toy tank!
+ZER3_ZB	A5883AAC	Make love toys, not war toys!
+ZER3_ZC	D28F0A3A	Oh man, I've always wanted one of these!
+ZER3_ZD	4CEB9F99	One serious fucking toy!
+ZER3_ZE	3BECAF0F	That toy's got real attitude problems!
+ZER3_ZF	A2E5FEB5	It's a tiny soviet invasion!

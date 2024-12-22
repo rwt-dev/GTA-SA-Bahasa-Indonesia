@@ -1,0 +1,150 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+SCR1@00	7A232399	Carl, how's San Fierro?
+SCR1@01	0D24130F	It's fucked up.
+SCR1@02	942D42B5	I can honestly say I wish you was here.
+SCR1@03	E32A7223	Great. Now, you got the present for that friend of mine, right,
+SCR1@04	7D4EE780	you know, the one trying to get me and old Officer Pulaski into trouble?
+SCR1@05	0A49D716	Yeah.
+SCR1@06	934086AC	Why don't you put that up in his car
+SCR1@07	E447B63A	and give We Tip a call.
+SCR1@08	74F8ABAB	Hey, motherfucker, the code of the streets is that I don't snitch.
+SCR1@09	03FF9B3D	I don't give a fuck if it kills you, me, my brother.
+SCR1@10	633812D8	Street cats don't call no cops.
+SCR1@11	143F224E	Carl, he's a DA.
+SCR1@12	8D3673F4	Oh yeah? Well where I go' find him?
+SCR1@13	FA314362	He's at the Vank Hoff Hotel in the Financial.
+SCR1@14	6455D6C1	Oh for sure.
+SCR1_AA	7C7FCEC9	Hello? This WE TIP?
+SCR1_AB	E5769F73	I seen something highly suspicious you should come check out...
+SCR1_AC	9271AFE5	Police! Don't move!
+SCR1_AD	0C153A46	Get outta the car with your hands in the air!
+SCR1_AE	7B120AD0	Do you know who you're fucking with here?
+SCR1_AF	E21B5B6A	I'll have your badge you moron!
+SCR1_AG	951C6BFC	Shut up! You found anything back there?
+SCR1_AH	05A3766D	Found anything? He's got half of Mexico in here!
+SCR1_AJ	EBAD1741	Must be two tons of Mary here!
+SCR1_AK	9CAA27D7	What? But... but I've never seen... how could it be..?
+SCR1_AL	02CEB274	Hell of a defense you got there, buddy.
+SCR1_AM	75C982E2	Get in the car!
+SCR1_BA	57529D0A	Hey that's the DA. He's a good tipper.
+SCR1_BB	CE5BCCB0	Ah, you must be the new boy. Get in line.
+SCR1_BC	B95CFC26	Hey you, get back in line!
+SCR1_BD	27386985	Oh my God, he's gone postal!
+V_HEY_1	1497A937	Hey you can't do that!
+V_HEY_2	8D9EF88D	Hey you, stop!
+V_HEY_3	FA99C81B	Hey, hey get back here!
+VAL_11	D0D84DCF	~s~Get back up top to the valet ~y~carport~s~.
+VAL_12	49D11C75	~s~The D.A. is driving a blue Merit. Remember it, you'll need to identify it correctly when it arrives.
+VAL_13	3ED62CE3	~s~Make sure none of the other valets service his car first.
+VAL_14	A0B2B940	~s~Identify and enter the ~g~D.A.'s car~s~ when it arrives.
+VAL_15	D7B589D6	~s~You're in the D.A.'s car. Get over to ~y~the Garage~s~ where the drugs will be planted.
+VAL_2	2152696E	You've got the Valet uniform.
+VAL_20	8CF22E9A	~s~The drugs are planted. Take the car to the valet's ~y~car park~s~.
+VAL_21	FBF51E0C	~s~Time
+VAL_23	15FB7F20	Make $10 tips in 3 minutes.
+VAL_24	8B9FEA83	Each car you park gives a 20 second bonus. Each car you return gives a $3 tip. Damaging a car will reduce the bonus.
+VAL_25	FC98DA15	~s~Take this car to the marked parking space.
+VAL_26	65918BAF	~s~Take the marked car to its owner up top.
+VAL_27	1296BB39	Time left:
+VAL_28	8229A6A8	Tips $
+VAL_29	F52E963E	~s~Get back in the ~b~car.
+VAL_3	565559F8	Valet Challenge
+VAL_30	95E91FDB	~s~Leave the car to let the owner in.
+VAL_31	E2EE2F4D	~s~The car's noticeably damaged. Take it back to ~y~the Garage~s~ to get it fixed up.
+VAL_32	7BE77EF7	~s~Park the car in the marked ~y~parking space~s~.
+VAL_33	0CE04E61	~s~Good as new. Now get back to the ~y~car park~s~.
+VAL_34	9284DBC2	~r~You killed the D.A.!
+VAL_38	9B3297E9	Time bonus
+VAL_39	EC35A77F	Tip bonus $
+VAL_40	DAA8891C	~r~You destroyed the D.A.'s car!
+VAL_47	44CC1CBF	~r~You ran out of time!
+VAL_48	D473012E	~r~A Valet picked up The D.A.'s Car!
+VAL_49	A37431B8	~s~Stay near the valet ~y~carport~s~.
+VAL_5	BF36FCCD	~s~The D.A. is on his way to the ~y~Vank Hoff Hotel~s~ in downtown San Fierro. Get over there now.
+VAL_50	C3B3B85D	~s~Park the car in the garage.
+VAL_51	B4B488CB	~s~Get back to the garage.
+VAL_56	2AD01D68	~s~Go ~y~outside~s~ the valet car port to call the cops.
+VAL_57	5DD72DFE	~s~Get the D.A.'s car back in the ~y~parking space~s~.
+VAL_6	263FAD77	This hotel operates a valet service. The D.A. will be dropping his car off here shortly.
+VAL_60	E89EEB9E	~s~Valet Mission Level ~1~
+VAL_61	9F99DB08	~s~Make $~1~ in ~1~ minutes.
+VAL_62	06908AB2	~s~Valet Mission Level ~1~ Passed.
+VAL_63	7197BA24	~s~Valet Mission cancelled.
+VAL_64	EFF32F87	~s~You returned this car damaged. $~1~ deducted.
+VAL_65	98F41F11	~s~You received $~1~ tip.
+VAL_66	01FD4EAB	~s~That's a ~1~ seconds time bonus.
+VAL_67	76FA7E3D	~s~Cars parked:
+VAL_68	E64563AC	~s~~1~ cars parked.
+VAL_69	9142533A	~s~You need to park ~1~ cars before the time runs out.
+VAL_7	51389DE1	~s~Follow one of the ~r~valets~s~ to the underground car park and waste him. Make sure no one is around.
+VAL_70	F185DADF	~s~You need to park ~1~ car before the time runs out.
+VAL_71	8682EA49	~s~Valet mission failed.
+VAL_72	1F8BBBF3	~r~You failed to make enough tips.
+VAL_73	688C8B65	~s~Valet mission ended.
+VAL_74	F6E81EC6	~s~~1~ Time Bonus!
+VAL_75	81EF2E50	~s~$~1~ Tip Bonus!
+VAL_76	18E67FEA	~s~Park ~1~ cars in ~1~ minutes.
+VAL_77	6FE14F7C	~s~You'll receive a ~1~ second time bonus each time you park a car.
+VAL_78	FF5E52ED	~s~The driver got tired of waiting.
+VAL_79	8859627B	~s~Another valet picked up the waiting car.
+VAL_8	C1878070	Pick up the ~g~valet's uniform.
+VAL_80	761DC610	~s~You've damaged the car too much. Go back and wait for another.
+VAL_81	011AF686	Car Damage
+VAL_82	9813A73C	~S~Other valets will attempt to service waiting cars before you.
+VAL_83	EF1497AA	~r~You killed one of the valets.
+VAL_84	71700209	~s~There's a car waiting to be serviced.
+VAL_85	0677329F	~s~Service cars within the time limit.
+VAL_86	9F7E6325	~s~Each car you park will give a time bonus.
+VAL_87	E87953B3	~s~Damaging a car will reduce your time bonus.
+VAL_9	B680B0E6	~r~You were spotted wasting the valet.
+VAL_91	1801C7C7	~S~Valet Mission.
+VAL_A1	FFE73439	~r~You've given yourself away.
+VAL_A10	79235F90	~s~Parking Bonus +~1~ seconds~n~Damage Bonus +~1~ seconds
+VAL_A11	0E246F06	~s~Parking Bonus +~1~ seconds~n~Damage Bonus +~1~ second
+VAL_A12	972D3EBC	~s~Parking Bonus +~1~ second~n~Damage Bonus +~1~ seconds
+VAL_A13	E02A0E2A	~s~Parking Bonus +~1~ second~n~Damage Bonus +~1~ second
+VAL_A14	7E4E9B89	~s~Total Bonus +~1~ seconds
+VAL_A15	0949AB1F	~s~Total Bonus +~1~ second
+VAL_A16	9040FAA5	~s~Get back to the car port.
+VAL_A17	E747CA33	Damage Bonus
+VAL_A18	77F8D7A2	~s~This car doesn't need servicing.
+VAL_A19	00FFE734	~s~You killed a valet.~n~-20 second penalty.
+VAL_A22	BC006D7F	The valet is in the car park. Take ~r~him~s~ out while he's down there!
+VAL_A23	CB075DE9	The ~r~valet's~s~ leaving the car park.
+VAL_A24	5563C84A	Kill ~r~him~s~ when he gets back down with another car.
+VAL_A25	2264F8DC	~s~Follow the ~r~valet~s~ to the underground car park and waste him. Make sure no one is around.
+VAL_A27	CC6A99F0	~s~Identify and enter the D.A.'s car when it arrives.
+VAL_A28	5CD58461	~s~A valet has taken the D.A.'s car. Steal the ~r~car~s~ off him before he parks it.
+VAL_A29	2BD2B4F7	~r~You were supposed to get to the D.A.'s car.
+VAL_A3	11E95515	Cars to park
+VAL_A30	4B153D12	~s~A valet is coming to return the D.A.'s car. Get ~y~outside~s~ the valet car park and call the cops.
+VAL_A31	3C120D84	~s~Keep the car spotless or the D.A. will notice.
+VAL_A32	A51B5C3E	~s~Get to the valet ~y~car port~s~ and wait with the other valets.
+VAL_A33	D21C6CA8	~S~Valet Parking Complete
+VAL_A34	4C78F90B	~r~You were too slow. The D.A. picked up his car.
+VAL_A35	3B7FC99D	~r~You've resprayed the car. The D.A. may notice the difference!
+VAL_A4	8F8DC0B6	~s~Your car's been stolen! Get back to the service area.
+VAL_A5	F88AF020	~r~You destroyed a guest's car.
+VAL_A6	6183A19A	~r~You're fired!
+VAL_A7	1684910C	~s~Valet Parking
+VAL_A8	863B8C9D	~s~Time left
+VAL_B1	D4CA67FA	~r~You no longer have the valet uniform.
+VAL_B2	4DC33640	~r~The car's visibly damaged. It's too late to get it fixed.
+VAL_B3	3AC406D6	~s~The cops are on to you. Clear the heat before following the valet in to the car park.
+VAL_B4	A4A09375	~r~The cops saw you entering the car park.
+VAL_B5	D3A7A3E3	~r~You're wanted by the cops. Now your cover's blown.
+VAL_B6	4AAEF259	~r~The customer's car was destroyed.
+VALDED1	DC7D9AF7	Shit, what if the guests see him?
+VALDED2	4574CB4D	Oh man, what you do that for?
+VALDED3	3273FBDB	Oh, great, nice one!
+VALUND1	388D45EC	Sir, this area isn't for guests.
+VALUND2	A1841456	This area is restricted to guests.
+VANK_1	9A80C8C1	I'll park her for you sir.
+VANK_2	0389997B	Welcome to the Vank Hoff Hotel sir.
+VANK_3	748EA9ED	We'd like to welcome you to our hotel sir.
+VANK_4	EAEA3C4E	Enjoy your stay sir.

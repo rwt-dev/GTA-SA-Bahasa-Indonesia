@@ -1,0 +1,53 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+CRV1@00	20F7C8A9	Hello Carl. Been a long time, huh?
+CRV1@01	57F0F83F	Yeah, I was starting to miss you guys.
+CRV1@02	CEF9A985	Now why don't I believe you? Get over here!
+CRV1@03	B9FE9913	Now things have developed since the last time we met.
+CRV1@04	279A0CB0	Despite our best efforts the gig's nearly up.
+CRV1@05	509D3C26	I'm sure you'll find some way to keep your badge, your kind always do.
+CRV1@06	C9946D9C	You still don't get it, do you Carl?
+CRV1@07	BE935D0A	This ain't about keeping some fucking badge!
+CRV1@08	2E2C409B	Hey, listen to the man.
+CRV1@09	592B700D	We're all the same, Carl - you, me.
+CRV1@10	39ECF9E8	This is about the same shit you've been pulling all your life, Carl;
+CRV1@11	4EEBC97E	We're all trying to pull ourselves out of the hole.
+CRV1@12	D7E298C4	Somebody steps on me, I gotta step on you.
+CRV1@13	A0E5A852	and I'm this close to getting the next asshole's boot out of my face.
+CRV1@14	3E813DF1	Where's Hernandez with that fucking meat?
+CRV1@15	49860D67	He's been gone too long, Tenpenny.
+CRV1@16	D08F5CDD	Getting a little edgy, fellas?
+CRV1@17	A7886C4B	How d' you like that, you piece of shit?
+CRV1@18	373771DA	That give you any idea how edgy I am?
+CRV1@19	4030414C	Woah! What the fuck?
+CRV1@20	12C1AA2B	Get up, bitch!
+CRV1@21	65C69ABD	You paying attention?
+CRV1@22	FCCFCB07	Yeah, I'm listening.
+CRV1@23	8BC8FB91	Now there's a ruined town out West of here, Aldea Malvada.
+CRV1@24	15AC6E32	And there's some piece of shit DEA officer meeting
+CRV1@25	62AB5EA4	with an FBI agent with a dossier.
+CRV1@26	FBA20F1E	Now you get the dossier and you make both of them disappear.
+VCR1__1	AA03AF8D	~s~Kill the ~r~target ~s~and grab the evidence dossier.
+VCR1__2	330AFE37	~s~You were too slow. One of the guards has grabbed the stuff.
+VCR1__3	440DCEA1	~s~The target is dead and has dropped the ~g~evidence dossier~s~, grab it before anyone else does.
+VCR1__4	DA695B02	~r~The evidence dossier is at the bottom of the sea!
+VCR1__5	AD6E6B94	~r~You destroyed the evidence dossier in the explosion!
+VCR1__6	34673A2E	~s~Congratulations, you have the evidence dossier.
+VCR1__7	43600AB8	~s~The ~r~target ~s~is escaping in a helicopter.
+VCR1__8	D3DF1729	~s~The ~r~target ~s~has abandoned the helicopter.
+VCR1__9	A4D827BF	~s~Follow the target using the remaining ~b~helicopter.
+VCR1_10	267AD932	~s~Don't let the ~r~target ~s~get away!
+VCR1_11	517DE9A4	~s~They have spotted you! The ~r~target ~s~will try to escape, don't let him get away.
+VCR1_AA	2E47E16E	Hey, who are you?
+VCR1_AB	B74EB0D4	Hold it right there and identify yourself!
+VCR1_AC	C0498042	FBI! What's your business here?
+VCR1_AD	5E2D15E1	Hitman! Take cover!
+VCR1_AE	292A2577	It's a hit!
+VCR1_AF	B02374CD	Everybody down!
+VCR1_AG	C724445B	Get that dossier out of here!
+VCR1_AH	579B59CA	Get out of here, I'll handle this guy!
+VCR1_AI	209C695C	Get out of here, I'll cover you!

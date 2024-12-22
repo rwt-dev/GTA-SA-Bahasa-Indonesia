@@ -1,0 +1,86 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+BRIDGE	667F37E6	~s~Leave no one alive on the bridge!
+WOO4@00	560064F0	Woozie, my man!
+WOO4@01	21075466	CJ, you caught me on my way out.
+WOO4@02	B80E05DC	Business?
+WOO4@03	CF09354A	This is the big one,
+WOO4@04	516DA0E9	this is the one that is going to seal my place in the Red Gecko Tong.
+WOO4@05	266A907F	But something's come up, and I've got to sort things out myself.
+WOO4@06	BF63C1C5	Little Lion, what's the news?
+WOO4@07	C864F153	Damn. Why today of all days?
+WOO4@08	58DBECC2	OK, shit. Take Guppy and go check it out.
+WOO4@09	2FDCDC54	Damn!
+WOO4@10	4F1B55B1	Trouble?
+WOO4@11	381C6527	The Da Nang Boys are arriving today on a container ship.
+WOO4@12	A115349D	Little Lion's gone to check it out - I really gotta go too.
+WOO4@13	D612040B	Hey man, look. Don't even trip. I'm gonna handle this for you, alright?
+WOO4@14	487691A8	Thanks, my friend.
+WOO4@15	3F71A13E	Your help and friendship has been invaluable to me.
+WOO4@16	A678F084	Thanks man. Where the other guys?
+WOO4@17	D17FC012	Oh, they're getting a helicopter
+WOO4@18	41C0DD83	to do a couple of flybys of the ship.
+WOO4@19	36C7ED15	Look - if everything goes well,
+WOO4@20	64360672	I'll call you in a week or so and invite you to my new spot.
+WOO4@21	133136E4	Excuse me.
+WUZ4_01	3C308924	~s~Make your way down into the ~y~hull~s~ of the ship.
+WUZ4_02	A539D89E	~s~Swim over to the ~y~freighter~s~.
+WUZ4_03	D23EE808	~r~One of the refugees died!
+WUZ4_04	4C5A7DAB	~s~Perform a silent kill on the ~r~target~s~.
+WUZ4_05	3B5D4D3D	~s~Take out the refugees' ~r~guard~s~.
+WUZ4_06	A2541C87	~S~Make your way to the cabin and kill the ~r~Snakehead~s~ and his ~r~bodyguard~s~.
+WUZ4_07	D5532C11	~r~The helicopter pilot has been killed!
+WUZ4_08	45EC3180	~r~The helicopter has been destroyed!
+WUZ4_09	32EB0116	~s~Shoot the ~g~padlock~s~ on the front of the refugees' container.
+WUZ4_10	522C88F3	~s~Make your way down into the ~y~hull~s~ of the ship.~N~Be quiet for as long as possible!
+WUZ4_11	252BB865	Go back and meet the ~b~refugees~s~. They will lower some dinghies into the water.
+WUZ4_AA	5A11B0AF	Can you see any survivors?
+WUZ4_AB	C318E115	No. Nobody's getting out of that alive!
+WUZ4_BA	713CE36C	Keep it down, you want to bring the snakehead down here?
+WUZ4_CA	6827D22D	Not long until we're drinking cola in the free West, eh!
+WUZ4_CB	F12E8397	Hey, who the fuck are you?
+WUZ4_CC	8629B301	Go get the snakehead!
+WUZ4_DA	276644EA	Stick this up your ass!
+WUZ4_EA	3E7D75AB	Can you see any survivors?
+WUZ4_EB	A7742411	No. Nobody's getting out of that alive!
+WUZ4_FA	15502668	Keep it down, you want to bring the snakehead down here?
+WUZ4_GA	0C4B1729	Not long until we're drinking cola in the free West, eh!
+WUZ4_GB	95424693	Hey, who the fuck are you?
+WUZ4_GC	E2457605	Go get the snakehead!
+WUZ4_HA	8BD30BE6	Stick this up your ass!
+WUZ4_JA	B9E56964	Hey you, help us!
+WUZ4_JB	20EC38DE	Hey, please, help us!
+WUZ4_JC	57EB0848	Please, the snakehead tricked us, we're prisoners.
+WUZ4_JD	C98F9DEB	Please help us escape!
+WUZ4_JE	BE88AD7D	The Snakehead is up on the bridge...
+WUZ4_JF	2781FCC7	Thank you for everything!
+WUZ4_KA	A0FE5825	Hey CJ, what are you doing here?
+WUZ4_KB	39F7099F	Just bumped into Woozie on his way out.
+WUZ4_KC	4EF03909	He filled me in. I thought I'd roll with you.
+WUZ4_KD	D094ACAA	Well we ain't rollin', we're whirling!
+WUZ4_KE	A7939C3C	Strap in and strap up!
+WUZ4_LA	EFBFCEE2	Where we headed?
+WUZ4_LB	76B69F58	To the boat - it's moored out in the bay.
+WUZ4_LC	01B1AFCE	Oh yeah, I see it!
+WUZ4_LD	9FD53A6D	You better lock and load, they'll be on their guard!
+WUZ4_LE	E8D20AFB	Locked and loaded!
+WUZ4_MA	F6A4FFA3	Holy fuck, they're gunning for us already!
+WUZ4_MB	6FADAE19	I see 'em!
+WUZ4_MC	18AA9E8F	They're all over the containers!
+WUZ4_MD	86CE0B2C	I got 'em man, right in my sight!
+WUZ4_ME	F1C93BBA	Hit those Da Nang bastards!
+WUZ4_NA	DD89AC60	RPG! RPG!
+WUZ4_NB	4480FDDA	Where? Which side?
+WUZ4_NC	3387CD4C	We're hit!
+WUZ4_ND	ADE358EF	(Sirens, whines, clattering gears etc.)
+WUZ4_NE	DAE46879	We're going down!
+WUZ4_NF	43ED39C3	Brace for impact!
+WUZ4_OA	C4929D21	Oh man, that hurt!
+WUZ4_OB	5D9BCC9B	Shit, lost all my weapons!
+WUZ4_PA	09C893BF	Enough! We settle this here!
+WUZ4_PB	90C1C205	Defend yourself!
+WUZ4_ZA	F3277B35	Damn, lost everything but my blade!

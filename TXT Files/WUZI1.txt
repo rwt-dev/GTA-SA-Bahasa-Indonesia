@@ -1,0 +1,157 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+WOO1@00	61DE94C2	We're closed! Pokgai!
+WOO1@01	16D9A454	Easy, man, I'm here to see Woozie.
+WOO1@02	8FD0F5EE	Oh. Upstairs.
+WOO1@03	F8D7C578	I'm Johnson. I'm here to see Woozie, I work with him.
+WOO1@04	66B350DB	You know of the boss's curse?
+WOO1@05	11B4604D	Curse? Nah.
+WOO1@06	88BD31F7	He's blind.
+WOO1@07	FFBA0161	Blind? But we was just racing cars last week!
+WOO1@08	6F051CF0	Yes, I know. He is blessed with unbelievable good fortune.
+WOO1@09	18022C66	And the Triad that would do anything for him.
+WOO1@10	78C5A583	We call him our Lucky Mole.
+WOO1@11	0FC29515	A'ight. I'll keep that in mind.
+WOO1@12	96CBC4AF	Good.
+WOO1@13	E1CCF439	Woozie!
+WOO1@14	7FA8619A	Hello, Carl.
+WOO1@15	08AF510C	Hey, what's happening Woozie - y'know, how you doin'?
+WOO1@16	91A600B6	Straight to the facts;
+WOO1@17	E6A13020	I can't use your help unless I'm open with you
+WOO1@18	761E2DB1	about who I am and what I do.
+WOO1@19	01191D27	Let me re-introduce myself...
+WOO1@20	53E8F640	I am the boss of the Mountain Cloud Boys.
+WOO1@21	24EFC6D6	Nice to meet you.
+WOO1@22	BDE6976C	Likewise. Why don't you sit down.
+WOO1@23	CAE1A7FA	As Dai Dai Lo of the Triad, it is my responsibility to see
+WOO1@24	54853259	that disputes are settled without...damaging important business.
+WOO1@25	238202CF	Where I come in at?
+WOO1@26	BA8B5375	We shall see.
+WOO1@27	CD8C63E3	I'm about to drop in on a local Triad
+WOO1@28	5D337E72	that failed to show face at the last Tong meeting.
+WOO1@29	2A344EE4	Come with me, and you'll see how we Triads settle things
+WOO1@30	4AF3C701	without recourse to...unnecessary violence.
+WOO1@31	3DF4F797	A'ight, I'll ride with you.
+WOO1@32	A4FDA62D	Stupid ass motherfucker...
+WOO1@33	D3FA96BB	Yes, right this way.
+WUZ1_AA	6DCF409D	We'll need a ride, mine's getting some bodywork done to it.
+WUZ1_AB	F4C61127	Alright, don't trip.
+WUZ1_BA	46E2135E	Hurry up, Woozie. What's the problem?
+WUZ1_BB	DFEB42E4	Yeah, err, I'm just checking my bearings.
+WUZ1_CA	5FF9221F	The Blood Feather Triad have a storehouse around the block.
+WUZ1_CB	C6F073A5	We shall see what excuses they have to offer.
+WUZ1_CC	B1F74333	OK. So what's all this talk of business?
+WUZ1_CD	2F93D690	Some small time Vietnamese gangs have been making trouble lately.
+WUZ1_CE	5894E606	We're not sure why they're gaining any courage now, but I'm nervous about the situation.
+WUZ1_CG	B69A872A	How do I fit in all of this?
+WUZ1_CH	26259ABB	You're an outsider.
+WUZ1_DA	10B8B4D8	This is the place!
+WUZ1_DB	89B1E562	What's that smell?
+WUZ1_DC	FEB6D5F4	Laundry.
+WUZ1_DD	60D24057	Come on, it's this way.
+WUZ1_EA	09A38599	Hey, what's with all these people?
+WUZ1_EB	90AAD423	Where they going?
+WUZ1_EC	E7ADE4B5	Something isn't right here. We should be careful...
+WUZ1_EE	0ECE4180	Follow me.
+WUZ1_FA	228ED65A	Something's not right.
+WUZ1_FB	BB8787E0	No shit, where everybody at?
+WUZ1_FC	CC80B776	Hiding, scared. I can smell them.
+WUZ1_FD	52E422D5	We should proceed with caution.
+WUZ1_FE	25E31243	This way, I think.
+WUZ1_GA	3B95E71B	Hold on, just getting my bearings.
+WUZ1_GB	A29CB6A1	This is very interesting...
+WUZ1_GC	D59B8637	Hmmm, yes, intriguing...
+WUZ1_GD	4BFF1394	With the wind on my right, sooo...
+WUZ1_GE	3CF82302	Was it fifteen paces, or fifteen feet?
+WUZ1_GF	A5F172B8	Ah, no, now I've got it...
+WUZ1_GG	D2F6422E	Two stalls then turn left, no, no, right...
+WUZ1_GH	42495FBF	That's the smell I was after.
+WUZ1_GJ	AC473E93	Now... where's that loose cobble?
+WUZ1_GK	DB400E05	Should be a sewer right about here...
+WUZ1_GL	45249BA6	Ah, the unmistakable skitter of tiny rat feet!
+WUZ1_GM	3223AB30	18, 19, twenty. Now was it right or left?
+WUZ1_HA	BC0DFBD4	Do you hear something?
+WUZ1_HB	2504AA6E	Yeah, traffic and other shit.
+WUZ1_HC	52039AF8	Exactly! Trust me, I know what I'm doing. Follow me!
+WUZ1_JA	8E3B9956	Hey, what the hell you doin'?
+WUZ1_JB	1732C8EC	Just, eerr, checking the, um, y'know. Shut up, Carl.... THIS WAY!
+WUZ1_KA	9720A817	What's wrong? You lost? Need a hand?
+WUZ1_KB	0E29F9AD	NO!
+WUZ1_KC	792EC93B	No, I was just, you know, getting the feel of the place.
+WUZ1_KD	E74A5C98	Stick Close!
+WUZ1_LA	D8613ED0	Ah, we're here! This way!
+WUZ1_LB	41686F6A	Here, this is the place.
+WUZ1_LC	366F5FFC	Strange, this gate is usually locked.
+WUZ1_LD	A80BCA5F	Odd, this gate should be locked...
+WUZ1_MA	C17A0F91	Oh man, Woozie...
+WUZ1_MB	58735E2B	What's got spooked?
+WUZ1_MC	2F746EBD	Oh, oh sorry, didn't see you lying down there.
+WUZ1_MD	B110FB1E	He's dead. They all are.
+WUZ1_ME	C617CB88	The Blood Feathers, wiped out?
+WUZ1_MF	5F1E9A32	Dai Dai Lo! Forgive me, I was too scared to fight, so I hid.
+WUZ1_MG	2819AAA4	Enough! What happened here?
+WUZ1_MH	B8A6B735	Vietnamese surprised us, cut us all down.
+WUZ1_MJ	56A8D619	Shit, here they come again!
+WUZ1_NA	EA575C52	The Triads must have vengeance!
+WUZ1_NB	735E0DE8	CJ, follow me and stick close!
+WUZ1_NC	04593D7E	Ready?
+WUZ1_ND	9A3DA8DD	DIE YOU MOTHERFUCKING SONS OF WHORES!
+WUZ1_NE	ED3A984B	Looks clear to me, go! Go!
+WUZ1_NF	7433C9F1	I think I got them all!
+WUZ1_NG	0334F967	Hell's sewers, that was a sniper bullet!
+WUZ1_NH	938BE4F6	Damn, I err, got something in my eyes, is it safe to move?
+WUZ1_NJ	7D8585DA	YOUR MOTHERS WERE DEMON SLUTS!
+WUZ1_NK	0A82B54C	YOUR BLOOD WILL RUN LIKE WINE!
+WUZ1_NL	94E620EF	EAT THIS HOT LEADEN SHIT!
+WUZ1_NM	E3E11079	YOU WILL WANDER AS GHOSTS!
+WUZ1_NN	7AE841C3	CURSED ASSHOLES!
+WUZ1_NO	0DEF7155	CJ, take out that sniper!
+WUZ1_NP	80E77CA0	Cover me, CJ, I'm moving up!
+WUZ1_NQ	F7E04C36	I'm breaking cover, CJ, spray 'em!
+WUZ1_OA	F34C6D13	Oh fuck, man, more up ahead!
+WUZ1_OB	6A453CA9	Shit, man, they really want you dead!
+WUZ1_OC	1D420C3F	I see him. He on the roof!
+WUZ1_OD	8326999C	OK, clear, Woozie, GO!
+WUZ1_OE	F421A90A	Break for it, Woozie!
+WUZ1_OG	1A2FC826	Hold up, Woozie, we still got trouble!
+WUZ1_OH	8A90D5B7	Lay low!
+WUZ1_OJ	649EB49B	Woozie, keep it down, we still got trouble!
+WUZ1_OK	1399840D	In the car, quick!
+WUZ1_OL	8DFD11AE	Get on the back of the bike!
+WUZ1_OM	FAFA2138	On the bike, quick!
+WUZ1_ON	63F37082	Let's get the fuck out of here!
+WUZ1_OO	14F44014	Let's get the hell out of here!
+WUZ1_OP	99FC4DE1	We got more company!
+WUZ1_OQ	EEFB7D77	Cars on our tail!
+WUZ1_OR	77F22CCD	More of them, in cars!
+WUZ1_PA	3E16638D	You drive, I'll send them back to the sewers!
+WUZ1_PB	A71F3237	Keep driving, I'll take care of these murderous scum!
+WUZ1_QA	270D52CC	That look like the last of 'em.
+WUZ1_QB	BE040376	OK, let's get back to my place.
+WUZ1_QC	C90333E0	This is a black day for the Red Gecko Tong.
+WUZ1_QD	5767A643	We've lost a Triad to interlopers.
+WUZ1_QE	206096D5	The Mountain Cloud Boys will not rest until the Blood Feathers are avenged.
+WUZ1_QF	B969C76F	Another day, Woozie, another day.
+WUZ1_QG	CE6EF7F9	Yes.
+WUZ1_QH	5ED1EA68	First we must mourn and make funerary arrangements.
+WUZ1_RA	0C20010F	Thank you, Carl, you saved me from having to kill them all myself.
+WUZ1_RB	952950B5	Yeah, well. Give me a call if you need some more help, man.
+WUZ1_RC	E22E6023	Sure thing.
+WUZ1_RD	7C4AF580	Here, a token of the Tong's appreciation for what you did today.
+WZ1_1	5E0A3AF9	~s~Take Woozie to the Tong ~y~meeting~s~.
+WZ1_17	7C82E58D	~s~Follow ~b~Woozie~s~ and protect him from the ~r~ambush~s~.
+WZ1_19	9B3AC88A	Woozie
+WZ1_2	C7036B43	~s~Wait for Woozie.
+WZ1_3	B0045BD5	~s~Follow ~b~Woozie~S~
+WZ1_37	4EB4870F	~s~Let Woozie destroy the attacking ~r~cars~s~.
+WZ1_39	A90CAA08	~s~Drive Woozie back to ~y~his place~s~.
+WZ1_40	9F91846B	~r~Woozie Died!
+WZ1_41	E896B4FD	~s~You left ~b~Woozie~s~ behind! Go back and get him.
+WZ1_B1	91F36A8D	~s~Get out of the alleyway and protect Woozie from the attacking gang!
+WZ1_B2	08FA3B37	~s~Get Woozie back to his ~y~place
+WZ1_B3	7FFD0BA1	~s~If you leave now Woozie will lose face. Go back and take out the remaining ~r~enemies!
+WZ1_B4	E1999E02	~s~Stick close to ~b~Woozie~s~.
