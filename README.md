@@ -6,6 +6,5 @@ Oleh: Buset Project
 <details>
 <summary>BUKA</summary>
 
-  - [ ] 
-  - [ ] 
+  - [ ] SOON
 </details>
