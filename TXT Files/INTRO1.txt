@@ -1,0 +1,216 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	DBFD18C7	You can do a bunny hop by holding down ~m~~widget_explicit_bunny_hop~.
+	E223861D	Press and hold the bottom left corner of the screen to lean.
+	044678A8	Press and hold ~m~~widget_ped_move_up~ and ~m~~widget_ped_move_down~ to lean.
+	F3976091	You can do a bunny hop by double tapping the lower right corner of the screen.
+INT1_AA	8C0FEB37	You know me. It's not cut. Keep the value in it. Keep it real.
+INT1_AB	1506BA8D	You want to drive?
+INT1_AC	62018A1B	Yeah, that's cool.
+INT1_AD	FC651FB8	You still like cars?
+INT1_AE	8B622F2E	Always love cars, man.
+INT1_AF	126B7E94	I thought they didn't respect cars in liberty. What you ride out there?
+INT1_AG	656C4E02	Subway.
+INT1_AH	F5D35393	Ha, ha ha. That's my brother. Here we are.
+INT1_AI	82D46305	Ballas! Drive by! Incoming!
+INT1_AJ	1BDD32BF	Awww, motherfucker, my car!!
+INT1_AK	6CDA0229	We gotta get back to the hood, man, it's too crazy round here!
+INT1_AL	F2BE978A	Too crazy round here.
+INT1_AM	85B9A71C	I thought this was Families Turf?
+INT1_AN	1CB0F6A6	Yeah, it's Temple Drive Families - we don't roll with them no more.
+INT1_AO	6BB7C630	No shit, things HAVE changed. How we getting home?
+INT1_AP	E6BFCBC5	Grab a bike and pedal. Even you ain't forgotten that.
+INT1_AQ	91B8FB53	Follow my lead!
+INT1_AR	08B1AAE9	Nice car, Smoke.
+INT1_BA	A722B8F4	Takes you back some, huh, CJ? Yeah!
+INT1_BB	3E2BE94E	CJ, watch your back 'round here, man.
+INT1_BC	492CD9D8	Things has changed round here!
+INT1_BD	D7484C7B	How'd it get so bad?
+INT1_BE	A04F7CED	Hey Sweet, try to keep up!
+INT1_BF	39462D57	Straight back into the game, right dog?
+INT1_BG	4E411DC1	Was it this bad before you left?
+INT1_BH	DEFE0050	East Coast got you all thinned out, home.
+INT1_BI	A9F930C6	You're just a liability, CJ!
+INT1_BJ	30F0617C	Oh, you ain't ran out yet, huh, CJ?
+INT1_BK	47F751EA	Why'd you bother coming back?
+INT1_CA	BE3989B5	Shit! A Ballas car is onto us! Split up!
+INT1_CB	2730D80F	Damn, Ballas is chasing us down!
+INT1_CC	5037E899	BALLAS! EVERYBODY BREAK!
+INT1_DA	F1781F72	Get up, CJ, pedal!
+INT1_DB	68714EC8	Move it, CJ, not far to the Grove!
+INT1_DC	1F767E5E	You OK, CJ?
+INT1_DD	8112EBFD	Hey, hey, Carl's down!
+INT1_DE	F615DB6B	Oh man, that shit looked like it hurt, homie!
+INT1_DF	6F1C8AD1	Get back on your bike, playa!
+INT1_DG	181BBA47	Ha ha! This fool took a fall!
+INT1_DH	88A4A7D6	He can't even ride a bike!
+INT1_DI	FFA39740	CJ, you cycle like a crack ho, fool!
+INT1_EA	E8632E33	Move it, CJ, move it!
+INT1_EB	716A7F89	Keep up, CJ!
+INT1_EC	066D4F1F	C'mon, CJ. Pedal like a motherfucker!
+INT1_ED	9809DABC	C'mon man, you gotta keep up!
+INT1_EE	EF0EEA2A	Keep up, CJ!
+INT1_EF	7607BB90	Don't lose us, CJ!
+INT1_EG	01008B06	What's the matter, fool? You tired?
+INT1_EH	91BF9697	Move it, CJ - you're embarrassing us, nigga!
+INT1_EI	E6B8A601	Keep up, motherfucker!
+INT1_EJ	7FB1F7BB	What's matter, CJ? Can't keep up with the fat man?
+INT1_FA	C34E7DF0	Hey, look at CJ go!
+INT1_FB	5A472C4A	Hey, CJ, wait for us, man!
+INT1_FC	2D401CDC	CJ, you running like a bitch, man!
+INT1_FD	B324897F	Carl's showing us how it's really done.
+INT1_FE	C423B9E9	Skinny fool's flying ahead on his own.
+INT1_FF	5D2AE853	CJ's doing his thing top speed, dog!
+INT1_FG	2A2DD8C5	Typical, CJ! Leaving the homies behind, huh?
+INT1_FH	BA92C554	Hey wait for the homies, fool!
+INT1_FI	CD95F5C2	Figures, moving fast as a motherfucker, you busta!
+INT1_GA	DA554CB1	So when you leaving, Carl?
+INT1_GB	435C1D0B	I ain't sure. Thought I might stay.
+INT1_GC	345B2D9D	Things is fucked up.
+INT1_GD	AA3FB83E	Well, the last thing we need is your help.
+INT1_GE	DD3888A8	Aw man, I won't let you down, I swear.
+INT1_GF	4431D912	I got left behind! Y'all motherfuckers left me behind!
+INT1_GG	3336E984	Yo, East Coast sure put some legs on you, boy!
+INT1_GH	A389F415	Hey, we're gonna call up some hood rats and chill the hell out. You want some?
+INT1_GI	D48EC483	I gotta whole lot going on, and I'm tired. I'll catch y'all later.
+INT1_GJ	4D879539	Hey yo, just drop in. We all hangin' out.
+INT1_GK	3A80A5AF	Man, you gotta lose some of the Liberty City anxiety, playa!
+INT1_GL	A4E4300C	Yeah, and get yourself some colors, fool.
+INT1_GM	D3E3009A	And a haircut - it's embarrassing to be seen with you!
+INT1_GN	4AEA5120	I got with them motherfuckers though - showed them niggaz who's gangsta. Ryder, nigga!
+INT1A01	FC965CC6	Stop it! What are you doing? Carl, Brian, stop it!
+INT1A02	659F0D7C	Quit it! Moms will hear!
+INT1A03	12983DEA	Mom! They're up to something!
+INT1A04	8CFCA849	Brian! Carl! Quit fighting, and go wash your hands!
+INT1A05	FBFB98DF	You picked the wrong house, fool!
+INT1A06	62F2C965	Big smoke! It's me, Carl! Chill, chill!
+INT1A07	15F5F9F3	CJ, my dog! Whassup? Hey baby, you okay, man?
+INT1A08	854AE462	No, man, it's my Moms, homie...
+INT1A09	F24DD4F4	Hey, I don't know why this had to happen,
+INT1A10	928A5D11	but I promise you, I'm going to find out who killed your moms!
+INT1A11	E58D6D87	The streets is cold, Dog.
+INT1A12	7C843C3D	Like it says in the book, we are blessed and cursed.
+INT1A13	0B830CAB	What fucking book?
+INT1A14	95E79908	Same things make us laugh, make us cry.
+INT1A15	E2E0A99E	But right now, we gotta take care our business.
+INT1A16	7BE9F824	Go see your brother at the cemetery. C'mon, let's bounce.
+INT1A17	0CEEC8B2	Stop it! What are you doing? Carl, Brian, stop it!
+INT1B00	89D7D209	Hey, what's up, y'all? Look who I found hanging around.
+INT1B01	FED0E29F	I can't believe she's gone, man.
+INT1B02	67D9B325	That's another funeral you ran away from, fool. Just like Brian's.
+INT1B03	10DE83B3	Hey, she was my momma too.
+INT1B04	8EBA1610	Not for the past 5 years she wasn't, nigga.
+INT1B05	F9BD2686	And where the fuck you think you're going?
+INT1B06	60B4773C	What? Get out of my face. I'm going to see Cesar.
+INT1B07	17B347AA	The hell you are, girl!
+INT1B08	870C5A3B	You ain't messing with them eses, you know we beefing -
+INT1B09	F00B6AAD	Look, I love him! And what the fuck are you?
+INT1B10	90CCE348	At least I got principles.
+INT1B11	E7CBD3DE	Oh, and I guess that makes you an upstanding American. Carl, tell him!
+INT1B12	7EC28264	Carl, tell him!
+INT1B13	09C5B2F2	- Carl don't tell me shit, bitch.~n~- As long as he treats her right.
+INT1B14	97A12751	As long as he treats her right.
+INT1B15	E0A617C7	Disrespect you, and he's dead.
+INT1B16	79AF467D	How the hell you gonna say that?
+INT1B17	0EA876EB	Like it's any business of yours.
+INT1B18	9E176B7A	Fuck you, Sweet.
+INT1B19	E9105BEC	This shit's real fucked up. Everything!
+INT1B20	BBE1B08B	What you mean?
+INT1B21	CCE6801D	What, apart from your mother being dead?
+INT1B22	55EFD1A7	Things are going real bad. Here, let me show you, running man. Tony's buried over there.
+INT1B23	22E8E131	Little Devil over there, Big Devil over there.
+INT1B24	BC8C7492	Man, it's just crazy - everybody blasts on fools first then asks questions second.
+INT1B25	CB8B4404	I've missed you these five years, man - they gonna be real happy to see you.
+INT1B26	528215BE	Carl, hey, good to see you.
+INT1B27	25852528	Oh, come on with this...
+INT1B28	B53A38B9	That's a fucking asshole.
+INT1B29	C23D082F	Oh, shit - here we go again.
+INT2_F1	81FEA322	~r~Smoke is dead!
+INT2_F2	18F7F298	~r~Sweet is dead!
+INT2_F3	6FF0C20E	~r~Ryder is dead!
+INT2_F4	F19457AD	~r~Your BMX is trashed!
+INTRO2A	BDA83A9F	~s~Drive to the cemetary with Big Smoke.
+INTRO2D	CDC2CE10	You can do a bunny hop by double tapping ~m~~widget_accelerate~.
+INTRO2G	54CB9FAA	~s~You're too far away. Stay with ~b~Sweet~s~.
+INTRO2I	B373B2AD	~s~Follow ~b~Sweet~s~ back to the hood.
+INTRO2J	2A7AE317	~s~You're too far away. Stay with ~b~Ryder~s~.
+INTRO2K	5D7DD381	~s~Follow ~b~Ryder~s~.
+LOAD_01	87AB66E2	Francis INTL. Airport,
+LOAD_02	1EA23758	Los Santos International Airport.
+LOAD_03	69A507CE	Liberty City,
+LOAD_04	F7C1926D	1992.
+PRO@01	3D153962	After five years on the East Coast, it was time to go home.
+PRO@02	A41C68D8	'Sup?
+PRO@03	D31B584E	Carl, it's Sweet.
+PRO@04	4D7FCDED	Whassup, Sweet, what you want?
+PRO@05	3A78FD7B	It's Momma... She's dead, bro.
+PRO@06	A371ACC1	How? How'd she die?
+PRO@07	D4769C57	Not now. You coming home?
+PRO@08	44C981C6	Yeah, yeah, I am.
+PRO@09	33CEB150	Passenger. Show us your hands.
+PRO@10	530938B5	Reach out of the car and unlock your door.
+PRO@11	240E0823	Get out of the car.
+PRO@12	BD075999	Walk towards us with your hands behind your head.
+PRO@13	CA00690F	I didn't tell you to face me, boy.
+PRO@14	5464FCAC	Back towards my voice.
+PRO@15	2363CC3A	Welcome home, Carl. Glad to be back?
+PRO@16	BA6A9D80	This is drug money.
+PRO@17	CD6DAD16	You haven't forgotten about us, have you boy?
+PRO@18	5DD2B087	Hey don't worry about it, I'll fill it out later.
+PRO@19	2AD58011	Hell no, officer Tenpenny.
+PRO@20	78246B76	I was just wondering what took y'all so long.
+PRO@21	0F235BE0	Well, you know, inside the airport, that's federal. That's not our gig.
+PRO@22	962A0A5A	Get in the car.
+PRO@23	E12D3ACC	Get outta here, you greaseball bastard!
+PRO@24	7F49AF6F	How you been, Carl? How's your wonderful family?
+PRO@25	084E9FF9	I'm here to bury my Moms. You know that.
+PRO@26	9147CE43	Yeah, I guess I do.
+PRO@27	E640FED5	Nothing. I live in Liberty City now. I'm clean. Legit.
+PRO@28	76FFE344	No, you ain't never been clean, Carl.
+PRO@29	01F8D3D2	Well, what've we got here?
+PRO@30	613F5A37	This is a weapon, Officer Pulaski, that was used to gun down
+PRO@30B	200EBAE9	a police officer not ten minutes ago.
+PRO@31	16386AA1	Officer Pendelbury. A fine man, I might add.
+PRO@32	8F313B1B	You know I just got off the plane!
+PRO@33	F8360B8D	You work fast, nigga.
+PRO@34	66529E2E	It's a good thing we found you and retrieved the murder weapon.
+PRO@35	1155AEB8	That ain't my gun.
+PRO@36	885CFF02	Don't bullshit me, Carl.
+PRO@37	FF5BCF94	Yeah, don't bullshit him, Carl.
+PRO@38	6FE4D205	What the fuck you want from me this time?
+PRO@39	18E3E293	Don't curse, Carl, you motherfucking piece of shit gang-banging cocksucker.
+PRO@40	2E7ECCF0	When we want you, we'll find you.
+PRO@41	5979FC66	In the meantime, try not to gun down any more officers of the law.
+PRO@42	C070ADDC	Carl, we're just here to protect and serve.
+PRO@43	B7779D4A	You can't leave me here - it's BALLAS country.
+PRO@44	291308E9	I thought you said you was innocent, Carl? That you don't bang?
+PRO@45	5E14387F	This is car 58... WHAT?!
+PRO@46	C71D69C5	Officer Pendelbury's down? We'll be right over.
+PRO@47	B01A5953	See you around like a doughnut, Carl...
+PRO@48	20A544C2	See, Hernandez, that is how an experienced officer deals with a known threat.
+PRO@49	57A27454	So what else you got shakin' Carl?
+PRO@50	3765FDB1	Oh, man...
+PRO@51	4062CD27	That's right... Come on... Come on...
+PRO@52	D96B9C9D	...fuckin' with me for...
+PRO@53	AE6CAC0B	Stop. Get down on your knees.
+PRO@54	300839A8	Now down on your stomach.
+PRO@55	470F093E	Hey. C'mon man, damn. You hurtin' my arm.
+PRO@56	DE065884	Touching all over me like... Wha'?
+PRO@57	A9016812	Hey, that's my paper man. That's money.
+PRO@58	39BE7583	I'll take that, Hernandez.
+PRO@59	4EB94515	My money, man...
+PRO@60	1C48AE72	Ease up, man. Damn.
+PRO@61	6B4F9EE4	Watch your head.
+PRO@62	F246CF5E	Ow!
+PRO@63	8541FFC8	Oh! My bad.
+PRO@65	6C225AFD	Stupid Mexican...
+PRO@66	F52B0B47	Oh, hey, sorry.
+PRO@67	822C3BD1	My bag. Hey, man, my bag!
+PRO@68	12932640	So what else you got shaking, Carl?
+PRO@69	659416D6	Ah! Damn...
+PRO@70	05539F33	There you go.
+PRO@99	E20C0A19	Shit... Man...

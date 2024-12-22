@@ -1,0 +1,88 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+LOC4_AA	F075AC95	OK, get some cars, block the road.
+LOC4_AB	697CFD2F	The rest of y'all get heated.
+LOC4_AC	1E7BCDB9	Pick your positions, Carl get some cover!
+LOC4_AD	801F581A	Steady, here they come!
+LOC4_AE	F718688C	Dump on them fools!
+LOC4_AF	6E113936	Hey hey, look up, more of them on the bridge!
+LOC4_AG	191609A0	Carl! Cover the alleyway!
+LOC4_AH	89A91431	Behind us, CJ, behind us!
+LOC4_BA	DB58FF56	GROVE IS KING!!
+LOC4_BB	4251AEEC	Man, I ain't never seen the Ballas roll that deep before.
+LOC4_BC	35569E7A	Yeah, they heard Carl Johnson was running with his brother again!
+LOC4_BD	AB320BD9	Yeah, fo' sure.
+LOC4_BE	DC353B4F	C'mon, let's get back to the party.
+LOC4_BF	453C6AF5	Grove is king! Grove is king! If you ain't about Grove then you ain't about shit!
+LOC4_BG	323B5A63	Shit man, once Loc got off the mic, then the party got started.
+LOC4_CA	C243CE17	Shit, I'll go round up some homies!
+LOC4_CB	5B4A9FAD	Damn, man - I'll go get us some more backup!
+LOC4_CC	2C4DAF3B	I'll go get Smoke and some Grove boys!
+STP4_01	49936633	~s~Find some cover and wait for the enemies.
+STP4_02	D09A3789	~s~Defend your hood from the ~r~attackers~s~.
+STP4_03	A79D071F	~s~There are ~r~enemies~s~ on the bridge above.
+STP4_04	39F992BC	~s~Help Sweet defend against the last of the ~r~enemies~s~.
+STP4_05	4EFEA22A	~r~Sweet has been killed!
+STP4_06	D7F7F390	~r~Too many of your gang have been killed.
+STP4_07	A0F0C306	~S~Get some new threads and a haircut, then drop by OG Loc's house party between 8pm and 6am.
+STR4A00	52EC8BBF	Hey, fuck you, man!
+STR4A01	25EBBB29	And I don't care what you heard,
+STR4A02	BCE2EA93	I ain't nobody's Ass Technician, bitch!
+STR4A03	CBE5DA05	Hey, hey, whassup, Loc?
+STR4A04	55814FA6	'Technician' ain't gangsta, that's wassup!
+STR4A05	22867F30	I heard that!
+STR4A06	BB8F2E8A	Listen, Carl
+STR4A07	CC881E1C	If I'm going back to a cell, I wanna have a big party first.
+STR4A08	5C37038D	This may be my last chance to get heard.
+STR4A09	2B30331B	Okay, so what's the plan?
+STR4A10	4BF7BAFE	Well I'm gonna slide back over to Grove Street
+STR4A11	3CF08A68	and get those sounds bombastic-fantastic.
+STR4A12	A5F9DBD2	Alright, so what do you want me to do?
+STR4A13	D2FEEB44	I want you to get ready for the party! Then get some girls, man!
+STR4A14	4C9A7EE7	Get some real fly girls, you know what I'm saying?
+STR4A15	3B9D4E71	I told you, brother, I am the chronicler of our struggle,
+STR4A16	A2941FCB	the voice of the Families, like Moses,
+STR4A17	D5932F5D	only keeping it real. You know what I'm saying?
+STR4A18	452C32CC	Yeah... Uh-huh... That's what I'm talking about!
+STR4A19	322B025A	The ones in bikinis and shit, in the videos?
+STR4A20	60DAE93D	OK...
+STR4A21	17DDD9AB	You said it!
+STR4B00	50AA35E6	Yeah, yeah, yeah... This is me, OG Loc, in the house, baby...
+STR4B01	27AD0570	And I'm gonna... drop it down for all my real gangsta niggaz...
+STR4B02	BEA454CA	All the homies in the back, man, away from this whack music.
+STR4B03	C9A3645C	All of my gangsta bitches... Speaking about gangsta,
+STR4B04	57C7F1FF	look at my man CJ right there - what up, nigga? What UUUUUUUUPPPP...
+STR4B05	20C0C169	Yeah, yeah, let me here you say O... G...
+STR4B06	B9C990D3	Hey, what's dope, baby, And it's Loc baby, It's dope, It's Loc, No joke, No joke...
+STR4B07	CECEA045	I'm the man in the place, Punch you in the face, A gun in my waist...
+STR4B08	5E71BDD4	It's Loc, baby! Yo it's Loc Loc - it's Loc Loc...
+STR4B09	29768D42	Let me hear you say LOC!
+STR4B10	49B104A7	Scream!
+STR4B11	3EB63431	Damn, man, his lyrics is horrible!
+STR4B12	A7BF658B	That dude needs some work, man.
+STR4B13	D0B8551D	What up, fellas.
+STR4B14	4EDCC0BE	Hey, whats up with you, baby!
+STR4B15	39DBF028	So you back on the block, huh?
+STR4B16	A0D2A192	Hell, yeah!
+STR4B17	D7D59104	- You a real killer, huh?~n~- What he done that I ain't - huh?
+STR4B18	476A8C95	What he done that I ain't - huh?
+STR4B19	306DBC03	- What you talkin' about, nigga?~n~- Yeah, relax, man!
+STR4B20	629C5764	Hey, a Ballas posse is about to run up!
+STR4B21	159B67F2	They headed up here right now!
+STR4B22	8C923648	Looks like we backed them Ballas against the wall, huh?
+STR4B23	FB9506DE	Hey, CJ, strap up! It's Grove Street!
+STR4B24	65F1937D	Hey, what's happening with you, man?
+STR4B25	12F6A3EB	OK, chillin', chillin', that's right, OK...
+STR4B26	8BFFF251	Yeah, what's up, folks? Yeah...
+STR4B27	FCF8C2C7	Looooc!
+STR4B28	6C47DF56	...thought the motherfucking mic was broke...
+STR4B29	1B40EFC0	Hey, what's up, homie!
+STR4B30	7B876625	What's up, Ryder.
+STR4B31	0C8056B3	- Man, I'm furious.~n~- C'mon.
+STR4B32	95890709	C'mon.
+STR4B33	E28E379F	Hell, yeah.
+STR4B34	7CEAA23C	Yeah, relax, man!

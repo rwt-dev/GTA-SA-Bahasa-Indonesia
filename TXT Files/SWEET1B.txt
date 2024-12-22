@@ -1,0 +1,128 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+BALLA_1	24676983	Grove Street's going down!
+BALLA_2	BD6E3839	Fuck them Grove Street fools!
+RYDX_AL	AF7A4296	Hey buster, wait up!
+RYDX_AM	D87D7200	Don't you bust on me!
+RYDX_AN	417423BA	Wait up, CJ!
+RYDX_AO	3673132C	Hold up, fool!
+RYDX_AP	BB7B1ED9	Hey, CJ, where you at?
+RYDX_BC	14E80CC4	Ninja these motherfuckers!
+SW1B_1	1960B015	~s~Go to the ~y~dealer's place~s~.
+SW1B_A	4965C129	~s~Go to ~y~B Dup's crib~s~.
+SW1B_B	D06C9093	~s~Go beat up the ~r~crack dealer~s~.
+SW1B_F	D701548A	~s~Go back to ~y~Sweet's house~s~.
+SW1B_G	A006641C	~r~Ryder is dead!
+SW1B_H	30B9798D	~s~You're too far away from ~b~Ryder~s~, go back and get him.
+SWE1_SA	4E0CB505	Hey partner I'm working man, what you need? What you need, dog?
+SWE1_SB	D705E4BF	Dog, I got quality shit right here.
+SWE1_TA	014D23C2	Now Ballas know Grove Street Families on their way back up.
+SWE1_TB	98447278	For sure, homie - and what's more, you didn't even run out on me!
+SWE1_TC	EF4342EE	Time's changing...
+SWE1_TD	7127D74D	Aww man, they gonna be mad at us.
+SWE1_TE	0620E7DB	Man, I'll warn the gang later.
+SWE1_TF	9F29B661	For now, let's just bask in the silence of victory, motherfucker.
+SWE1_UA	18561283	Now that the base ain't getting pushed up in their faces...
+SWE1_UB	815F4339	Maybe these fools should be up for some real bangin'!
+SWE1_UC	F65873AF	Yeah, Grove gonna get back on its feet now for sure though.
+SWE1_UD	683CE60C	Later, homie.
+SWE1_VA	337B4140	This ain't got nothing to do with me, officers!
+SWE1_VB	AA7210FA	Yeah, that's him over there, officers!
+SWE1_VC	DD75206C	Shit, I'm outta here!
+SWE1_WA	2A607001	CJ! Get up CJ!
+SWE1_WB	B36921BB	CJ! Quit faking! Get up, fool!
+SWE1_WC	C46E112D	This ain't no time for a nap, CJ!
+SWE1_XA	ADF86CCE	OH SHIT, RYDER!
+SWE1_XB	34F13D74	Oh man, Ryder, get up!
+SWE1_YA	B4E35D8F	The 'hood's all messed up, huh?
+SWE1_YB	2DEA0C35	Yeah, you try to get any of these crack heads to help you out.
+SWE1_YC	5AED3CA3	No wonder the Families ain't up on it.
+SWE1_YD	C489A900	Apart from Smoke, Sweet, and you know, yours truly,
+SWE1_YE	B38E9996	Grove Street don't bang no more.
+SWE1_YF	2A87C82C	Yeah, just get blow.
+SWE1_YG	5D80F8BA	For sure.
+SWE1_YH	CD3FE52B	Let's just cruise through the hood and find us somebody selling.
+SWE1_YJ	23318407	Yeah, introduce him to this bat!
+SWE1_YK	5436B491	Hey, check it out! Somebody's selling to one of the homies!
+SWE1_YL	CA522132	CJ! Look! Over there! That's who we looking for!
+SWE1_YM	BD5511A4	Man, I know this cat!
+SWE1_YN	245C401E	He a punk, used to run with a Front Yard Balla OG from Idlewood.
+SWE1_YO	535B7088	I know his place, it's just across the tracks there.
+SWE1_YP	DE537D7D	Let's check it out!
+SWE1_YQ	A9544DEB	Eh, ain't that Front Yard turf?
+SWE1_YR	305D1C51	Man, are you a busta?
+SWE1_YS	475A2CC7	No, I'm down, homie!
+SWE1_YT	D93EB964	Man, we on a serious mission now.
+SWE1_YU	AE3989F2	Man, don't sweat it, homie - everybody in the hood knows Ballas are pussies.
+SWE1_YV	3730D848	Oo-ee! Man, you can smell a crack den a mile away!
+SWE1_YW	4037E8DE	Yeah, let's shoot through and introduce ourselves.
+SWE1_YX	D088F54F	Good afternoon, Balla dope pushers!
+SWE1_YY	A78FC5D9	Grove Street OG's come to do damage!
+SWE1_ZA	9FCE0E4C	Hey, grab yourself a stick!
+SWE1_ZB	06C75FF6	Hey, fool, grab a junky club!
+SWE1_ZC	71C06F60	Hey! Grab hold of that bat over there!
+SWE1_ZD	EFA4FAC3	Hey, let's head over to B Dup's tilt.
+SWE1_ZE	98A3CA55	Hey let's go get B Dup.
+SWE1_ZF	01AA9BEF	Hey, B Dup is only a couple of blocks away.
+SWE1B00	3320FCE8	Hey, you gotta keep it real, man.
+SWE1B01	4427CC7E	Man, nobody give a shit about the hood.
+SWE1B02	DD2E9DC4	All they do is sell yay and ruin the place.
+SWE1B03	AA29AD52	No crack ever made a gang tight.
+SWE1B04	344D38F1	Whassup, y'all?
+SWE1B05	434A0867	- Whassup, CJ?~n~- What's cracking?
+SWE1B06	DA4359DD	Man, all they care about is smoking and money.
+SWE1B07	AD44694B	You can't knock a homie's hustle, Sweet.
+SWE1B08	3DFB74DA	Them marks ain't soldiers. They're idiots trying to be business men.
+SWE1B09	4AFC444C	Yeah, but they're down with us, man.
+SWE1B10	2A3BCDA9	All they down with is money.
+SWE1B11	5D3CFD3F	CJ - go down there and show these fools you mean business.
+SWE1B12	C435AC85	These chumps from the Ballas are sweating the homies.
+SWE1B13	B3329C13	Go put pressure on them. Just do it.
+SWE1B14	2D5609B0	We been putting time in the hood,
+SWE1B15	5A513926	but we gotta get the homies back together,
+SWE1B16	C358689C	like the old days.
+SWE1B17	B45F580A	Yeah, you right! So you and Ryder go handle your business!
+SWE1B18	24E0459B	Man, they'd slang to their own momma. They don't care about nothing.
+SWE1B19	53E7750D	You're na¤ve, my friend. We gotta keep our focus.
+SWE1B20	01169E6A	We need some back up. You seen B Dup?
+SWE1B21	7611AEFC	Nah, but him and the homeboy Bear
+SWE1B22	EF18FF46	they'd be good to have on our side.
+SWE1B23	981FCFD0	Oh! Big Bear? Yeah, them base slangers going to be sorry now.
+SWE1B24	067B5A73	I do!
+SWE1B25	717C6AE5	I don't know, man.
+SWE1B26	E8753B5F	What's cracking?
+SWE1B27	9F720BC9	Mmm hmmm, yeah.
+SWE1C00	32E296DF	Open up! You sure he still live here?
+SWE1C01	45E5A649	CJ? What the fuck you want? Get the fuck outta here.
+SWE1C02	DCECF7F3	Wait, hold up, man. What happened to 4 life, nigga?
+SWE1C03	ABEBC765	The only thing that matters is the hood, homie,
+SWE1C04	358F52C6	You know what, man? Get the fuck outta here before you be laying on your back.
+SWE1C05	42886250	Hey, Bear? Big Bear, that's you? Hey, you still from the hood, homie, or what?
+SWE1C06	DB8133EA	Nah, the only thing Bear give a fuck about is smoking and keeping my house clean.
+SWE1C07	AC86037C	Ain't that right, Big Bear?
+SWE1C08	3C391EED	Hell yeah.
+SWE1C09	4B3E2E7B	Hell yeah, what?
+SWE1C10	2BF9A79E	Hell, yeah, sir!
+SWE1C11	5CFE9708	Now go make that motherfucking toilet sparkle.
+SWE1C12	C5F7C6B2	Oh - no, man... Bear! Come on!
+SWE1C13	B2F0F624	Everyone likes to party sometimes, CJ. I'll see you around.
+SWE1C14	2C946387	Stay the fuck from around here - punk!
+SWE1C15	5B935311	Hey, nigga, fuck you!
+SWE1C16	C29A02AB	I see what you mean now, man. If crack can do that to Big Bear, turn him into a base slave,
+SWE1C17	B59D323D	the average motherfucker ain't got a chance.
+SWE1C18	25222FAC	Damn dope fiends and drug addicts everywhere in this city. Piss me off.
+SWE1C19	52251F3A	Looks like it's up to us then.
+SWE1C20	00D4F45D	Hey, slow down, fool. You don't even know which door it is.
+SWE1C21	77D3C4CB	Whatever, man. This it?
+SWE1C22	EEDA9571	Yeah, this is it right here.
+SWE1C23	99DDA5E7	Fool, I told you this it.
+SWE1C24	07B93044	Open up!
+SWE1C25	70BE00D2	Who the fuck is it?
+SWE1C26	E9B75168	but you'll never understand what getting this money is like.
+SWE1C27	9EB061FE	Big Bear, come check this fool.
+SWE1C28	0E0F7C6F	Oh, no. man!
+SWE1C29	79084CF9	Damn - this shit's fucked up.

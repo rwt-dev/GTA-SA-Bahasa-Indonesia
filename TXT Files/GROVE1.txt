@@ -1,0 +1,150 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+GM1_1	F324C25D	~s~Go to ~y~Glen Park~s~.
+GM1_12	DDFE580B	~r~Big Bear is dead!
+GM1_15	439ACDA8	~s~Go and confront ~y~B Dup~s~.
+GM1_16	DA939C12	~s~Get back to ~y~Glen Park~s~ and take over the ~y~territory~s~!
+GM1_17	AD94AC84	~s~The enemy have retaken the territory!
+GM1_18	3D2BB115	~s~Get to ~y~B Dup's~s~ house.
+GM1_2	6A2D93E7	~s~You have left ~b~Sweet~s~ behind go get him.
+GM1_3	1D2AA371	~s~Attack the Ballas and take over their territory.
+GM1_4	834E36D2	~r~Sweet's dead!
+GM1_7	1A476768	SWEET
+GM1_9	FDFF4A6F	~s~Kill B Dup's ~r~Guards~s~!
+GR1A@00	9495E77B	Just a little bit of party. I heard you was down.
+GR1A@01	E392D7ED	So I gotta gift from B Dup.
+GR1A@02	7A9B8657	Come on now, I can't do that.
+GR1A@03	0D9CB6C1	C'mon, Sweet, come on - make sure you enjoy this.
+GR1A@04	93F82362	This is a rich man's high. All the players are doin' it.
+GR1A@05	E4FF13F4	I know you're gonna enjoy this. It takes the pain away...
+GR1A@06	7DF6424E	C'mon, Sweet...
+GR1A@07	0AF172D8	Oh, what the hell you doin'!?
+GR1A@08	9A4E6F49	Man, everything is caine, caine, caine.
+GR1A@09	ED495FDF	Man, I just wanna see what's so good.
+GR1A@10	8D8ED63A	What's wrong with you, man?
+GR1A@11	FA89E6AC	Man, this shit already destroyed the whole 'hood.
+GR1A@12	6380B716	I... I might as well let it destroy me, too.
+GR1A@13	14878780	Man, you don't need that shit, Sweet.
+GR1A@14	8AE31223	What do you know about this?
+GR1A@15	FDE422B5	THIS is what it boils down to now.
+GR1A@16	64ED730F	Come on, Sweet. Toke the smoke.
+GR1A@17	13EA4399	Hey, man, that shit'll steal your heart.
+GR1A@18	83555E08	You can't see that?
+GR1A@19	F4526E9E	- This bitch talks nice to you and this is what you do?~n~- Aw, fuck this!
+GR1A@20	A6A385F9	You're going to have to deal with B Dup.
+GR1A@21	D1A4B56F	What? B DUP? We can handle that shit right now, man.
+GR1A@22	48ADE4D5	Come on, Sweet.
+GR1A@23	3FAAD443	Yeah. Damn. What was I thinking?
+GR1A@24	A1CE41E0	Well, B DUP said that crack had to get smoked,
+GR1A@25	D6C97176	so I guess I'm on my own.
+GR1A@26	4FC020CC	Oh, yeah?
+GR1A@27	38C7105A	Shit.
+GR1A@28	A8780DCB	Aw, fuck this!
+GR1A@29	DF7F3D5D	Get your ass outta here. Bitch!
+GR1B@00	86204895	Hey, B Dup! Open up!
+GR1B@01	F1277803	Yo, Dup ain't here. Moved out a while back.
+GR1B@02	682E29B9	Where'd he go, dickhead?
+GR1B@03	1F29192F	Yo yo yo, you're messing up a cat's colors, dude!
+GR1B@04	814D8C8C	Yo, I got something, a little something, just what you need...
+GR1B@05	F64ABC1A	I don't want none of that shit!
+GR1B@06	6F43EDA0	I oughta split your wig right now!
+GR1B@07	1844DD36	Sweet, no, you trippin', you trippin', man - c'mon, put the gun down!
+GR1B@08	88FBC0A7	He a base-head, man!
+GR1B@09	FFFCF031	Shit. He wearing Family colors,
+GR1B@10	9F3B79D4	that's supposed to make him somebody.
+GR1B@11	E83C4942	Look, fool, tell us where B Dup is,
+GR1B@12	713518F8	and we outta here.
+GR1B@13	0632286E	He lives over Glen Park way - his boy always there,
+GR1B@14	9856BDCD	give a cat what he needs.
+GR1B@15	EF518D5B	B Dup!
+GR1B@16	7658DCE1	Hey, open the door, punk!
+GR1B@17	015FEC77	Fool!
+GR1B@18	91E0F1E6	Speak up, fool!
+GR1B@19	E6E7C170	Nononono! No! Ah! No!
+GR1B@20	B4162A17	You're lucky.
+GR1C@00	3E9C2FF0	Say something!
+GR1C@01	499B1F66	Hey, hey, no! I had no choice. I was threatened!
+GR1C@02	D0924EDC	Shit came from the boss, homie!
+GR1C@03	A7957E4A	Pop this motherfucker, man. I'm tired of hearing his bullshit.
+GR1C@04	39F1EBE9	No, man! I'm sorry, dog - Smoke's fuckin' crazy.
+GR1C@05	4EF6DB7F	He's paranoid - just sits in the house,
+GR1C@06	D7FF8AC5	thinking other fools want his business!
+GR1C@07	A0F8BA53	Where's Smoke?
+GR1C@08	3047A7C2	I can't tell you that.
+GR1C@09	47409754	Then I'll snatch your fucking tongue out!
+GR1C@10	27871EB1	Man, I ain't saying nothing, homie, 'cause I don't know!
+GR1C@11	50802E27	Only his lieutenants know where he's at!
+GR1C@12	C9897F9D	I oughta wet your shirt anyway!
+GR1C@13	BE8E4F0B	Bear! Hey, Bear! Get the fuck out here!
+GR1C@14	20EADAA8	What's up, your lordship?
+GR1C@15	57EDEA3E	Kill these motherfuckers and I'll give you a whole quarter sack. Now handle that.
+GR1C@16	CEE4BB84	Shoot them! What the fuck is wrong with you? You ain't hear what the fuck I said?
+GR1C@17	B9E38B12	I'm tired of smoking, I'm tired of crack
+GR1C@18	295C9683	and I'm tired of doing your fucking housework.
+GR1C@19	5E5BA615	CJ, man, c'mon, put me back on the team.
+GR1C@20	0CAA4D72	Gimme twenty bucks, and I'm all yours, man.
+GR1C@21	7BAD7DE4	Blast from the past.
+GR1C@22	E2A42C5E	Hey, let's take a ride, homie - I'm gonna shoot you somewhere you're gonna enjoy.
+GR1C@23	95A31CC8	Bear, what the fuck you doing? Come on, man. I take care of you!
+GR1C@24	0BC7896B	Oh, shit! Man, what the fuck you do that for, man?
+GR1C@25	7CC0B9FD	I'm free!
+GRO1_AA	BF14F419	CJ, you take care of Bear, OK?
+GRO1_AB	261DA5A3	Yeah, for sure. C'mon Bear, time for a little detox!
+GRO1_AC	511A9535	Oh man, do I have to?
+GRO1_AD	CF7E0096	Have you looked at yourself in the mirror lately?
+GRO1_AE	B8793000	Most successful diet I ever been on!
+GRO1_BA	9439A7DA	I got Bear's back, man.
+GRO1_BB	0D30F660	A'ight. I'll see you in a minute Bear!
+GRO1_BC	7A37C6F6	Where we going, Sweet?
+GRO1_BD	E4535355	Someplace where we can get old Bear back!
+GRO1_BE	935463C3	A'ight. I'm down for that...
+GRO1_CA	8D22969B	How'd B Dup get his claws into you, Bear?
+GRO1_CB	142BC721	Man, Grove Street Families used to be tight, man.
+GRO1_CC	632CF7B7	Then Li'l Brian caught it, you ran off.
+GRO1_CD	FD486214	I don't mean to dis you, man, but you did.
+GRO1_CE	8A4F5282	I know, but I'm back now.
+GRO1_CF	13460338	True, homie, that's real speed.
+GRO1_CG	644133AE	Anyways man, Sweet, he just became a hard man to deal with, you know?
+GRO1_CH	F4FE2E3F	Then we got bad blood with Seville Boulevard Families and
+GRO1_CJ	1AF04F13	they split from the Grove. Then Temple, hell,
+GRO1_CK	6DF77F85	they went loneranger too
+GRO1_CL	F393EA26	Sweet, man, he did absolutely nothing.
+GRO1_CM	8494DAB0	Next thing I knew B Dup's, he's making money, Grove Street, they set tripping.
+GRO1_CN	1D9D8B0A	Streets ain't no place to be when every fool is trying to make a move.
+GRO1_CO	6A9ABB9C	So I tried my first blast - see what the fuss is all about, right?
+GRO1_CP	E792B669	Now look at me, a rockstar...
+GRO1_CQ	909586FF	Ain't nothing to be proud of, man.
+GRO1_CR	099CD745	We gonna put all this behind us, Bear.
+GRO1_CS	7E9BE7D3	Grove is coming back and the OG posse is on the bounce!
+GRO1_DA	C263005C	Go on in, Bear, you know we're here for you, a'ight?
+GRO1_DB	5B6A51E6	For life, CJ.
+GRO1_EA	DB78311D	That bitch B Dup got a shit load of pain comin' his way.
+GRO1_EB	427160A7	Let's head over to his crib, see what that fool's been up to.
+GRO1_FA	F05562DE	What were you thinking back there, bro?
+GRO1_FB	695C3364	I'm tired, man, I'm real tired.
+GRO1_FC	1E5B03F2	Tired of putting the work in and still shit don't get better.
+GRO1_FD	803F9651	Tired of seeing my family fall apart.
+GRO1_FE	F738A6C7	Sweet, man, you got more heart than that.
+GRO1_FF	6E31F77D	Sure things are screwed up now, but we fittin' to turn a corner, man.
+GRO1_FG	1936C7EB	The day is comin' when the Johnson family will be at the top.
+GRO1_FH	8989DA7A	And it's coming real soon.
+GRO1_FJ	6787BB56	I hear you, CJ, you're there for us, I know that.
+GRO1_GA	E94E539F	Dude, get a grip, we can't take that!
+GRO1_GB	70470225	No way, hell no!
+GRO1_HA	6ED64F50	Here we are.
+GRO1_HB	F7DF1EEA	Hope that fool's home.
+GRO1_JA	5CE02DD2	Oh man, Glen Park!
+GRO1_JB	C5E97C68	Heart of Kilo Trays country.
+GRO1_JC	B2EE4CFE	Fuck it, I'm down, and that fool had it coming too long.
+GRO1_JD	2C8AD95D	We'll take the whole neighborhood apart!
+GRO1_JE	5B8DE9CB	Yeah - let's roll.
+GRO1_KA	45FB1C93	Hit those Ballas hard!
+GRO1_KB	DCF24D29	Johnson boys rollin' through!
+GRO1_LA	0ABA8A54	OK, the neighborhood's sewed up now.
+GRO1_LB	93B3DBEE	No sign of B Dup though, dog.
+GRO1_LC	E4B4EB78	Check that place over there.
+GRO1_LD	7AD07EDB	That's it, I know it!

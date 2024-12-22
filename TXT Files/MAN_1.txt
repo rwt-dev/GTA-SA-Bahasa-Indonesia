@@ -1,0 +1,127 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+BH1@00	A5BCF2E8	Don't hate the little man, because he's packing a 6 shooter!
+BH1@01	D2BBC27E	Next.
+BH1@02	4BB293C4	Thank you.
+BH1@03	3CB5A352	Thank you? Thank you?!
+BH1@04	A2D136F1	Do you know how much balls it takes to stand down here
+BH1@05	D5D60667	and sing a song like that? It takes guts!
+BH1@06	4CDF57DD	I'm sorry. We're just looking for something with a little more mass appeal.
+BH1@07	3BD8674B	What could have more mass appeal than a song
+BH1@08	AB677ADA	like "Small But Perfectly Formed"?
+BH1@09	DC604A4C	Women want me. Men want to be like me!
+BH1@10	BCA7C3A9	Assholes!
+BH1@11	CBA0F33F	Damn! This casino game is hard work.
+BH1@12	52A9A285	I thought it was just a case of opening the doors
+BH1@13	25AE9213	and letting suckers give you their money.
+BH1@14	BBCA07B0	If only.
+BH1@15	CCCD3726	You know what? I'm getting bored here.
+BH1@16	55C4669C	I'm trying to do business, not audition midgets.
+BH1@17	22C3560A	People of reduced stature, you mean.
+BH1@18	B27C4B9B	Yeah, yeah, I said that.
+BH1@19	C57B7B0D	All I know is, when are we gonna get some real talent in here?
+BH1@20	978A906A	Madd Dogg!
+BH1@21	E08DA0FC	CJ! I'm clean, dude!
+BH1@22	7984F146	That's good news, man. Hey, what's cracking?
+BH1@23	0E83C1D0	You ready to take it to the stage again?
+BH1@24	90E75473	Easy, CJ, c'mon man. One step at a time, you know? I'm almost ready, but, but...
+BH1@25	E7E064E5	But what?
+BH1@26	7EE9355F	I want to go home now, CJ.
+BH1@27	09EE05C9	That's cool, man, I'll take you. Where's home?
+BH1@28	99511858	My mansion, baby.
+BH1@29	EE5628CE	Yeah, I heard about that place.
+BH1@30	8E91A12B	Drugs, sex, all that shit.
+BH1@31	F99691BD	Yeah, yeah I been there.... I mean, I seen it on TV.
+BH1@32	609FC007	- Nice crib.~n~- Thanks, player.
+BH1@33	1798F091	wait for Sweet. Get things moving.
+BH1@34	89FC6532	Get out dis midget game.
+BH1@35	FEFB55A4	But, CJ... Come on, man...
+BH1@36	67F2041E	What? I saved your life, man!
+BH1@37	10F53488	My mansion ain't big enough. Only got 19 bedrooms, you hear?
+BH1@38	804A2919	A'ight, man, my mansion's been seized.
+BH1@39	F74D198F	IRS?
+BH1@40	C1D037EC	Nah, not exactly.
+BH1@41	B6D7077A	Who?
+BH1@42	2FDE56C0	Nobody.
+BH1@43	58D96656	Who, Madd Dogg?
+BH1@44	C6BDF3F5	A'ight, Big Poppa.
+BH1@45	B1BAC363	Big Poppa! The drug dealer?
+BH1@46	28B392D9	Man... you gave your multi million-dollar mansion to a motherfucking pusher?
+BH1@47	5FB4A24F	You know, CJ, these things happen. I was powerless!
+BH1@48	CF0BBFDE	You fucking degenerate!
+BH1@49	B80C8F48	Oh - man! How much blow can one guy snort?
+BH1@50	D8CB06AD	It's not my fault, CJ!
+BH1@51	AFCC363B	Man, I should have let you jump! Come with me.
+BH1@52	36C56781	All of you! We're ALL going home.
+BH1@53	41C25717	You gotta be kidding me, right?
+BH1@54	DFA6C2B4	I heard that.
+BH1@55	A8A1F222	Yeah, you know it - but...
+BH1@56	31A8A398	Yeah.
+BH1@57	46AF930E	We could do with a place like that to set up in LS again,
+MAN1_03	2B69AA75	~s~Try to land on the ~y~mansion roof~s~ with the Triads.
+MAN1_04	B50D3FD6	~s~Get to the ~y~mansion roof~s~ and help the Triads.
+MAN1_05	C20A0F40	~s~Help keep the roof clear until the ~b~Triads~s~ arrive.
+MAN1_06	5B035EFA	~s~You will have to keep the roof clear until the ~b~Triads~s~ arrive.
+MAN1_07	2C046E6C	~s~The ~b~Triads~s~ have nearly arrived, don't let any of them die once they land.
+MAN1_08	BCBB73FD	~s~Get back to the roof the ~b~Triads~s~ have nearly arrived, don't let any of them die once they land.
+MAN1_09	CBBC436B	~s~Take the ~b~Triads~s~ inside the ~y~mansion~s~.
+MAN1_10	AB7BCA8E	~s~The ~b~Triads~s~ have arrived, go to the roof and collect them.
+MAN1_11	DC7CFA18	~r~You failed to protect the Triads.
+MAN1_13	32729B34	~s~Search the mansion for Big Poppa and kill anyone who gets in your way.
+MAN1_14	AC160E97	~s~The ~r~owner~s~ of the mansion is downstairs, take him out.
+MAN1_20	8056994D	~r~Big Poppa~s~ is downstairs, take him out.
+MAN1_21	F751A9DB	~r~Big Poppa~s~ is making a run for it, chase after him!
+MAN1_22	6E58F861	~r~Big Poppa~s~ has left the ~y~mansion~s~, follow him.
+MAN1_23	195FC8F7	~s~Chase down ~r~Big Poppa~s~ and run him off the road!
+MAN1_24	873B5D54	~r~You lost Big Poppa.
+MAN1_30	994DA80C	You have taken back Madd Dogg's mansion.
+MAN1_AA	A346F2D2	Die motherfuckers, none of you are leaving this house alive!
+MAN1_AB	3A4FA368	Who are you to break into this place, eh?
+MAN1_AC	4D4893FE	All you fools are gonna die!
+MAN1_AD	D32C065D	Ain't nobody gonna hear from you again!
+MAN1_BA	886BA111	You chose the wrong house to rob, fool!
+MAN1_BB	1162F0AB	You don't know who you're fucking with, do you?
+MAN1_BC	6665C03D	You trying to fuck with my house, with my shit?
+MAN1_BD	F801559E	I'm a fuck with YOU!
+MAN1_CA	91709050	Me and you gonna go in to clear the place out.
+MAN1_CB	0879C1EA	Good idea - the element of surprise.
+MAN1_CC	7F7EF17C	So the rest of the crew can move in in peace.
+MAN1_DA	DE310697	You ever jumped before?
+MAN1_DB	4738572D	Nah. You?
+MAN1_DC	303F67BB	Nah.
+MAN1_DD	AE5BF218	When we land, we're going feel invincible!
+MAN1_DE	D95CC28E	I AM INVINCIBLE!
+MAN1_DF	40559334	Hey, wait up!
+MAN1_DG	3752A3A2	WhaaaHOOOOOO!
+MAN1_DH	A7EDBE33	WhaaaHEEEEEE!
+MAN1_DJ	49E3DF1F	WhoooHOOOOOO!
+MAN1_EA	C72A37D6	We're heavily outnumbered, but if we all keep our heads, we should kick ass!
+MAN1_EB	5E23666C	Bastards! LET'S HIT'EM!
+MAN1_FA	EC076415	CJ, clear the corridor and we'll clear each room!
+MAN1_FB	750E35AF	CJ, clear the corridor and I'll check each room!
+MAN1_FC	02090539	Room clear!
+MAN1_FD	9C6D909A	This one's clear!
+MAN1_FE	EB6AA00C	CLEAR!
+MAN1_FF	7263F1B6	OK, it's clear!
+MAN1_FG	0564C120	You go ahead, CJ, we'll hold the balcony!
+MAN1_FH	95DBDCB1	You go ahead, CJ, I'll stay and hold the balcony!
+MAN1_FJ	7BD5BD9D	Clear that corridor and I'll take each room!
+MAN1_FK	0CD28D0B	Room clear!
+MAN1_FL	92B618A8	This room's clean!
+MAN1_FM	E5B1283E	No one in there!
+MAN1_FN	7CB87984	No one left in here!
+MAN1_FO	0BBF4912	Go ahead, CJ, I'll hold this balcony!
+MKND02A	19A52732	Hello.
+MKND02B	80AC7688	Hey, what's up, Carl?
+MKND02C	F7AB461E	Hey Kendl, wassup?
+MKND02D	69CFD3BD	Nothing - just thought I'd wish you luck.
+MKND02E	1EC8E32B	We're gonna drive back to uh San Fierro first,
+MKND02F	87C1B291	Wanna check things out there before we hook up with you guys in Los Santos.
+MKND02G	F0C68207	Alright cool, you be careful.
+MKND02H	60799F96	I'll be fine, I got Cesar and Madd Dogg to keep me safe.
+MKND02J	8E77FEBA	You be careful.
+MKND02K	F970CE2C	I will. I'll see you in Los Santos.

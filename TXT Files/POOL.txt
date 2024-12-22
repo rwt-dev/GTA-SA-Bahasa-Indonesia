@@ -1,0 +1,52 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	625D51AA	Use the movement controls to position the cue ball. Press ~m~~widget_gambling_continue~ to continue. Press ~m~~widget_minigame_cancel~ to quit.
+	3B90AF45	Press and hold ~m~~widget_place_bet~ to increase wager. Press and hold ~m~~widget_remove_bet~ to decrease wager. Press ~m~~widget_minigame_cancel~ to quit.
+	E6F02C57	Slide your finger down on the screen and release to shoot. Tap ~m~~widget_minigame_cancel~ to go back to aiming.
+	D59ECE69	Press ~m~~widget_gambling_continue~ to continue.
+	A299FEFF	Use movement controls to aim the cue. Press ~m~~widget_camera~ to change view. Press ~m~~widget_gambling_continue~ to proceed to shooting. Press ~m~~widget_minigame_cancel~ To quit.
+	0095D2E2	Press ~m~~widget_attack~ to shoot. Press ~m~~widget_minigame_cancel~ to go back to aiming.
+	1E63AF39	Press ~m~~widget_gambling_continue~ to continue.
+COMMA	D9B73CCD	~1~,
+FOUL1	4A7C0108	Foul! Missed all balls
+FOUL2	D37550B2	Foul! Hit wrong ball first!
+FOUL3	A4726024	Foul! Pocketed white!
+FOUL4	3A16F587	Foul! Pocketed wrong color!
+FOUL5	4D11C511	Foul! Pocketed black out of turn!
+FOUL6	D41894AB	Foul! No balls hit the rail!
+NUM	B51B121B	~1~
+PL_01	39747FE8	CJ
+PL_02	A07D2E52	Player 2
+PL_03	D77A1EC4	Opponent
+PL_04	491E8B67	Foul!
+PL_05	3E19BBF1	Pocketed Ball!
+PL_06	A710EA4B	Pocketed Balls!
+PL_07	D017DADD	You Win!~n~~w~$~1~
+PL_08	40A8C74C	Player 1 Wins!
+PL_09	37AFF7DA	Player 2 Wins!
+PL_10	57687E3F	~r~You Lost!~n~~w~-$~1~
+PL_11	206F4EA9	Game Over
+PL_12	B9661F13	Solids
+PL_13	CE612F85	Stripes
+PL_14	5005BA26	Black
+PL_15	27028AB0	Open Table
+PL_16	BE0BDB0A	Scratch
+PL_17	C90CEB9C	Ball in hand
+PL_H1	DE928C16	Press and hold ~m~~widget_place_bet~ to increase wager. Press and hold ~m~~widget_remove_bet~ to decrease wager. Tap ~m~~widget_minigame_cancel~ to quit.
+PL_H3	309CED3A	Use movement controls to aim the cue. Tap ~m~~widget_camera~ to change view. Tap ~m~~widget_gambling_continue~ to proceed to shooting. Tap ~m~~widget_minigame_cancel~ To quit.
+PL_H4	AEF87899	Use movement controls to aim the cue. Scroll ~m~~widget_camera~ to change view. Press ~m~~widget_gambling_continue~ to proceed to shooting. Press ~m~~widget_minigame_cancel~ To quit.
+PL_H5	D9FF480F	Tap ~m~~widget_gambling_continue~ to continue.
+PL_H6	40F619B5	Drag the cue ball to position it. Tap ~m~~widget_gambling_continue~ to continue. Tap ~m~~widget_minigame_cancel~ to quit.
+PL_H8	A74E34B2	Tap ~m~~widget_gambling_continue~ to continue.
+POOL_B1	40581DA2	Let's make a little wager.
+POOL_B2	D9514C18	Game of pool ain't the same without a little money involved.
+POOL_B3	AE567C8E	Show me the color of your money
+POOL_B4	3032E92D	I'll only play you if you want to make it interesting.
+POOL_B5	4735D9BB	You want to place a small wager?
+POOL_B6	DE3C8801	C'mon, put your money where your mouth is playa.
+POOL01	AC7F9335	You want to shoot some pool, choose your wager.
+SCORE	3A320A1E	Info

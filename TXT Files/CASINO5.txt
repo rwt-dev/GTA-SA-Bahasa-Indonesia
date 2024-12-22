@@ -1,0 +1,75 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+CAS5_00	F54D44F6	~s~Find a ride and go pick up Johnny Sindacco from the ~y~hospital~s~.
+CAS5_01	824A7460	~s~You need a vehicle to pick up Johnny.
+CAS5_03	6C44154C	~s~It must have been the Mafia that took Johnny, find the ~r~ambulance~s~ that contains Johnny.
+CAS5_04	F22080EF	~s~Ram the ~r~ambulance~s~ and see how the driver reacts.
+CAS5_05	8527B079	~s~Johnny must be in one of the other ~r~ambulances,~s~ this one's the real deal.
+CAS5_06	1C2EE1C3	~s~Johnny must be in the other ~r~ambulance~s~, this one's the real deal.
+CAS5_07	6B29D155	~s~You have just killed an innocent medic, Johnny must be in one of the other ~r~ambulances~s~.
+CAS5_08	FB96CCC4	~s~You have just killed an innocent medic, Johnny must be in the other ~r~ambulance~s~.
+CAS5_09	8C91FC52	~s~Looks like this is the ~r~ambulance~s~ that took Johnny, smash it up a bit and show the Mafia you mean business.
+CAS5_10	EC5675B7	~s~You have alerted the Mafia to your presence, smash up the ~r~ambulance~s~ a bit and show them you mean business.
+CAS5_11	9B514521	~s~Quick get in the ~b~ambulance~s~ before any backup arrives.
+CAS5_12	0258149B	~s~Quick get in the ~b~ambulance~s~ the driver might have called for backup before he was killed.
+CAS5_13	755F240D	~s~Drive Johnny back to the ~y~meat factory~s~.
+CAS5_14	EB3BB1AE	~s~Take Johnny back to the ~y~meat factory~s~.
+CAS5_15	9C3C8138	~s~Get back in the ~b~ambulance~s~.
+CAS5_16	0535D082	~s~Looks like some backup has arrived, get Johnny back to the ~y~meat factory~s~.
+CAS5_17	7232E014	~r~Johnny Sindacco was killed.
+CAS5_30	DE601735	~s~The Mafia have been alerted by a distress call from the ambulance you just hit.
+CAS5_31	A96727A3	~s~Find the actual ~r~ambulance~s~ that the Mafia have taken before they escape!
+CAS5_32	306E7619	~r~The Mafia have escaped with Johnny.
+CAS5_AA	E46B4DEB	So here I am, about to try and rescue some guy I've scared half to death.
+CAS5_AB	7D621C51	If he wake up through all of this, I'm screwed...
+CAS5_BA	CF461E28	Hello, Sir, can I help you?
+CAS5_BB	564F4F92	Yeah, I'm here to pick up Mr. Sindacco.
+CAS5_BC	21487F04	Mr. Sindacco? There must be some mistake.
+CAS5_BD	BF2CEAA7	An ambulance just picked him up.
+CAS5_BE	C82BDA31	Oh, OK. Thank you for your help.
+CAS5_CA	D65D2F69	Hey mother, mother is that you?
+CAS5_CB	4F547ED3	I see the light!
+CAS5_CC	38534E45	Uggh, never...never ever gonna talk like that again.
+CAS5_CD	A637DBE6	Fuck you, fuck you! Fuck fuck you!
+CAS5_CE	D130EB70	Oh my God, where am I?
+CAS5_CF	4839BACA	Nurse, hey nurse!
+CAS5_CG	3F3E8A5C	I need my bag emptied!
+CAS5_DA	991CB9AE	Hey, Johnny, how you feelin'?
+CAS5_DB	0015E814	I didn't think he was going to be discharged 'til tomorrow!
+CAS5_EA	800788EF	Alright, who's messing with Forelli business?
+CAS5_EB	190ED955	Yeah, who's got a death wish?
+CAS5A00	E3F5CA8C	Oi, Rosie, liven yourself up, Carl's here.
+CAS5A01	94F2FA1A	Hello.
+CAS5A02	0DFBABA0	Eh, there's some top fanny down at that pool, Pabsy.
+CAS5A03	7AFC9B36	Leave it out, dimlo, what's wrong with you?
+CAS5A04	E4980E95	Well are you going to tell him, or shall I?
+CAS5A05	939F3E03	I'm really screwed.
+CAS5A06	0A966FB9	Crack on, Rosie - spit it out.
+CAS5A07	7D915F2F	I threw it all away.
+CAS5A08	ED2E42BE	OK, I had the power, the money, the ladies...
+CAS5A09	9A297228	But I couldn't lay off the blow, so I went into rehab.
+CAS5A10	FAEEFBCD	And everything went to shit, but so what?
+CAS5A11	8DE9CB5B	So when I came out I started representing the Liberty City mob, again
+CAS5A12	14E09AE1	and that's how I ended up here.
+CAS5A13	63E7AA77	But, no one family would trust another family to run the casino,
+CAS5A14	FD833FD4	so I was put forth as a neutral party.
+CAS5A15	8A840F42	So now I spend my days waiting for one family to cap me
+CAS5A16	138D5EF8	and blame the other one.
+CAS5A17	648A6E6E	My only friend is a bird named Tony.
+CAS5A18	F43573FF	I never fucked anyone over in my life who didn't have it coming to 'em.
+CAS5A19	83324369	Shit - let me think about this. You're gonna have to break it down for me real quick.
+CAS5A20	D1C3A80E	OK, OK - the Sindaccos are on the warpath.
+CAS5A21	A6C49898	OK? I mean, something terrible has happened to Johnny.
+CAS5A22	3FCDC922	I mean, he's in a shock-induced coma at the hospital across town.
+CAS5A23	48CAF9B4	Now the Forellis - they will take this opportunity to rub him out.
+CAS5A24	D6AE6C17	Now if any hit between the families succeeds on my turf,
+CAS5A25	A1A95C81	I will get the axe, bullet, machete, whatever...
+CAS5A26	38A00D3B	I'm gonna shoot over to the hospital, and move the body or something.
+CAS5A27	4FA73DAD	There you go, my love, things ain't so bad, are they?
+CAS5A28	DF18203C	Badabing.
+CAS5A29	A81F10AA	What's happenin'.
+CAS5A30	C8D8994F	OK, OK, relax.

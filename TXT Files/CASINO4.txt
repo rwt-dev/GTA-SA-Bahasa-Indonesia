@@ -1,0 +1,220 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+CAS4_01	3AF61305	~s~Go find ~b~Paul ~s~and ~b~Maccer~s~.
+CAS4_02	A3FF42BF	~s~Go back and get ~b~Paul~s~!
+CAS4_03	D4F87229	~s~Go back and pick up ~b~Maccer~s~!
+CAS4_04	4A9CE78A	~r~Paul's literally wasted!
+CAS4_05	3D9BD71C	~r~Maccer's snuffed it, the music scene will never be same!
+CAS4_06	A49286A6	~s~Get them back to ~y~Rosie's casino~s~ in Las Venturas!
+CAS4_16	BD89B7E7	Take Paul and Maccer to the ~y~snake farm.
+CAS4_17	CA8E8771	That ain't right man, I'll never look at a rasher of back bacon the same way again
+CAS4_18	5A319AE0	I think I remember... hold on a mo, weren't you the one holding the video camera!
+CAS4_19	2D36AA76	~s~You need to find a vehicle with at least two passenger seats.
+CAS4_26	96A4E424	I think I broke a nail
+CAS4_27	E1A3D4B2	I'm too pretty to fight
+CAS4_29	061BF9B5	What's that smell?
+CAS4_30	66DC7050	Oh wait a minute it's me.
+CAS4_34	61B1B449	~s~Protect ~b~Paul ~s~and ~b~Maccer~s~!
+CAS4_37	F8B8E5F3	~s~Go and pick up ~b~Paul ~s~and ~b~Maccer~s~.
+CAS4_44	2EF0228E	~s~They're going to keep on fighting until you find a car with enough seats for the both of them.
+CAS4_45	59F71218	I ain't getting in no damn bus, go find us a proper ride!
+CAS4_46	C0FE43A2	~s~They're not going to be happy with a bus! find something else.
+CAS4_47	B7F97334	~r~Paul and Maccer have been killed!
+CAS4_BA	77FA794D	Me legs are fucked and me head's fuckin' poundin'!
+CAS4_BB	EEF328F7	We can't walk back, son, look at the state of us.
+CAS4_CA	6EE1480C	Your turn in the boot, kid!
+CAS4_CB	F7E819B6	Oooo, this is comfy!
+CAS4_CC	80EF2920	I'm the manager, I get the front seat!
+CAS4_CD	1E8BBC83	Oi! That's my seat!
+CAS4_CE	698C8C15	Leave him, he'll be fine!
+CAS4_CF	F085DDAF	We'll come back for you, I promise!
+CAS4_CG	8782ED39	Oh no you don't, I remember Preston Guild Hall!
+CAS4_CH	173DF0A8	I'm the manager, what I say, goes!
+CAS4_CJ	F9339184	Don't make me slap you, sunshine!
+CAS4_CK	8E34A112	Don't make me sack you, P.!
+CAS4_CL	105034B1	You're my manager this is all your fault!
+CAS4_DA	21A0DECB	So where's the rest of the band, guys?
+CAS4_DB	B8A98F71	Maccer, where are the boys?
+CAS4_DC	CFAEBFE7	I don't fuckin' know, do I.
+CAS4_DD	51CA2A44	I remember snakes, lots of snakes...
+CAS4_DE	26CD1AD2	It's a snake farm not too far from here, we can go check it out.
+CAS4_EA	38BBEF8A	I don't recognize this part of Manchester, kiddo, are we in Chorlton?
+CAS4_EB	A1B2BE30	How many times do I have to tell you, we're in America!
+CAS4_EC	D6B58EA6	America? Wait 'til I tell me ma about this!
+CAS4_ED	48D11B05	He's like a fucking stuck record. He'll ask about Las Venturas next.
+CAS4_EE	3FD62B93	Las Venturas? Always wanted to go there, great tits.
+CAS4_EF	A6DF7A29	Don't start, not in this confined space.
+CAS4_EG	D1D84ABF	Bouncy, wobbling, massive, great tits!
+CAS4_EH	4167572E	Leave yourself alone, for crying out loud!
+CAS4_FA	1396BC49	Here we are, look familiar?
+CAS4_FB	8A9FEDF3	Looks just like Salford to me...
+CAS4_FC	FD98DD65	What are you talking about?
+CAS4_FD	63FC48C6	Take a gander at 'em fellas, is that 'em?
+CAS4_FE	14FB7850	That there city boy has gone and been with my prize hog!
+CAS4_FF	8DF229EA	Now I don't even get no sugar from her!
+CAS4_FG	FAF5197C	And that one done screwed my sis!
+CAS4_FH	6A4A04ED	I've had a terr'ble aching in my grinds ever since!
+CAS4_FJ	844465C1	I'm gonna slap you silly for giving me and my fella the red bumpies!
+CAS4_FK	F3435557	What'n tarnation?
+CAS4_FL	6D27C0F4	I'm a fixing to give ya a whoopin' for what you gone and done to my young'uns!
+CAS4_GA	0A8D8D08	Oh, no! Run like fuck!
+CAS4_GB	9384DCB2	Everybody in the car!
+CAS4_HA	8D1591C7	Wait, kiddo, wait!
+CAS4_HB	141CC07D	I want to come too!
+CAS4_HC	631BF0EB	Oi, wait for me, sunshine!
+CAS4_HD	FD7F6548	Don't leave me in their evil clutches!
+CAS4_JA	BF23F345	I think we lost 'em.
+CAS4_JB	262AA2FF	I can't see those snake farmers no more!
+CAS4_JC	512D9269	Shut up, you two!
+CAS4_JD	CF4907CA	Quit squabbling!
+CAS4_KA	A638C204	Seems you boys had a good time.
+CAS4_KB	3F3193BE	Hey, what about the band?
+CAS4_KC	4836A328	We'll just have to pray they've made it to civilization.
+CAS4_KD	D652368B	Keyboardists and drummers are ten-a-penny anyway.
+CAS4_KE	A155061D	Hey, man, I really need to piss!
+CAS4_KF	385C57A7	Oh fuck, we're screwed!
+CAS4_KG	4F5B6731	Hey, can't it wait?
+CAS4_KH	DFE47AA0	I'm about to burst man!
+CAS4_KJ	31EA1B8C	You've gotta pull over, he's got a condition - he's priapic. It'll go everywhere!
+CAS4_LA	E97954C3	I can't hold it any longer!
+CAS4_LB	70700579	Oh, fuck! It's in me eye!
+CAS4_LC	077735EF	Hey, c'mon, man!
+CAS4_LD	9913A04C	Argh! Stop it!
+CAS4_LE	EE1490DA	Point it out the fucking window, will you?
+CAS4_MA	F0626582	Oh fuck me, that is so gooood.
+CAS4_NA	DB4F3641	Oh, fuck- now I've got the shakes.
+CAS4_NB	424667FB	You look as pale as a drowned baby, man!
+CAS4_NC	3541576D	Oh God, I think I'm going to chuck!
+CAS4_ND	AB25C2CE	P. what you need is some food down ya.
+CAS4_NE	DC22F258	(Paul nearly vomits)
+CAS4_NF	452BA3E2	A fried egg sanger with mayonnaise will sort it.
+CAS4_NG	322C9374	(Paul nearly vomits again)
+CAS4_NH	A2938EE5	Or what about a pickled egg?
+CAS4_NJ	4C9DEFC9	Pull over, NOW!
+CAS4_OA	C2540700	Shhi- huuuurghhh -hit!
+CAS4_OB	5B5D56BA	I've go- huuurrrgghh!
+CAS4_OC	2C5A662C	Got the- Hhhuurrgghh!
+CAS4_OD	B23EF38F	Dry- hurgh!
+CAS4_OE	C539C319	Dry- hurgh!
+CAS4_OF	5C3092A3	Dry heavies... Oh...
+CAS4_OG	2B37A235	Oh, I think it... I think it's passed.
+CAS4_OH	BB88BFA4	How about a pint of cod liver oil, that'll well sort ya.
+CAS4_OJ	5586DE88	(Paul vomiting violently)
+CAS4_OK	2281EE1E	Leave him alone, man!
+CAS4_OL	BCE57BBD	Hey, hey, the good doctor was just tryin' to help!
+CAS4_OM	CBE24B2B	Fuh-huh-Fuck off!
+CAS4_PA	0F0E099E	What kind of tits does this Rosie have?
+CAS4_PB	96075824	Big, floppy sausage tits?
+CAS4_PC	E10068B2	Empty saddlebags?
+CAS4_PD	7F64FD11	Empty saddlebags? Or bee stings?
+CAS4_PE	0863CD87	Rosie's a man!
+CAS4_PF	916A9C3D	And stop touching yourself!
+CAS4_PG	E66DACAB	It's just for comfort Pablo, this is a stressful situation, man.
+CAS4_PH	76D2B13A	You're fucking telling me it is!
+CAS4_PJ	98DCD016	Aw, can it you two!
+CAS4_PK	EFDBE080	Hey, he started it!
+CAS4_QA	161538DF	Which Casino is it?
+CAS4_QB	8F1C6965	It's called Caligula's. It's on the strip somewhere, I think.
+CAS4_RA	3D386B1C	Shit! Here come them snake farmers!
+CAS4_RB	A4313AA6	Alright, I've had enough. Let's finish this!
+CAS4_RD	4D529F93	Oh, I'm gonna grab some big tits, man!
+CAS4_RE	3A55AF05	Oh, bollox. In for a penny, in for a pound.
+CAS4_SA	24235A5D	Come on then, let's go in and see Rosie.
+CAS4_SB	BD2A0BE7	What about your backup, man? Will you be alright without us?
+CAS4_TA	6B62CC9A	Hey Woozie.
+CAS4_TB	F26B9D20	I think I found a way to scope Caligula's without causing too much suspicion.
+CAS4_TC	856CADB6	We can talk later.
+CAS4A00	5B49ADE9	Hello.
+CAS4A01	2C4E9D7F	Who am I speaking to?
+CAS4A02	B547CCC5	It's CJ. Hey, Truth, is that you?
+CAS4A03	C240FC53	Might be.
+CAS4A04	5C2469F0	Might be a government algorithm trying to pick your brains,
+CAS4A05	2B235966	so don't admit anything!
+CAS4A06	B22A08DC	Whatever, man. Whassup?
+CAS4A07	C52D384A	I need a favor, Carl, thought I could cash in some karma chips.
+CAS4A08	559225DB	Your credit good.
+CAS4A09	2295154D	I took some fellow travelers deep into the desert
+CAS4A10	42529CA8	on a peyote safari a few nights back.
+CAS4A11	3555AC3E	We faced the inner light and communed with the lizard king.
+CAS4A12	AC5CFD84	Sounds fun. How did it go?
+CAS4A13	DB5BCD12	That's the problem, I don't know.
+CAS4A14	453F58B1	I'm in Los Santos.
+CAS4A15	32386827	I woke up in a Japanese bathhouse about an hour ago.
+CAS4A16	AB31399D	I have no idea how I got here or where the others are.
+CAS4A17	DC36090B	They're probably fine.
+CAS4A18	4C89149A	I don't think so.
+CAS4A19	3B8E240C	They were Brits - a band and their managers.
+CAS4A20	697FCF6B	They have no experience about the desert.
+CAS4A21	1E78FFFD	OK, where'd you make camp? I can go have a look.
+CAS4A22	8771AE47	I took 'em up Arco del Oeste - fantastic sunsets.
+CAS4A23	F0769ED1	Best start looking for them up there.
+CAS4B00	590F13B0	Hello? Hey, anybody out here? Truth sent me!
+CAS4B01	2E082326	EH! Over 'ere!
+CAS4B02	B701729C	Hey, man, you all right?
+CAS4B03	C006420A	'Kin'ell, I'm fucking hanging.
+CAS4B04	5E62D7A9	Stone me bloody crows. Where am I?
+CAS4B05	2965E73F	I dunno, mate. I was having a dream;
+CAS4B06	B06CB685	I was wanking over some fat bird's tits when this twat turned up.
+CAS4B07	C76B8613	Oh fuck.
+CAS4B08	57D49B82	Maccer, you fucking psycho! You did it again, didn't you!
+CAS4B09	20D3AB14	That peyote was shite, you were lucky I brought some tabs along!
+CAS4B10	401422F1	I've told you a million times not to put stuff in my fucking drink!
+CAS4B11	37131267	Oh, piss off, kidder!
+CAS4B12	AE1A43DD	Who are you again?
+CAS4B13	D91D734B	Where are we?
+CAS4B14	4779E6E8	Oh, I'm a friend of The Truth's.
+CAS4B15	307ED67E	He said you guys might need a ride into town or something.
+CAS4B16	A97787C4	But I'm a fucking raspberry!
+CAS4B17	DE70B752	You're not a fucking raspberry!
+CAS4B18	4ECFAAC3	I can't feel me legs, our P.
+CAS4B19	39C89A55	I've wanked the use out of them!
+CAS4B20	6B397132	Just stand up, you soppy cunt.
+CAS4B21	1C3E41A4	We go through this every weekend.
+CAS4B22	8537101E	Man, what the hell was y'all doing last night?
+CAS4B23	F2302088	So, where am I taking y'all?
+CAS4B24	6C54B52B	Anybody got a rag?
+CAS4B25	1B5385BD	I've got a pal, Rosie.
+CAS4B26	825AD407	He's got some casino gig going down in Venturas. Sweet.
+CAS4B27	F55DE491	Fuck off, string.
+CAS4B28	65E2F900	Oh, charming.
+CAS4B29	12E5C996	Well it felt like I couldn't feel them, honest!
+CAS4B30	72224073	Ah! Ooh!
+CAS4B31	052570E5	Alright.
+CAS4B32	9C2C215F	Alright, ladies, let's go.
+CAS4B33	EB2B11C9	Come on. Fucking Northerners...
+CAS4C00	58CD7987	Kent Paul, here to see Rosie.
+CAS4C01	2FCA4911	Hey boss, there's somebody here to see you.
+CAS4C02	B6C318AB	Oh, go away, I have a migraine.
+CAS4C03	C1C4283D	Oi, Rosie, son, it's me, Paulo!
+CAS4C04	5FA0BD9E	Oh God.
+CAS4C05	28A78D08	My despair is complete.
+CAS4C06	B1AEDCB2	OK, let him in.
+CAS4C07	C6A9EC24	Rosiiieee! How are you, me old son?
+CAS4C08	5616F1B5	I pray that one day I can escape my perpetual torment
+CAS4C09	2111C123	and retire in peace and comfort a million miles away
+CAS4C10	41D648C6	from anyone I've ever fucking known and, instead, I get this.
+CAS4C11	36D17850	Come on, it's me, Kent Paul!
+CAS4C12	AFD829EA	Well, hello Paul, what a pleasant surprise. Who the hell are these guys?
+CAS4C13	D8DF197C	These are my boys - Maccer and Carl.
+CAS4C14	46BB8CDF	Wassup?
+CAS4C15	31BCBC49	You want any Speckled Doves, boss?
+CAS4C16	A8B5EDF3	I'm peaking on one right now.
+CAS4C17	DFB2DD65	Top-of-the-range, man.
+CAS4C18	4F0DC0F4	Well it's fitting.
+CAS4C19	380AF062	As I sit here up to my neck in a river of shit,
+CAS4C20	6AFB1B05	with every Mafia gorilla from Liberty City to Los Santos
+CAS4C21	1DFC2B93	pissing in my face, that you, Kent Paul, should witness it.
+CAS4C22	84F57A29	What's the matter, son?
+CAS4C23	F3F24ABF	Too numerous, oppressively insurmountable
+CAS4C24	6D96DF1C	and depressingly fucking typical even to mention.
+CAS4C25	1A91EF8A	It's alright, bruv, Paulo can help.
+CAS4C26	8398BE30	Give us some space would you, son.
+CAS4C27	F49F8EA6	I'll give you a tinkle later.
+CAS4C28	64209337	Alright, for sure.
+CAS4C29	1327A3A1	Not you, Maccer.
+CAS4C30	73E02A44	Oh, you twat.
+CAS4C31	04E71AD2	Unbelievable.

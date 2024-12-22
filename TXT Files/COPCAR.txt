@@ -1,0 +1,18 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+C_BREIF	61CA6685	~r~Suspect ~s~last seen in the vicinity of ~a~.
+C_BREIS	0C17826E	~r~Suspects ~s~last seen in the vicinity of ~a~.
+C_CANC	04641C01	~r~Vigilante mission cancelled!
+C_COMP1	A5ABDC48	Vigilante mission level 12 complete: Your max Body Armor increased to 150%
+C_PASS	A4139808	THREAT~n~ELIMINATED:~n~~w~$~1~
+C_TIME	05F7D469	~r~Your time as a law enforcer is over!
+CLEVEL	6C6DDF20	Vigilante Mission Level ~1~
+COPCA_T	78B1FC45	~s~You have ~1~ second to return to a police vehicle before the mission ends.
+COPCART	CD1F8208	~s~You have ~1~ seconds to return to a police vehicle before the mission ends.
+COPLEVL	E57567D0	LEVEL
+COPTIME	A92892FA	TIME LEFT
+KILLS	27CC02EE	KILLS

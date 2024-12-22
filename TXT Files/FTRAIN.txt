@@ -1,0 +1,20 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+FREI_02	0270074E	~r~Freight mission cancelled!
+FREI_03	757737D8	~s~Deliver the cargo to the stations within the time limit!
+FREI_04	EB13A27B	Freight Mission Level ~1~
+FREI_05	9C1492ED	+~1~ Seconds
+FREI_06	051DC357	~r~You missed your delivery!
+FREI_07	721AF3C1	CARGO DELIVERED! $~1~
+FREI_10	F5655723	Distance
+FREI_11	826267B5	Speed
+FREI_12	1B6B360F	~s~If you go too fast you will derail!
+FREI_13	6C6C0699	~s~Brake early or you will overshoot the station!
+FREI_14	F208933A	Time
+FREI_15	850FA3AC	Level ~1~ Complete
+FREI_16	1C06F216	The freight oddjob has been passed. You can replay it to make extra cash.
+FREI_X	5EFDAD9B	Freight Mission

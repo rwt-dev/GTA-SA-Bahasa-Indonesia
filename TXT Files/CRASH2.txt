@@ -1,0 +1,52 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+CM2_10	BAD4D4DF	~s~This is Glen Park, which is Ballas territory.
+CM2_11	CDD3E449	~s~You must take out the enemy gang to gain this territory as your own.
+CM2_12	54DAB5F3	~s~The territory is now owned by the Grove street families and is marked green on the radar.
+CM2_13	23DD8565	~s~Your gang members can now be found in this territory.
+CM2_14	BDB910C6	~s~Your territory will come under constant attack from enemy gangs and you must defend it.
+CM2_15	CABE2050	~s~When an attack takes place the territory will flash red and an icon will be placed on the radar.
+CM2_16	53B771EA	~s~Attack enemy gang members to start the territory take over!
+CM2_17	24B0417C	~s~The enemy have retaken the territory!
+CM2_18	B40F5CED	Ballas territory is marked in purple on the radar.
+CM2_19	C3086C7B	The radar icon indicates the territory to attack, it will stay on the radar until you own the territory.
+CM2_20	91F9871C	You will gain respect and money for taking over territory, the money will appear on Grove Street.
+CM2_21	E6FEB78A	~s~Go to ~b~Ammu-Nation~s~ and buy a gun.
+CM2_22	7FF7E630	~s~Enter the ~b~shop~s~ and buy a gun.
+CM2_3	EAECBBE8	~s~Go to ~y~Glen Park, Ballas territory~s~ and take it over, if you need a gun go into ~b~Ammu-Nation~s~.
+CM2_5	038F1EDD	~s~Attack enemy gang members while on foot.
+CM2_6	9A864F67	~s~Get back to ~y~Glen Park~s~!
+CM2_8	7D3E6260	~s~You have flushed the ~r~grass~w~ out, kill him!
+CRA2_ZA	4FE80A1F	Tenpenny set me up!
+CRA2_ZB	D6E15BA5	Busta C.R.A.S.H. set me up!
+CRA2_ZC	A1E66B33	Tenpenny sold me out!
+CRA2A00	E14046E2	CARL! GET OVER HERE!
+CRA2A01	96477674	Now you listen to me, you sanctimonious piece of shit,
+CRA2A02	0F4E27CE	Poncho is my man
+CRA2A03	78491758	and the DEA don't touch my asset, that's just the fucking law!
+CRA2A04	E62D82FB	Oh, I don't give a holy fuck about some targets,
+CRA2A05	912AB26D	Go frame some other rock slinger.
+CRA2A06	0823E3D7	Crack my ass, you lying piece of shit!
+CRA2A07	7F24D341	Listen to me!
+CRA2A08	EF9BCED0	You leave him on the streets, got me?
+CRA2A09	989CFE46	CARVER, YOU PIECE OF RAT SHIT! BITCH!
+CRA2A10	F85B77A3	Having a bad day, Officer Tenpenny?
+CRA2A11	8F5C4735	Hey, don't even think that that approaches humor, Johnson.
+CRA2A12	1655168F	And Hernandez; don't ever laugh at me again.
+CRA2A13	61522619	Get over there and get my fucking phone.
+CRA2A14	FF36B3BA	Move it!
+CRA2A15	8831832C	Carver pulls in Poncho and he's gonna fold.
+CRA2A16	1138D296	Well it's a good thing we got our Doberman here to deal with it.
+CRA2A17	663FE200	You listening Carl?
+CRA2A18	F680FF91	No, didn't hear nothing
+CRA2A19	8187CF07	Hey, don't yank my dick, Carl.
+CRA2A20	D3762460	You get over there and freeze that bust in East Los Santos
+CRA2A21	A47114F6	And Poncho doesn't make it into custody - you get me?
+CRA2A22	3D78454C	Yeah, whatever, man.
+CRA2A23	4A7F75DA	Get your ass outta here!
+CRA2A24	D41BE079	There should be some weed being bagged as evidence -
+CRA2A25	A31CD0EF	think of it as a little opportunity we threw your way.

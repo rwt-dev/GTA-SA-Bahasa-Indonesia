@@ -1,0 +1,48 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+CES1_01	96B9A121	~s~Go and pick up your ~b~car ~s~for the race.
+CES1_02	0FB0F09B	~s~Get to ~y~Cesar's place~s~.
+CES1_03	78B7C00D	~s~Get back in the ~b~car~s~.
+CES1_04	E6D355AE	~s~Follow ~b~Cesar ~s~to the race start.
+CES1_05	91D46538	~s~Drive onto the ~y~starting grid~s~.
+CES1_06	08DD3482	~s~Get back in ~b~the car~s~.
+CES1_07	7FDA0414	~r~Not fast enough, try again.
+CES1_08	EF651985	~r~You destroyed the car!
+CES1_09	98622913	~r~You destroyed Cesar's car!
+CES1_AA	F09898AA	Hey, keep up, holmes!
+CES1_AB	6991C910	Not far now, eh!
+CES1_AC	1E96F986	C'mon, Carl, follow us!
+CES1_AD	80F26C25	You're almost there, Carl!
+CES1_BA	DBB5CB69	You gonna have to drive better than that, CJ!
+CES1_BB	42BC9AD3	Hey, CJ, you wrecking your car, eh!
+CES1_BC	35BBAA45	C'mon, Carl, you've gotta be kidding me right? - pick it up!
+CES1_BD	ABDF3FE6	Oh, Carl, I thought you said you could drive!
+CES1_CA	C2AEFA28	Carl! What are you doing?
+CES1_CB	5BA7AB92	Watch out, Carl!
+CES1_CC	2CA09B04	Carl, you idiot!
+CES1_CD	B2C40EA7	Hey, Carl, don't play dirty!
+CES1_CE	C5C33E31	Hey, watch out, Carl!
+CES1_CF	5CCA6F8B	You trying to kill your sister?
+CES1_CG	2BCD5F1D	Here we go, yeeehaaa!
+CES1_CH	BB72428C	Good luck, holmes!
+CES1_DA	8DEF6CEF	Let's see what you got, homeboy. Let's do this!
+CES1A00	F7061FCD	Hey CARL!
+CES1A01	80012F5B	Heeyy, CJ, you made it!
+CES1A02	19087EE1	Nice ride, man. That's no carrucha!
+CES1A03	6E0F4E77	You sure you want to risk that baby?
+CES1A04	F06BDBD4	Yeah, I'm sure. How much they talking about?
+CES1A05	876CEB42	It's hard cash or your pink slip in the pot.
+CES1A06	1E65BAF8	Con Safos, eh.
+CES1A07	69628A6E	Then you pull up and race.
+CES1A08	F9DD97FF	First past the post wins, con chota, sin chota.
+CES1A09	8EDAA769	OK, for sure, I'm down.
+CES1A10	EE1D2E8C	Watch out, CJ, these boys don't like to lose, eh...
+CES1A11	991A1E1A	Follow me to the race, dude!
+CES1A12	00134FA0	What's the bi'ness?
+CES1A13	77147F36	Hey, baby.
+CES1A14	E970EA95	Yeah, well me either.
+CES1A15	9E77DA03	Yeah, alright, man.

@@ -1,0 +1,193 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+BEXIT1	62452B6A	Suit yourself.
+BEXIT2	FB4C7AD0	Whatever. See you 'round.
+DNCEF1	353AA04F	You need to put more time in on the dance floor!
+DNCEF2	AC33F1F5	Boy, you're a terrible dancer!
+DOFFE1	16EF9457	Well why don't you come and dance?
+DOFFE1N	647D4754	Thanks, but I'm not into that right now.
+DOFFE1Y	E7AEC293	Yeah, for sure!
+DOFFE2	8FE6C5ED	Well why don't you come and dance?
+DOFFE2N	4F501497	I appreciate the offer, girl, but I got some shit to take care of.
+DOFFE2Y	CC839150	OK, let's do this!
+DOFFE3	F8E1F57B	Well, hey, let's dance, sugar!
+DOFFE3N	564B25D6	Thanks, but I'm not into that right now.
+DOFFE3Y	D598A011	Yeah, for sure!
+DOFFE4	668560D8	Well, hey, let's dance, sugar!
+DOFFE4N	190AB311	I appreciate the offer, girl, but I got some shit to take care of.
+DOFFE4Y	9AD936D6	OK, let's do this!
+DSTAR1	4923E3D3	C'mon, homeboy, impress me.
+DSTAR2	D02AB269	Let's see what you got...
+GEXIT1	3288BAD9	Well, come on back when you ain't so rushed.
+GEXIT2	AB81EB63	If you change your mind you know where to find me.
+HI1	0E520EE3	Hey, what's poppin'?
+HI1N	A8698D5B	Look, I'm busy, OK?
+HI1Y	2BBA089C	Just looking for some fun...
+HI2	975B5F59	Hey, what's poppin'?
+HI2N	8344DE98	No time to chat, baby!
+HI2Y	00975B5F	Just hanging out, you know...
+HI3	E05C6FCF	Whassup?
+HI3N	9A5FEFD9	Look, I'm busy, OK?
+HI3Y	198C6A1E	Just looking for some fun...
+HI4	7E38FA6C	Whassup?
+HI4N	D51E791E	No time to chat, baby!
+HI4Y	56CDFCD9	Just hanging out, you know...
+HI5	093FCAFA	Hey, what's crackin'?
+HI5N	CC05485F	Look, I'm busy, OK?
+HI5Y	4FD6CD98	Just looking for some fun...
+HI6	90369B40	Hey, what's crackin'?
+HI6N	E7281B9C	No time to chat, baby!
+HI6Y	64FB9E5B	Just hanging out, you know...
+HI7	E731ABD6	Hey, thought you'd come back, huh?
+HI7N	FE332ADD	Look, I'm busy, OK?
+HI7Y	7DE0AF1A	Just looking for some fun...
+HI8	778EB647	Hey, thought you'd come back, huh?
+HI8N	79AB3612	No time to chat, baby!
+HI8Y	FA78B3D5	Just hanging out, you know...
+LOC1_AA	C7AB5CA7	Been here two months and all I've done is porno.
+LOC1_AB	5EA20D1D	It's great to relax after a day's shoot.
+LOC1_AC	29A53D8B	Great party!
+LOC1_AD	B7C1A828	This is so romantic!
+LOC1_AE	C0C698BE	I love sitting around a fire!
+LOC1_AF	59CFC904	The sea is stunning!
+LOC1_AG	2EC8F992	At first I struggled, but now I can take the full twelve.
+LOC1_AH	BE77E403	It's the group scenes I enjoy the most.
+LOC1_AJ	5079852F	From pain to ecstasy, the full range!
+LOC1_AK	277EB5B9	Hi, you want to dance?
+LOC1_AL	B91A201A	Don't be shy, join in!
+LOC1_AM	CE1D108C	C'mon and dance!
+LOC1_AN	57144136	Sit down and enjoy the party.
+LOC1_AO	201371A0	This is simply blissful!
+LOC1_AP	AD1B7C55	Let your troubles melt away.
+LOC1_AQ	DA1C4CC3	Then he came in my face, oh, hello!
+LOC1_AR	43151D79	It's all about rhythm...
+LOC1_AS	34122DEF	It's best to imagine it's someone you like!
+LOC1_AT	AA76B84C	For now, porno pays the bills.
+LOC1_AU	DD7188DA	Anybody want another beer?
+LOC1_AV	4478D960	Hey, who's this fellow?
+LOC1_BA	EC860F64	Getting sand in my trucks!
+LOC1_BB	758F5EDE	Great aerobic workout!
+LOC1_BC	02886E48	Get those feet moving!
+LOC1_BD	9CECFBEB	This is pure, you know?
+LOC1_BE	EBEBCB7D	A fire makes a beach party...
+LOC1_BF	72E29AC7	Could stay here for hours...
+LOC1_BG	05E5AA51	So I said to her, "Anaerobic, you bitch"!
+LOC1_BH	955AB7C0	The sea looks real beautiful...
+LOC1_BJ	7B54D6EC	Anybody got an isotonic sport drink?
+LOC1_BK	0C53E67A	C'mon, get that body working!
+LOC1_BL	923773D9	Get dancing, you square!
+LOC1_BM	E530434F	Can't you feel the rhythm of life?
+LOC1_BN	7C3912F5	You wanna seat by the fire?
+LOC1_BO	0B3E2263	C'mon, sit down, plenty of room!
+LOC1_BP	86362F96	Great party, isn't it?
+LOC1_BQ	F1311F00	Hey, who's this guy?
+LOC1_BR	68384EBA	You wanna join us, buddy?
+LOC1_BS	1F3F7E2C	Take a seat and grab a beer!
+LOC1_BT	815BEB8F	This party's pretty cool, huh?
+LOC1_BU	F65CDB19	Anybody know this guy?
+LOC1_BV	6F558AA3	Best way to relax on a day like this.
+LOC1_CA	F59D3E25	The sky is so awesome!
+LOC1_CB	6C946F9F	This girl knows how to spin those decks man
+LOC1_CC	1B935F09	Man, why aren't more people dancing?
+LOC1_CD	85F7CAAA	I think I've had too much to drink...
+LOC1_CE	F2F0FA3C	I think I need to go puke...
+LOC1_CF	6BF9AB86	That last beer was too much man...
+LOC1_CG	1CFE9B10	Hey, I heard Madd Dogg is recording a new LP!
+LOC1_CH	8C418681	The sand's getting in my shorts!
+LOC1_CJ	624FE7AD	Dude, I am trippin' on these tunes!
+LOC1_CK	1548D73B	C'mon, dude, dance!
+LOC1_CL	8B2C4298	Don't cramp my style!
+LOC1_CM	FC2B720E	What you lookin' at?
+LOC1_CN	652223B4	You want a seat?
+LOC1_CO	12251322	Don't get too close to the fire, dude!
+LOC1_CP	9F2D1ED7	Anybody know this cat?
+LOC1_CQ	E82A2E41	Another dude, for the fireside!
+LOC1_CR	71237FFB	Have a seat, dude!
+LOC1_CS	06244F6D	Sit down and join the party!
+LOC1_CT	9840DACE	Seville always throw a good gig.
+LOC1_CU	EF47EA58	Seville Families watching over us...
+LOC1_CV	764EBBE2	Seville Boulevard throw the best parties, man.
+LOC1_YA	45B0C4FE	Like your style, homeboy, want to go someplace more private?
+LOC1_YO	A208E9F9	Great, we can use my office!
+LOC1_YP	2F00E40C	Nice van, what you drinkin' on?
+LOC1_YQ	5807D49A	Hold on, I'll go get us some!
+LOC1_YR	C10E8520	Sorry, girl, but I need these sounds for my homeboy's house party!
+LOC1_YS	B609B5B6	You skitzing two-faced bastard!
+LOC1_YT	286D2015	He's stealing the sounds!
+LOC1_ZT	034073D6	Cool.
+LOC1_ZU	74474340	C'mon then.
+MLOC01A	8F3A5540	LOC! Where do you want these sounds, The Grove?
+MLOC01B	163304FA	No way, we gotta strip them out the van first!
+MLOC01C	6134346C	Well what do you suggest?
+MLOC01D	FF50A1CF	Jeffrey! You ain't here to chat on the phone!
+MLOC01E	88579159	Look at the state of these urinals!
+MLOC01F	115EC0E3	Man, hold on CJ, I'll call you back.
+MLOC01G	6659F075	Loc? LOC!
+MLOC01H	F6E6EDE4	DAMN!
+MLOC02A	A4170683	Loc, man, don't be playin' with me!
+MLOC02B	3D1E5739	Cool it, CJ, cool it.
+MLOC02C	4A1967AF	Half of Los Santos looking for this damn van.
+MLOC02D	D47DF20C	OK, OK. Drop it off at LB's garage and commerce.
+MLOC02E	A37AC29A	THANK, YOU!
+MLOC02F	3A739320	Don't mention it,
+MLOC02G	4D74A3B6	All y'all stressin' it.
+MLOC02H	DDCBBE27	When you're over sixty,
+MLOC02J	33C5DF0B	You gotta - click.
+MLOC02K	44C2EF9D	Ah shut up. Motherfucker.
+MUS1_1	9DE4691F	~s~Go to the beach party and talk to the ~y~DJ.
+MUS1_18	A5975102	~r~The DJ died!
+MUS1_19	D2906194	~s~Get the van back to the ~y~garage.
+MUS1_2	04ED38A5	~s~When you get to the beach party, go and talk to the ~y~DJ~s~.
+MUS1_20	80618AF3	~r~The van was destroyed!
+MUS1_21	F766BA65	~r~You wrecked the party!
+MUS1_3	73EA0833	~s~If you talk for a while, the DJ will ask you to dance for her.
+MUS1_4	ED8E9D90	~s~Get a score of 2500 or greater to gain access to the sound van.
+MUS1_5	9A89AD06	~s~Go to the ~y~beach party~s~.
+MUS1_6	0380FCBC	~s~Get back into the ~b~sound van~s~.
+MUS1_7	7487CC2A	~s~Steal the ~b~sound van.
+MUS1_8	E438D1BB	~r~You need more practice!
+MUS1_C	23EF790F	Moves correct (%)
+MUS1_H2	BBBF7AA3	When the arrows are on the green marker, press the corresponding movement key to dance.
+STR1A00	65327B8D	Hey, hold that door for me, homie?
+STR1A01	12354B1B	Looking real technical, gangsta!
+STR1A02	8B3C1AA1	Carl? You ain't run off again yet?
+STR1A03	FC3B2A37	No, gangsta, I'm here for good.
+STR1A04	625FBF94	Yeah? Well, fuck this gig, man.
+STR1A05	15588F02	I'm putting together a listening party for my album,
+STR1A06	8C51DEB8	but first I need a sound system...
+STR1A07	FB56EE2E	Hey, I'm down, as long as I don't have to go to the party.
+STR1A08	6BE9F3BF	What you talking about, fool?
+STR1A09	1CEEC329	Guaranteed I start playing, everybody'll come through.
+STR1A10	7C294ACC	Being real, OG, I really ain't into rap no more.
+STR1A11	0B2E7A5A	I'm more into that hardcore gangster shit.
+STR1A12	92272BE0	Well that's me, homie, that's me! OG Loc, baby!
+STR1A13	E5201B76	Yeah, yeah, for sure. But I only like them if they rhyme real well...
+STR1A14	7B448ED5	Y'know, well... Anyway, what you want me to steal?
+STR1A15	0C43BE43	That's what I'm talking about, love for your homies...
+STR1A16	954AEFF9	Now check it,
+STR1A17	E24DDF6F	I caught me a real fly sound system cruising through the drive-thru.
+STR1A18	72F2C2FE	I think they headed down to the beach for a beach party.
+STR1A19	05F5F268	Now check this out,
+STR1A20	5704190F	I'll roll with you, and on the way I'll kick a couple of freestyles...
+STR1A21	20032999	It's OG Loc in the place, Y'all want to stop me with a gun in your face, OG! OG!
+STR1A22	B90A7823	Maybe I need to do this on my own.
+STR1A23	CE0D48B5	I believe in you. Gangster 4 life, homie. 4 life!
+STR1A24	5069DD16	Yeah - for life, homie...
+STR1A25	276EED80	Yeah yeah yeah yeah, man, look, shut the fuck up.
+VLATE	F6751FB4	Well, I'm here for a while, if you change your mind!
+VOFFE1	58F137C7	You got some moves, wanna come and chat?
+VOFFE1Y	17EF4F74	A'ight. Lead the way.
+VOFFE2	C1F8667D	You got some moves, wanna come and chat?
+VOFFE2Y	3CC21CB7	Yeah, for sure, that sounds nice.
+VSURE1	A462BE99	You sure?
+VSURE1N	181325C9	No. You persuaded me.
+VSURE1Y	9BC0A00E	Yeah, for now. Later.
+VSURE2	3D6BEF23	You sure?
+VSURE2N	333E760A	OK, you persuaded me, lead the way.
+VSURE2Y	B0EDF3CD	Yeah, I'm afraid so. See ya later.
+VYES1	8E923327	C'mon, homeboy.
+VYES2	179B629D	Let me take you into my office...

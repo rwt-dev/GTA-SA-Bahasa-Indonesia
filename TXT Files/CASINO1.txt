@@ -1,0 +1,120 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+CAS1_01	0D28E337	~s~Get back in the ~b~car~s~.
+CAS1_02	9421B28D	~s~Scare him into talking.
+CAS1_03	E326821B	~s~Take him back to the ~y~casino~s~.
+CAS1_04	7D4217B8	~r~You killed him!
+CAS1_05	0A45272E	Scare-O-Meter
+CAS1_06	934C7694	High speeds are sure to scare him.
+CAS1_07	E44B4602	Try some hand-brake turns.
+CAS1_08	74F45B93	Insane stunts will get him shook up.
+CAS1_09	03F36B05	Driving on the wrong side of the road will unsettle him.
+CAS1_10	6334E2E0	~s~Keep off the freeway!
+CAS1_11	1433D276	~s~Scare him, but remember head-on collisions will kill him.
+CAS1_12	8D3A83CC	~s~And stay off the highway, you don't need any police attention.
+CAS1_AA	6B09DABC	You, you you your fu--, your crazy! You're a dead man! You're a dead man!
+CAS1_AB	F2008B06	You're ain't in no position to make no threats.
+CAS1_AC	8507BB90	Who are you?
+CAS1_AD	1B632E33	Fuck you man, you know who I man!
+CAS1_AE	6C641EA5	Have it your way.
+CAS1_BA	4024897F	You are messing with the wrong people!
+CAS1_BB	D92DD8C5	You are so dead, do you hear me? DEAD! D-E-A-D pal!
+CAS1_BC	AE2AE853	You've signed your own death warrant! Ha ha ha!
+CAS1_BD	304E7DF0	You think this is scaring me, huh?
+CAS1_BE	47494D66	Takes a little more than a drive to get me chirpin' pal!
+CAS1_CA	593FB83E	Hey, l-look, uh, w-we can come to some arrangement, okay?
+CAS1_CB	C036E984	OK, I can see you're serious!
+CAS1_CC	B731D912	Hey look pal, this ain't funny anymore.
+CAS1_CD	29554CB1	Hey! Stop this insanity RIGHT NOW!
+CAS1_CE	5E527C27	Oh my God, you're nuts!
+CAS1_DA	167E2EF9	Aargh! Oh, I don't wanna die, c'mon I don't wanna die!
+CAS1_DB	8F777F43	FUCK YOU! FUCK YOU-HOO-hooooo!
+CAS1_DC	F8704FD5	Oh my God, I just shit myself!
+CAS1_DD	6614DA76	Oh Mother Mary, I've had enough, oh God...
+CAS1_DE	1113EAE0	Alright, alright! You made your point, please no more! NO MORE!
+CAS1_EA	0F651FB8	Oh man, this is too faaaaast!
+CAS1_EB	966C4E02	Oh! Slow down, slow down for Godsakes!
+CAS1_EC	E16B7E94	Oh, this is too fast! TOO FAAAAAAST!
+CAS1_ED	7F0FEB37	Whoooooooa! Holy fuck!
+CAS1_EE	0808DBA1	Whoooa, geez no!
+CAS1_EF	91018A1B	Oh Christ! Ooooooooh!
+CAS1_EG	E606BA8D	Oh my God, oh-my-God!
+CAS1_EH	76B9A71C	Hey, whatcha doing?
+CAS1_EI	01BE978A	Hey, you think you're smart, but you're not, you're not!
+CAS1_EJ	98B7C630	Ha, this shit don't scare me asshole!
+CAS1_EK	EFB0F6A6	Whadaya doin' now?
+CAS1_EL	71D46305	Somebody, anybody, HELP!
+CAS1_EM	06D35393	Hey, watch the pedestrians, pal!
+CAS1_EN	9FDA0229	Jesus Christ that was close!
+CAS1_EO	E8DD32BF	What are you trying to fuck both of us?
+CAS1_EP	65D53F4A	Mother Mary, that was lucky!
+CAS1_EQ	12D20FDC	You're gonna kill us both! Oh God, I'm still alive!
+CAS1_ES	FCDC6EF0	Thank you! Thank God! Thank God!
+CAS1_ET	62B8FB53	Jesus! JESUS!
+CAS1_EU	15BFCBC5	What are you TRYING to hit things?! You're crazy!
+CAS1_EV	8CB69A7F	Oh...jesus....fuck you...
+CAS1_EW	FBB1AAE9	Aarrgghh!
+CAS1_EX	6B0EB778	Oh mama, come for me! Ohhhh.
+CAS1_EY	1C0987EE	Holy fuck! My legs! They're on fire!
+CAS1_EZ	8500D654	Shit! My balls! My balls!
+CAS1_FA	24484C7B	Oh mama! I'm on fire!
+CAS1_FB	BD411DC1	FIRE! FIRE!
+CAS1_GA	3D537D3A	The family will make you pay for this!
+CAS1_GB	A45A2C80	Which family?
+CAS1_GC	D35D1C16	The Sindacco Family, ya idiot!
+CAS1_GD	4D3989B5	That's all I wanted to hear!
+CAS1_GE	3A3EB923	What the-? Oh shit...
+CAS1_HA	BACB61F5	Oh God, thank God...
+CAS1_HB	23C2304F	Though I walk through the shadow of the valley of death...
+CAS1_HC	54C500D9	Mummy... mummy...
+CAS1_HD	CAA1957A	(whimpering)
+CAS1_HE	BDA6A5EC	I've lead such a sinful life, I'm sorry, so sorry...
+CAS1_JA	88FD0377	CJ, ha, I think he messed himself.
+CAS1_JB	11F452CD	I guess he willing to talk now!
+CAS1A00	6C975DDB	Idiot! Do you realize how much those machines cost?
+CAS1A01	1B906D4D	We're supposed to be opening in -
+CAS1A02	82993CF7	What the fuck was that?
+CAS1A03	F59E0C61	Hello? HELLO? What the fuck is wrong with you people?
+CAS1A04	6BFA99C2	Boss, CJ's here.
+CAS1A05	1CFDA954	Carl, glad you could make it.
+CAS1A06	85F4F8EE	So this is what you've been doing.
+CAS1A07	F2F3C878	Yeah, it's been a complete nightmare.
+CAS1A08	624CD5E9	You want a stomach ulcer, try opening a Triad casino in a Mafia-run town!
+CAS1A09	154BE57F	The mob trying to squeeze you?
+CAS1A10	758C6C9A	Yeah - the corporations are moving in and everybody's feeling the squeeze.
+CAS1A11	028B5C0C	I've had slot machines busted up, workmen being scared off...
+CAS1A12	9B820DB6	So who's behind this?
+CAS1A13	EC853D20	Well, there are these three mob families operating here,
+CAS1A14	72E1A883	and each of them has a stake in Caligula's Casino
+CAS1A15	05E69815	and some wacked-out lawyer's running it for them.
+CAS1A16	9CEFC9AF	It could be any one of them, or all of 'em.
+CAS1A17	EBE8F939	Can't you just give them a little something?
+CAS1A18	7B57E4A8	No. In addition to the usual authorities that need bribing,
+CAS1A19	0C50D43E	each one would want a slice
+CAS1A20	5EA13F59	and I'm not about to hand over all our profits to some wiseguy Italians!
+CAS1A21	29A60FCF	Our profit?
+CAS1A22	B0AF5E75	That's right, you heard me. I want to offer you a share in our casino,
+CAS1A23	C7A86EE3	in exchange for some help setting it up.
+CAS1A24	59CCFB40	How does that sound, partner?
+CAS1A25	2ECBCBD6	Sounds like we got a deal then!
+CAS1A26	B7C29A6C	Boss! The boys found some thugs trying to smash one of the deliveries.
+CAS1A27	C0C5AAFA	We caught one of them!
+CAS1A28	507AB76B	Get rid of him.
+CAS1A29	277D87FD	Whoever's behind this - we need to let them know
+CAS1A30	47BA0E18	that they're dealing with fully-fledged psychos.
+CAS1A31	30BD3E8E	Tie him to the front of the car, let him sweat it out a little
+CAS1A32	A9B46F34	and I'll be out there in a little while.
+CAS1A33	DEB35FA2	See if we can make this guy squeal.
+CAS1A34	40D7CA01	Hey, wait - hold up, hold up, come here.
+CAS1A35	37D0FA97	That's my Carl!
+CAS1B00	6ED1E382	Hey, hey, who the fuck - who are you? Untie me, huh?
+CAS1B01	19D6D314	I've been here for fucking ages, I can't feel my hands no more!
+CAS1B02	80DF82AE	You know what? I thing we're gonna take a little drive.
+CAS1B03	F7D8B238	What are you, fucking stupid? I'm not joking here - untie me, motherfucker.
+CAS1B04	69BC279B	No, I think I'm gonna leave you right where you are.
+CAS1B05	1EBB170D	You got any idea in that pea brain head of yours who the fuck I am?
+CAS1B06	87B246B7	No, but I think I'm going to find out.

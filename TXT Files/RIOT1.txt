@@ -1,0 +1,113 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+R1_01	DAE154C9	Drive back to ~y~Grove Street~s~.
+R1_02	43E80573	~r~Sweet has been killed!
+R1_03	34EF35E5	Get back in ~b~Sweet's car~s~.
+R1_04	AA8BA046	~r~Sweet's car has been destroyed!
+RIOT1	69DDD169	~s~Go back to Sweet's house.
+ROT1@00	24D61DF6	Hey, be quiet, be quiet.
+ROT1@01	53D12D60	C'mon you bunch of wankers, this is unbearable!
+ROT1@02	CAD87CDA	SHUT UP!
+ROT1@03	BDDF4C4C	Officers Eddie Pulaski and Frank Tenpenny,
+ROT1@04	23BBD9EF	both hard working members of a community policing unit,
+ROT1@05	54BCE979	have been charged with racketeering,
+ROT1@06	CDB5B8C3	corruption, narcotics and sexual assault.
+ROT1@07	BAB28855	They brought it on themselves.
+ROT1@08	2A0D95C4	That bastard cost me my farm. And he hogged the bong.
+ROT1@09	5D0AA552	But these charges pale in comparison to the core allegation;
+ROT1@10	3DCD2CB7	... conspired to kill fellow officer Ralph Pendelbury
+ROT1@11	4ACA1C21	who had threatened to turn state's evidence
+ROT1@12	D3C34D9B	and who was then found shot dead
+ROT1@13	A4C47D0D	in a supposedly unrelated gang incident...
+ROT1@14	3AA0E8AE	I'd say 20 years.
+ROT1@15	4DA7D838	- Try 5 years. Cops always get off easy.~n~- Yeah, I heard that.
+ROT1@16	D4AE8982	...to deal with lost evidence,
+ROT1@17	A3A9B914	...retracted witness statements
+ROT1@18	3316A485	and now the disappearance of fellow officer Jimmy Hernandez,
+ROT1@19	44119413	including fellow officer Jimmy Hernandez,
+ROT1@20	16E07F74	and Officer Pulaski himself, believed to be on the run.
+ROT1@21	61E74FE2	Oh, wait, they're exiting the courtroom now!
+ROT1@22	F8EE1E58	That bastard Pulaski will probably turn up dead, just like the rest of them.
+ROT1@23	8FE92ECE	...of the lack of evidence against my client,
+ROT1@24	118DBB6D	the district attorney's office has seen fit
+ROT1@25	668A8BFB	to drop all charges...
+ROT1@26	FF83DA41	What?!
+ROT1@27	8884EAD7	I hope we can draw a line under this whole sorry affair
+ROT1@28	183BF746	and leave officer Tenpenny to do what he does best;
+ROT1@29	6F3CC7D0	Protect and serve!
+ROT1@30	0FFB4E35	Thank you.
+ROT1@31	78FC7EA3	You see? You can't trust the system, man.
+ROT1@32	E1F52F19	If the reaction of the crowd behind me is anything to judge by,
+ROT1@33	96F21F8F	...Los Santos will burn tonight!
+ROT1@34	08968A2C	You see? You can't trust the system, man!
+ROT1@35	7F91BABA	Oh man, there just ain't no JUSTICE!
+ROT1@36	E698EB00	I know, I've been arrested numerous times
+ROT1@37	919FDB96	for totally natural behavior!
+ROT1@38	0120C607	Ain't nobody gonna be rioting in my hood!
+ROT1@39	7627F691	I don't know about that holmes.
+ROT1@40	40BAD8F2	Look. The whole city is going up.
+ROT1@41	37BDE864	People are fucking pissed off about this.
+ROT1@42	AEB4B9DE	People don't know what they want.
+ROT1@43	D9B38948	We're all being used.
+ROT1@44	47D71CEB	You see, man? It's always the same, friend.
+ROT1@45	30D02C7D	Power systems corrupt everyone.
+ROT1@46	A9D97DC7	Look, I say we go secure the hood,
+ROT1@47	DEDE4D51	we ain't getting shit together so some idiot can burn it down.
+ROT1@48	4E6150C0	Yeah, I heard that.
+ROT1@49	39666056	Shh, listen, listen...
+ROT1@50	59A1E9B3	That's bullshit.
+ROT1@51	2EA6D925	...surprise decision is wholly unprecedented...
+ROT1@52	B7AF889F	Aw, here we go - damn!
+ROT1_AA	228AF0A6	Shit's real fucked up, man.
+ROT1_AB	BB83A11C	Yeah, but we gonna handle this ourselves.
+ROT1_BA	09A7A365	There ain't no justice, man.
+ROT1_BB	90AEF2DF	How does scum like Tenpennny stay on the streets?
+ROT1_BC	E7A9C249	Man, I dunno, just the way shit stacked I guess.
+ROT1_BD	79CD57EA	Man, this is fucked up. We should take that bastard down ourselves.
+ROT1_BE	0ECA677C	And we will Sweet.
+ROT1_DA	5FFD04E3	Shit, look at this place, even old ladies robbing shit!
+ROT1_DB	C6F45559	I guess it's better than staying home and watching the shopping channel.
+ROT1_DC	B1F365CF	Yeah, go out there and get yourself a bargain!
+ROT1_EA	46E635A2	So who's the weird Brit?
+ROT1_EB	DFEF6418	What? Oh, Maccer!
+ROT1_EC	A8E8548E	He got a little problem he can't control.
+ROT1_ED	368CC12D	What kind of problem?
+ROT1_EE	418BF1BB	He can't, you know, giving himself a little bit.
+ROT1_EF	D882A001	What, you mean he likes to consult Professor Hans Jerkov?
+ROT1_EG	AF859097	Yeah, regularly.
+ROT1_EH	3F3A8D06	Spank the monkey?
+ROT1_EJ	D134EC2A	Yeah!
+ROT1_EK	A633DCBC	Take Palm-ela out?
+ROT1_EL	3857491F	Quit it!
+ROT1_EM	4F507989	Burp the worm?
+ROT1_EN	D6592833	Enough, man!
+ROT1_FA	6DCB6661	Shit, man, people real mad!
+ROT1_FB	F4C237DB	Tenpenny's responsible for ALL of this!
+ROT1_FC	83C5074D	As if the ghetto ain't wrecked enough!
+ROT1_FD	1DA192EE	Come tomorrow, most the Centrals gonna have new TVs.
+ROT1_FE	6AA6A278	Look at them, like angry kids or some shit!
+ROT1_FF	F3AFF3C2	They just tearing up their own neighborhoods!
+ROT1_FG	84A8C354	Nothing good is gonna come of this.
+ROT1_FH	1417DEC5	Man, the ghetto's tearing itself apart!
+ROT1_GA	74D05720	Put your foot down!
+ROT1_GB	EDD9069A	They coming after us!
+ROT1_GC	9ADE360C	Ain't this Ballas turf?
+ROT1_GD	04BAA3AF	Ain't this Vagos country?
+ROT1_GE	73BD9339	Back up, CJ, back up!
+ROT1_GF	EAB4C283	Man, most these roads are blocked with shit!
+ROT1_GG	9DB3F215	The road's blocked! Back up!
+ROT1_GH	0D0CEF84	They've barricaded the road!
+ROT1_GJ	E3028EA8	Stay away from the National Guard!
+ROT1_GK	9405BE3E	Stay away from those soldiers, CJ!
+ROT1_GL	0A612B9D	Everything's burning.
+ROT1_GM	7D661B0B	Can't see shit through this smoke!
+ROT1_HA	F3484BEF	Shit don't look too bad...
+ROT1_HB	6A411A55	It only takes one fool to spread this shit to the Grove.
+ROT1_HC	1D462AC3	I'm gonna gather up some homies, and get the hood locked down.
+ROT1_HD	8322BF60	You need anything, give me a call.
+ROT1_HE	F4258FF6	I'm gonna check out the city and see what I can see.
+ROT1_HF	6D2CDE4C	You be careful out there, CJ.

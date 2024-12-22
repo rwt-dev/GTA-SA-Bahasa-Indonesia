@@ -1,0 +1,102 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+BH3A@00	1E20BA41	I don't care 'how', I care 'when'.
+BH3A@01	69278AD7	As in 'now'. You hear me?
+BH3A@02	F02EDB6D	Hey, man, what the - ?
+BH3A@03	8729EBFB	Hello, boss man. Taking care of business I see.
+BH3A@04	194D7E58	Toreno, fuck you. I almost lost my life out there for you.
+BH3A@05	6E4A4ECE	I've just got one tiny little thing for you to do,
+BH3A@06	F7431F74	then I'm out of your life forever.
+BH3A@07	80442FE2	You know what? I'm tired of your fucking little jobs.
+BH3A@08	10FB3273	Oh, will you stop. This is pathetic, come on. You're embarrassing yourself.
+BH3A@09	67FC02E5	Hey, I got a little surprise for you here. You ready for this? Huh?
+BH3A@10	073B8B00	Answer it.
+BH3A@11	703CBB96	Hello?
+BH3A@12	E935EA2C	Carl, it's me, Sweet.
+BH3A@13	9E32DABA	I don't know what happened, they just released me.
+BH3A@14	00564F19	No idea what's going on,
+BH3A@15	77517F8F	but I'm in the square outside the precinct in Commerce.
+BH3A@16	EE582E35	Alright you hold tight, I'll be right there.
+BH3A@17	995F1EA3	So what was that little job you was talking about, Toreno?
+BH3A@18	09E00332	I just want you to go pick up your brother.
+BH3A@19	7EE733A4	Get out of here.
+BH3A@20	2C16D8C3	Come on, put it down. Don't be ridiculous, OK?
+BH3A@21	5B11E855	Aw, Sweet!
+BH3A@22	C218B9EF	Alright.
+BH3B@00	0C9515AF	Hey, man - we off to our new spot!
+BH3B@01	7B922539	We got a mansion, Sweet! We been putting in work, and shit is going well.
+BH3B@02	E29B7483	We got a stake in a casino, we got some insane shit in Fierro,
+BH3B@03	959C4415	we're getting into the rap game!
+BH3B@04	0BF8D1B6	Hey man, let me get you some new clothes, c'mon!
+BH3B@05	7CFFE120	New clothes? Nigga, what the fuck is this bullshit?
+BH3B@06	E5F6B09A	What you mean, man? What's mine is yours, and you know that.
+BH3B@07	92F1800C	You never did get it, did you, Carl?
+BH3B@08	024E9D9D	I need to check on things in the hood.
+BH3B@09	7549AD0B	Man, that's the problem.
+BH3B@10	158E24EE	You always a perpetrator, running from what's real.
+BH3B@11	62891478	Hey man, shit's fucked up there.
+BH3B@12	FB8045C2	You don't want to be in the hood.
+BH3B@13	8C877554	No. That's exactly where I want to be.
+BH3B@14	12E3E0F7	What you done for our hood?
+BH3B@15	65E4D061	Man, what the hood done for me?
+BH3B@16	FCED81DB	Always dragging me down.
+BH3B@17	8BEAB14D	Ever since I got out of the hood shit been cracking!
+BH3B@18	1B55ACDC	That's everybody's dream, to get out of the hood...
+BH3B@19	6C529C4A	Man, you sound just like Smoke right now.
+BH3B@20	3EA3772D	Alright, man, you hard. I'm gonna show you what's going on in the hood.
+BH3B@21	49A447BB	What's up, bro?
+BH3B@22	D0AD1601	Hey, what's up, man?
+BH3B@23	A7AA2697	How you doin', bro?
+BH3B@24	39CEB334	I'm alright, man.
+BH3C@00	B42972CA	Yo, man, y'all want to buy a blender?
+BH3C@01	C32E425C	It's really good. It sort of works.
+BH3C@02	5A2713E6	Man, what the fuck? That's Mom's blender!
+BH3C@03	2D202370	Looks like baseheads have took over the spot.
+BH3C@04	B344B6D3	Let's go home.
+BH3C@05	C4438645	This is home, man.
+BH3C@06	5D4AD7FF	Get these fuckers out of Mom's house!
+BH3C@07	2A4DE769	You was born in there. Damn!
+MAN3_01	6F6E03D2	~s~Pick up Sweet from the ~y~Precinct~s~.
+MAN3_02	F6675268	~r~You missed the bus.
+MAN3_03	816062FE	~s~You lost ~b~Sweet~s~, go back and get him.
+MAN3_05	6803C7CB	~s~Drive Sweet to ~y~Grove Street~s~.
+MAN3_08	16B2BB76	You need a vehicle to pick up Sweet.
+MAN3_11	76753293	~r~Sweet has been killed.
+MAN3_18	0FA98A37	Sweet's out of jail, he's going to need a ride.
+MAN3_19	78AEBAA1	~s~Get a bigger vehicle!
+MAN3_20	2A5F51C6	Kill any crack dealers in your hood to keep your gang healthy.
+MAN3_21	5D586150	If a gang member is high on crack you won't be able to use him.
+MAN3_22	C45130EA	~s~Take back the hood from the Ballas and clean out the ~r~Dealers~s~!
+MAN3_27	B43BC465	Time Left
+MAN3_28	2484D9F4	~s~Now take back the hood!
+MAN3_29	5383E962	~s~Now kill the ~r~Dealers~s~!
+MAN3_30	33446087	~s~Shoot some Ballas to start a gang war!
+MAN3_31	44435011	~s~Go back and take the hood at ~y~Grove Street~s~.
+MAN3_32	DD4A01AB	Sweet
+MAN3_33	AA4D313D	The Hood is yours!
+MAN3_34	3429A49E	The car is too full, there's no room for Sweet!
+MAN3_69	37EF2C66	The vehicle is too full, there's no room for Sweet!
+MAN3_AA	094F3A59	You gotta understand, shit's all fucked up now, dude.
+MAN3_AB	90466BE3	Yeah.
+MAN3_AC	E7415B75	What you want, it ain't round here no more.
+MAN3_AD	7925CED6	Just take me to moma's house.
+MAN3_BA	2262699A	Alright, let's get out of here. Go see Kendl.
+MAN3_BB	BB6B3820	Kendl can come see me right here, at her home.
+MAN3_BC	CC6C08B6	But it ain't nothing here no more.
+MAN3_BD	52089D15	Rome wasn't built in a day, niggah!
+MAN3_BE	250FAD83	My brother can be a real pain in the ass!
+MAN3_CA	3B7958DB	Punk ass yay whores!
+MAN3_CB	A2700961	Base pushing ass pussies!
+MAN3_CC	D57739F7	Punk crack bitches!
+MAN3_CD	4B13AC54	Crack-a-lack-a ass!
+MAN3_CE	3C149CC2	Get outta this neighborhood!
+MAN3_CF	A51DCD78	I'll kill all you motherfuckers!
+MAN3_CG	D21AFDEE	Y'all going down, motherfuckers!
+MAN3_CH	42A5E07F	This was my mom's house!
+MAN3_CI	35A2D0E9	Strawberries!
+MAN3_CJ	ACAB8153	Motherfuckers!
+MAN3_CK	DBACB1C5	Crack hos!

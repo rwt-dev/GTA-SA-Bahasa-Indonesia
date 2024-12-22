@@ -1,0 +1,126 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+SMK3_1	62817DA9	~s~Drive to ~y~Unity Station~s~.
+SMK3_13	10B8FB27	~r~You lost them! Next time keep up with the train!
+SMK3_14	8EDC6E84	~s~Pull alongside the front carriage of the train where the ~r~Vagos gang members ~s~are standing and try and maintain that position. Big Smoke will automatically fire once he is within range.
+SMK3_18	876A22AF	~s~You left ~b~Big Smoke ~s~behind go get him!
+SMK3_19	F06D1239	~s~Get back in the ~b~car~w~!
+SMK3_2	FB882C13	~s~Get on the ~b~motorbike ~s~with Big Smoke, chase down the ~r~Vagos gang members ~s~and take them out!
+SMK3_20	A29CF95E	~r~They got away!
+SMK3_21	D59BC9C8	~r~Big Smoke died!
+SMK3_22	4C929872	~s~Take Big Smoke back to his ~y~house~s~.
+SMK3_25	D2F60DD1	~s~Keep up with the front carriage of the train so Big Smoke can shoot the ~r~Vagos gang members~s~.
+SMK3_3	8C8F1C85	~s~Chase down the ~r~Vagos gang members ~s~and take them out!
+SMO3_AA	740C3401	Where to, Smoke?
+SMO3_AB	ED0565BB	Unity Station.
+SMO3_AC	9A02552D	You know the parable of the wise sheep Carl?
+SMO3_AD	0466C08E	No. I don't think I do.
+SMO3_AE	7361F018	Well, you should pay attention to what I'm going to say.
+SMO3_AF	EA68A1A2	Okay
+SMO3_AG	9D6F9134	The wise sheep does what he says, and only eats the greenest grass,
+SMO3_AH	0DD08CA5	while the foolish sheep gets eaten alive by heathens.
+SMO3_AJ	E3DEED89	What are you talking about?
+SMO3_AK	94D9DD1F	I'm thinking of going into the ministry in later life.
+SMO3_AL	0ABD48BC	Just testing shit out.
+SMO3_AM	7DBA782A	Whatever.
+SMO3_BA	5F2167C2	What we looking for, Smoke?
+SMO3_BB	C6283678	Some Vagos cats meeting some San Fierro Rifa, cutting some kind of deal.
+SMO3_BC	B12F06EE	San Fierro?
+SMO3_BD	2F4B934D	I thought Northern Mexicans don't mix with Los Santos eses.
+SMO3_BE	584CA3DB	Shit, you got me.
+SMO3_BF	C145F261	That look like them!
+SMO3_BG	B642C2F7	Motherfuckers clocked us!
+SMO3_BH	26FDDF66	We got to get those fools!
+SMO3_CA	463A5683	Follow that train!
+SMO3_CB	DF330739	Go after that loco, CJ!
+SMO3_CC	A83437AF	Follow the tracks!
+SMO3_DA	097BC044	This thing wasn't built to take so much weight!
+SMO3_DB	907291FE	You're the one packing on the pounds, CJ!
+SMO3_DC	E775A168	They don't call you BIG Smoke for nothing!
+SMO3_DD	791134CB	Shit, I was born big, fool!
+SMO3_DE	0E16045D	You, on the other hand, have a dietary problem!
+SMO3_EA	1060F105	Roll up on them CJ, so I can get a shot!
+SMO3_EB	8969A0BF	Get me close, CJ. I'm about to pop these fools.
+SMO3_EC	FE6E9029	Move this shit, man I'm gonna ice these fools, man.
+SMO3_FA	3B4DA2C6	Oh fuck! An on-coming train!
+SMO3_FB	A244F37C	Train, CJ, train!
+SMO3_FC	D543C3EA	Look the fuck out, CJ! The train!
+SMO3_GA	22569387	Damn, that boy's gonna be shittin' his kidneys for a week!
+SMO3_GB	BB5FC23D	Man, he ain't gonna be eatin' shit for a while.
+SMO3_GC	CC58F2AB	That's one Vagos asshole gone!
+SMO3_HA	A5CE8F48	Take the high road on the right, CJ!
+SMO3_HB	3CC7DEF2	Keep right, take us up to their level!
+SMO3_HC	4BC0EE64	Take the high ground on the right, CJ! On the right!
+SMO3_JA	97F8EDCA	CJ, keep us up here.
+SMO3_JB	0EF1BC70	Follow it over, CJ!
+SMO3_JC	79F68CE6	Make the jump, fool! Make the jump!
+SMO3_KA	8EE3DC8B	Smoke! Oh man...
+SMO3_KB	17EA8D31	Aw shit, Big Smoke!
+SMO3_KC	60EDBDA7	Smoke, don't go out on me, man!
+SMO3_LA	C1A24A4C	Carl, man, you OK?
+SMO3_LB	58AB1BF6	CJ, get up, fool!
+SMO3_LC	2FAC2B60	CJ! CJ, can you hear me?
+SMO3_MA	D8B97B0D	Damn, you lost 'em CJ!
+SMO3_MB	41B02AB7	We screwed up!
+SMO3_MC	36B71A21	All we had to do, was follow the damn train, CJ!
+SMO3_NA	F39428CE	Damn! That's what we wanted!
+SMO3_NB	6A9D7974	Man, look at all that cash!
+SMO3_NC	1D9A49E2	Sh-ha ha ha! Help yourself baby! Help yourself baby!
+SMO3_ND	83FEDC41	Screw this, those maniacs won't stop until we're dead!
+SMO3_OA	EA8F198F	That's what we're after!
+SMO3_OB	73864835	They gave it up!
+SMO3_OC	048178A3	There's our baby!
+SMO3_PA	27D51711	Hey, I need to get this back to my crib!
+SMO3_PB	BEDC46AB	C'mon CJ, let's head back to my spot.
+SMO3_PC	C9DB763D	Hey, let's get outta here before the cops show, man.
+SMO3_QA	3ECE2650	Why Tenpenny want that package?
+SMO3_QB	A7C777EA	Who-penny?
+SMO3_QC	D0C0477C	Don't bullshit me, Smoke!
+SMO3_QD	4EA4D2DF	Carl, man, there's something about you man, some kinda
+SMO3_QE	39A3E249	Smoke, when you gonna stop with this weird bullshit?
+SMO3_QF	A0AAB3F3	The truth is Carl, we've been lost while you been gone,
+SMO3_QG	D7AD8365	but now we saved again.
+SMO3_QH	47129EF4	What's in the package, Smoke?
+SMO3_QJ	A91CFFD8	The problem is, too many of the chosen ones' get killed before their time, man.
+SMO3_QK	DE1BCF4E	If the afterlife means peace from your bullshit, I think I'm ready.
+SMO3_QL	407F5AED	What's in the damn package, Smoke? No more bullshit!
+SMO3_QM	37786A7B	I dunno, homie.
+SMO3_QN	AE713BC1	I'm just trying to help these officers keep shit off the streets, man.
+SMO3_QO	D9760B57	I don't trust them.
+SMO3_QP	547E06A2	Sometimes, trust ain't an option, homie.
+SMO3_QR	BA70678E	strange kinda aura, man.
+SMO3_RA	15E37593	Was it always like this?
+SMO3_RB	8CEA2429	Was what always like this?
+SMO3_RC	FBED14BF	Always fucked up around here. Or is it because of the drugs?
+SMO3_RD	6589811C	What you think, man?
+SMO3_RE	128EB18A	I don't know. That's why I'm asking you.
+SMO3_RF	8B87E030	Yo, eh eh, don't ask a wise man, friend. Ask a fool.
+SMO3_RG	FC80D0A6	That's what I was doing.
+SMO3_RH	6C3FCD37	Well, if you're going to make this thing personal, I ain't speaking on it no more.
+SMO3_SA	0CF844D2	Hey, you better clear out, CJ.
+SMO3_SB	95F11568	I don't want those C.R.A.S.H.fools trying to pull you into some shit!
+SMO3_SC	E2F625FE	Alright, homie. You be careful with those cats.
+SMO3_SD	7C92B05D	I'm gonna see you later.
+SMO3A00	7392B366	Hey, Carl, keeping busy, I hope.
+SMO3A01	049583F0	You know me, Officer Tenpenny.
+SMO3A02	9D9CD24A	Yeah, I know you, Carl. I know everything about you.
+SMO3A03	EA9BE2DC	That's right, Carl, I got my eye on you.
+SMO3A04	74FF777F	What was that all about, baby?
+SMO3A05	03F847E9	You tell me.
+SMO3A06	9AF11653	Aw hell, man, they got their nose in everything.
+SMO3A07	EDF626C5	Can't shit without Tenpenny taking an interest. The hell with him.
+SMO3A08	7D493B54	Yeah, I guess.
+SMO3A09	0A4E0BC2	What's really up?
+SMO3A10	6A898227	Hey, thinking of taking a little ride.
+SMO3A11	1D8EB2B1	Three deep mentioned a little something
+SMO3A12	8487E30B	that might put us deeper in the game.
+SMO3A13	F380D39D	A'ight, I'm down.
+SMO3A14	6DE4463E	Don't touch me. Get your pig hands off me...
+SMO3A15	1AE376A8	And? Like I give a fuck.
+SMO3A16	83EA2712	We're watching you, Carl!
+SMO3A17	F4ED1784	Motherfucker!
+SMO3A18	64520A15	Let's do this, man.

@@ -1,0 +1,63 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+CES2_AA	E22D3744	Hey you! Police. Stop!
+CES2_AB	7B2466FE	Hey, what are you doing in here?
+CES2_AC	0C235668	Hey, this is police property!
+CES2_AD	9247C3CB	OK punk, have it your way!
+CES2_AE	E540F35D	Hi there. In y'go.
+CES2_AF	7C49A2E7	How's it going? OK, it's open.
+CES2_AG	0B4E9271	Hold on. There you go, pal.
+CES2_AH	9BF18FE0	Oh, man, C'mon...
+CES2_AI	ECF6BF76	Somebody shoot the ref!
+CES2_AJ	75FFEECC	Catch it! Catch it!
+CES2_ZA	4B1BFCDE	The Los Santos Police precinct is in Pershing Square in Commerce.
+CES2_ZB	D212AD64	Yeah, I know Pershing Square...
+CES2_ZC	A5159DF2	There's an entrance to the left that leads to the underground carpark.
+CES2_ZD	3B710851	At the back is a garage that holds the impounded vehicles.
+CES2_ZE	4C7638C7	Ah man, this is gonna be crawling with cops!
+CES2_ZF	D57F697D	Yeah I know, but if your prize car is missing when you come back to it,
+CES2_ZG	A27859EB	It's probably been towed.
+CES2_ZH	32C7447A	A'right man, thanks, I guess I can take it from here.
+CES2A00	E5B3B023	Que pasa, Cesar!
+CES2A01	92B480B5	Hey, Holmes!
+CES2A02	0BBDD10F	There's some beers up on the bench right there.
+CES2A03	7CBAE199	Just got to finish up under the hood, eh.
+CES2A04	E2DE743A	So, eerr, how are you and my sister doing?
+CES2A05	95D944AC	Just fine, CJ. So, how are you and, eerrm -
+CES2A06	0CD01516	Who are you seeing at the moment?
+CES2A07	7BD72580	You know me, I ain't found the right girl yet.
+CES2A08	EB683811	You ain't never going to find the right girl coz you treat them all like shit.
+CES2A09	9C6F0887	Easy, angel, man don't find love, love finds man, eh chico.
+CES2A10	FCA88162	Yeah, I guess it does...
+CES2A11	8BAFB1F4	So, CJ, let's see your wheels.
+CES2A12	12A6E04E	They ain't nothing special, just, you know...
+CES2A13	65A1D0D8	Let Cesar work his magic, I'll make it special.
+CES2A14	FBC5457B	What the fuck?
+CES2A15	8CC275ED	Oh shit, it's been towed!
+CES2A16	15CB2457	Damn! What's the matter with this city?
+CES2A17	62CC14C1	They're always towing people's shit!
+CES2A18	F2730950	I didn't even hear them! Did you hear them?
+CES2A19	857439C6	Damn! What are they, the secret car-towing service?
+CES2A20	D785D2A1	Fuck! Damn!
+CES2A21	A082E237	Don't worry, holmes. We can get it back.
+CES2A22	398BB38D	I know where the impound is. It's cool.
+CES2A23	4E8C831B	Be back in a bit, baby...
+CS2_15	156E09B3	~s~You need a car for Cesar to work on.
+CS2_16	8C675809	~r~You're meant to get the car back safely.
+CS2_23	D720FF45	~s~Get to the impound and retrieve your ~b~car~s~.
+CS2_24	49446AE6	~s~Get a car and take it to ~y~Cesar's place~s~.
+CS2_25	3E435A70	~s~Get back in the ~b~car~s~.
+CS2_26	A74A0BCA	~s~Get back to ~y~Cesar's place~s~.
+CS2_27	D04D3B5C	~S~Cesar won't work on this vehicle! Try something else.
+CS2_4	C44E0EE7	~s~This is the Los Santos police precinct. Also home to the city's impounded vehicles.
+CS2_5	B3493E71	~s~An entrance at the side of the precinct leads to its secure underground car park.
+CS2_6	2A406FCB	~s~Impounded vehicles are found down here, but it's a hive of cop activity.
+CS2_7	5D475F5D	~s~The garage at the rear is where yours and other impounded vehicles are held.
+CS2_A1	3D3CB45C	~s~The cops are on to you. Lose the heat!
+CS2_A2	A435E5E6	~s~Get to the ~h~Pay 'n' Spray~S~.
+CS2_A3	D332D570	~s~Enter the ~h~Pay 'n' Spray~S~.
+CS2_A4	4D5640D3	~s~You can use the ~h~Pay 'n' Spray~S~ in Willowfield.

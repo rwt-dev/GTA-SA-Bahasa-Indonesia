@@ -1,0 +1,99 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	A2EF4632	Press ~m~~widget_mission_cancel~ to exit the crane.
+	5800AEB8	Press ~m~~widget_drop_crane~ to release the container when in the correct position.
+ST4_02	068C2C06	~r~Cesar is history.
+ST4_03	718B1C90	~r~The car you were supposed to steal is history.
+ST4_05	98E8B9A5	~s~Get in the car with ~b~Cesar~s~.
+ST4_13	68902DD1	~s~Get in the ~y~crane~s~.
+ST4_26	33D78A9D	~s~Take Cesar and the car back to your ~y~garage~s~.
+ST4_27	44D0BA0B	~s~You've left Cesar behind!!
+ST4_28	D46FA79A	~s~Get in the car with Cesar.
+ST4_29	A368970C	~s~Wait for Cesar!
+ST4_30	C3AF1EE9	Cesar
+ST4_32	2DA17FC5	~s~Make sure the train doesn't destroy the car you came here to steal.
+ST4_36	2ACCBBDC	~s~Rotate the crane back over the ship.
+ST4_40	8CEE882E	~r~You've lost the container with the car in it!
+ST4_42	62E0E902	~s~You've left ~b~Cesar~s~ behind.
+ST4_43	15E7D994	~s~Drive to the ~y~docks~w~.
+ST4_44	8B834C37	~r~The car inside the container has been destroyed!!
+ST4_45	FC847CA1	~s~Car exports and imports have been unlocked.
+ST4_46	658D2D1B	~s~Check the wanted board at the Easter Basin Docks for vehicles wanted for exporting.
+ST4_47	128A1D8D	~s~Deliver wanted vehicles to the ship.
+ST4_48	8235001C	~s~Vehicles are also imported on certain days.
+ST4_H01	D06F7249	Press and hold ~m~~widget_crane_up~ to lower the rope.
+ST4_H02	496623F3	Press and hold ~m~~widget_crane_down~ to raise the rope.
+ST4_H03	3E611365	Tap ~m~~widget_drop_crane~ to release the container when in the correct position.
+ST4_H04	A00586C6	Push the movement controls left or right to rotate the crane.
+ST4_H05	D702B650	Push the movement controls in the direction you want the crane to travel. Use ~m~~widget_camera~ to switch camera views.
+ST4_H07	390CD77C	Use the magnet shadow to judge where objects will drop.
+ST4_H09	DEB4FA7B	Tap ~m~~widget_mission_cancel~ to exit the crane.
+ST4_H10	BE73739E	Press and hold ~m~~widget_crane_down~ to lower the magnet. Press and hold ~m~~widget_crane_up~ to raise the magnet.
+ST4_T01	C553285D	~s~Pick up a ~g~container~s~ with the crane.
+ST4_T02	5C5A79E7	~s~Move the container into ~y~position~s~ by rotating the crane.
+ST4_T03	2B5D4971	~S~Drop the ~g~container~s~.
+ST4_T04	B539DCD2	~s~Pick up the other ~g~container~s~ with the crane.
+ST4_T05	C23EEC44	~s~Move the ~g~container~s~ off the ship by rotating the crane.
+ST4_T06	5B37BDFE	~s~Place the ~g~container~s~ in ~y~position~s~.
+STL4@00	8CFEC86B	Yeah I got it, it's in the manifold.
+STL4@01	FBF9F8FD	Shit, I just changed that seal!
+STL4@02	62F0A947	Must have got a crimp in it, damn!
+STL4@03	15F799D1	Hey Ces, your boy is here.
+STL4@04	8B930C72	He ain't my boy.
+STL4@05	FC943CE4	Hey, we're almost living a normal life, huh. This is far from Grove Street, right?
+STL4@06	659D6D5E	Yeah, I know, but I just can't get it out of the back of my mind.
+STL4@07	129A5DC8	Moms, Sweet, Smoke - I just can't let that go.
+STL4@08	82254059	I know. So what we going to do about Sweet?
+STL4@09	F52270CF	It's a shitty situation but I've got to let it play out a little longer, OK?
+STL4@10	95E5F92A	OK, but be careful. We ain't trying to lose you again.
+STL4@11	E2E2C9BC	I know a guy who knows a guy
+STL4@12	7BEB9806	who handles freight containers down on the docks.
+STL4@13	0CECA890	He saw one of the containers was loading up cars
+STL4@14	92883D33	and one was a match for a car on a customer's wish list.
+STL4@15	E58F0DA5	So, he marked the container with a spray can,
+STL4@16	7C865C1F	but it might be too late,
+STL4@17	0B816C89	the ship's loading and it moves out tomorrow.
+STL4@18	9B3E7118	OK, let's go peep it out - see what we can see.
+STL4@19	EC39418E	That's right, sis - good looking out.
+STL4@20	BEC8AAE9	Hey, Carl, I gotta rap to you, holmes.
+STL4_AA	8AA2253B	C'mon, ese, you can drive!
+STL4_AB	13AB7481	Don't I always!
+STL4_BA	A18F76F8	How we going to steal a car off a container ship, holmes?
+STL4_BB	38862742	You know, the same way they got on - use a dockside crane!
+STL4_BC	4F8117D4	Man, those things are real high up - I ain't too good with ladders and I'm afraid of heights!
+STL4_BD	D1E58277	OK, I'll use the crane, you better be ready to crack the container.
+STL4_CA	B89447B9	That's the ship, CJ!
+STL4_CB	219D1603	OK, I'll go sort out the crane. Gimme a second.
+STL4_CC	569A2695	Be quick, I don't want to be caught sleeping out here!
+STL4_DA	F7D5D17E	Cesar! none of these is marked with spray paint!
+STL4_DB	6EDC80C4	We'll just have to try one at a time, eh!
+STL4_DC	19DBB052	Terrific! NOT RECORDED
+STL4_EA	EECEE03F	OK, CJ, this is the one, good work, holmes!
+STL4_FA	C5E3B3FC	Not this one, CJ!
+STL4_FB	5CEAE246	No luck, CJ, try another!
+STL4_FC	2BEDD2D0	Not this one either, it must be the last one!
+STL4_GA	DCF882BD	Hey! What the fuck do you think you're doing?
+STL4_GB	45F1D307	Hey, hold it right there!
+STL4_GC	32F6E391	Stay right there, you thieving bastard!
+STL4_HA	5B609E72	CJ, I could do with some help!
+STL4_HB	C269CFC8	Give me a hand with these guys, CJ!
+STL4_HC	B56EFF5E	I could do with a little help, CJ!
+STL4_JA	6956FCF0	Let's just grab the car and go!
+STL4_JB	F05FAD4A	Let's just get the car and get out of here!
+STL4_KA	704DCDB1	CJ, that train's gonna hit the car!
+STL4_KB	E9449C0B	CJ, The car's on the tracks!
+STL4_LA	3F0C5B76	There gotta be an easier way of earning a living then this.
+STL4_LB	A6050ACC	Sure, holmes, I guess.
+STL4_LC	D1023A5A	but what else are you qualified for?
+STL4_LD	4F66AFF9	Yeah, I feel you.
+STL4_LE	38619F6F	Man let's give these cops a run for there money.
+STL4_MA	26176A37	Hey, CJ!
+STL4_MB	BF1E3B8D	We get paid on the condition of the car, holmes!
+STL4_MC	C8190B1B	Be more careful!
+STL4_MD	567D9EB8	Who's driving? Me or you?
+STL4_NA	0D3A39F4	That was like a piece of tortilla!
+STL4_NB	9433684E	Hey, holmes, that was fun, we should do that again!

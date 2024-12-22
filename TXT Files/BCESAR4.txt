@@ -1,0 +1,99 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+BCE4@00	5E940F43	Hey, I've been waiting forever, man. Where the hell you been?
+BCE4@01	29933FD5	Sorry, holmes, I had no idea when the race would be.
+BCE4@02	B09A6E6F	Riiight - you just happened to show up
+BCE4@03	C79D5EF9	five minutes after everybody else, huh?
+BCE4@04	59F9CB5A	When the gasoline runs through your veins like the burning passion,
+BCE4@05	2EFEFBCC	you know when it's time to race!
+BCE4@06	B7F7AA76	I think you're getting high on that country air, man!
+BCE4@07	C0F09AE0	Hey, CJ, look...
+BCE4@08	504F8771	You haven't been to one of our meets before,
+BCE4@09	2748B7E7	where you from, friend?
+BCE4@10	478F3E02	I'm from Grove Street Families, Los Santos. What's happening?
+BCE4@11	30880E94	Relax. This isn't a parade, pal. But, you know, we gotta be careful.
+BCE4@12	A9815F2E	Wu Zi Mu, but my friends call me 'Woozie'. How you doing?
+BCE4@13	DE866FB8	Wha..? CJ. Carl Johnson.
+BCE4@14	40E2FA1B	Listen, out here we like to race for cash or pink slips - racer's choice.
+BCE4@15	37E5CA8D	Get your car started, we're about to go. Good luck, Carl Johnson.
+BCE4@16	AEEC9B37	Be careful CJ!
+BCE4@17	D9EBABA1	There's something real strange about that dude, man.
+BCE4@18	4954B630	Man, where is this guy?
+BCE4@19	3E5386A6	For sure, man.
+BCE4W00	47FDBAB6	You drive with style, Carl Johnson -
+BCE4W01	30FA8A20	and I never mind losing to a guy who's willing to push himself right to the edge.
+BCE4W02	A9F3DB9A	As for me, I'm a man who honors his bet.
+BCE4W03	DEF4EB0C	Well, you learn pretty fast with the police on your ass.
+BCE4W04	40907EAF	Listen, it's best if we clear the hell out of here as soon as possible
+BCE4W05	37974E39	because, for some reason, the local police don't appreciate our noble sport.
+BCE4W06	AE9E1F83	Yeah. Thanks for the advice.
+BCE4W07	D9992F15	OK, I gotta go.
+BCE4W08	49263284	Uh, you know what? If you ever find yourself in San Fierro, give me a call,
+BCE4W09	3E210212	maybe we can do a little business together.
+BCE4W10	5EE68BF7	Yeah, I might just do that.
+BCE4W11	29E1BB61	I guess that's our wake up call. Nice meeting you.
+BCE4W12	B0E8EADB	Oooh, yeah!
+BCE5@00	E6286826	Damn, man, now what?
+BCE5@01	912F58B0	PIG!
+BCE5@02	0826090A	What? What'd I do now?
+BCE5@03	7F21399C	Oh, so THIS is where you been, eh?
+BCE5@04	E145AC3F	THIS is how you repay my tenderness!
+BCE5@05	96429CA9	You prefer the curves of some car to those of a real woman?
+BCE5@06	0F4BCD13	Look, Catalina, you called it off, remember, 'just business'.
+BCE5@07	784CFD85	What kind of a man are you?
+BCE5@08	E8F3E014	When I say 'just business', I mean that I love you!
+BCE5@09	9FF4D082	When I say, I no interested no more, I mean that I long for you!
+BCE5@10	FF335967	Wait, Catalina, wait! Leave my car alone,
+BCE5@11	883469F1	I did this for us, for me and you!
+BCE5@12	113D384B	It's too late. I don't love you no more. I love another, OK?
+BCE5@13	663A08DD	What?
+BCE5@14	F85E9D7E	Then what the fuck was this about?
+BCE5@15	8F59ADE8	I cannot keep my passions holed up, they need a release.
+BCE5@16	1650FC52	That was a good release,
+BCE5@17	6157CCC4	like hitting a man with a frying pan while he sleeps.
+BCE5@18	F1E8D155	This, CARL, THIS is my new man.
+BCE5@19	86EFE1C3	Are you jealous? Are you going to fight for me?
+BCE5@20	D41E0AA4	No, no, I can take rejection.
+BCE5@21	A3193A32	You are jealous and a coward!
+BCE5@22	3A106B88	Now let's race!
+BCE5@23	4D175B1E	Crazy bitch.
+BCE5@24	D373CEBD	What the fuck?
+BCE5@25	A474FE2B	Wait! Hey, that's my...
+BCE5@26	3D7DAF91	And when I said that I missed you..!
+BCE5W00	FF41DDD3	You had the unfair advantage!
+BCE5W01	8846ED45	Being a better driver ain't no unfair advantage.
+BCE5W02	114FBCFF	You think you're clever, but it is you who is missing the point!
+BCE5W03	66488C69	Not only was he racing, but he was satisfying me, fully!
+BCE5W04	F82C19CA	The advantage of a stick shift, I guess.
+BCE5W05	8F2B295C	Yeah whatever, anyway, man, what is it, cash or pink slip?
+BCE5W06	162278E6	There you go!
+BCE5W07	61254870	Goodbye Mr. Johnson, I will NOT be missing you!
+BCE5W08	F19A55E1	Hey, wait a minute, bitch! What is this shit?
+BCE5W09	869D6577	The deed to a garage in San Fierro.
+BCE5W10	E65AEC92	My lover needs his car so we can go to Liberty City.
+BCE5W11	915DDC04	Liberty City? Yeah, whatever, have a good time.
+BCE5W12	08548DBE	I will.
+BCE5W13	7F53BD28	Fine.
+BCE5W14	E137288B	OK.
+BCE5W15	9630181D	GOODBYE!
+BCE5W16	0F3949A7	What are you gonna say about that?
+BCE5W17	783E7931	Go, I ain't gonna miss you.
+BCS5_AA	0FD4E754	Oh, Claude, you're so big and manful!
+BCS5_AB	96DDB6EE	Claude, you're the best driver I've ever bedded!
+BCS5_AC	E1DA8678	Hands on the wheel, Claude, hands on the wheel!
+BCS5_AD	7FBE13DB	Oh Claude, it's bigger than the gear stick!
+BCS5_AE	08B9234D	I have never felt so satisfied!
+BCS5_AF	91B072F7	Five orgasms in as many minutes!
+BCS5_AG	E6B74261	Marry me, Claude, marry me!
+BCS5_AH	76085FF0	Oh Claude, I don't know if I'm woman enough!
+BCS5_BA	24F9B497	Hey, Carl, you drive like a drunken camel!
+BCS5_BB	BDF0E52D	Carl, are you jealous, heh?
+BCS5_BC	CAF7D5BB	Claude has such girth, he is AMAZING!
+BCS5_BD	54934018	Claude would make you feel inadequate!
+BCS5_BE	2394708E	At last I have found a man to satisfy me!
+BCS5_BF	BA9D2134	Claude is so manful, so FORCEFUL!
+BCS5_BG	CD9A11A2	I never knew there was so much MORE to sex!

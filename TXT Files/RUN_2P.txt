@@ -1,0 +1,12 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+RUN_01	6D3BC751	2p Run Around
+RUN_02	F43296EB	~s~Free roam around the city.
+RUN_03	8335A67D	~r~Player one was killed
+RUN_04	1D5133DE	~r~Player two was killed
+RUN_05	6A560348	~r~Both players were killed
+RUN_06	F35F52F2	~s~You can kiss the other player by standing near them and pressing ~m~~widget_phone~.

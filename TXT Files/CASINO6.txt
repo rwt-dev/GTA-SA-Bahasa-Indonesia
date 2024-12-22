@@ -1,0 +1,177 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	A4E386C6	Press ~m~~widget_mission_start~ when standing in front of the freezer switch to operate the door.
+	BDF8B787	Press ~m~~widget_mission_start~ when standing in front of switches to operate them.
+CAS6_10	FEE3DA59	~s~Take ~b~Rosenberg~s~ to the ~y~abattoir~s~.
+CAS6_11	89E4EACF	~s~Don't leave ~b~Rosenberg~s~ behind you need to take him to the ~y~abattoir~s~.
+CAS6_12	10EDBB75	~s~You need to take ~b~Rosenberg~s~ to the ~y~abattoir~s~.
+CAS6_AA	F6DEE205	OK, boss man, where to?
+CAS6_AB	6FD7B3BF	We're going to pay the Sindacco's a visit.
+CAS6_AC	18D08329	See how Johnny is,
+CAS6_AD	86B4168A	win him over with some (sniff) kind words during his convalescence.
+CAS6_AE	F1B3261C	Well, yeah, sure. I could take you by there.
+CAS6_AF	68BA77A6	OK great! (sniff) We need a car!
+CAS6_BA	DDF3B1C6	I've gotta get out of this game.
+CAS6_BB	44FAE07C	Shit, my nose is pissing like a race horse (sniff).
+CAS6_BC	33FDD0EA	That is really good stuff. Hey drive faster, would you please? C'mon, c'mon, c'mon, what are you, an old lady?
+CAS6_BD	AD994549	So you trying to get out?
+CAS6_BE	DA9E75DF	Yes. God, yes.
+CAS6_BF	43972465	I want to do something safe and legal and boring, with people that like me.
+CAS6_BG	349014F3	with people that like me.
+CAS6_BH	A42F0962	And have a wife and some kids and get divorced and fight for weekend access, like everybody else.
+CAS6_BJ	4A21684E	and fight for weekend access, like everybody else.
+CAS6_BK	3D2658D8	Listen. I'll see what I can do.
+CAS6_BL	A342CD7B	Thanks, I'm just so tired of all this life or death bullshit.
+CAS6_BM	D445FDED	(sniff) Oh, shit, shit's all down my (sniff) damned shirt, and everything,
+CAS6_BN	4D4CAC57	ah, that's my best shirt too, doesn't this shirt look good on me?
+CAS6_C0	E3EAC12D	Rosie
+CAS6_CA	C4E88087	OK, let's get this over with.
+CAS6_CB	5DE1D13D	I'm the boss, I am the boss! I'm the boss, I am the boss! Yeah,(sniff) yeah...
+CAS6_DA	8BA91640	What did I say? What did I do?
+CAS6_DB	12A047FA	Nothing. My bad. Now take cover.
+CAS6_EA	92B22701	Holy fuck, what is it about my luck?
+CAS6_EB	0BBB76BB	I'm screwed!
+CAS6_EC	7CBC462D	We gotta do something!
+CAS6_ED	E2D8D38E	Carl, leave no witnesses or we're dead meat!
+CAS6_EE	95DFE318	Anybody needs me, they can find me in here!
+CAS6_EF	0CD6B2A2	I ain't coming out until it's safe!
+CAS6_EG	7BD18234	Typical end for me, shot, beaten and then barbeque!
+CAS6_EH	EB6E9FA5	Got the extinguisher, I got the extinguisher!
+CAS6_EJ	0560FE89	Take those guys out and I'll put out the flames!
+CAS6_EK	7267CE1F	Stand back, I'm gonna blast theses flames!
+CAS6_EL	EC035BBC	Hey, CJ, wait for me! Wait! Wait!
+CAS6_EM	9B046B2A	Well what are you waiting for?
+CAS6_EN	020D3A90	I ain't leading the way!
+CAS6_EO	750A0A06	I'm gonna start up the meat track!
+CAS6_EP	F80207F3	Shit, they've started a fire to keep us back!
+CAS6_EQ	8F053765	There must be an extinguisher here somewhere, find it!
+CAS6_ER	160C66DF	Aw, what you do that for?
+CAS6_ES	610B5649	OK, it's clear!
+CAS6_ET	FF6FC3EA	This is so exciting, Tommy, it's like old times!
+CAS6_EU	8868F37C	Who the fuck is Tommy?
+CAS6_F0	9E9D3568	~r~Rosenberg was killed.
+CAS6_F1	E99A05FE	~r~Rosenberg froze to death.
+CAS6_F2	70935444	~r~You and Rosenberg got trapped in the freezer.
+CAS6_FA	B99F74C2	Screw this, I'm going to hide in the freezer!
+CAS6_FB	20962578	Hey, CJ, I'm locked in the freezer!
+CAS6_FC	579115EE	CJ, some guy's locked me in the freezer!
+CAS6_FD	C9F5804D	Hey, let me out of this freezer!
+CAS6_FE	BEF2B0DB	It's freezing in this freezer!
+CAS6_FF	27FBE161	CJ? CJ! Get me out of here!
+CAS6_FG	50FCD1F7	Hello, anybody there?
+CAS6_FH	C043CC66	CJ? Where are you, CJ?
+CAS6_FJ	2E4DAD4A	Thanks, CJ, but I ain't going out there until they're all dead!
+CAS6_FK	594A9DDC	Thank you, man, I thought I was a popsicle for sure!
+CAS6_FL	C72E087F	What kept you?
+CAS6_FM	B02938E9	The exit's through the stock house!
+CAS6_FN	29206953	Rosenberg! I'm trapped in the freezer!
+CAS6_FO	5E2759C5	Rosenberg, get me out of this freezer!
+CAS6_FP	D32F5430	Get me out of this freezer, Rosie!
+CAS6_G0	87860429	~s~Protect ~b~Rosenberg~s~ and kill all the ~r~witnesses~s~.
+CAS6_G1	F08134BF	~s~All the witnesses are dead head for the ~y~exit~s~.
+CAS6_G2	69886505	~s~All the witnesses are dead but ~b~Rosenberg~s~ is locked in the freezer you will have to let him out before you can leave.
+CAS6_G3	1E8F5593	~s~All the witnesses are dead but you will have to wait until ~b~Rosenberg~s~ lets you out before you can leave.
+CAS6_G4	80EBC030	~s~Head for the ~y~exit~s~.
+CAS6_G5	F7ECF0A6	~s~Drive ~b~Rosenberg~s~ back to the ~y~Casino~s~.
+CAS6_G6	6EE5A11C	~s~Don't leave ~b~Rosenberg~s~ behind you need to take him to the ~y~casino~s~.
+CAS6_G7	19E2918A	~s~You need to bring ~b~Rosenberg~s~ to the ~y~casino~s~.
+CAS6_GA	A0844583	Behind you, CJ!
+CAS6_GB	398D1439	Look out behind you!
+CAS6_GC	4E8A24AF	Watch your left!
+CAS6_GD	D0EEB10C	CJ, to your left!
+CAS6_GE	A7E9819A	There's a thug on your right!
+CAS6_GF	3EE0D020	Shoot right, CJ, right!
+CAS6_GG	49E7E0B6	You go ahead, I'll, errr, watch our backs!
+CAS6_GH	D958FD27	Well done, CJ!
+CAS6_GJ	37569C0B	Shit, this is insane!
+CAS6_GK	4051AC9D	I'm never doin' drugs again, never ever, ever ever!
+CAS6_H0	001E18E6	Tap ~m~~widget_mission_start~ when standing in front of switches to operate them.
+CAS6_H1	77192870	Tap ~m~~widget_mission_start~ when standing in front of the freezer switch to operate the door.
+CAS6_H2	EE1079CA	While Rosenberg is trapped his health will slowly decrease.
+CAS6_H3	9917495C	You are trapped in the freezer, your health will slowly decrease until Rosenberg gets you out.
+CAS6_HA	271C594C	Shit, we gotta get the fuck out of here!
+CAS6_HB	BE1508F6	We need some wheels!
+CAS6_HC	C9123860	Get me back to Caligula's!
+CAS6_HD	5776ADC3	You calm down, and follow my lead.
+CAS6_JA	152A3BCE	Holy fuck, man, we work well as a team together, huh, CJ?
+CAS6_JB	8C236A74	You and me, tearing this town up.
+CAS6_JC	FB245AE2	Nobody can stop us, nobody in the world!
+CAS6_JD	6540CF41	Johnny's a done deal. And so is his gang.
+CAS6_JE	1247FFD7	Too fucking right they are, dumb pussies!
+CAS6_JF	8B4EAE6D	Oh fuck! I'm screwed! I'm fucking screwed!
+CAS6_JG	FC499EFB	What the fuck am I going to do? Shit, shit, SHIIIIT....
+CAS6_JJ	82F8E246	You just got to hang in there.
+CAS6_JK	F5FFD2D0	Play it dumb.
+CAS6_JL	6B9B4773	I'll figure out a way to get you out of this.
+CAS6_JM	1C9C77E5	Just drop me at the airport!
+CAS6_JN	8595265F	Nah man, they gotta think you dead.
+CAS6_JO	F29216C9	I'll think of something, I promise.
+CAS6_KA	0C310A8F	Get in there, and be cool. Like you been out for a relaxing drive or something.
+CAS6_KB	95385B35	Calm, yeah, calm.
+CAS6_KC	E23F6BA3	I'm calm.
+CAS6_KD	7C5BFE00	REAL FUCKING calm!
+CAS6_KE	0B5CCE96	I'm calm, Mr. Calm, Mr. Calm, that's me, Mr. Calm.
+CAS6_LA	43709C48	Rosie, where you go?
+CAS6_LB	DA79CDF2	Rosenberg, is that you in there?
+CAS6_LC	AD7EFD64	How'd you get locked in there, dude?
+CAS6_LD	331A68C7	Okay, stay in there while I finish off these assholes!
+CAS6A00	F1406562	Oh, ha ha ha ha! Baby, I'm back, I AM BACK!
+CAS6A01	864755F4	Let's get this show on the road!
+CAS6A02	1F4E044E	The good Doctor has revived the patient!
+CAS6A03	684934D8	Thank you. Thank you. Thank you.
+CAS6A04	F62DA17B	So everything's straight now?
+CAS6A05	812A91ED	No! Absolutely not! I'm still screwed!
+CAS6A06	1823C057	Absolutely screwed, but at least now I'm in the right frame of mind.
+CAS6A07	6F24F0C1	What the fuck are we going to do?
+CAS6A08	FF9BED50	Any minute now,
+CAS6A09	889CDDC6	some Mafia bullet is going to splatter my brains all over the wall!
+CAS6A10	E85B5423	My wall, my beautiful wall...
+CAS6A11	9F5C64B5	Ooh, you missed a bit. I'll have that.
+CAS6A12	0655350F	Forgeddaboudit
+CAS6A13	71520599	Oh, that's a great idea, Tony, but you know what? It ain't going to work, OK? Not this time...
+CAS6A14	EF36903A	Look, man, relax, get a grip...
+CAS6A15	9831A0AC	Yeah, you're right, I need to get a grip!
+CAS6A16	0138F116	Take control...
+CAS6A17	763FC180	Yes, grab the bull by the horns!
+CAS6A18	E680DC11	And show everybody who's boss...
+CAS6A19	9187EC87	- I'm the boss! I-am-the-boss!~n~- Alright then!
+CAS6A20	C37607E0	Alright then!
+CAS6A21	B4713776	All right! Let's tear this town up!
+CAS6A22	2D7866CC	Let's tear this town up!
+CAS6A23	5A7F565A	That's what I'm sayin'! So, where we going?
+CAS6A24	C41BC3F9	Details, details! Let's just get there!
+CAS6A25	B31CF36F	Sweet as, my son, sweet as!
+CAS6A26	2A15A2D5	Rack them up, Maccer. What's the matter with you?
+CAS6B00	F306DB3B	What's going on? You forget something?
+CAS6B01	8401EBAD	No - look, you go on in, I'm gonna wait.
+CAS6B02	1D08BA17	Look, you gotta come with me this once.
+CAS6B03	6A0F8A81	If I pull this off, I can carry on, I know I can,
+CAS6B04	F46B1F22	but please, you gotta come with me - I'm gonna squirt my ass all over the floor!
+CAS6B05	836C2FB4	Just this once pleasepleasepleaseplease...
+CAS6B06	1A657E0E	Okay, okay - chill!
+CAS6B07	6D624E98	Shit, this can't look good.
+CAS6B08	FDDD5309	Listen, everything's gonna be OK.
+CAS6B09	8ADA639F	Just remember; you're the boss!
+CAS6B10	EA1DEA7A	I'm the boss? I'm the boss. I'm the boss. I'm the boss! I am the boss!
+CAS6B11	9D1ADAEC	Hey boys. Tell your boss that Ken Rosenberg is here to see him.
+CAS6B12	04138B56	Ken who?
+CAS6B13	7314BBC0	K-Ken Rosenberg...
+CAS6B14	ED702E63	Ken Rosenberg! The guy that runs this town!
+CAS6B15	9A771EF5	So, uh, how's Johnny?
+CAS6B16	037E4F4F	He's doing much better, yeah.
+CAS6B17	74797FD9	He ate something this morning.
+CAS6B18	E4C66248	Heeyyy, Ken... Ah, Christ, this fucking thing... Ken... Como esta e, eh, how you doing?
+CAS6B19	93C152DE	Pretty good. And you?
+CAS6B20	C130B9B9	Ah, still got a little bit of the night terrors,
+CAS6B21	B637892F	- touch of diarrhea, but I'll get through it.~n~- Huh, diarrhea, cool! Yeah...
+CAS6B22	2F3ED895	And who's this..?
+CAS6B23	5839E803	How you doing, Johnny?
+CAS6B24	C65D7DA0	It's fucking him... It's him!
+CAS6B25	B15A4D36	Oh my God... Oh God... It's him...
+CAS6B26	28531C8C	Aaargghh! My heart! Euchh... my heart...
+CAS6B27	5F542C1A	Huh, diarrhea, cool! Yeah...
+CAS6B28	CFEB318B	Damn, that nigga's fucked up!

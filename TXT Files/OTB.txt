@@ -1,0 +1,189 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	DCB0CFD9	Use the movement controls to select a horse on the left. Set your bet by pressing the buttons on the right. Press ~m~~widget_itb_exit~ to quit.
+DPADNAV	BED2EDC0	Movement Controls Navigate
+DPADNUD	63C54BDD	Movement Controls Navigate
+FIRST	9ADAD318	1st
+HORS__1	7B0FB7ED	Rocinante
+HORS__2	E206E657	Little Bishop
+HORS__3	9501D6C1	Schlong Odds
+HORS__4	0B654362	Money Shot
+HORS__5	7C6273F4	Crack Horse
+HORS__6	E56B224E	Buckmelad
+HORS__7	926C12D8	Skittery Trots
+HORS__8	02D30F49	Pebbledash
+HORS__9	75D43FDF	Neigh Bother
+HORS_10	F776C152	Pillow Biter
+HORS_11	8071F1C4	Hot Pants
+HORS_12	1978A07E	Dong Johnson
+HORS_13	6E7F90E8	Reef's Folly
+HORS_14	F01B054B	Falkirk Boy
+HORS_15	871C35DD	No Wasps
+HORS_16	1E156467	Jackson's Lad
+HORS_17	691254F1	Ring of Fire
+HORS_18	F9AD4960	Kelly's Boy
+HORS_19	8EAA79F6	Peking Twister
+HORS_20	DC5B9291	Spam Javelin
+HORS_21	AB5CA207	Love Torpedo
+HORS_22	3255F3BD	Mary Hinge
+HORS_23	4552C32B	Billy Sastard
+HORS_24	DB365688	Clown's Pocket
+HORS_25	AC31661E	Wizard's Sleeve
+HORS_26	353837A4	Bolt Shooter
+HORS_27	423F0732	Panhandle
+HORS_28	D2801AA3	Dundee Ned
+HORS_29	A5872A35	Collar & Cuffs
+HORS_30	C540A3D0	Mouse's Ear
+HORS_31	B2479346	Biffin's Bridge
+HORS_32	2B4EC2FC	Pebble Dasher
+HORS_33	5C49F26A	Love Truncheon
+HORS_34	C22D67C9	Silvery Tear
+HORS_35	B52A575F	Beanflicker
+HORS_36	2C2306E5	Backdoor Bandit
+HORS_37	5B243673	Ginger Witch
+HORS_38	CB9B2BE2	Knob Polisher
+HORS_39	BC9C1B74	Stool Pigeon
+HORS_40	8A013517	Vinegar Stroke
+HORS_41	FD060581	Knuckle Shuffle
+HORS_42	640F543B	Flaps Ahoy
+HORS_43	130864AD	Henrik's Jaw
+HORS_44	8D6CF10E	One-eyed Warrior
+HORS_45	FA6BC198	Brown Eyed Girl
+HORS_46	63629022	Handy Shandy
+HORS_47	1465A0B4	Pearl's Necklace
+HORS_48	84DABD25	Wee Crunchie
+HORS_49	F3DD8DB3	Mackem Delight
+HORS_50	931A0456	Gypsy's Cat
+HORS_51	E41D34C0	Fairy Hammok
+HORS_52	7D14657A	Yoghurt Cannon
+HORS_53	0A1355EC	Chocolate Starfish
+HORS_54	9477C04F	Dr Boogie
+HORS_55	E370F0D9	Split Kipper
+HORS_56	7A79A163	Camel's Toe
+HORS_57	0D7E91F5	Monkeys Thumb
+HORS_58	9DC18C64	Slap & Tickle
+HORS_59	EAC6BCF2	Ochayethenoo
+HORS_60	B8375795	Love Lips
+HORS_61	CF306703	Sausage Sandwich
+HORS_62	563936B9	Wet Cabbage
+HORS_63	213E062F	Bronx Cheer
+HORS_64	BF5A938C	The Angry Captain
+HORS_65	C85DA31A	Beef Bandito
+HORS_66	5154F2A0	Fingers and Tops
+HORS_67	2653C236	Shatner's Bassoon
+HORS_68	B6ECDFA7	Chocolate Channel
+HORS_69	C1EBEF31	Tunnel Tester
+HORS_70	A12C66D4	Jocks Away
+HORS_71	D62B5642	New Jock City
+HORS_72	4F2207F8	Salt 'n' Sauce
+HORS_73	3825376E	Haway the Lads
+HORS_74	A641A2CD	Five Finger Splay
+HORS_75	D146925B	Bishop Basher
+HORS_76	484FC3E1	Scotland Nil
+HORS_77	3F48F377	Tummy Squeaker
+HORS_78	AFF7EEE6	Tagnut
+HORS_79	D8F0DE70	Dead Lemon
+HORS_80	26B47A1B	Arthur or Martha
+HORS_81	51B34A8D	Bankrupt Rage
+HORS_82	C8BA1B37	Jockstar
+HORS_83	BFBD2BA1	Smellyama
+HORS_84	21D9BE02	Fish Supper
+HORS_85	56DE8E94	Spicy Mushroom
+HORS_86	CFD7DF2E	Bronson
+HORS_87	B8D0EFB8	Uphill Gardener
+HORS_88	286FF229	Scotland's Shite
+HORS_89	5F68C2BF	Accept the Length
+HORS_90	3FAF4B5A	Cock Soup
+HORS_91	48A87BCC	Flange Spanner
+HORS_92	D1A12A76	Chunder Munchkin
+HORS_93	A6A61AE0	Stained Rigid
+HORS_94	38C28F43	Hardly Flanged
+HORS_95	4FC5BFD5	Melancholy Thatch
+HORS_96	D6CCEE6F	Holy Colon
+HORS_97	A1CBDEF9	Chutney Bunker
+HORS_98	3174C368	Biffen's Bridge
+HORS_99	4673F3FE	Tunky Packer
+HORS100	AC241639	Pearly Droplets
+HORS101	DB2326AF	Facial Lancer
+HORS102	422A7715	Cunning Lingus
+HORS103	352D4783	Juice Trigger
+HORS104	AB49D220	Syphilitic Meat
+HORS105	DC4EE2B6	Venereal Dodger
+HORS106	4547B30C	Horse Feathers
+HORS107	3240839A	Rump Rider
+HORS108	A2FF9E0B	McTagnut & Fries
+HORS109	D5F8AE9D	Dildonut & Burdock
+HORS110	B53F2778	Barkers Eggs
+HORS111	C23817EE	Cheesy Hornblower
+HORS112	5B314654	Turbot Tornado
+HORS113	2C3676C2	Cauliflower Arse
+HORS114	B252E361	Air Biscuit
+HORS115	C555D3F7	Gentlemans Relish
+HORS116	5C5C824D	Diddy Ride
+HORS117	2B5BB2DB	Purple Love
+HORS118	BBE4AF4A	Shoot Me
+HORS119	CCE39FDC	Reeves' Revenge
+HORS120	9E1274BB	Kinnears' Demise
+HORS121	E915442D	Cocoa Shunter
+HORS122	701C1597	Reverse Cowgirl
+HORS123	071B2501	Lord Lucan
+HORS124	997FB0A2	Pygmies Cocque
+HORS125	EE788034	Jauques Yerlot
+HORS126	7771D18E	Saddam's Madam
+HORS127	0076E118	Kohl Bunker
+HORS128	90C9FC89	Tight Brown
+HORS129	E7CECC1F	Loose Pink
+HORS130	870945FA	Wet Circle
+HORS131	F00E756C	Axe Wound
+HORS132	690724D6	Donner's Kebab
+HORS133	1E001440	Funbags
+HORS134	806481E3	That's Bollocks
+HORS135	F763B175	Cryptorchid
+HORS136	6E6AE0CF	Neutered Nik
+HORS137	196DD059	Duthie's Boy
+HORS138	89D2CDC8	Run Away Jay
+HORS139	FED5FD5E	Chunky Colt
+HORS140	C848D33D	Sarwar's Spray
+HORS141	BF4FE3AB	Filshie's Filly
+HORS142	2646B211	Mr Winky
+HORS143	51418287	Lush Gush
+HORS144	CF251724	Gary's Gelding
+HORS145	B82227B2	White Hinny
+HORS146	212B7608	Bush Bandit
+HORS147	562C469E	Monkey Puss
+HORS148	C6935B0F	Tester Turd
+HORS149	B1946B99	Perverted Preacher
+HORS150	D153E27C	Hairy Dyke
+HORS151	A654D2EA	Wong's Wang
+HORS152	3F5D8350	2nd Hand Sock
+HORS153	485AB3C6	Weasel Burglar
+HORS154	D63E2665	Les Long
+HORS155	A13916F3	Priapism Willie
+HORS156	38304749	Dead Wipe
+HORS157	4F3777DF	Up The Dumper
+HORS158	DF886A4E	Sterilized Steed
+HORS159	A88F5AD8	Bloated Bag
+HORS160	FA7EB1BF	Duck My Sick
+HORS161	8D798129	Watery Passage
+HORS162	1470D093	Piddle in Perspex
+HORS163	6377E005	Embryo Enticed
+HORS164	FD1375A6	Barnton Bellbanger
+HORS165	8A144530	Cheesy Chode
+HORS166	131D148A	Love Burglar
+HORS167	641A241C	Lolly's Fern
+HRACE01	40CA4DAB	LARGE ACRES
+NTH	DC6AD7D5	~1~th
+ODDS	0C28C7DB	~1~/1
+PLACBET	47F8F208	PLACE BET
+SECOND	B9182910	2nd
+THIRD	2C991D2B	3rd
+TRIEXIT	2274C847	Tap ~m~~widget_mission_cancel~ to exit.
+XSELECT	78610BB4	Pick a horse to bet on by tapping a button on the left. Set your bet by tapping the buttons on the right. Tap the exit button to quit.
+YOURCSH	206A4762	YOUR CASH: $~1~
+YOURHSE	528ED43E	Your Horse:
+YOURSTK	EA04236F	STAKE:
+YOUWIN	9AE09785	WON:

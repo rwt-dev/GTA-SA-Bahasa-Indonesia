@@ -1,0 +1,111 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+DC2_AA	10DC625A	Can I get your sneakers?
+DC2_AB	89D533E0	You won't be needing those fancy clothes.
+DC2_AC	FED20376	Don't take your clothes with y'!
+DC2_AD	60B696D5	A little more action!
+DC2_AE	17B1A643	The show must go on!
+DC2_AF	8EB8F7F9	He's gonna be pavement pizza!
+DC2_AG	F9BFC76F	Holy Moley, that was close!
+DC2_AH	6900DAFE	Thankyouverymuch.
+DC2_AI	1E07EA68	Whoa, he got him!
+DC2_AJ	870EBBD2	Jump! Look what dying did for my career!
+DC2_AK	F0098B44	JUMP! You fool!
+DC2_AL	6E6D1EE7	Jump! It'll save your career!
+DOC2@00	E0AD507E	- JUMP! Go on, jump! Oh, shit - Jesus...~n~- Jump! Come on, man, jump! You got it.
+DOC2@01	97AA60E8	Hey, what's happening? Who's the idiot?
+DOC2@02	0EA33152	Some washed up rapper.
+DOC2@03	79A401C4	It's Madd Dogg! Used to be a real chart-topping cat. Real playa!
+DOC2@04	E7C09467	Madd Dogg? Aw, man
+DOC2@05	90C7A4F1	He lost all his money in the casino and went batso!
+DOC2@06	09CEF54B	Hey, MADD DOGG! Whatchoo doing up there, fool?
+DOC2@07	7EC9C5DD	Do I know you? I don't think so, so shut the fuck up!
+DOC2@08	EE76D84C	This is the end! It's over! Wuh - woah! Ohhh...
+DOC2@09	9971E8DA	No, Dogg, get a grip, dude, get a grip - you still got it!
+DOC2@10	F9B6613F	You still gangsta!
+DOC2@11	8EB151A9	I don't give a fuck no more!
+DOC2@12	17B80013	My manager got killed, some asshole stole my rhyme book.
+DOC2@13	60BF3085	Shit is rough. All the kids like this "Loc OG" or whatever the fuck his name is.
+DOC2@14	FEDBA526	Some fake ass gangster rapper bullshit.
+DOC2@15	89DC95B0	Liquor's my only friend. Waah oh! Shit...
+DOC2@16	10D5C40A	Come on, Dogg!
+DOC2@17	67D2F49C	You just need a new manager, baby, you're looking at him!
+DOC2@18	F76DE90D	Just come in off that ledge, man!
+DOC2@19	806AD99B	Hey, don't talk him out of jumping, we got good money on this!
+DOC2@20	D29B32FC	Yeah, good odds, too!
+DOC2@21	A59C026A	Damn, this town is cold...
+DOC2@22	3C9553D0	Stay the fuck away - stay the fuck away!! I'm the best rapper in the universe!
+DOC2@23	4B926346	I'll jump! I'll jump! Woah! Wa-ah-ah!
+DOC2@24	D5F6F6E5	Oh, hell no! I gotta catch this fool.
+DOC2@25	A2F1C673	Jump! Come on, man, jump! You got it.
+DOC2@26	3BF897C9	Jump!
+DOC2@27	4CFFA75F	Jump! Come on!
+DOC2@28	DC40BACE	Come on, already!
+DOC2@29	AB478A58	Come on, jump already! Don't be a wuss!
+DOC2@30	CB8003BD	Come on, jump!
+DOC2@31	BC87332B	Jump, you bum!
+DOC2@32	258E6291	Ha ha ha! Come on!
+DOC2@33	52895207	Yeah - yeah yeah yeah - yeah c'mon.... Ah, almost!
+DOC2@34	CCEDC7A4	Oh shit oh shit sh shit he's gonna go over he's gonna go over!
+DOC2@35	BBEAF732	Oh, shit, look at this, look at this!
+DOC2@36	22E3A688	Yeah, yeah, come on, come on... Yeah, hey look, I don't got all fucking day!
+DOC2@37	55E4961E	- I hate y'all.~n~- Just come in off that ledge, man!
+DOC2@38	C55B8B8F	Man, jump!
+DOC2@39	B25CBB19	Hey, you better jump or I'm going to throw you off now!
+DOC2_01	80D084A5	~s~Use the ~b~pickup truck~s~ around the corner to rescue Madd Dogg!
+DOC2_05	87BD40BC	~s~Catch ~b~Madd Dogg ~s~when he jumps.
+DOC2_06	1EB41106	~s~Drive Madd Dogg to ~y~hospital ~s~CAREFULLY. Each bump reduces his chance of survival.
+DOC2_07	69B32190	Madd Dogg
+DOC2_09	8E0B0C97	~r~You won't be able to catch Madd Dogg now.
+DOC2_10	EECC8572	~r~You let Madd Dogg die.
+DOC2_11	99CBB5E4	~s~Go back and rescue ~b~Madd Dogg~s~!
+DOC2_15	9EA671FD	~s~Go and save ~y~Madd Dogg ~s~before he jumps!
+DOC2_19	97103DD6	~s~Get back in the ~b~truck~s~!
+DOC2_20	C5E1D6B1	~s~Drive Madd Dogg to the ~y~Hospital~s~!
+DOC2_X	F68A87CE	~s~Find a way to save Madd Dogg before he jumps!
+DOGG_AA	4F904B40	Stay back!
+DOGG_AB	D6991AFA	Don't think about grabbing me!
+DOGG_AC	A19E2A6C	I warn y'all, I'll jump!
+DOGG_AD	3FFABFCF	I ain't kidding!
+DOGG_AE	48FD8F59	I got gold records, what you got?
+DOGG_AF	D1F4DEE3	Gimme some more liquor!
+DOGG_AG	A6F3EE75	Brandy, Goddamn it, get the brandy!
+DOGG_AH	364CF3E4	I'll take all y'all down with me!
+DOGG_AI	414BC372	I ain't kidding! I'm real serious, see!
+DOGG_AJ	D84292C8	Just try it, come on, try it!
+DOGG_BA	64BD1883	This is it! This is the end! I'm out!
+DOGG_BB	FDB44939	It's time, I'm going to do it!
+DOGG_BC	8AB379AF	Goodbye cruel world!
+DOGG_CA	7DA629C2	Time to take your sorry ass to rehab you drunken idiot.
+DOGG_CB	E4AF7878	Am I still the top rapper, dude?
+DOGG_CC	93A848EE	Best there ever was.
+DOGG_CD	0DCCDD4D	Second to nobody else, homeboy.
+DOGG_CE	7ACBEDDB	And the name's Carl.
+DOGG_CF	E3C2BC61	Thanks, Carl...
+DOGG_DA	32E7BF05	Oh, man, I'm gonna die!
+DOGG_DB	ABEEEEBF	I'm slipping away, Carl!
+DOGG_DC	DCE9DE29	Momma, is that you?
+DOGG_DD	428D4B8A	Brandy! I need more brandy...
+DOGG_DE	358A7B1C	I'm a ghetto superstar!
+DOGG_DF	AC832AA6	Loc! LOC! I'm gonna kill you!
+DOGG_DG	DB841A30	Wha-? Where am I? Why's it so dark?
+DOGG_DH	4B3B07A1	I'm cold, Carl - damn, man, I'm cold!
+DOGG_DI	3C3C3737	OG Loc, you're a dead man. Dead, man!
+DOGG_DJ	A535668D	Where're all my bitches..? My bitches!
+DOGG_EA	2BFC8E44	It's the end! Oh, you non-driving asshole... Uurruuggh...
+DOGG_EB	B2F5DFFE	Uuaaghh, you tried, man... Ooh, ugh... but it wasn't good enough ... I'm out.
+DOGG_EC	C5F2EF68	Momma, 's'at you? Uugh!
+DOGG_FA	00D1DD87	Hey, get yourself straightened out,
+DOGG_FB	99D88C3D	then we can get you back in the studio.
+DOGG_FC	EEDFBCAB	Carl.
+DOGG_FD	70BB2908	What?
+DOGG_FE	07BC199E	When I get clean I'm gonna need a new manager.
+DOGG_FF	9EB54824	Thought I might look you up.
+DOGG_FG	E9B278B2	You do that, homie.
+DOGG_GA	19CAECC6	Hey, that's my truck!
+DOGG_GB	80C3BD7C	What the fuck you doing?
+DOGG_GC	F7C48DEA	Hey! HEY!

@@ -1,0 +1,58 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	DE3EA85F	Do a Wheelie along the coned section. Accelerate to top speed, then double tap and hold the accelerator.
+	C6C6AEBE	~s~Do a Stoppie along the coned section. Accelerate to top speed, press the movement controls up, then press and hold ~m~~widget_brake~.
+	3259E4FB	Do a Wheelie along the coned section. Accelerate to top speed, then press and hold downward on the bottom left corner of the screen.
+	64DCA838	As you hold down ~m~~widget_handbrake~, steer left or right.
+	86FAB6B9	Use the bike to do a burnout donut. Press and hold ~m~~widget_brake~ and ~m~~widget_accelerate~, and steer left or right.
+	A93998C9	Do a Wheelie along the coned section. Accelerate to top speed, then push ~m~~widget_ped_move_down~.
+BS_A	BDA41021	The 360
+BS_A_1	FDD5F982	Use the bike to do a burnout donut. Press and hold ~m~~widget_handbrake~ to begin the burnout.
+BS_B	24AD419B	The 180
+BS_B_1	FF9347DB	~s~To do a 180, accelerate to top speed, press and hold ~m~~widget_handbrake~ to slide around the cone and then return.
+BS_C	53AA710D	The Wheelie
+BS_D	CDCEE4AE	The Stoppie
+BS_D_1	FB1E3B69	~s~Do a Stoppie along the coned section. Accelerate to top speed, press and hold ~m~~widget_ped_move_up~ up, then press and hold ~m~~widget_brake~.
+BS_E	BAC9D438	Jump & Stop
+BS_E_1	FADC515E	~s~Jump the ramp and stop in the designated area.
+BS_F	23C08582	Jump & Stoppie
+BS_F_1	F89AEF07	~s~Jump the ramp, land in a stoppie and glide into the designated area.
+BS_X_1	EE22617D	~s~Walk to the ~y~television ~s~to start the lesson.
+BS_X_3	002C0051	Navigate
+BS_X_4	9E4895F2	Exit
+BS_X_5	E94FA564	Start
+BS_X03	E2497739	~<~~>~
+BS_Y_1	EFE00B4A	Final Heading
+BS_Y_10	B03F7829	GOLD
+BS_Y_11	C73848BF	SILVER
+BS_Y_12	5E311905	BRONZE
+BS_Y_13	29362993	Lap 1 Time: ~1~.~1~ seconds
+BS_Y_14	B752BC30	Lap 1 Time: ~1~.0~1~ seconds
+BS_Y_15	C0558CA6	Lap 2 Time: ~1~.~1~ seconds
+BS_Y_16	595CDD1C	Lap 2 Time: ~1~.0~1~ seconds
+BS_Y_17	2E5BED8A	Lap 3 Time: ~1~.~1~ seconds
+BS_Y_18	BEE4F01B	Lap 3 Time: ~1~.0~1~ seconds
+BS_Y_19	C9E3C08D	Lap 4 Time: ~1~.~1~ seconds
+BS_Y_2	76E95AF0	Final Position
+BS_Y_20	9B122BEA	Lap 4 Time: ~1~.0~1~ seconds
+BS_Y_21	EC151B7C	Lap 5 Time: ~1~.~1~ seconds
+BS_Y_22	751C4AC6	Lap 5 Time: ~1~.0~1~ seconds
+BS_Y_3	01EE6A66	Penalty Damage
+BS_Y_5	E88DCF53	Overall Score
+BS_Y_6	71849EE9	~1~%
+BS_Y_7	0683AE7F	------------------------------
+BS_Y_8	963CB3EE	NEW HIGH SCORE!
+BS_Y_9	E13B8378	NEW CERTIFICATE AWARDED!
+BS_Z_3	03A8D43F	Get 70% or higher to pass.
+BS_Z_4	9DCC419C	NO AWARD
+BS_Z_5	EACB710A	Continue
+BS_Z_6	73C220B0	Exit
+BS_Z_7	04C51026	You have completed the Bike School.~n~~w~Motorbike Skill +
+BS_Z_8	947A0DB7	Results
+BS_Z_9	E37D3D21	NEW TEST AVAILABLE!
+MEC_B1	10382334	Welcome to the Advanced Motorcycle School
+MEC_B2	8931728E	To pass you must score BRONZE or higher in all 6 tests.

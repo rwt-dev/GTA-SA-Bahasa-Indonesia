@@ -1,0 +1,99 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+FIN2_AA	5FA78BAB	I gotta warn Sweet!
+FIN2_AB	C6AEDA11	(Dialing tone)
+FIN2_AC	B1A9EA87	Dammit, Sweet, pickup! Pickup!
+FIN2_AD	2FCD7F24	(Dialing tone)
+FIN2_AE	58CA4FB2	Hey, what's up? You called me but I ain't pickin' up, so leave a message after the...
+FIN2_AF	C1C31E08	Shit! Shit! Shit!
+FIN2_BA	748AD868	Eh, Sweet man, you alright? You been hit!
+FIN2_BB	ED8389D2	CJ... Where you been?
+FIN2_BC	9A84B944	Cesar called, showed me some shit.
+FIN2_BD	04E02CE7	It's Smoke, and he in deep with Tenpenny and some Ballas!
+FIN2_BE	73E71C71	He sold us out!
+FIN2_BF	EAEE4DCB	It doesn't matter, man - you gotta get out of here. The cops gonna arrive any second.
+FIN2_BG	9DE97D5D	Nah man, I ain't runnin' out on my brother!
+FIN2_BH	0D5660CC	Yo, Ballas! I'm taking you motherfuckers, you hear me?
+FIN2_BJ	E35801E0	I'M TAKING YOU ALL DOWN, BITCHES!
+FIN2_CA	6D91E929	I told you to get the hell out of here, CJ...
+FIN2_CB	F498B893	I wasn't going to lose another brother...
+FIN2_CC	839F8805	Man, I was wrong, Carl. You ain't no buster.
+FIN2_CD	1DFB1DA6	Don't move a fucking muscle!
+FIN2A00	58390CCC	So this is it - this is when we show the Ballas what bangin' is all about.
+FIN2A01	2F3E3C5A	Grove Street is king! Say it with me niggas, Grove Street is KING! Yeah!
+FIN2A02	B6376DE0	Wassup, CJ. Where you been?
+FIN2A03	C1305D76	Hey sorry, bro, I got caught up.
+FIN2A04	5F54C8D5	Yeah, you probably was hittin' one o'them Ballas rats. Yeah I know what you was up to, nigga!
+FIN2A05	2853F843	Listen up - y 'all down with CJ, right?
+FIN2A06	B15AA9F9	He's been through a lot, I mean we all been through a lot.
+FIN2A07	C65D996F	But CJ's helping us clean up the 'hood. He's taken the fight to the enemy -
+FIN2A08	56E284FE	showing all of us how we used to bang,
+FIN2A09	21E5B468	what it used to mean to be a Grove Street Family.
+FIN2A10	41223D8D	CJ, you're my brother, my running dog.
+FIN2A11	36250D1B	I should have never doubted you.
+FIN2A12	AF2C5CA1	But you're home now, partner - home.
+FIN2A13	D82B6C37	Listen up! I want all y'all to go get heated.
+FIN2A14	464FF994	and meet me Downtown under the Mulholland Intersection.
+FIN2A15	3148C902	We're gonna roll on these Balla motherfuckers!
+FIN2A16	A84198B8	I'll see y'all in traffic.
+FIN2A17	DF46A82E	You in?
+FIN2A18	4FF9B5BF	Hell yeah, I'm in. I'm your running dog, Sweet.
+FIN2A19	38FE8529	Yeah, my nigga...
+FIN2A20	6A0F6E4E	Alright, you go get heated up, and I'll meet you at the crossroads.
+FIN2A21	1D085ED8	Little slick ass nigga!
+FIN2A22	84010F62	Ha ha! Yeah, you know it!
+FIN2A23	F3063FF4	That's right.
+FIN2A24	6D62AA57	Yeah.
+FIN2A25	1A659AC1	It's nothing.
+FIN2A26	836CCB7B	For sure.
+FIN2A27	F46BFBED	GROVE STREET IS KING!
+FIN2A30	73145F0F	- A'ight, a'ight!~n~- I'll see y'all in traffic.
+FIN2A31	04136F99	Yeah, let's roll!
+FIN2B00	5A7FB295	Just in time, ese, take a good hard look over there.
+FIN2B01	2D788203	So you dragged me way across town to see... what?
+FIN2B02	B471D3B9	Just watch, homie.
+FIN2B03	C376E32F	So, some Ballas hanging around a dope spot, so what?
+FIN2B04	5D12768C	What the fuck?
+FIN2B05	2A15461A	Sshh, ese, look at that ride...
+FIN2B06	B31C17A0	That's the motherfucking green Sabre!
+FIN2B07	C41B2736	Oh, no! Shit, Smoke, what you into?
+FIN2B08	54A43AA7	Shit, Smoke ... C.R.A.S.H. makin' you sell us out!
+FIN2B09	23A30A31	Moms!
+FIN2B10	436483D4	Sorry ese, I heard a rumor and poked around.
+FIN2B11	3463B342	I didn't believe it myself but...
+FIN2B12	AD6AE2F8	No, no, you did the right thing.
+FIN2B13	DA6DD26E	I gotta go tell Sweet about -
+FIN2B14	440947CD	Look, go get Kendl and take her to a safe place!
+FIN2B15	330E775B	What you thinking?
+FIN2B16	AA0726E1	It's Sweet, I think him and the homies is walking into a trap!
+FIN2B17	DD001677	Just go, GO!
+FIN2B18	4DBF0BE6	I owe you, Ces.
+FIN2B19	3AB83B70	Oh, fuck! Sweet!
+LA1_15	ECADD06A	~r~You killed Cesar!
+LA1_16	75A481D0	~r~Sweet died
+LA1_31	D9F676F1	~s~Hold off the ~r~Ballas~s~ until the police arrive.
+LA1_33	37F817DD	~s~Get to where Cesar is waiting ~y~under the freeway~s~.
+LA1_35	DE9BB2E8	~s~Get in the ~b~car~s~ down the alleyway.
+LA1_36	4792E352	~S~The Ballas are bringing in backup.
+LA1_37	3095D3C4	~S~More Ballas are closing in.
+LA1_38	A02ACE55	~S~Ballas wheels joining the action!
+LA1_4	BE48B87B	SWEET
+LA1_8	B7FEF450	~s~Get to the ~y~ambush ~s~before your brother is killed.
+LA1_9	C0F9C4C6	~s~Get to where ~b~Cesar~s~ is waiting for you.
+MCES03A	56F3CA29	Eh
+MCES03B	CFFA9B93	Hey, CJ, it's Cesar, man.
+MCES03C	B8FDAB05	I'm kinda busy now, something big going down.
+MCES03D	26993EA6	Ese, I got to see you, holmes, tell you something.
+MCES03E	519E0E30	Look, if it's about Kendl, don't worry, we cool, a'right?
+MCES03F	C8975F8A	No. CJ you gotta come and see something.
+MCES03G	BF906F1C	Something important, eh.
+MCES03H	2F2F728D	Well it's gonna have to wait...
+MCES03J	C12113A1	This can't wait, holmes. If I tell you, you won't believe it, ese, I swear.
+MCES03K	B6262337	So you gotta come and see right now
+MCES03L	2842B694	Ahh, OK, I got about five, so it better be good, where you at?
+MCES03M	5F458602	I'm under the freeway northside of Verdant Bluffs.
+MCES03N	C64CD7B8	Keep it on the dl homie

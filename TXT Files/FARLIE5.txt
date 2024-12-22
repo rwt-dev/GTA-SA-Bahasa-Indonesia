@@ -1,0 +1,40 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+DRV6_1	3A5A0270	~s~Go and pick up the ~b~decoy car.
+DRV6_11	01E12B04	~r~The decoy car was destroyed!
+DRV6_15	068CEF1D	~s~Don't let the bikers see into the damaged car for too long or your cover will be blown.
+DRV6_16	9F85BEA7	~s~The bikers can see into the car! Keep them away from the doors.
+DRV6_17	E8828E31	~s~Do not leave the decoy car.
+DRV6_18	783D93A0	Damage
+DRV6_19	0F3AA336	~s~Drive out to the ~y~countryside.
+DRV6_2	A35353CA	~s~Follow the ~r~checkpoints~s~ through the countryside.
+DRV6_3	D454635C	~s~Take out the chasing bikes.
+DRV6_4	4A30F6FF	~s~If the doors get too damaged, the bikers will be able to see into the car.
+DRV6_5	3D37C669	Door damage :
+DRV6_6	A43E97D3	~s~The car is almost damaged enough to see into!
+DRV6_7	D339A745	~r~You blew your cover!
+DRV6_8	4386BAD4	~s~Get into the ~b~decoy car.
+DRV6_9	34818A42	~s~Don't leave the car, you'll blow your cover.
+FAR5_AA	8B334BFC	It's decoy, back to Chinatown!
+FAR5_AB	123A1A46	This car is a decoy!
+FAR5_AC	653D2AD0	It's a fucking decoy!
+FAR5_BA	A01E183F	Come on boys, take the bait...
+FAR5_BB	39174985	Ah, look like these punks about to make they move.
+FAR5A00	8CADCC9B	As honored as I am to share my home with you,
+FAR5A01	FBAAFC0D	we should lure these lizards out into the baking sun!
+FAR5A02	62A3ADB7	We were followed here. The Da Nang Boys are watching this apartment.
+FAR5A03	15A49D21	As soon we leave, they will attempt an assassination.
+FAR5A04	8BC00882	Hey, what's the big deal? Why don't you cruise on out of here,
+FAR5A05	FCC73814	lead them to a place quiet and cap their flat asses - no offense.
+FAR5A06	65CE69AE	None taken.
+FAR5A07	12C95938	Look, as long as they think Mr. Farlie here is in the back,
+FAR5A08	827644A9	they'll follow me wherever.
+FAR5A09	F571743F	After a while, you can come out safely - simple.
+FAR5A10	95B6FDDA	Heh-heh. Amazing.
+FAR5A11	E2B1CD4C	Your success will be rewarded, Mr. Johnson.
+FAR5A12	7BB89CF6	No shit.
+FAR5A13	0CBFAC60	We find you funny.

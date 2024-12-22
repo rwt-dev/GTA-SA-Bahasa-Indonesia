@@ -1,0 +1,78 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	CFCE6EEF	Press and hold the bottom right side of the screen to begin.
+	0FB55465	Press and hold ~m~~widget_brake~ and ~m~~widget_accelerate~ and steer left or right.
+	25366FF1	Do a barrel roll in mid air and land it perfectly. While in the air, release the accelerate button and press and hold the left side of the screen to one side to adjust the car's pitch.
+	3783C01F	Do a barrel roll in mid air and land it perfectly. While in the air, release the accelerate button and press and hold ~m~~widget_vehicle_steer_left~ and ~m~~widget_vehicle_steer_right~ to adjust the car's pitch.
+	D8061111	To pass you must score BRONZE or higher in all 12 tests.
+	C2AA6187	Steer left or right to begin the burnout.
+	9F04D678	Press and hold the right side of the screen and ~m~~widget_brake~ to begin.
+	B2849125	~s~Use the front wheel drive car to reverse then quickly spin around 180 degrees. Press and hold on an empty section of the screen to look behind.
+	CDF2F367	Press ~m~~widget_school_left~ to go clockwise. Press ~m~~widget_school_right~ to go counterclockwise.
+DS_A	98CF4FFD	The '90'
+DS_C	76C12ED1	Spin and Go
+DS_E	9FA28BE4	Burn and Lap
+DS_F	06ABDA5E	Pop and Control
+DS_G	71ACEAC8	City Slicking
+DS_I	9614C7CF	Whip and Terminate
+DS_J	0F1D9675	Alley Oop
+DS_K	781AA6E3	Wheelie Weave
+DS_L	E67E3340	P. I. T. Maneuver
+DS_N	0870526C	Cone Coil
+DS_O	7F7762FA	The 180
+DS_P	F27F6F0F	The 360
+DS_PASS	3B2FB524	MISSION PASSED!~n~~w~DRIVING SKILL +
+DS1_1	04429821	~s~To do a 90, slide the car sideways into the parking space within five seconds.
+DS1_10	6AB4626A	Overall Score
+DS1_21	369E013F	~1~.~1~s
+DS1_22	AF975085	~1~.0~1~s
+DS1_23	D8906013	Final Time
+DS1_28	4F42B99B	~s~Use the front wheel drive car to reverse then quickly spin around 180 degrees. Press and hold ~m~~widget_look_left~ and ~m~~widget_look_right~ together to look behind.
+DS1_29	3845890D	~s~Do 3 laps in as quick a time as possible.~n~Target time is under 40 seconds.
+DS1_30	588200E8	~s~Drive to the end of the track, a tire will blow out half way there.~n~For extra control, release the accelerator.
+DS1_31	2F85307E	~s~Drive to the other side of the city and back without damaging the car.~n~The target time is UNDER 120 seconds (2 minutes).
+DS1_32	B68C61C4	~s~Powerslide around a tight corner and stop in the allocated area.
+DS1_33	C18B5152	Do a barrel roll in mid air and land it perfectly. While in the air, release the accelerate button and press and hold ~m~~widget_ped_move_left~ and ~m~~widget_ped_move_right~ to adjust the car's pitch.
+DS1_34	5FEFC4F1	~s~Keep the car on two wheels until the end of the track.
+DS1_35	28E8F467	~s~Perform a P.I.T. Maneuver to spin the other car around with minimum damage.~n~Finish as close to the other car as possible.
+DS1_36	B1E1A5DD	~s~Weave through the cones quickly and then return to the start position.
+DS1_43	8ECAC795	~s~Walk to the television to start the lesson.
+DS1_44	10AE5236	~s~Use the rear wheel drive car to do a burnout donut.
+DS1_45	67A962A0	~s~To do a 180, accelerate to top speed, press and hold ~m~~widget_handbrake~ to handbrake around the cone and then return.
+DS1_46	FEA0331A	NEW RECORD
+DS1_47	89A7038C	NEW CERTIFICATE AWARDED
+DS1_5	032F5C38	Final Heading
+DS1_52	E0D6C642	Navigate
+DS1_53	97D1F6D4	Exit
+DS1_54	09B56377	Start
+DS1_55	7EB253E1	GOLD
+DS1_56	E7BB025B	SILVER
+DS1_57	90BC32CD	BRONZE
+DS1_58	00032F5C	Record Score ~1~%
+DS1_59	77041FCA	Which course?
+DS1_6	9A260D82	Final Position
+DS1_60	25F5F4AD	Tap ~m~~widget_school_left~ to go clockwise. Tap ~m~~widget_school_right~ to go counterclockwise.
+DS1_62	CBFB9581	~<~~>~
+DS1_65	559F0022	Results
+DS1_66	CC965198	Continue
+DS1_67	BB91610E	Get 70% or higher to pass
+DS1_68	2B2E7C9F	NO AWARD
+DS1_69	5C294C09	~1~%
+DS1_7	ED213D14	Damage Penalty
+DS1_70	3CEEC5EC	-~1~%
+DS1_71	4BE9F57A	NEW TEST AVAILABLE
+DS1_72	D2E0A4C0	Overall Time
+DS1_73	A5E79456	Lap ~1~ of 3
+DS1_74	3B8301F5	Final Lap
+DS1_88	B5AD5111	Press and hold ~m~~widget_handbrake~ to begin.
+DSREVE	584564F2	Press and hold ~m~~widget_brake~ to begin.
+DSTART	74FB7604	Press and hold ~m~~widget_accelerate~ to begin.
+MEC_D1	466284B2	Welcome to the Advanced Driving School.
+MEC_D2	DF6BD508	To pass you must score BRONZE or higher in all 11 tests.
+MEC_D3	A86CE59E	To view a demonstration of each test, please use the TV over there.
+MEC_D4	3608703D	Passing a test will unlock the next test in the training program.
+MEC_D5	410F40AB	You can come back and check your scores or take new tests at any time.

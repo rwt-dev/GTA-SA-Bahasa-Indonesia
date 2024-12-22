@@ -1,0 +1,68 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+GR2@00	CD944396	You gotta love your hood like you love your homies
+GR2@01	BA937300	It's always been that way, and ain't nothing ever gonna change, I done seen it all.
+GR2@02	239A22BA	I mean, I seen it all. And that's the one thing I know.
+GR2@03	549D122C	Whattup, CJ?
+GR2@04	CAF9878F	Whassup? Yeah...
+GR2@05	BDFEB719	Whassup?
+GR2@06	24F7E6A3	I'm glad to see things back the way they used to be.
+GR2@07	53F0D635	Nah, it ain't like it was, but it's gonna be.
+GR2@08	C34FCBA4	We still gotta get everybody in the hood back together.
+GR2@09	B448FB32	I was just telling these cats what's important.
+GR2@10	D48F72D7	We gotta let everybody know: Grove is back on the map.
+GR2@11	A3884241	Hold up - don't you think we ought to take it easy?
+GR2@12	3A8113FB	You know, I got other things in mind - commitments I made.
+GR2@13	4D86236D	Can y'all step outside for a minute? I need to talk to him.
+GR2@14	D3E2B6CE	If you don't get this shit together,
+GR2@15	A4E58658	what you think this place is going to look like?
+GR2@16	3DECD7E2	You always did real good leaving jobs half finished.
+GR2@17	4AEBE774	That's cold, Sweet.
+GR2@18	DA54FAE5	Man, we can't take care of this from no bitch-ass rapper's mansion.
+GR2@19	AD53CA73	Look, the world is bigger than this hood.
+GR2@20	FFA22114	This is where our lives began and where it's probably gonna end.
+GR2@21	88A51182	And don't forget where you came from, mister uppity ass nigga.
+GR2@22	11AC4038	Now that ain't fair.
+GR2@23	66AB70AE	Oh - somebody just crossed out all the writing on the wall.
+GR2@24	F8CFE50D	Disrespected your hood.
+GR2@25	8FC8D59B	And you act like you don't give a fuck.
+GR2@26	16C18421	THAT ain't fair.
+GR2@27	61C6B4B7	Okay. Have it your way. C'mon.
+GR2@28	F179A926	What?
+GR2_01	ADE9974D	SWEET
+GR2_02	34E0C6F7	~s~You have left Sweet behind go get him.
+GR2_03	43E7F661	~r~Sweet's dead!
+GR2_05	AA845354	~s~Shoot some Ballas to start a war!
+GR2_09	A3321F7F	~s~Go and take back ~y~Idlewood~s~!
+GR2_10	C3F5969A	~s~Take over another Idlewood hood.
+GR2_11	B4F2A60C	~s~Take Sweet back to ~y~Grove Street~s~.
+GRO2_AA	ADA15BF7	So, you got a plan?
+GRO2_AB	34A80A4D	Yeah I've got a plan.
+GRO2_AC	43AF3ADB	We're gonna roll into Ballas' hood, and take it back for the Grove!
+GRO2_BA	868C0834	You wanna get some homies together or just me and you roll?
+GRO2_BB	1F85598E	Hell yeah, good idea, I'll gather some OGs up.
+GRO2_BC	68826918	Nah, let's do this Johnson style, you and me.
+GRO2_CA	9F973975	Let's take this hood back for the Grove!
+GRO2_CB	069E68CF	Time to put in some work, CJ!
+GRO2_CC	71995859	Let's hit these fools!
+GRO2_CD	EFFDCDFA	OK, dog, let's cap some Ballas!
+GRO2_CE	98FAFD6C	Hit 'em hard, CJ!
+GRO2_DA	D0D6AFB2	Yeah! We showed them fools!
+GRO2_DB	49DFFE08	Grove Street Families is back!
+GRO2_DC	3ED8CE9E	Grove Street, busters!
+GRO2_DD	A0BC5B3D	Grove 4 L-I-F-E, nigga!
+GRO2_EA	C9CD9EF3	We gotta take another neighborhood back!
+GRO2_EB	50C4CF49	Let's go hoo-ride on these Ballas!
+GRO2_EC	27C3FFDF	Which Ballas turf we gonna take next, CJ?
+GRO2_ED	B9A76A7C	We gotta take it to another Ballas neighborhood!
+GRO2_FA	E2E0CD30	We did it, CJ! let's bail back to Grove Street.
+GRO2_FB	7BE99C8A	C'mon, let's go back to Grove Street
+GRO2_GA	FBFBFC71	You helped Grove Street Families hammer those Ballas.
+GRO2_GB	62F2ADCB	Johnson boys rolled right over them!
+GRO2_GC	15F59D5D	OK, dog, I'm going to get some sleep, I'm beat.
+GRO2_GD	8B9108FE	Here, I took this from one of those Ballas fools.
+GRO2_GE	FC963868	Probably drug money - here's your half.

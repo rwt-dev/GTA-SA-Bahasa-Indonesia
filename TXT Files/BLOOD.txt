@@ -1,0 +1,18 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+BLOD_01	EE30D170	~s~Drive through the checkpoints to increase your overall time.
+BLOD_02	773980CA	~s~You will lose if your overall time reaches zero.
+BLOD_03	003EB05C	~s~Get your overall time above the Target Time to win!
+BLOD_04	9E5A25FF	~s~Pick up car upgrades to increase your chances of winning.
+BLOD_05	E95D1569	~r~You ran out of time!
+BLOD_06	705444D3	Results
+BLOD_07	07537445	New Best Time (mins)
+BLOD_08	97EC69D4	Cars Destroyed
+BLOD_09	E0EB5942	~1~
+BLOD_10	802CD0A7	~s~The overall time starts at 30 seconds and counts down.
+BLOD_11	F72BE031	~s~The current Target Time to win the Blood Ring is 1 min.
+BLOD_12	6E22B18B	~s~The current Target Time to win the Blood Ring is ~1~ mins.

@@ -1,0 +1,45 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+STL1@00	BB203859	So this is it, huh,
+STL1@01	CC2708CF	the great new business venture
+STL1@02	552E5975	that's supposed to save all of our worthless lives?
+STL1@03	222969E3	Wanna get in?
+STL1@04	BC4DFC40	Look, I thought this was supposed to be our foot on the ladder.
+STL1@05	CB4ACCD6	I thought we were going to make this place work?
+STL1@06	52439D6C	Hey, it might look like we're playing cards,
+STL1@07	2544ADFA	but we actually planning.
+STL1@08	B5FBB06B	Don't worry sweet baby,
+STL1@09	C2FC80FD	we're about to go get our first project!
+STL1@10	A23B0918	At last, it works!
+STL1@11	D53C398E	What works?
+STL1@12	4C356834	Oh, just a simple bit of electronic wizardry and intellectual bombast
+STL1@13	3B3258A2	that hacks into the state of the art satellite immobilization technology
+STL1@14	A556CD01	onboard our target vehicle! Ahhh, me...
+STL1@15	D251FD97	I don't know what he just said, but it's on!
+STL1@16	4B58AC2D	Read 'em and weep, cabron.
+STL1@17	3C5F9CBB	Oh, shit!
+STL1@18	ACE0812A	It's OK, baby, just stop sweating me, trust me, this shit's gonna be good...
+STL1@19	DBE7B1BC	I don't want to hear none of your bullshit - just save it.
+STL1@20	89165ADB	Yes, it's on! Wait... what's on?
+STL1_01	DB5DEC82	~s~Go and get the ~r~car~s~.
+STL1_02	4254BD38	~s~Clip ~r~her ~s~back end to spin ~r~her ~s~out of control.
+STL1_03	35538DAE	~s~Don't let her ~r~trail ~s~go cold.
+STL1_04	AB37180D	Use the P.I.T. technique learned in the Driving School to spin the target car around with minimal damage.
+STL1_05	DC30289B	~s~Steal the ~b~car~s~.
+STL1_06	45397921	~s~Drive back to the ~y~garage ~s~in San Fierro.
+STL1_07	323E49B7	~r~You destroyed the car!
+STL1_08	A2815426	~s~Well done!
+STL1_09	D58664B0	~r~You lost her trail!
+STL1_10	B541ED55	~s~Keep up! Her ~r~trail~s~ is going cold!
+STL1_11	C246DDC3	~s~Get back in the ~b~car~s~!
+STL1_12	5B4F8C79	~s~The car should be nearby.
+STL1_13	2C48BCEF	~s~Drive the car into the ~y~garage~s~.
+STL1_AA	BD7CD509	Here, this gadget is set to pick up on cell phone signals.
+STL1_AB	247584B3	Each time she makes a call it will give you the new location.
+STL1_AC	5372B425	You'll have to stay close if you're going get an updated position though.
+STL1_AD	CD162186	OK?
+STL1_AE	BA111110	For sure. Good lookin' Z.

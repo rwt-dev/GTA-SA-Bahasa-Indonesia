@@ -1,0 +1,113 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	D58C7B0B	Keep your speed up to the end of the pier then press ~m~~widget_enter_car~ to bail out.
+	13BFAC73	Press ~m~~widget_enter_car~ to bail out now!
+LOC3_AA	6DA2942C	Hey, what the fuck are you playing at?
+LOC3_BA	468FC7EF	Hey, man.
+LOC3_BB	DF869655	Take me back to Dogg's mansion.
+LOC3_BC	A881A6C3	Not today, asshole.
+LOC3_BD	36E53360	Today we're taking the scenic route,
+LOC3_BE	41E203F6	via the bottom of the ocean!
+LOC3_CA	5F94F6AE	Security team, the Principle is being kidnapped!
+LOC3_CB	C69DA714	Rescue him at all costs!
+LOC3_DA	10D56069	Who the fuck are you?
+LOC3_DB	89DC31D3	Where's my usual driver?
+LOC3_DC	FEDB0145	Unlock this fucking door!
+LOC3_DD	60BF94E6	I can't fucking swim, you fucking psycho!
+LOC3_EA	09CE5128	Ah, so I've heard!
+LOC3_EB	90C70092	What you want, fool, money?
+LOC3_EC	E7C03004	I got bitches, loads o'fine bitches, take 'em.
+LOC3_ED	79A4A5A7	They'll do anything you want!
+LOC3_EE	0EA39531	You want a record contract?
+LOC3_EF	97AAC48B	Man I can make any fool a superstar!
+LOC3_EG	E0ADF41D	I know people in this town, powerful people!
+LOC3_EH	7012E98C	Dangerous motherfuckers!
+LOC3_EJ	9E1C88A0	You Grove Street Families?
+LOC3_EK	E91BB836	I know Ballas OG's, we're like brothers!
+LOC3_EL	777F2D95	They'll fuck you up so bad!
+LOC3_EM	00781D03	And yo' moms. And yo' dad!
+LOC3_EN	99714CB9	Fuck, NOOOOOOOOO!
+LOC3_EO	EE767C2F	Holy FUUUUUUUUUUCK!
+LOC3_FA	22E302EB	Hey, what kept you?
+LOC3_FB	BBEA5351	Come on we need to go and pick up the boss!
+LOC3_FC	CCED63C7	Hold position in the middle of the motorcade until we get to the Awards Show.
+LOC3_FD	5289F664	Hold up here for a second until the cops let us through.
+LOC3_FE	258EC6F2	Stick close and let's roll!
+LOC3_FF	BC879748	Keep frosty, guys.
+LOC3_GA	3BF833AA	Hey, watch what you're doing!
+LOC3_GB	A2F16210	Watch the damn car!
+LOC3_GC	D5F65286	You unprofessional asshole!
+LOC3_GD	4B92C725	Keep your mind on the job!
+LOC3_HA	BC602F65	Hey, where you going?
+LOC3_HB	25697EDF	Hey, where's he off to?
+MLOC04A	F24DA105	Ah Loc, what's up now man?
+MLOC04B	6B44F0BF	One of Madd Dogg's chauffeurs just left the Burger Shot across town.
+MLOC04C	1C43C029	Said he was headed over to the Music Awards!
+MLOC04D	8227558A	Good lookin'. I'm a see if I can catch up with them.
+STP3_01	D4445E8A	~s~One of Madd Dogg's Manager's ~r~drivers~s~ is eating at the Burger Shot across town.
+STP3_02	4D4D0F30	~s~Go and steal his ~r~car~s~ and meet the other drivers before 10:30pm.
+STP3_03	3A4A3FA6	~r~You were too slow!
+STP3_04	A42EAA05	~s~Go and meet up with the other ~y~drivers~s~. Don't damage your car!
+STP3_05	D3299A93	THE MOOTV AWARDS CEREMONY
+STP3_06	4A20CB29	~s~Keep in the middle of the two cars until you reach the awards ceremony.
+STP3_07	3D27FBBF	~r~You strayed too far and alerted the other drivers!
+STP3_08	AD98E62E	~s~There is a ~y~pier~s~ to the South that you can dump the car off.
+STP3_09	DA9FD6B8	~s~Dump the car in the water but make sure no-one sees you!
+STP3_10	BA585F5D	~r~The convoy vehicle has been destroyed!
+STP3_11	CD5F6FCB	~S~Get in the ~r~car~s~.
+STP3_12	54563E71	~r~You left the car and alerted the other drivers!
+STP3_13	23510EE7	~s~Get back in the ~b~car~s~ and get on with the mission.
+STP3_14	BD359B44	~s~You have ~1~ seconds to rejoin the convoy.
+STP3_15	CA32ABD2	~s~You have ~1~ second to rejoin the convoy.
+STP3_16	533BFA68	~r~You killed a cop and alerted the other drivers!
+STP3_17	243CCAFE	~r~You killed one of the other drivers!
+STP3_18	B483D76F	~r~You let Madd Dogg's Manager escape!
+STP3_19	C384E7F9	~s~Damage the ~r~car~s~ to force the driver out.
+STP3_20	91750C9E	~r~You were too slow! Madd Dogg's other cars have left without you.
+STP3_21	E6723C08	~r~You were too slow! Madd Dogg's cars have left!
+STP3_22	7F7B6DB2	~s~The car is damaged, go and get it repaired.
+STP3_23	087C5D24	~r~You alerted the other drivers with your bad driving.
+STP3_24	9618C887	~r~Madd Dogg's Manager has been spooked and refuses to come out!
+STP3_25	E11FF811	~s~Park the car facing the same way as the other cars.
+STP3_26	7816A9AB	~s~One of the other ~r~drivers~s~ saw you dispose of Madd Dogg's Manager. Kill them!
+STP3_28	9FAE84AC	~s~Hurry up, you have to meet the other drivers before 10:30pm!
+STP3_30	886E3DDF	~s~Don't damage the car!
+STP3_31	FF690D49	~r~You didn't dump the car in the water!
+STP3_32	66605CF3	~s~Stop the car here.
+STP3_33	11676C65	~s~Go and meet up with the other ~y~drivers~s~ before 10:30pm. Don't damage your car!
+STP3_34	8F03F9C6	Tap ~m~~widget_enter_car~ to bail out now!
+STP3_35	F804C950	Keep your speed up to the end of the pier then tap ~m~~widget_enter_car~ to bail out.
+STR3A00	CF3BB306	Hey, 'scuse me. Loc around here?
+STR3A01	B83C8390	Whuh? Who? You want fries with that?
+STR3A02	2135D22A	Loc, is he available for coh-myoo-nee-kay-shun?
+STR3A03	5632E2BC	Who? Loc? Oh you mean Jeffrey!
+STR3A04	C856771F	Yeah, our Appliance Technician called in sick so Jeff- LOC, he got promoted.
+STR3A05	BF514789	So...
+STR3A06	26581633	So, he's out back cleaning the fryer.
+STR3A07	515F26A5	Hey, what up, Loc?
+STR3A08	C1E03B34	CJ. What's up, homie?
+STR3A09	B6E70BA2	Hey - my shit is so tight right now, it's about to bust!
+STR3A10	D6208247	So you happy now, homie?
+STR3A11	A127B2D1	Happy? Man, hell, no. I can't take this shit much longer.
+STR3A12	382EE36B	Man, I'm an artiste! I'd rather be inside!
+STR3A13	4F29D3FD	Man, I can't get a deal for nothing. Motherfuckers always wanna keep a nigga down.
+STR3A14	D14D465E	And that Scipio, Madd Dogg's manager, is putting it on me real heavy, man.
+STR3A15	A64A76C8	He crampin' my style for real.
+STR3A16	3F432772	Heavy? Man, he's five foot three.
+STR3A17	484417E4	But that fool strong. Man, we gotta take him out. He done blackballed me, man.
+STR3A18	D8FB0A75	I can't get in the game no way. I told you I'm an artist,
+STR3A19	AFFC3AE3	a communicator and nobody can even hear my message.
+STR3A20	FD0DD184	He's going around, telling everybody I'm whack.
+STR3A21	8A0AE112	Well, he obviously ain't heard your new shit. That shit is outrageous.
+STR3A22	1303B0A8	That's what I'm talking about, man. Down, with a frown, on the town, a sad clown.
+STR3A23	6404803E	Alright, so what you want me to do?
+STR3A24	FA60159D	I want you to take that motherfucker out!
+STR3A25	8D67250B	Kill him?
+STR3A26	146E74B1	Well, I didn't mean date him.
+STR3A27	63694427	Listen, he's gonna be attending some awards ceremony,
+STR3A28	F3D659B6	and that's the only time he leaves Dogg's side.
+STR3A29	84D16920	Man...

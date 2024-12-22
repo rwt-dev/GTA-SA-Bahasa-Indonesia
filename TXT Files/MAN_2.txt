@@ -1,0 +1,167 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	1029964E	When the target changes to red it is locked on. Press ~m~~widget_rocket~ to fire homing missiles.
+	B3FAA59E	Press ~m~~widget_explicit_flight_primary_attack~ to launch countermeasures to deter enemy rockets.
+	EF737ACB	Press ~m~~widget_explicit_flight_descend~ to toggle between jet mode and hover mode.
+	99AB91A3	Lock onto the ships and press ~m~~widget_rocket~ to fire. Each ship will need a few hits to destroy it.
+BH2@00	B7095D06	Will you please leave yourself alone!
+BH2@01	C00E6D90	Oh, you manky mongrel!
+BH2@02	59073C2A	Ooh, sorry geez.
+BH2@03	2E000CBC	You shouldn't be choking the gecko in the first place!
+BH2@04	B064991F	Remember what happened at that gig in Hamburg?!
+BH2@05	C763A989	That groupie loved it!
+BH2@06	5E6AF833	That wasn't a groupie, that was a roadie!
+BH2@07	296DC8A5	But she had great tits.
+BH2@08	B9D2D534	MAN tits! They were MAN TITS!
+BH2@09	CED5E5A2	Hey, what happened? Hey, where the sounds at?
+BH2@10	AE126C47	I dunno, bruv, it all just went!
+BH2@11	D9155CD1	You're fucking shite you are, P.
+BH2@12	401C0D6B	I can't be held responsible for dodgy gear, alright?
+BH2@13	371B3DFD	C'mon, keep it together, man - we can't fuck with his flow.
+BH2@14	A97FA85E	Finally! I thought I'd never get through to you.
+BH2@15	DE7898C8	What the- Toreno? Is that you?
+BH2@16	4771C972	Listen; you gotta pull one last string for me, OK?
+BH2@17	3076F9E4	Communists at the gate, Carl.
+BH2@18	A0C9E475	I'm tired of this, Toreno.
+BH2@19	D7CED4E3	I'm outside. Let's take a ride.
+BH2@20	853F3F84	Hey, I gotta get out of here. You got this?
+BH2@21	F2380F12	Hey, Dogg, I gotta go hit a marketing meeting,
+BH2@22	6B315EA8	I'm gonna catch you later!
+BH2@23	1C366E3E	Go on... Go on.... Come on... Come on.... Go on...
+BH2@24	8252FB9D	Come on:... Come on... Come on... Come on...
+BH2@25	F555CB0B	Oh, fuck!
+BH2@26	6C5C9AB1	That's my Dogg!
+BH2@27	1B5BAA27	What's this?
+BH2@28	8BE4B7B6	What's happenin' here?
+BH2@29	FCE38720	Toreno?
+BH2@30	9C240EC5	Hold up, mate, look, hold up one second.
+BH2@31	EB233E53	Now I'm hearing things - fuck me!
+BH2@32	722A6FE9	Right, mind how you go, sunshine.
+BH2@33	052D5F7F	Yeah, sweet as... Come on. You having that, Maccer, you having that?
+HYDHLP1	5FC0E531	Use the steering controls to tilt the plane forward and back.
+HYDHLP2	C6C9B48B	You can achieve target locks by pointing the plane at the enemy ships. The reticule will turn from green to red when you are locked.
+HYDHLP3	B1CE841D	Lock onto the ships and tap ~m~~widget_rocket~ to fire. Each ship will need a few hits to destroy it.
+MAN2_00	A0D55421	~s~Make your way to the ~y~aircraft carrier~s~ in San Fierro.
+MAN2_01	D7D264B7	~s~Find a Hydra Jet.
+MAN2_02	4EDB350D	~s~Be careful not to be spotted by the ~r~guards~s~!
+MAN2_03	39DC059B	~s~Take the Hydra to the ~y~airstrip~s~.
+MAN2_04	A7B89038	~s~The ~r~Hydras~s~ are on your tail. Take them out!
+MAN2_05	D0BFA0AE	~r~You destroyed all the Hydras!
+MAN2_07	3EB1C182	~s~Get back in the Hydra!
+MAN2_08	AE0EDC13	~r~Your Hydra is toast!
+MAN2_09	D909EC85	~s~Get in the boat
+MAN2_10	B9CE6560	~s~Find a way to switch off the SAM sites
+MAN2_11	CEC955F6	~s~Destroy the flotilla of ~r~spy ships
+MAN2_20	92E336A3	~s~There's a silenced pistol and a knife in the ~b~speedboat~s~.
+MAN2_21	E5E40635	~s~Head for the ~y~ship~s~.
+MAN2_22	7CED578F	~s~Find the ~y~control room~s~ to switch off the SAM sites.
+MAN2_23	0BEA6719	~s~Try not to alert the ~r~guards~s~.
+MAN2_24	958EF2BA	~s~The SAM sites are still active.
+MAN2_25	E289C22C	~s~Steal one of the military jets.
+MAN2_26	7B809396	~s~Take the jet to the desert airfield and land anywhere on the ~y~landing strip~s~.
+MAN2_27	0C87A300	~s~Enemy jet destroyed. ~1~ still active.
+MAN2_28	9C38BE91	~s~All enemy jets destroyed. Now destroy the ~y~spy ships~s~.
+MAN2_29	EB3F8E07	~s~Spy ship destroyed. ~1~ ships remain.
+MAN2_30	8BF807E2	~s~Spy ship destroyed. ~1~ ship remains.
+MAN2_31	FCFF3774	~s~The Carrier's rear door is closing.
+MAN2_32	65F666CE	~s~Get inside the ~y~ship~s~ before the rear door closes. Swimming will help avoid detection by the guards.
+MAN2_33	12F15658	~s~Guide the plane into the Hangar.
+MAN2_34	8C95C3FB	~s~The Hydra will now always be available in this hangar.
+MAN2_35	FB92F36D	~s~There are ~r~military jets~s~ on your tail. Take them out!
+MAN2_36	629BA2D7	~s~There is a ~r~military jet~s~ after you. Take it out!
+MAN2_37	159C9241	~s~Get back in your ~b~jet~s~.
+MAN2_38	85238FD0	~s~You've made too much noise entering the Aircraft Carrier. The ~r~guards~s~ are now on alert.
+MAN2_39	F224BF46	~s~You've been detected by a mechanic. The Aircraft Carrier is now on alert.
+MAN2_40	C4B99125	~s~You've been detected by the ~r~guards~s~. The Aircraft Carrier is now on alert.
+MAN2_41	B3BEA1B3	~s~A mechanic found a dead body. The Aircraft Carrier is now on alert.
+MAN2_42	2AB7F009	~s~The ~r~guards~s~ have found a dead body. The Aircraft Carrier is now on alert.
+MAN2_43	5DB0C09F	~s~There has been an explosion. The Aircraft Carrier is now on alert.
+MAN2_44	C3D4553C	~s~All spy ships destroyed. Now take out the remaining ~r~jets~s~.
+MAN2_45	B4D365AA	~s~You have been detected by a mechanic. He is running to trigger the alarm.
+MAN2_46	2DDA3410	~s~You've made too much noise entering the Aircraft Carrier.
+MAN2_47	5ADD0486	~s~The ~r~guards~s~ are now on alert.
+MAN2_48	CA621917	~s~A mechanic has found a dead body. He is running to trigger the alarm.
+MAN2_49	BD652981	~s~A mechanic has triggered the alarm. The aircraft carrier is now on alert.
+MAN2_70	EF94C2E6	Use the steering controls to tilt the plane forward and back.
+MAN2_71	9893F270	When the target changes to red it is locked on. Tap ~m~~widget_rocket~ to fire homing missiles.
+MAN2_72	019AA3CA	As you approach the ground, your landing gear will automatically lower itself.
+MAN2_80	680CDE29	~r~Toreno's car destroyed.
+MAN2_81	1F0BEEBF	~r~Toreno dead.
+MAN2_82	8602BF05	~r~No jets remain on Carrier.
+MAN2_83	F1058F93	~r~Jet destroyed.
+MAN2_84	6F611A30	~r~You failed to gain entry to the aircraft carrier!
+MAN2_98	7FCC675A	Countermeasures are launched automatically to deter enemy rockets.
+MAN2_AA	B1F35D3C	Well, no invite to the housewarming, huh kid?
+MAN2_AB	28FA0C86	I knew you'd come anyway.
+MAN2_AC	5FFD3C10	Yeah, well, that's not important right now.
+MAN2_AD	C199A9B3	I'll bring you up to speed on the way, get in.
+MAN2_AE	B69E9925	Get in.
+MAN2_BA	9ADE0EFF	How long's this going to take?
+MAN2_BB	03D75F45	I got my own shit to worry about.
+MAN2_BC	74D06FD3	Would you like to see your brother this week?
+MAN2_BD	EAB4FA70	Yeah, what can I do?
+MAN2_BE	9DB3CAE6	You just gotta steal a military jet off an amphibious assault ship
+MAN2_BF	04BA9B5C	and use it to destroy a flotilla of spy ships, nothing big.
+MAN2_BG	73BDABCA	Oh man, you shittin' me.
+MAN2_BH	E302B65B	Would I shit you, Carl?
+MAN2_BJ	0D0CD777	There's a boat.
+MAN2_BK	7A0BE7E1	All the gear you'll need is on board. I'll keep you briefed as you go.
+MAN2_BL	E46F7242	I ain't coming back from this one, am I?
+MAN2_BM	936842D4	Yes you are, don't be ridic--here take this earpiece. Trust me, do as I say,
+MAN2_BN	0A61136E	you'll be home for a blow job and a bologna sandwich.
+MAN2_CA	83C53FBE	OK Carl, the ship is moored in the Easter Basin Naval base.
+MAN2_DA	CC84A979	Sneak in the back without being seen.
+MAN2_DB	558DF8C3	Once you're on the inside, I cannot help you.
+MAN2_DC	228AC855	Well, can you help me now?
+MAN2_DD	BCEE5DF6	Uh, well, no. Actually, no.
+MAN2_EA	D59F9838	Ya see? Ya see? What did I tell you? It was a snap!
+MAN2_EB	4C96C982	Stolen Aircraft; Prepare to be vaporized!
+MAN2_EC	3B91F914	Did you hear that?
+MAN2_ED	A5F56CB7	Yeah. Ignore them.
+MAN2_EE	D2F25C21	Prepare to be vaporized', what a bunch of bullshit. Ignore them. They shoot at you and it's an international incident.
+MAN2_EF	4BFB0D9B	You're not a British tank, so you should be fine.
+MAN2_EG	3CFC3D0D	For real?
+MAN2_EH	AC43209C	Yeah, well, probably.
+MAN2_EJ	424D41B0	Now make your way to the flotilla and sink the fuckers!
+MAN2_FA	FEB2CBFB	You see? Child's play!
+MAN2_FB	67BB9A41	Fuck you TORENO, I never want to go through this again!
+MAN2_FC	10BCAAD7	I think I'm gonna hurl...
+MAN2_FD	8ED83F74	Ooh, what a big whiner, you want some cheese with that wine? Hey, you were spectacular.
+MAN2_FE	F9DF0FE2	You know what, I'm beginning to think my little Carl is a double agent. Oooh.
+MAN2_FF	60D65E58	Shut up, Toreno. Where do you want this thing?
+MAN2_FG	17D16ECE	What thing? I don't know what you're talking about - you stole it. Got nothing to do with me, I don't know what you're talking about. See ya 'round.
+MAN2_FH	876E735F	It's got nothing to do with me.
+MAN2_FJ	69601273	See you 'round.
+MAN2_FK	1E6722E5	Toreno? TORENO!
+MAN2_FL	8003B746	SHIT!
+MAN2_GA	E7A9FABA	I can't believe I let that maniac talk me into this...
+MAN2_GB	7EA0AB00	Deep in the shit now, deep in the shit...
+MAN2_GC	09A79B96	Man, I must be crazy...
+MAN2_GD	97C30E35	How he expect me to fly one of them things.
+MAN2_GE	E0C43EA3	Man, I'm screwed, totally screwed...
+MAN2_GF	79CD6F19	I just got to concentrate on getting through this alive.
+MAN2_GG	0ECA5F8F	Man, go out like this?
+MAN2_GH	9E75421E	Can't go out like no bitch.
+MAN2_HA	6031E675	All hands on deck!
+MAN2_HB	F938B7CF	Sound the alarm!
+MAN2_HC	8E3F8759	ALAARRM!
+MAN2_HD	105B12FA	He's stealing a Hydra!
+MAN2_HE	675C226C	Who is that guy?
+MAN2_HF	FE5573D6	Somebody stop him!
+MAN2_JA	520784F7	Hey, he ain't the pilot!
+MAN2_JB	CB0ED54D	Intruder!
+MAN2_JC	BC09E5DB	Get him out of there!
+MAN2_JD	226D7078	He can't fly that!
+MAN2_JE	556A40EE	Some ghetto boy stealing the Hydra!
+MAN2_JF	CC631154	What do we do?
+MAN2_KA	4B1CB5B6	Who is that idiot?
+MAN2_KB	D215E40C	Is this a prank?
+MAN2_KC	A512D49A	Should we shoot?
+MAN2_KD	3B764139	He's going to crash for sure!
+MAN2_KE	4C7171AF	Man, he won't last long!
+MAN2_KF	D5782015	We're gonna get the shit for this!
+MAN2_ZZ	92A05F4A	~r~You failed to steal the Hydra!

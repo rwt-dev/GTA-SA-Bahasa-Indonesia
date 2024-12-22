@@ -1,0 +1,53 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+D10A@00	167DA9A2	THE NEW AGE BEGINS HERE!
+D10A@01	617A9934	Say what?
+D10A@02	F873C88E	Not all fantastic things are lies, Carl!
+D10A@03	8F74F818	Today, we'll know EVERYTHING.
+D10A@04	11106DBB	Oh, I can hardly wait. I hear knowledge is truly sacred in this part of the world.
+D10A@05	66175D2D	Man, I've tried, but I can't fly for shit.
+D10A@06	FF1E0C97	You better do it.
+D10A@07	88193C01	Land on the train, kill the guards, get in and steal the stuff.
+D10A@08	18A62190	Oh, yeah. What stuff?
+D10A@09	6FA11106	I don't know yet!
+D10A@10	0F6698E3	I was starting to think you was a lunatic.
+D10A@11	7861A875	What do you mean, you don't know yet?
+D10A@12	E168F9CF	You'll be stealing the answer!
+D10A@13	966FC959	Look, fly the jet pack. Land on the train.
+D10A@14	080B5CFA	And steal whatever they least want us to get.
+D10A@15	7F0C6C6C	Shhh. Listen. They're coming.
+D10A@16	E6053DD6	We better go. Peace on earth, dude.
+D10A@17	91020D40	Damn. Where is this fool?
+D10A@18	01BD10D1	- Woooah! Shit. Oh! Damn! Ow!~n~- Hey, man, look out!
+D10A@19	76BA2047	Hey, man, look out!
+D10A@20	244BCB20	Oh. You don't know yet!
+D10AL00	1F6750C6	Man, why I gotta wait in the middle of the desert for this maniac all the time?
+D10AL01	68606050	Carl, it's The Truth.
+D10AL02	F16931EA	Hey man, where you at? You sound like you're in a cave, or something.
+D10AL03	866E017C	Around. Been eating a lot lately, Carl?
+D10AL04	180A94DF	Not getting enough exercise?
+D10AL05	6F0DA449	Yeah... I guess.
+D10AL06	F604F5F3	Look, I want you to use that gizmo you acquired,
+D10AL07	8103C565	but you gotta lose some of that ballast first, fat ass.
+D10AL08	11BCD8F4	Hurry, we've only got a short window for this one.
+D10AL09	66BBE862	The hell with you!
+D10AL10	067C6187	Man, I'm just big boned, that's all...
+D10AL11	717B5111	Damn. You'd have thought they'd have a yoga move for this one...
+D10B@00	04C8064C	You got it, man?
+D10B@01	73CF36DA	I got something.
+D10B@02	EAC66760	Let me see!
+D10B@03	9DC157F6	Oooh... Everything is different now.
+D10B@04	03A5C255	What is it?
+D10B@05	74A2F2C3	Everything. They will call this 'year zero'.
+D10B@06	EDABA379	I'll be in touch!
+D10B@07	9AAC93EF	Wait! What is... Yeah, see you around.
+DE10_01	0850DCE7	~s~Fly the jet pack to the ~g~train~s~, and steal whatever they least want you to get.
+DE10_02	91598D5D	~s~That's the right one! Grab the ~g~jar of green goo.
+DE10_03	E65EBDCB	~s~The ~g~crate~s~ is empty, try another.
+DE10_04	783A2868	~s~You have the jar of green goo. Take it to ~y~The Truth.
+DE10_05	0F3D18FE	~r~You failed to get the green goo in time.
+DE10_06	96344944	~s~Shoot the ~g~crates~s~ on the train to find the jar of green goo.

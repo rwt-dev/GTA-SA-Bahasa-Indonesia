@@ -1,0 +1,44 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	3038A1A6	Press ~m~~widget_vehicle_shoot_left~ or ~m~~widget_vehicle_shoot_right~ to launch an item to the left or right. Drive over the last unsuccessfully thrown item to reclaim it.
+BCOU_10	99DF5288	~s~Launch a package and get it through the ~y~dropoff marker~s~ to register a successful delivery.
+BCOU_11	EED8621E	~r~You don't have enough items available to fulfill the delivery quota of this run!
+BCOU_12	77D133A4	Good job! Let's work out your cut of the profits!
+BCOU_18	9704DABA	LA Biker
+BCOU_19	E003EA2C	LV Biker
+BCOU_20	B2F2014B	SF Biker
+BCOU_21	C5F531DD	Payment:
+BCOU_22	5CFC6067	Time Left
+BCOU_23	2BFB50F1	Items Spare
+BCOU_24	B59FC552	Total Cash
+BCOU_3	380D531F	~s~Get those items thrown through the ~y~dropoff coronas~s~ quickly!
+BCOU_31	DCEE009C	Get on bike:
+BCOU_33	32E061B0	~r~Out of time!
+BCOU_34	AC84F413	Time
+BCOU_35	DB83C485	~r~Delivery run over.
+BCOU_37	358DA5A9	~s~You've got ~1~ seconds to get back on the ~b~bike~s~ or this run's over!
+BCOU_4	A669C6BC	~s~Drive the bike around town and launch items through the ~y~dropoff coronas~s~ before time runs out.
+BCOU_40	E4A8A6CD	0 out of 4 runs completed
+BCOU_41	93AF965B	1 out of 4 runs completed
+BCOU_42	0AA6C7E1	2 out of 4 runs completed
+BCOU_43	7DA1F777	3 out of 4 runs completed
+BCOU_44	E3C562D4	4 out of 4 runs completed
+BCOU_45	94C25242	5 out of 4 runs completed
+BCOU_46	0DCB03F8	6 out of 4 runs completed
+BCOU_47	7ACC336E	7 out of 4 runs completed
+BCOU_48	EA732EFF	~y~San Fierro Courier complete!
+BCOU_49	9D741E69	~y~Los Santos Courier complete!
+BCOU_5	D16EF62A	~s~Item Delivered! Get to another ~y~dropoff corona~s~ and deliver another item.
+BCOU_50	FDB3978C	~y~Las Venturas Courier complete!
+BCOU_6	4867A790	~s~All items delivered! Head back to your ~y~pick up point~s~ to collect your payment.
+BCOU_7	3F609706	~s~Payment $~1~
+BCOU_8	AFDF8A97	items onboard
+BCOU_80	481DE9C1	San Fierro
+BCOU_81	3F1AD957	Los Santos
+BCOU_82	A61388ED	Las Venturas
+BCOU_83	D114B87B	Items Held
+BCOU_84	4F702DD8	Tap ~m~~widget_vehicle_shoot_left~ or ~m~~widget_vehicle_shoot_right~ to launch an item to the left or right. Drive over the last unsuccessfully thrown item to reclaim it.

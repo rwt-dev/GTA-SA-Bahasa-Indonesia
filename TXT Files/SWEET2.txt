@@ -1,0 +1,144 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	52957CFF	You can increase your accuracy by crouching. Press ~m~~widget_explicit_crouch~ to crouch.
+	AB0585A7	Tap the screen to lock on to a target. Tap ~m~~widget_attack~ to fire.
+	4D607B12	Aim with ~m~~widget_enter_targeting~, then press ~m~~widget_attack~ to fire.
+	34B5700B	You can increase your accuracy by crouching. Double tap the lower left corner of the screen to crouch.
+	ED4AF0DC	While locked on you can cycle through targets by swiping the middle of the screen.
+	0B2F0E69	While locked on you can cycle through targets by using ~m~~widget_look_left~ or ~m~~widget_look_right~.
+HOOD2C	C1D430E9	To manually aim, touch the middle of the screen and move to the left and right whilst shooting.
+HOOD2D	5FB0A54A	Your ~h~gun skill~w~ will increase with every accurate shot you land with your weapon.
+HOOD2E	28B795DC	Getting a high gun skill will increase your ability with weapons. Hold ~m~~widget_player_info~ on foot to view your weapon skill.
+RECOIL	33DEE440	If you fire your weapon continuously the recoil of the gun will affect your accuracy. To be as accurate as possible use short bursts of fire.
+S2HELP1	6FB0E740	~s~Go inside the ~y~Binco clothes shop~s~.
+S2HELP2	F6B9B6FA	~s~Walk into the marker to try on some new threads.
+SWE2_A	F9C99EB2	~s~Go with Smoke to ~y~Emmet's house~s~.
+SWE2_B	60C0CF08	~r~Smoke is dead!
+SWE2_C	17C7FF9E	~r~You've trashed Smoke's ride!
+SWE2_D	89A36A3D	~s~Drive Smoke ~y~home~s~.
+SWE2_E	FEA45AAB	~s~Wait for ~b~Smoke~s~!
+SWE2_F	67AD0B11	~s~Use manual aim to shoot the car's gas tank.
+SWE2_G	10AA3B87	~s~Shoot the bottle.
+SWE2_H	80152616	~s~Shoot the bottles.
+SWE2_HF	6BEB44D2	Look, y'all boys got ta relax more, man.
+SWE2_HG	1CEC7444	...get in touch with your spiritual side and some shit like dat.
+SWE2_I	F7121680	~s~Try shooting the bottles while crouching.
+SWE2_J	6E1B473A	~s~Go back to ~y~Emmet's Yard~s~.
+SWE2_K	191C77AC	~r~You killed Emmet!
+SWE2_L	8778E20F	~s~Get back in ~b~Smoke's car~s~.
+SWE2_M	F07FD299	~s~You need to be on foot!
+SWE2_N	69768323	~s~Use manual aim to shoot the tires of the car.
+SWE3_AA	9CF10D5D	What happened to the Families, where the love at?
+SWE3_AB	05F85CE7	Shit happens.
+SWE3_AC	72FF6C71	Seville wrongs Temple, Temple wrongs Grove.
+SWE3_AD	EC9BF9D2	Bad blood leads to bad blood.
+SWE3_AE	9B9CC944	If you read the book, that's the way of the world, baby!
+SWE3_AF	029598FE	Yeah, well you know you gotta keep it real.
+SWE3_AG	7592A868	Make those Ballas sit up and beg!
+SWE3_AH	E52DB5F9	I admire you, Carl. You're a leader, a visionary.
+SWE3_AJ	0B23D4D5	Remember me when you get to the top.
+SWE3_AK	7C24E443	Give it a rest, Smoke. You're full of shit.
+SWE3_BA	B7DC5E9E	Shit, I'm the best there ever was!
+SWE3_BB	2ED50F24	I knew I was the chosen one!
+SWE3_BC	59D23FB2	Die, little glass Balla fool!
+SWE3_BD	C7B6AA11	Cap your ass!
+SWE3_BE	B0B19A87	And your ass!
+SWE3_BF	29B8CB3D	You want some too?
+SWE3_BG	5EBFFBAB	Ice cold, baby!
+SWE3_BH	CE00E63A	Eyes closed!
+SWE3_BJ	200E8716	From the hip!
+SWE3_BK	5709B780	Left handed, I can't get beat!
+SWE3_CA	AEC76FDF	Them ain't no homing bullets, fool!
+SWE3_CB	37CE3E65	Your brother got all the shooting genes!
+SWE3_CC	40C90EF3	No wonder Li'l Brian got his self killed!
+SWE3_CD	DEAD9B50	I said the bottle, not the building!
+SWE3_CE	A9AAABC6	You're flinching like a little girl!
+SWE3_CF	30A3FA7C	Don't squeeze on that damn trigger, yank on it!
+SWE3_CG	47A4CAEA	You know what the bottle looks like, don't cha?
+SWE3_CH	D71BD77B	C'mon, fool, shoot straight!
+SWE3_CJ	3915B657	Is that the best you got, boy?
+SWE3_CK	4E1286C1	Your shootin' is a disgrace!
+SWE3_DA	E186F918	Yeah, that's real Grove Street style, now!
+SWE3_DB	788FA8A2	He's got killah all over his soul!
+SWE3_DC	0F889834	Ah, Beverly'd be so proud of you, boy.
+SWE3_DD	91EC0D97	Ballas fools gonna be sorry!
+SWE3_DE	E6EB3D01	That's it boy!
+SWE3_DF	7FE26CBB	That's good shootin'!
+SWE3_DG	08E55C2D	Aw, you're makin' me so proud of you!
+SWE3_EA	F89DC859	Oh man, you iced Emmet!
+SWE3_EB	619499E3	Seville Families gonna be real pissed!
+SWE3_EC	1693A975	Where we gonna get our guns from now?
+SWE3_ED	88F73CD6	That wasn't a bottle, fool!
+SWE3_EE	FFF00C40	CJ, what you gone and done, man?
+SWE3_EF	66F95DFA	Oh fuck, Emmet!
+SWE3_FA	D3B09B9A	Watch where you're pointing that thing!
+SWE3_FB	4AB9CA20	You just iced Big Smoke!
+SWE3_FC	3DBEFAB6	Holy sh--,crap, Smoke!
+SWE3_FD	A3DA6F15	The boy's gone loco!
+SWE3_FE	D4DD5F83	You are a terrible, terrible shot.
+SWE3_FF	4DD40E39	Beverly put mercury in your babyfood?
+SWE3_GA	CAABAADB	Damn, you a killer baby, ice cold!
+SWE3_GB	53A2FB61	But remember something, real strength comes from within, my brother.
+SWE3_GC	24A5CBF7	Listen to the boy.
+SWE3_GD	BAC15E54	Yeah, I guess Liberty didn't soften you none, huh?
+SWE3_GE	CDC66EC2	Hey look, let's split.
+SWE3_GF	54CF3F78	Hey, I'll see you around Emmet.
+SWE3_GG	23C80FEE	I'm 100% behind you boys.
+SWE3_GH	B377127F	But remember this, you didn't get 'em from me.
+SWE3_GJ	5D797353	And remember this. Emmet is the place for guns!
+SWE3_GK	2A7E43C5	I've always got high quality merchandise.
+SWE3_GL	B41AD666	And I've been proudly serving the community for over 30 years!
+SWE3_GM	C31DE6F0	Crazy old fool. Hey look, you drive, man
+SWE3_GN	5A14B74A	I seen newer cannons than this strap in a museum. Where we goin'?
+SWE3_GO	2D1387DC	Man, I'm real tired, dude, drop me off at my crib, baby.
+SWE3_HA	4D33B614	What's going on, man, shit seems pretty fucked up?
+SWE3_HB	D43AE7AE	People have to open their eyes, and their hearts, CJ.
+SWE3_HC	A33DD738	What are you talking about?
+SWE3_HD	3D59429B	I'm talking about the choices all men face, brother.
+SWE3_HE	4A5E720D	Sometimes, they seem real, but other times there's no choice at all.
+SWE3_HF	D35723B7	At least you still talking shit. You ain't changed a bit.
+SWE3_HG	A4501321	Who me? No never.
+SWE3_JA	7F05D496	Thanks, CJ, I'll see you around.
+SWE3_JB	E60C852C	Later, Smoke.
+SWE3_ZZ	BFA20F2B	Oh, man, check out 'Special Agent Big Smoke'!
+SWE3A00	9B6F8A3A	Gimme 15, motherfucker.
+SWE3A01	EC68BAAC	I'll write it down in a second.
+SWE3A02	7561EB16	I ain't going to pencil whip you, fat sucker.
+SWE3A03	0266DB80	Let me play first.
+SWE3A04	9C024E23	Who's winning?
+SWE3A05	EB057EB5	Who you think, huh? Me!
+SWE3A06	720C2F0F	That does it. That's game null and void, motherfuckers!
+SWE3A07	050B1F99	So, what kind of guns we working with now?
+SWE3A08	95B40208	One-times came through,
+SWE3A09	E2B3329E	raided the spot. We ain't got shit now.
+SWE3A10	8274BB7B	Well what you going to do if the Ballas roll through,
+SWE3A11	F5738BED	throw shoes at them?
+SWE3A12	6C7ADA57	Say, what happened to Emmet?
+SWE3A13	1B7DEAC1	Emmet? Shit, gangsters these days got Mac's, AK's, and all kinds of stuff.
+SWE3A14	85197F62	Emmet, on the other hand, ain't got shit.
+SWE3A15	F21E4FF4	Well, until we get that plug,
+SWE3A16	6B171E4E	we gotta deal with a cat that always been there for us.
+SWE3A17	1C102ED8	Emmet's Seville Boulevard Families,
+SWE3A18	8CAF3349	we ain't too close these days,
+SWE3A19	FBA803DF	but nonetheless, I'll take you to see him.
+SWE3A20	A959E8B8	Get ourselves strapped up. Come on, man.
+SWE3A21	DE5ED82E	- A'ight, wassup?~n~- Wassup, man?
+SWE3A22	47578994	Wassup, man?
+SWE3A23	3050B902	- What's cracking.~n~- Who's winning?
+SWE3B00	99293463	Hey! Who shot at me? What you kids want?
+SWE3B01	EE2E04F5	Aren't you Beverly Johnson's boy?
+SWE3B02	7727554F	That's right
+SWE3B03	002065D9	Brian! Say, ain't you dead?
+SWE3B04	9E44F07A	No, Emmet - the other one. Carl.
+SWE3B05	E943C0EC	I'm sorry about Beverly.
+SWE3B06	704A9156	That's why we're here, sir.
+SWE3B07	074DA1C0	We want to get the people who did it.
+SWE3B08	97F2BC51	Well, you've come to the right place.
+SWE3B09	E0F58CC7	Try anything you like, boy.
+SWE3B10	80320522	That's my man right there, you know what I'm saying?
+SWE3B11	F73535B4	Hey, hey, pops, hey, what's happenin'?
+SWE3B12	6E3C640E	Man, look at this old shit.

@@ -1,0 +1,40 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	50213A75	Walk over to the back of the truck and press ~m~~widget_drop_item~ to drop off the item.
+B_FAIL1	CA9DDA3E	Burglary mission ended.
+BURG1	66E3DF7D	~s~Get in the ~b~truck~s~ then go and offload the goods at the garage.
+BURG2	FFEA8EC7	~s~It's daylight! Not the time for home invasions! Go and offload what you've already stolen within the time limit!
+BURG20	23268D31	I'll give you $~1~ for it.
+BURG21	5421BDA7	I'll give you $~1~ for the lot.
+BURG23	BA2FDC8B	Get close to the item to pick it up.
+BURG24	244B4928	Walk over to the back of the truck and tap ~m~~widget_drop_item~ to drop off the item.
+BURG25	534C79BE	Noise
+BURG26	CA452804	~s~Go and offload the goods at the ~y~lockup~s~.
+BURG27	BD421892	~s~Put the goods in the ~b~truck~s~.
+BURG29	5AFA3595	~s~Go and find a house to break into.
+BURG3	88EDBE51	TIME
+BURG30	3A3DBC70	~s~Find something worth stealing.
+BURG31	4D3A8CE6	~s~Go and find a house to break into, or get in the ~b~truck~s~ and go offload what you've already stashed.
+BURG36	D35E1945	~s~This load: ~1~ items $~1~
+BURG37	A45929D3	TOTAL: ~1~ items worth $~1~
+BURG39	43E104D4	~s~This load: ~1~ item $~1~
+BURG4	16892BF2	~s~Go and offload the goods at the ~y~lockup~s~, or find a house to break into.
+BURG40	757C2AB7	~s~Park the truck in the ~y~lockup~s~.
+BURG41	027B1A21	~r~Burglary mission cancelled!
+BURG50	6C671BF6	~s~You have to lose the heat before you can offload the goods.
+BURG51	1B602B60	CASH
+BURG52	82697ADA	DAYLIGHT
+BURG53	F56E4A4C	~r~You are out of time, come back another night and finish the job
+BURG54	6B0ADFEF	Burglary missions complete: $~1~
+BURG55	1C0DEF79	~s~You have been detected!
+BURG56	8504BEC3	~s~The ~y~exit~s~ is displayed on the radar.
+BURG57	F2038E55	~s~Take the item back to the truck.
+BURG58	62BC93C4	~s~You have ~1~ seconds to get out of the house!
+BURG59	15BBA352	~s~You have ~1~ second to get out of the house!
+BURG60	474A4835	~s~The cops are on the way!
+BURG61	304D78A3	COPS
+BURG62	A9442919	~r~You no longer have the ski mask.

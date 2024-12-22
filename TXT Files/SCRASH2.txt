@@ -1,0 +1,65 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+SCR2@00	68968C77	Hey, CJ, wassup?
+SCR2@01	1F91BCE1	Hey wassup, Jethro?
+SCR2@02	8698ED5B	Some cops are lookin' for you in the office, man.
+SCR2@03	F19FDDCD	Tenpenny. Alright, man, I got it.
+SCR2@04	6FFB486E	Nice to see y'all kicking back.
+SCR2@05	18FC78F8	Hmmmm?
+SCR2@06	81F52942	I wonder how your brother's sleeping,
+SCR2@07	F6F219D4	curled up next to his shower daddy
+SCR2@08	664D0445	while you live comfortably on the outside?
+SCR2@09	114A34D3	Man, what you all want this time?
+SCR2@10	718DBD36	Well, what we want is to get on with our jobs in peace,
+SCR2@11	068A8DA0	without some damn bleeding heart liberal poking his nose
+SCR2@12	9F83DC1A	into affairs he won't even understand.
+SCR2@13	E884EC8C	The press onto y'all?
+SCR2@14	76E0792F	What the hell would you know about it, boy?
+SCR2@15	01E749B9	Woah, easy there, Eddie, let's not get ahead of ourselves.
+SCR2@16	98EE1803	Some young journalist out there is trying to get a name for himself.
+SCR2@17	EFE92895	He doesn't know how the streets work
+SCR2@18	7F563504	- that he's supposed to report what he's supposed to report.
+SCR2@19	08510592	Yeah, anyway, we need you to shut him up for us.
+SCR2@20	5AA0EEF5	And that stoolie - shut him up too!
+SCR2@21	2DA7DE63	Yeah, there's some reporter who's digging up dirt on Pulaski,
+SCR2@22	B4AE8FD9	we don't know who's talking,
+SCR2@23	C3A9BF4F	but we know that the reporter's meeting him today.
+SCR2@24	5DCD2AEC	Take care of him.
+SCR2@25	2ACA1A7A	Oh - this is nice place... Carl.
+SCR2_00	7FEC683A	~s~The reporter is at ~y~Cranberry Station~s~. Follow him to his meeting place with the Target, then kill them both.
+SCR2_01	08EB58AC	~s~The train is arriving at the ~y~station~s~. You don't have much time before it leaves with the reporter.
+SCR2_02	91E20916	~s~The reporter has boarded the train and is heading for Market Station in Los Santos. Follow that ~r~train~s~!
+SCR2_03	E6E53980	~s~The ~r~train~s~ is approaching Market Station. The reporter will be preparing to exit.
+SCR2_04	7881AC23	~s~The ~r~reporter~s~ has left the train. Pick up his trail and follow him to the Target.
+SCR2_05	0F869CB5	~s~The meeting is over. The ~r~reporter~s~ and ~r~Target~s~ are walking away.
+SCR2_06	968FCD0F	~s~The ~r~reporter~s~ is on the sidewalk looking for a cab. To follow him you're gonna need some wheels.
+SCR2_07	E188FD99	~s~The ~r~reporter~s~ has climbed into a cab. Follow him to the Target.
+SCR2_08	7137E008	~s~Too close! You're spooking the ~r~reporter~s~. Back off before he abandons the interview.
+SCR2_09	0630D09E	~s~If the ~r~reporter~s~ suspects he is being tailed he will abandon the interview, so don't get close enough to spook him.
+SCR2_10	66F7597B	~s~You've killed the reporter. Kill the ~r~Target~s~ to complete the mission.
+SCR2_11	11F069ED	~s~The Target is dead. Don't let the ~r~reporter~s~ get away. Kill him too.
+SCR2_12	88F93857	~s~The ~r~reporter~s~ and ~r~Target~s~ have heard your gunfire. Kill them both before they escape.
+SCR2_13	FFFE08C1	~s~You've been spotted. Assassinate them ~r~both~s~.
+SCR2_14	619A9D62	~s~You've hit the ~r~reporter~s~. Finish him off and kill the ~r~Target~s~.
+SCR2_15	169DADF4	~s~The Target is wounded. The ~r~reporter~s~ and ~r~Target~s~ both have to die.
+SCR2_16	8F94FC4E	~s~You're too far away! Get closer before you lose the ~r~reporter~s~.
+SCR2_17	F893CCD8	~s~Be wary! The ~r~reporter~s~ may check for a tail by stopping suddenly or performing a burst of speed.
+SCR2_18	682CD149	~s~The ~r~reporter~s~ is approaching his destination. Keep your distance until he meets the Target.
+SCR2_19	1F2BE1DF	~s~The ~r~reporter~s~ is ready to meet the ~r~Target~s~. You have a sniper rifle. Assassinate them both.
+SCR2_20	4DDA0AB8	~s~The ~r~reporter~s~ is at the sidewalk looking for a cab. Get ready to follow him.
+SCR2_21	3ADD3A2E	~s~Tenpenny has hidden a ~g~sniper rifle~s~ in the construction site nearby. Go get it.
+SCR2_22	A3D46B94	~s~You can attempt to follow the ~r~train~s~ along the train tracks, or use the map to plan a route to Market Station.
+SCR2_23	D4D35B02	~s~You're spooking the ~r~reporter~s~. Get back behind him before he abandons the interview.
+SCR2_50	029B9C7F	Train Progress
+SCR2_52	EC95FD53	SPOOK-O-METER
+SCR2_80	B735E232	~r~You're too late. The train has gone.
+SCR2_81	C032D2A4	~r~The reporter is dead.
+SCR2_82	593B831E	~r~You lost the reporter.
+SCR2_83	2E3CB388	~r~The reporter and Target have gone.
+SCR2_84	B058262B	~r~The reporter has escaped.
+SCR2_85	C75F16BD	~r~The Target has escaped.
+SCR2_86	5E564707	~r~You spooked the reporter.

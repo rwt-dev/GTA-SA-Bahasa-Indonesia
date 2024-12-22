@@ -1,0 +1,78 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	FCACC075	When you're close to a ~r~package~w~, press ~m~~widget_grab~ to snatch it.
+	30676048	~s~Press ~m~~widget_grab~ to snatch the ~r~package.
+DRV3_10	4138EBA0	~s~Get the packages back to the ~y~Pleasure Domes.
+DRV3_11	363FDB36	~s~Get to the ~b~ambushed van.
+DRV3_2	A5989121	~s~Chase down the bikers and collect all the ~r~packages.
+DRV3_3	D29FA1B7	~s~Tap ~m~~widget_grab~ to snatch the ~r~package.
+DRV3_4	4CFB3414	~s~Package collected.
+DRV3_5	3BFC0482	~s~The bikes are heading to their rendezvous. Collect the ~r~packages~s~ before they reach their destination.
+DRV3_6	A2F55538	~s~The final bike is heading to the rendezvous point. Collect the ~r~package~s~ before he reaches his destination!
+DRV3_7	D5F265AE	~r~You didn't collect the packages in time!
+DRV3_8	454D783F	~r~One of the packages is at the bottom of the sea...
+DRV3_9	324A48A9	~r~One of the packages was destroyed!
+DRV3_H	15480903	When you're close to a ~r~package~w~, tap ~m~~widget_grab~ to snatch it.
+FAR2_AA	16E47345	Dude, hurry the hell up!
+FAR2_AB	8FED22FF	Get a move on, dude!
+FAR2_AC	F8EA1269	We gotta go buddy, come on!
+FAR2_AD	668E87CA	OK, OK!
+FAR2_AE	1189B75C	A'right, a'right!
+FAR2_AF	8880E6E6	I'm almost done!
+FAR2_AG	FF87D670	Let's get out of here!
+FAR2_AH	6F38CBE1	Come on let's go!
+FAR2_AI	183FFB77	Leave it, we gotta go!
+FAR2_BA	3DC92086	Hey, yo dude, hurry up!
+FAR2_BB	A4C0713C	We got to get a move on man!
+FAR2_BC	D3C741AA	We gotta go, come on man, move it!
+FAR2_BD	4DA3D409	OK, OK!
+FAR2_BE	3AA4E49F	Almost there, dude!
+FAR2_BF	A3ADB525	Yo, I'm almost done!
+FAR2_BG	D4AA85B3	OK, let's get out of here!
+FAR2_BH	44159822	We're moving, NOW!
+FAR2_BI	3312A8B4	Leave it, we gotta go!
+FAR2_CA	24D211C7	Dude, hurry the fuck up!
+FAR2_CB	BDDB407D	Get a move on, man.
+FAR2_CC	CADC70EB	We gotta go, come on, move it!
+FAR2_CD	54B8E548	OK, OK!
+FAR2_CE	23BFD5DE	I'm almost there, man.
+FAR2_CF	BAB68464	I'm almost done!
+FAR2_CG	CDB1B4F2	OK, let's get out of here!
+FAR2_CH	5D0EA963	We're moving, right now!
+FAR2_CI	2A0999F5	Leave it, we gotta go!
+FAR2_ZA	BFD2B8DF	What do you mean the shipments have been ambushed?
+FAR2_ZB	26DBE965	We can't just go out there T-Bone, it could be a DEA trap!
+FAR2_ZC	51DCD9F3	CJ, get your ass over there and rescue the situation.
+FAR2A00	117AF422	Now just listen to me, OK?
+FAR2A01	667DC4B4	Now it's very important that you listen to me.
+FAR2A02	FF74950E	I ain't no retard, amigo.
+FAR2A03	8873A598	What you think? What, what, what you and Mike think - I'm just a pretty face to y'all?
+FAR2A04	1617303B	Is that y'all game?
+FAR2A05	611000AD	Now this here is the dumb muscle that I was talking about.
+FAR2A06	F8195117	Carl - T-Bone, and in reverse.
+FAR2A07	8F1E6181	Wassup?
+FAR2A08	1FA17C10	Horale, ese.
+FAR2A09	68A64C86	Don't mind him, we go way back.
+FAR2A10	0861C563	Hey holmes, don't be such a pinche liability.
+FAR2A11	7F66F5F5	Liability? Liability for what?
+FAR2A12	E66FA44F	Tell him. How long?
+FAR2A13	916894D9	Now, there's 3 of us and I'm getting 20%.
+FAR2A14	0F0C017A	What type of math is that?
+FAR2A15	780B31EC	That's fool's math, playa!
+FAR2A16	E1026056	You and Mike. I'd sell my soul to you guys,
+FAR2A17	960550C0	and that's what it's going to come down to, huh? Screwing me out of my 13%!
+FAR2A18	06BA4D51	You knew the deal. You agreed.
+FAR2A19	71BD7DC7	Besides, we could have said 5%, and what would you..?
+FAR2A20	234C96A0	And what what what!? Cat got your tongue?
+FAR2A21	544BA636	You as bad at talking as you is at mathematics?
+FAR2A22	CD42F78C	Hey, you want to make this shit personal, ese?
+FAR2A23	BA45C71A	Hello.... Yeah.... What?
+FAR2A24	242152B9	Man... Damn!
+FAR2A25	5326622F	I said where?
+FAR2A26	CA2F3395	Hey, man, I gotta bounce.
+FAR2A27	BD280303	Oh no you don't! I invented that trick, baby.
+FAR2A28	2D971E92	Carl, come with me. We gonna have to bust us a couple of melons up in here.

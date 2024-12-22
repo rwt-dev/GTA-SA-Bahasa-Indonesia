@@ -1,0 +1,143 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+K_BALLA	FC4B8AFA	~s~Kill the ~r~Ballas~s~ gang members.
+SWE2_AA	244D6A38	Carl, you drive. Smoke looks like he's gonna pass out.
+SWE2_AB	BD443B82	Smoke looks like he's gonna pass out.
+SWE2_BA	0F6039FB	How'd Mom get killed? We gotta talk about it.
+SWE2_BB	96696841	We all gotta talk about it! They was going for Sweet!
+SWE2_BC	E16E58D7	How you supposed to know that? You know what people are like.
+SWE2_BD	7F0ACD74	Say they have love for you, but won't say a word.
+SWE2_BE	080DFDE2	Too damn scared.
+SWE2_BF	9104AC58	Some people say they saw a green Sabre doing the work,
+SWE2_BG	E6039CCE	then speeding away.
+SWE2_BH	76BC815F	Yeah, but people like to talk, don't they?
+SWE2_BJ	98B2E073	Anyway, that's half of Santos you talkin' about.
+SWE2_BK	EFB5D0E5	Yeah, you right, my bad.
+SWE2_BL	71D14546	Hey, bro?
+SWE2_BM	06D675D0	They just sprayed the house. I ain't see shit.
+SWE2_CA	167B08BA	Hit it! Go, go, go!
+SWE2_CB	8F725900	Go after them, CJ!
+SWE2_CC	F8756996	Hit the gas, we gotta ice these niggas!
+SWE2_DA	593A9E7D	My Special!
+SWE2_DB	C033CFC7	Aw, shit! You got ketchup all over the seat!
+SWE2_DC	B734FF51	The business at hand, motherfucker, the business at hand!
+SWE2_DD	29506AF2	But these was clean pants!
+SWE2_EA	4021AF3C	CJ, watch the damn road!
+SWE2_EB	D928FE86	Chill. motherfucker, this ain't a Sunday drive situation!
+SWE2_EC	AE2FCE10	My soda! It's all over the fucking floor!
+SWE2_ED	304B5BB3	Well you can suck it up once we're done.
+SWE2_EE	474C6B25	Now keep you eyes on the Ballas car!
+SWE2_FA	6B0CFCFF	There they go!
+SWE2_FB	F205AD45	Get up alongside those motherfuckers, CJ!
+SWE2_FC	85029DD3	Ballas! See 'em? Over there!
+SWE2_FD	1B660870	Roll up on 'em, CJ!
+SWE2_FE	6C6138E6	Ready, baby?
+SWE2_GA	7217CDBE	Why you ain't blastin', Smoke?
+SWE2_GB	EB1E9C04	I'll shoot 'em when I'm done eatin'.
+SWE2_GC	9C19AC92	Quit stuffin' your motherfuckin' mouth! Let's go!
+SWE2_GD	027D3931	I ain't stuffin' it homie, I'm enjoyin' my meal.
+SWE2_GE	757A09A7	Hey, kill that asshole! Shit, this a great sandwich!
+SWE2_HA	F58FD171	Smoke! Stop stuffing your face and start popping them Ballas!
+SWE2_HB	6C8680CB	I'm trying to enjoy my food!
+SWE2_HC	1B81B05D	And those fools are trying to enjoy our deaths!
+SWE2_HD	85E525FE	Now, c'mon, Smoke, shoot!
+SWE2_HE	F2E21568	Hey, I'm just finishing my fries!
+SWE2_JA	C7B9B3F3	CJ's down, shit!
+SWE2_JB	5EB0E249	CJ! Sweet, CJ's down!
+SWE2_JC	29B7D2DF	He's bluffing, ain't you, CJ?
+SWE2_KA	DEA282B2	Ah! We on fire! Everybody for themselves! Run!
+SWE2_KB	47ABD308	Hey that motherfuckers gonna blow, bail out!
+SWE2_KC	30ACE39E	Our ride's fucked, man - everybody out!
+SWE2_LA	91E31475	Damn, we're too late!
+SWE2_LB	08EA45CF	Oh, man, we let down our homies!
+SWE2_LC	7FED7559	We let the whole hood down!
+SWE2_MA	88F82534	Damn! That was some serious shit!
+SWE2_MB	11F1748E	Yeah, man, those Ballas fools won't try that again!
+SWE2_MC	66F64418	Carl, let's get back to the Grove!
+SWE2_MD	F892D1BB	A'ight, I'm on it.
+SWE2_ME	8F95E12D	Oh man! That food filled a hole!
+SWE2_MF	169CB097	You chubby motherfucker!
+SWE2_MG	619B8001	Next time you better start blasting or I'll blast you myself!
+SWE2_MH	F1249D90	Smoke, you wide, man, I mean, wide!
+SWE2_MJ	1F2AFCBC	And that's why you love me, baby!
+SWE2_NA	A3D576F7	That's one up for the Grove!
+SWE2_NB	3ADC274D	Say what, Smoke?
+SWE2_NC	4DDB17DB	All you managed to do was eat my damn food up!
+SWE2_ND	D3BF8278	Yeah, it was gettin cold!
+SWE2_NE	A4B8B2EE	Y'all comin' in for a beer?
+SWE2_NF	3DB1E354	Nah baby, I need to get back to the crib.
+SWE2_NG	4AB6D3C2	CJ, gimme a ride?
+SWE2_NH	DA09CE53	Alright Smoke, let's go. See y'all later.
+SWE2_OA	BACE47B6	What was with you back there, Smoke?
+SWE2_OB	23C7160C	Man, if you can eat your food, while everyone else is losing theirs
+SWE2_OC	54C0269A	and blaming you, you straight homie.
+SWE2_OD	CAA4B339	What?
+SWE2_OE	BDA383AF	Nothin', nothin'. Just some poetry I read.
+SWE2_OF	24AAD215	Hey Smoke, tell me why you moved out the Grove?
+SWE2_OG	53ADE283	Man, got some money from my aunt - I mean it's a nice place and all,
+SWE2_OH	C312FF12	but the Grove is in my heart, baby - it's where my dogs is at.
+SWE2_OJ	2D1C9E3E	Yeah, OK homie.
+SWE2_PA	77944928	Hey thanks, Carl. Hey, I've missed having you around, baby.
+SWE2_PB	EE9D1892	Thanks, man. I wish Sweet thought like that.
+SWE2_PC	999A2804	He don't mean it, CJ.
+SWE2_PD	07FEBDA7	He's still real tor'up about your moms, man.
+SWE2_PE	70F98D31	Here, get yourself a little smokey smoke on Smoke, and relax, homie.
+SWE2A00	23D3ED5F	Respect has to be earned, Sweet - just like money.
+SWE2A01	54D4DDC9	So what you saying? You don't respect me?
+SWE2A02	CDDD8C73	What I'm saying is...
+SWE2A03	BADABCE5	Man cannot live on bread alone. I know. I've tried that shit.
+SWE2A04	24BE2946	Carl, you look a little thin, man.
+SWE2A05	53B919D0	- You gotta be hungry, man.~n~- Yeah, I could eat.
+SWE2A06	CAB0486A	Yeah, I could eat.
+SWE2A07	BDB778FC	Man, what you fools trying to eat? What about some tacos?
+SWE2A08	2D08656D	Tacos? Again? Hell no.
+SWE2A09	5A0F55FB	- Chicken, man. No discussion.~n~- Man, I don't want no chicken...
+SWE2A10	3AC8DC1E	Yeah, that's cool.
+SWE2A11	4DCFEC88	Let's roll.
+SWE2A12	D4C6BD32	What's happening with you, Ryder?
+SWE2A13	A3C18DA4	Speak up, nigga!
+SWE2A14	3DA51807	I'm hungry!
+SWE2A15	4AA22891	Oh, man! Shit... Hey, what's going on?
+SWE2A16	D3AB792B	Man, I don't want no chicken...
+SWE2B00	21955306	Carl, what do you want? You gotta eat to keep your strength up, man.
+SWE2B01	56926390	Hey, I'll take a number 9 - fat boy.
+SWE2B02	CF9B322A	Gimme a number 9, just like his.
+SWE2B03	B89C02BC	Sweet?
+SWE2B04	26F8971F	Let me get a number 6 with extra dip.
+SWE2B05	51FFA789	I'll have two number 9s, a number 9 large,
+SWE2B06	C8F6F633	a number 6 with extra dip, a number 7,
+SWE2B07	BFF1C6A5	two number 45s, one with cheese, and a large soda.
+SWE2B08	2F4EDB34	Hey, sorry, Bro, you know I gotta know about Moms.
+SWE2B09	5849EBA2	I know CJ, I know. I mean I'm just trying not to think about it, is all.
+SWE2B10	388E6247	I mean, I didn't even know she was hit until it was all over...
+SWE2B11	4F8952D1	Yeah, right, right, right, right, right. Let's eat.
+SWE2B12	D680036B	Hey, don't we got beef around here? We been getting into it with these fools.
+SWE2B13	A18733FD	I can't stand cold food.
+SWE2B14	3FE3A65E	Unlike you, I ain't never ate from a trash can.
+SWE2B15	48E496C8	Hey, hey look - Kilo Trays scoping us out!
+SWE2B16	D1EDC772	Damn, Ryder, you're a jinx!
+SWE2B17	A6EAF7E4	DRIVE-BY!
+SWE2B18	3655EA75	Shit, them motherfuckers headed to the hood!
+SWE2B19	4152DAE3	Motherfucker! My cheese fries! Carl, kill them!
+SWE2B20	13A33184	Oh, shit - trash can bitch!
+SWE2B22	FDAD50A8	Pass me my food.
+SWE2B23	8AAA603E	Can I take your order, please?
+SWE3_B	6102A53F	~s~Chase down the ~r~gang car~s~ before they cap your homies!
+SWE3_D	8861000A	~r~The car is trashed!
+SWE3_E	FF66309C	~r~Sweet is dead!
+SWE3_F	666F6126	~r~Ryder is dead!
+SWE3_FG	3AD33EAF	Calm down, boy.
+SWE3_FH	AA6C233E	You can't shoot Smoke!
+SWE3_G	116851B0	~r~Smoke is dead!
+SWE3_H	81D74C21	~s~Gang members in your car will open fire on threats if you're close enough.
+SWE3_I	F6D07CB7	~r~The Ballas crew capped your homies!
+TW2_W	4D57E2C0	~s~Go back to ~y~Sweet's house~s~.
+TW2_X	DDE8FF51	~s~Get back in the ~b~car~s~.
+TW2_Y	AAEFCFC7	~r~You failed to protect your homies.
+TW2_Z	33E69E7D	~s~Drive Smoke to his ~y~house~s~.
+TWAR2_A	BB0262D9	~s~Get in the ~b~car~s~.
+TWAR2_C	550C03F5	~s~Drive to the ~Y~Cluckin' Bell~s~ drive-thru.

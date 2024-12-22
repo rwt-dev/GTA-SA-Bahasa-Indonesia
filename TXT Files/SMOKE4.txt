@@ -1,0 +1,159 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	D95F48E9	To look around on the bike use the camera controls. To fire press ~m~~widget_attack~.
+DGS1_1	A0CBFC35	~s~Take Big Smoke ~s~to ~y~Downtown~s~.
+DGS1_2	39C2AD8F	If enemies are using cover it may be better to use manual aiming whilst shooting.
+DGS1_3	4EC59D19	~r~You left Smoke alone and he died! Next time stick a bit closer!
+DGS1_56	FDC55F42	~s~Get inside and protect ~b~Big Smoke~s~!
+DGS1_57	8AC26FD4	~s~Get back in the ~b~car!
+DGS1_58	1A7D7245	Smoke
+DGS1_59	6D7A42D3	Bike
+DGS1_60	3F8BA9B4	~r~Smoke died!
+DGS1_63	A682F80E	Shooting whilst you are crouching improves your accuracy.
+DGS1_64	38E66DAD	To look around on the bike drag your finger across the screen. To fire tap ~m~~widget_attack~.
+SMO4_AA	E9DB0CB8	This better not be another cop errand, man.
+SMO4_AB	70D25D02	Nah, man, this is strictly for the homies.
+SMO4_AC	07D56D94	I gotta be honest with you, CJ. We could be gettin' into some heavy shit, baby.
+SMO4_AD	99B1F837	What you into, Smoke?
+SMO4_AE	EEB6C8A1	Lot a shit 'bout to go down, Carl.
+SMO4_AF	77BF991B	Families coming back, Ballas pushing base,
+SMO4_AG	00B8A98D	Russian cats with nothin' to lose about to bust some ass.
+SMO4_AH	9007B41C	Russians?
+SMO4_AJ	7E09D530	Yeah, yeah, you go figure.
+SMO4_AK	090EE5A6	Now all my life I been told to fear the Ruskies, but I ain't never even met one.
+SMO4_AL	976A7005	Then the wall comes down and we're all supposed to be friends.
+SMO4_AM	E06D4093	Five minutes later, my cousin gets laid out by some Ruskie fresh off the boat.
+SMO4_AN	79641129	For real?
+SMO4_AO	0E6321BF	For real!
+SMO4_BA	C2F65F7B	Look Carl, before I walk in there I just need to know you down with this shit, man.
+SMO4_BB	5BFF0EC1	Look, Smoke, we go way back. We Groves, man!
+SMO4_BC	2CF83E57	That's what I'm talking about, that's my dog!
+SMO4_BD	B29CABF4	Hey look , if you hear shit start to pop off, come in there blasting, a'ight?
+SMO4_BE	C59B9B62	I'm down, dog.
+SMO4_BF	5C92CAD8	Hey, baby, want company?
+SMO4_BG	2B95FA4E	Motherfuckers!
+SMO4_BH	BB2AE7DF	CJ, GET IN HERE!
+SMO4_BJ	552486F3	That's my dog!
+SMO4_BK	2223B665	What took you so long?
+SMO4_BL	BC4723C6	CJ, get in here - oh there you are!
+SMO4_BM	CB401350	Keep your head down, the air is thick as shit in here.
+SMO4_BN	524942EA	Watch yourself, CJ, I think they's pissed!
+SMO4_BO	254E727C	Use some cover, they're blasting like fools in this motherfucker!
+SMO4_BP	A8467F89	CJ, take the right and cover my ass!
+SMO4_BQ	DF414F1F	Stick to my right, CJ, I'm gunnin' for that bastard.
+SMO4_BR	46481EA5	Cover my right, CJ, blast them motherfucking fools!
+SMO4_CA	DBED6E3A	Kill that shahkto bastard!
+SMO4_CB	42E43F80	Kill the Americans!
+SMO4_CC	35E30F16	Kill the Amerikos!
+SMO4_CD	AB879AB5	Kill the shahkto bastard!
+SMO4_CE	DC80AA23	Kill the Americans!
+SMO4_CF	4589FB99	Kill the Amerikos!
+SMO4_DA	94ACF8FD	Big Smoke, you made big mistake!
+SMO4_DB	0DA5A947	You should not have come here, Big Smoke!
+SMO4_DC	7AA299D1	Smoke, you and your friend are dead men!
+SMO4_DE	93C13CE4	Big Smoke, you made big mistake, huh!
+SMO4_DF	0AC86D5E	You should not have come here, Big Smoke!
+SMO4_DG	7DCF5DC8	Smoke, you and your friend are dead men!
+SMO4_DH	ED704059	OK, we showed those fools!
+SMO4_DJ	037E2175	Stick with me CJ, we outta here, baby!
+SMO4_EA	8DB7C9BC	Stay close, CJ!
+SMO4_EB	14BE9806	Stick real close, Carl!
+SMO4_EC	63B9A890	CJ, stay with me, homie!
+SMO4_ED	FDDD3D33	Back me up!
+SMO4_EE	8ADA0DA5	Keep up, baby!
+SMO4_EF	13D35C1F	That's my homie, CJ!
+SMO4_EG	64D46C89	Keep it up, baby!
+SMO4_EH	F46B7118	Ha, ha ha ha, homie, you ice cold, baby!
+SMO4_EJ	1A651034	That's my dog, makin' y'all pay!
+SMO4_EK	6D6220A2	Ice those fools, CJ!
+SMO4_EL	F306B501	Pop they fuckin' brains out, CJ!
+SMO4_EM	84018597	Fill them fools up with holes, baby!
+SMO4_EN	1D08D42D	Get on the back, CJ!
+SMO4_EO	6A0FE4BB	Time to return the favor baby, get on!
+SMO4_EP	E707E94E	I'll got it this time, get on the back!
+SMO4_EQ	9000D9D8	You're rear gunner this time, CJ!
+SMO4_ER	09098862	Watch our backs!
+SMO4_ES	7E0EB8F4	Waste any motherfucker that follows us!
+SMO4_FA	A69A9A7F	Hey man, we got bikes all on us!
+SMO4_FB	3F93CBC5	They after us on a bike, Smoke!
+SMO4_FC	4894FB53	We got bikes on our six - smash it Smoke!
+SMO4_FD	D6F06EF0	Shit, man, they coming fo' us in a truck!
+SMO4_FE	A1F75E66	Don't tell me about it, take it off the road! Pop it!
+SMO4_FF	38FE0FDC	Damn, look at all this traffic - GET OUTTA THE WAY!
+SMO4_FG	4FF93F4A	I'm coming through!
+SMO4_FH	DF4622DB	Hey, don't just sit on your horn! Get out the goddamn way!
+SMO4_FJ	314843F7	Hold on tight, baby!
+SMO4_FK	464F7361	Ah Smoke,! Nooooooo!
+SMO4_FL	D82BE6C2	Ah, they hit a bus!
+SMO4_FM	AF2CD654	Ha,ha ha, I'll never dis public transportation again!
+SMO4_GA	BF81AB3E	Damn, road-blocked!
+SMO4_GB	2688FA84	Ah Smoke, these cats is organized. It's something you ain't tellin' me man!
+SMO4_GC	518FCA12	You're not telling me everything, here!
+SMO4_GD	CFEB5FB1	Look, Carl, all I know is they're real pissed with us right now!
+SMO4_GE	B8EC6F27	Hold on though, I got a idea.
+SMO4_GF	21E53E9D	Smoke, what you thinking? Flood control's a dead end, man!
+SMO4_GG	56E20E0B	To hell with that, we had to lose those cars, don't worry about that.
+SMO4_GH	C65D139A	I know a way out, up past Grove Street.
+SMO4_GJ	285372B6	The old sewer tunnel? Oh man....
+SMO4_GK	5F544220	Smoke, it's more bikes!
+SMO4_GL	C130D783	We still got bikes on us, man!
+SMO4_GM	B637E715	Oh man, the cars found a ramp!
+SMO4_GN	2F3EB6AF	Man, quit bitchin' and shoot as many of them assholes as you can!
+SMO4_GO	58398639	Smoke, there's more cars comin' in on the left!
+SMO4_GP	D5318BCC	Don't tell me about it, shoot!
+SMO4_HA	3819B7F1	Oh shit, now the truck's found us again!
+SMO4_HB	A110E64B	Man, stop being so negative!
+SMO4_HC	D617D6DD	Focus on the good news!
+SMO4_HD	4873437E	Such as?
+SMO4_HE	3F7473E8	We ain't dead, and your trigger finger still works, fool!
+SMO4_HF	A67D2252	I think the gearbox is screwed up on this thing! I can't get no speed!
+SMO4_HH	41C50F55	Yeah, who negative now, bitch?
+SMO4_HJ	AFCB6E79	Point taken, I'll keep my mouth shut from now on.
+SMO4_HK	D8CC5EEF	What they up to, Carl?
+SMO4_HL	46A8CB4C	Don't ask me, I'm just a tourist!
+SMO4_HM	31AFFBDA	They's up to something...
+SMO4_HN	A8A6AA60	OH SHIT!
+SMO4_HO	DFA19AF6	Here comes another!
+SMO4_HP	52A99703	Hold on!
+SMO4_HQ	25AEA795	Take the high road!
+SMO4_HR	BCA7F62F	Hit that ramp on the right!
+SMO4_HS	CBA0C6B9	Get us up that ramp!
+SMO4_HT	55C4531A	I'm on it, baby!
+SMO4_HU	22C3638C	I got you, I got you, baby!
+SMO4_HV	BBCA3236	Yes Sir!
+SMO4_JA	0A2FD573	Fools totaled their truck!
+SMO4_JB	932684C9	Go around 'em, man!
+SMO4_JC	E421B45F	Screw that, we're taking the scenic route!
+SMO4_JD	7A4521FC	Houston, we have ignition!
+SMO4_JE	0D42116A	Fry, motherfuckers!
+SMO4_JF	944B40D0	That's the old sewer up ahead!
+SMO4_JG	E34C7046	Shoot out the gate!
+SMO4_JH	73F36DD7	Nice one, CJ, here we go!
+SMO4_JJ	9DFD0CFB	The gate, Carl, the GATE!
+SMO4_JK	EAFA3C6D	Man, I used to hate this tunnel when we was kids.
+SMO4_JL	749EA9CE	Hey, we can reminisce later, we still got company!
+SMO4_JM	03999958	It's getting' kinda tight!
+SMO4_JN	9A90C8E2	Damn this is tight!
+SMO4_JO	ED97F874	They still on to us.
+SMO4_JP	609FF581	Don't these guys ever give up?
+SMO4_JQ	1798C517	Finally!
+SMO4_JR	8E9194AD	We're clean!
+SMO4_JS	F996A43B	We lost 'em, Smoke!
+SMO4_KA	1334E432	Man, we better split up.
+SMO4_KB	8A3DB588	I hear you.
+SMO4_KC	FD3A851E	I'll take it another block and dump it.
+SMO4_KD	635E10BD	Man, that was some crazy shit back there!
+SMO4_KE	1459202B	Yeah, for sure.
+SMO4_KF	8D507191	Listen we can't hang around here - I'll see you later, homie.
+SMO4_KG	FA574107	Much love, baby!
+SMO4A00	EE458BDF	Hey, CJ, baby, whassup man?
+SMO4A01	9942BB49	What's happening, Smoke?
+SMO4A02	004BEAF3	Chillin'. Wanna go for a ride?
+SMO4A03	774CDA65	Yeah.
+SMO4A04	E9284FC6	You drive.
+SMO4A05	9E2F7F50	A'ight.
+SMO4A06	07262EEA	We're going downtown.

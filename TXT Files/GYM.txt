@@ -1,0 +1,46 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	C5C7B831	Attack a downed opponent by pressing ~m~~widget_attack~.
+	62F3833B	While running, press ~m~~widget_attack~.
+	8CFDE217	Run and press ~m~~widget_attack~!
+	FC971698	Press ~m~~widget_enter_targeting~ and ~m~~widget_explicit_alt_attack~.
+BBOX_1	E3BB88D0	Yo, you want to learn some new moves?
+BBOX_2	7AB2D96A	Suit yourself, holmes, but the streets are mean, dude!
+BBOX_3	0DB5E9FC	Man, you're an embarrassment! Get yourself some muscles first!
+BBOX_4	93D17C5F	Hey, you want to go a round with me?
+BBOX_5	E4D64CC9	Yo, pay attention and you might learn something.
+BBOX_6	7DDF1D73	Yo, charge in and batter your opponent!
+BBOX_7	0AD82DE5	Make sure your opponent is down AND out!
+BBOX_8	9A673074	Never give your opponent time to recover!
+GYM1_83	EFE58515	Defeat your opponent to learn a new move!
+GYM1_84	718110B6	Run and tap ~m~~widget_attack~!
+GYM1_92	81F984C2	~r~You left the ring and forfeited.
+GYM1_93	F6FEB454	New moves learned!
+GYM1_94	689A21F7	While running, tap ~m~~widget_attack~.
+GYM1_95	1F9D1161	Attack a downed opponent by pressing ~m~~widget_enter_targeting~ and ~m~~widget_explicit_alt_attack~.
+GYM1_96	869440DB	Tap ~m~~widget_attack~ repeatedly.
+GYM1_97	F193704D	Running Attack
+GYM1_98	612C6DDC	Ground Attack
+GYM1_99	162B5D4A	Combo Attack
+GYM1101	8B7B881B	Defeat your opponent to learn new moves!
+GYM1106	151F1DB8	Defeat your opponent to learn new moves. If you leave the ring you lose!
+KUNG_1	B9B211A2	So, you wish to become a warrior!
+KUNG_2	20BB4018	The warrior's path will bring you back...
+KUNG_3	57BC708E	You are weak, like a wilted weed! Condition your body!
+KUNG_4	C9D8E52D	Would you like to spar with your master?
+KUNG_5	BEDFD5BB	Absorb with the eyes, young student, and you will learn!
+KUNG_6	27D68401	Strike like an atomic cobra!
+KUNG_7	50D1B497	Nothing clever here, just kick'em while they're down!
+KUNG_8	C06EA906	Become the avalanche and bury your opponent!
+WBOX_1	B0A01BF8	Hey, you wanna learn some new moves?
+WBOX_2	29A94A42	Your choice, man, but I know you'll be back!
+WBOX_3	5EAE7AD4	You need a fighter's physique! Go put on some muscle!
+WBOX_4	C0CAEF77	You think you can last a round with me?
+WBOX_5	B7CDDFE1	Watch this, it will come in handy.
+WBOX_6	2EC48E5B	Rush your opponent and strike fast!
+WBOX_7	59C3BECD	You gotta press home your advantage!
+WBOX_8	C97CA35C	Just keep piling on the pressure - don't give your opponent time to fight back!

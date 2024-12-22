@@ -1,0 +1,106 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+HE3_AA	50E230E4	Luckily, there's always one guaranteed weak link in any security set up.
+HE3_AB	C9EB615E	The human heart.
+HE3_BA	7BCF6327	Another shift over! See you tomorrow!
+HE3_BB	E2C6329D	That was a long shift! See you tomorrow!
+HE3_CA	62D45266	Wow, it's nice and tight!
+HE3_CB	FBDD03DC	I'm sure you'll squeeze in just fine!
+HE3_CC	8CDA334A	Let's have a look.
+HE3_CD	12BEA6E9	Perfect!
+HE3_CE	65B9967F	Oh hi, Benny...
+HE3_CF	FCB0C7C5	Yes, master, I'm just trying it on.
+HE3_CG	8BB7F753	You got yours?
+HE3_CH	1B08EAC2	Cool, I'll see you at my house in a short while.
+HE3_DA	2D95C4A1	The door's open, Master!
+HE3_DB	B49C951B	Come on in, I'm ready for you!
+HE3_DC	C39BA58D	You've been a naughty girl!
+HE3_DD	5DFF302E	Oh I know! I know!
+HE3_DE	2AF800B8	Hey baby, I'm a need that security card and entry code for Caligula's.
+HE3_DF	B3F15102	Oh Benny, you minx!
+HE3_DG	C4F66194	I'll never tell, you wicked man, never, NEVER!
+HE3_EA	348EF5E0	Where's the keycard?
+HE3_EB	AD87A45A	Confess!
+HE3_EC	DA8094CC	You'll never break me!
+HE3_FA	1FA3A623	Enough, master!
+HE3_FB	86AAF799	The card's in my car outside!
+HE3_FC	F1ADC70F	And now, gimme the code!
+HE3_FD	6FC952AC	Spit it out, filthy worm!
+HE3_FE	18CE623A	Hey, if you good, I'll punish you more.
+HE3_FF	81C73380	I can take it!
+HE3_FG	F6C00316	Do your worst!
+HE3_GA	06B89762	No more! You've broken me!
+HE3_GB	9FB1C6D8	Gimme the code, you worthless trash!
+HE3_GC	E8B6F64E	God, you're good at this!
+HE3_GD	76D263ED	I know you're not Benny!
+HE3_GE	01D5537B	Give me your number I have to see you again.
+HE3_HA	81208BAD	ENTRY CODE NOW!
+HE3_HB	1829DA17	Oh! It's...
+HE3_HC	6F2EEA81	A.
+HE3_HD	F14A7F22	B.
+HE3_HE	864D4FB4	C.
+HE3_HF	1F441E0E	D.
+HE3_HG	68432E98	E.
+HE3_HH	F8FC3309	F.
+HE3_HJ	16F25225	I'll call you, master, I promise!
+HEI3_01	14E7B273	~s~The ~r~Croupier ~s~has a keycard and knows the code, follow her.
+HEI3_02	8DEEE3C9	~s~If you get too close you'll spook her, but if she gets too far ahead you'll lose her.
+HEI3_03	FAE9D35F	~s~She's gone into the ~y~sex shop~s~, follow her inside.
+HEI3_04	648D46FC	~s~Go and get a ~g~gimp suit~s~.
+HEI3_05	138A766A	~s~Wait for the gimp to arrive, then take him out and take his place.
+HEI3_06	8A8327D0	~s~Enter the ~y~house~s~.
+HEI3_07	FD841746	~s~The gimp's making a run for it, don't let him get away!
+HEI3_08	6D3B0AD7	~s~The gimp will be arriving shortly, wait around and make sure he doesn't make it to the Croupier's house.
+HEI3_09	1A3C3A41	~s~The ~r~Croupier~s~ has left the shop. Follow her but remember not to get too close.
+HEI3_10	7AFBB3A4	~s~The ~r~Croupier~s~ is almost out of sight, you need to get closer!
+HEI3_11	0DFC8332	~s~You're too close, back off before you spook her!
+HEI3_12	94F5D288	~s~The gimp is about to get away, stop him!
+HEI3_13	E3F2E21E	~s~Get the keycard from her ~r~car~s~.
+HEI3_14	7D9677BD	~r~You killed the croupier!
+HEI3_15	0A91472B	~r~The gimp got away!
+HEI3_16	93981691	~r~You lost her!
+HEI3_17	E49F2607	~r~You got too close!
+HEI3_18	74203B96	~r~You destroyed her car, she's not going to help you now!
+HEI3_19	03270B00	~r~You destroyed her car and the keycard!
+HEI3_20	51D6E067	SPOOK-O-METER
+HEI3_21	26D1D0F1	~s~The gimp is on his way.
+HEI3_22	BFD8814B	~s~Now that the gimp's out of the way go and ring the ~y~doorbell~s~.
+HEI3_23	C8DFB1DD	~s~Get rid of the gimp.
+HEI3_24	56BB247E	~r~You failed to excite her.
+HEI3_26	B8B54552	Spankometer
+HEI3_27	CFB275C4	~s~You need to get her to give you the keycard.
+HEI3_28	5F0D6855	~s~You need to get her to give you the code.
+HEI3_29	280A58C3	~s~The Croupier is in here somewhere, find her.
+HEI3_30	48CDD126	~s~Leave the shop and go after the Croupier.
+HEI3_31	3FCAE1B0	~r~Something's spooked the Croupier!
+HEI3_32	A6C3B00A	~s~Get to the ~y~casino~s~.
+HEI3_33	D1C4809C	~s~Get to ~y~Caligula's Palace casino~s~.
+HEI3_34	4FA0153F	~r~You no longer have the gimp suit.
+HEI3_92	5C2C5880	~r~The gimp has reached the house!
+HEI3_93	2B2B6816	~s~The gimp has nearly reached the house!
+HEI3_94	B54FFDB5	SPOOK-O-METER
+HEI3_95	C248CD23	You have another girlfriend. You will have to wine and dine her before she will give you the keycard.
+HEI3_96	5B419C99	~s~Park up outside the ~y~Croupier's house.
+HST2A00	801BD94F	Very clever. So what's the prognosis?
+HST2A01	F71CE9D9	Is this just going to be extremely difficult, or next-to-impossible?
+HST2A02	6E15B863	Hear me out on this, homie.
+HST2A03	191288F5	Alright, the cash room is on the bottom level.
+HST2A04	87761D56	There's a bunch of rooms and a tunnel under the whole building
+HST2A05	F0712DC0	with access to the casino floors at either end of the complex. Alright?
+HST2A06	69787C7A	Now, security consists of CCTV, a keycode access and, in places, a swipe card.
+HST2A07	1E7F4CEC	Hey, are you pointing again?
+HST2A08	8EC0517D	Oh, my bad - habit.
+HST2A09	F9C761EB	Ah, don't worry; it's good practice for when we
+HST2A10	9900E80E	finally get a crew in on this.
+HST2A11	EE07D898	Yeah, I know.
+HST2A12	770E8922	Hey boss, this arrived for CJ.
+HST2A13	0009B9B4	Hey, hey hey hey! Damn, man - now he's seen the plans!
+HST2A14	9E6D2C17	Well, then we've got our first recruit.
+HST2A15	E96A1C81	Come on in and shut the door.
+HST2A16	70634D3B	Alright, cool. This is a security card reader that Zero's sent over.
+HST2A17	07647DAD	Now all we need to do is get one of those cards...
+HST2A18	97DB603C	Now I know you're blind, man - but you gotta see this.

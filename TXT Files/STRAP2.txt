@@ -1,0 +1,60 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	AB03CB16	Perform the stealth kill by moving slowly towards the guard while targeting him (press ~m~~widget_enter_targeting~ to target). Then press ~m~~widget_attack~ when your arm is raised.
+	A28B4B9D	Press ~m~~widget_attack~ to perform the stealth kill.
+LOC2_AA	D51EF349	Oh man, this sucks!
+LOC2_AB	4C17A2F3	Yeah, look how this Tanner guy runs!
+LOC2_AC	3B109265	He moves like his bowels have let go...
+LOC2_BA	FE33A08A	This sucks. I mean, how could Refractions mess up so bad?
+LOC2_BB	673AF130	Tanner, you suck ass!
+LOC2_CA	E72891CB	Hey Loc, I got what you wanted.
+LOC2_CB	7E21C071	Holmes, you ice cold, dude!
+LOC2_CC	0926F0E7	Hey, I'll catch you later.
+LOC2_DC	46676620	Peace, homie!
+STP2_1	89AB32F3	~s~Go to ~y~Madd Dogg's mansion~s~.
+STP2_10	02E43838	Perform the stealth kill by moving slowly towards the guard while targeting him (tap on guard to target). Then tap ~m~~widget_attack~ when you're next to him.
+STP2_11	75E308AE	Tap ~m~~widget_attack~ to perform the stealth kill.
+STP2_13	9BED6982	~s~A ~r~guard ~s~is patrolling the swimming pool area. Observing his route will allow you to work out how to get past him undetected.
+STP2_14	0589FC21	~s~There are lots of shadows in this area to hide in. Hiding in shadows makes it difficult for a ~r~guard ~s~to spot you.
+STP2_15	728ECCB7	~s~A ~r~guard ~s~is coming.
+STP2_16	EB879D0D	~s~Find a suitable place to hide before he spots you. Look for an area with shadows.
+STP2_19	7B38809C	~s~If you walk straight past the ~r~guard ~s~here he will see you. Try crouching and walking past the bar to remain out of his line of sight.
+STP2_2	10A26349	~s~The ~y~main door ~s~is around the back of the mansion.
+STP2_29	5015D35F	~s~Use the skills you have learned to get past any ~r~guards ~s~on patrol and ~y~exit ~s~the mansion so you can get the rhyme book back to OG Loc.
+STP2_3	67A553DF	~s~The ~g~rhyme book ~s~is in Madd Dogg's recording studio.
+STP2_30	30D25ABA	~s~You need to take the rhyme book back to OG Loc. He is at ~y~Burger Shot~s~.
+STP2_32	DEDC3B96	Using the camera movement controls you can rotate the camera, this is for looking around corners and spotting enemies.
+STP2_33	A9DB0B00	The ~r~guards ~w~are using silenced guns. If you manage to obtain one it will allow you to fire a gun without being heard by nearby guards.
+STP2_36	D9B1FF8F	To stay hidden you have to stay crouched and walk past the bar.
+STP2_39	490EE21E	~r~Madd Dogg's personal security ~s~are patrolling the mansion. Do not use any guns on your way to the rhyme book - you will alert them. Use stealth to steal the rhyme book.
+STP2_4	F9C1C67C	~r~Madd Dogg's personal security ~s~are patrolling the mansion. You do not have any powerful weapons, stealth is your best option here.
+STP2_40	7F93CC7D	~y~Exit ~s~the mansion and get the rhyme book back to OG loc. It's safe to use your weapons now, although it may be less risky if you use stealth to get past any ~r~guards ~s~on patrol.
+STP2_41	0894FCEB	If the white blip on the radar that represents your position turns blue it indicates that you are in the shadows and are hidden from patrolling guards.
+STP2_5	8EC6F6EA	~s~The first ~r~guard ~s~cannot see you. This means you can sneak up behind him with a melee weapon and perform a ~h~stealth kill~s~.
+STP2_7	60C897C6	~s~The patrolling ~r~guards ~s~are shown on the radar by the red blips which point in the direction the security guards are facing.
+STP2_9	8770BAC1	If you crouch while you move you will make less noise. Crouch and then target the ~r~guard.
+STR2A00	7787D463	Hey yo, when I come through up in the place, You don't want me to call with a gun in your face...
+STR2A01	0080E4F5	I feel it harder, Than anybody in the world could do, Just like a...
+STR2A02	9989B54F	Yo! That shit sucks! Damn!
+STR2A03	EE8E85D9	Hey, what's happening, Loc?
+STR2A04	70EA107A	Hey, Carl - what up, man?
+STR2A05	07ED20EC	Hey, dude - you ever thought about
+STR2A06	9EE47156	getting a writer to help you out with this shit?
+STR2A07	E9E341C0	Yeah, I did. But who, homie, who?
+STR2A08	795C5C51	Shit, I ain't in the rap game, you know, that ain't my thing. But we'll have to think about something. Man.
+STR2A09	0E5B6CC7	How about if I get somebody to write something for me,
+STR2A10	6E9CE522	only they didn't know about it?
+STR2A11	199BD5B4	What?
+STR2A12	8092840E	I think I just might have found a ghost writer.
+STR2A13	F795B498	I'll become the reciter, all nighter, all righter!
+STR2A14	69F1213B	Madd Dogg's rhyme book! From his home in the hills!
+STR2A15	1EF611AD	Madd Dogg's rhyme book?
+STR2A16	87FF4017	Man, you said you'd help, Carl.
+STR2A17	F0F87081	Hey hey heyeyeyey. I'll do anything, homie. I swear that. OK?
+STR2A18	60476D10	Hey hey hey, it's OG Loc, homie, and I'm gonna kick it a little something like this...
+STR2A19	17405D86	Damn - my shit was whack!
+STR2A20	45B1B6E1	C'mon, man. I'm hot, Like fire, All nighter, All righter, When I kick it, I feel I hit it...

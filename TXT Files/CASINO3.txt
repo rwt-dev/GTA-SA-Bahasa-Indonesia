@@ -1,0 +1,50 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+CA3_1	4FF60F4B	~s~Head towards the ~y~factory unit~s~ on the outskirts of town. You're going to disturb their operation.
+CA3_12	29963F97	~s~Excellent! Those machines are outta commission!
+CA3_13	5E910F01	~s~I don't know who that guy thinks he is but his card is gonna get marked if he sees too much!
+CA3_17	59FCCB18	~w~Stay away! I'll make ya eat your fucking shoes!
+CA3_2	D6FF5EF1	~s~Those mobsters have some guards watching the main goods entrance. Try and get into the ~y~factory~s~ unnoticed.
+CA3_20	ECB50D78	~r~What the fuck? I said no rough stuff! The mafia are gonna be on red alert now! Dumbass!
+CA3_22	02BB6C54	~s~Heads up! It's the minimum wage crew! Get safely away from the factory to complete the job!
+CA3_23	75BC5CC2	~s~Great work, the job's done! Get back to ~y~Woozie's casino~s~ in one piece!
+CA3_7	A695AA7E	~s~Destroy every one of those injection molding ~g~machines~s~ now!
+CA3_8	362AB7EF	~s~They're expecting visitors now! Get into the ~y~factory~s~ quickly!
+CAS3@00	C75CFF67	Hit me!
+CAS3@01	B05BCFF1	Are you sure, man?
+CAS3@02	29529E4B	Yeah, I'm going for a five card hand! Come on...
+CAS3@03	5E55AEDD	OK, here.
+CAS3@04	C0313B7E	I'm gonna stick. What you got?
+CAS3@05	B7360BE8	How would I know? You tell me.
+CAS3@06	2E3F5A52	Not good, man. You got, eerr, forty-seven.
+CAS3@07	59386AC4	Damn. You're bad luck for me.
+CAS3@08	C9877755	You know, when I play the other guys I always win!
+CAS3@09	BE8047C3	Boss, take a look at these two chips!
+CAS3@10	DE47CE26	One's a fake.
+CAS3@11	A940FEB0	That's amazing. You didn't even touch them.
+CAS3@12	3049AF0A	No. I just took a guess.
+CAS3@13	474E9F9C	Why else would he come in with two chips and sound so worried?
+CAS3@14	D92A0A3F	You take a look.
+CAS3@15	AE2D3AA9	Oh yeah. The dragon on this got the sunglasses and a white stick.
+CAS3@16	37246B13	Insolent bastards!
+CAS3@17	40235B85	I'll make sure the cashiers are extra vigilant.
+CAS3@18	D09C4614	It's obvious where these chips are coming from!
+CAS3@19	A79B7682	The Sindacco Family owns a plastics factory across town.
+CAS3@20	F56A9DE5	I'm gonna blow it to shit!
+CAS3@21	826DAD73	Man, look, don't trip. I got you on this.
+CAS3_AA	C1001237	Hey, who's this character? He looks like a cop to me.
+CAS3_AB	5809438D	We better go warn the boss.
+CAS3_AC	2F0E731B	Hey, watch the car, I just got this baby detailed!
+CAS3_AD	B16AE6B8	What? He must be a fed! Let's give him a proper Sindacco welcome!
+CAS3_BA	EA2D41F4	Hey, what's going on?
+CAS3_BB	7324104E	Someone's got a fucking deathwish if they're starting trouble 'round here!
+CAS3_BC	042320D8	Get the boys ready! Production line's gotta keep rolling!
+CAS3_BD	9A47B57B	Hey, who's this prick?
+CAS3_BE	ED4085ED	Somebody take care of this joker!
+CAS3_CA	F33670B5	Hey, Carl, how'd it go?
+CAS3_CB	6A3F210F	Tell Woozie, we'll be getting no more trouble with them.
+CAS3_CC	1D381199	counterfeit chips

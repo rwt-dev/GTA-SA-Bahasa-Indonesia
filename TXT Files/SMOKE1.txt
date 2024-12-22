@@ -1,0 +1,130 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+SMK1_01	4DA463C1	~s~Get back in ~b~Smoke's car~s~.
+SMK1_02	D4AD327B	~s~Go and pick up OG Loc from the ~y~Police Station~s~.
+SMK1_03	A3AA02ED	~s~Go and ring the ~y~doorbell~s~.
+SMK1_04	3DCE974E	~s~Catch and kill ~r~Freddy~s~!
+SMK1_05	4AC9A7D8	~r~OG Loc has been killed!
+SMK1_06	D3C0F662	~r~Big Smoke has been killed!
+SMK1_07	A4C7C6F4	~r~Sweet has been killed!
+SMK1_08	3478DB65	~r~Smoke's car has been destroyed.
+SMK1_09	437FEBF3	~s~You have left ~b~OG Loc~s~ behind.
+SMK1_10	23B86216	~s~Drive to ~y~Freddy's house~s~.
+SMK1_11	54BF5280	~s~Get back on the ~b~bike~s~.
+SMK1_12	CDB6033A	~r~Freddy got away!
+SMK1_13	BAB133AC	~s~Take OG Loc to the employees' door at the back of the ~y~Burger Shot~s~.
+SMK1_14	24D5A60F	~r~The bike you needed was destroyed!
+SMO1_AA	DE05FC8A	Good to hang with you, brother. I'm sorry I can get a little tense.
+SMO1_AB	470CAD30	I'm sorry I can get a little tense.
+SMO1_AC	300B9DA6	Don't worry about it.
+SMO1_AD	AE6F0805	Hey, it ain't Jeffrey no more. It's OG Loc.
+SMO1_AE	D9683893	OG Loc?
+SMO1_AF	40616929	Oh yeah, he's a real gangsta now.
+SMO1_AG	376659BF	I see. And what'd he do?
+SMO1_AH	A7D9442E	Anything he could to get thrown in jail for. For his career.
+SMO1_AJ	49D72502	Joyriding, parking fines or some other bullshit.
+SMO1_BA	F528AF49	What's your plan, big gangsta? Now you a free man and all.
+SMO1_BB	6C21FEF3	Man, I ain't free, my parole officer lined me up with a job!
+SMO1_BC	1B26CE65	Motherfucker always trying to keep a player down.
+SMO1_BD	85425BC6	You got that right!
+SMO1_BE	F2456B50	Still, ain't so bad, I'm gonna be a 'hygiene technician'.
+SMO1_BF	6B4C3AEA	Coming up in the world, huh?
+SMO1_BG	1C4B0A7C	Just a stepping-stone to greatness.
+SMO1_CA	EC339E08	Man, this is the spot!
+SMO1_CB	753ACFB2	Ain't this a Vagos' 'hood?
+SMO1_CC	023DFF24	Man, I don't give a shit, I'm gangsta!
+SMO1_CD	9C596A87	C'mon, let's leave Loc to deal with Casanova.
+SMO1_CE	EB5E5A11	Hey, I'll stick with Jeff - I mean, Loc!
+SMO1_CF	72570BAB	OK, cool.
+SMO1_CG	05503B3D	I'll see you guys back on the set.
+SMO1_CH	95EF26AC	Freddy! I've come for you, you motherfucker!
+SMO1_CJ	7BE14780	Jeffrey, you got the wrong idea, man - that was just a prison thing!
+SMO1_CK	0CE67716	I got plenty of muchachas on the outside,
+SMO1_CL	9282E2B5	I don't need your scrawny ass!
+SMO1_CM	E585D223	Man, ignore him, CJ, I don't know what he talking about.
+SMO1_CN	7C8C8399	Hey, yo, gimme back my rhymes you thief, I'm gangsta!
+SMO1_CO	0B8BB30F	You dropped the soap, sugar,
+SMO1_CP	8683BEFA	I don't know nothing about any rhymes!
+SMO1_DA	A37208CF	Hey, hey! Motherfucker's making a run for it!
+SMO1_DB	3A7B5975	Hey, Loc, hold up!
+SMO1_DC	4D7C69E3	Ah shit, he gonna get caught violating his parole!
+SMO1_EA	BA69398E	Hey Loc, get back here, nigga you crazy!
+SMO1_EB	23606834	Eh yo, back off me CJ, I gotta protect my rep!
+SMO1_FA	91446A4D	Oooo! Chase me! Chase me!
+SMO1_FB	084D3BF7	C'mon, honey, I'm losing my patience!
+SMO1_FC	7F4A0B61	I like the fast ass, not the slow ass!
+SMO1_FD	E12E9EC2	I thought you were keen, cute buns!
+SMO1_FE	9629AE54	Catch me if you caaAAAaan!
+SMO1_FF	0F20FFEE	Yoohoo! Over here!
+SMO1_FG	7827CF78	Cooweee, Jeffrey!
+SMO1_FH	E898D2E9	You know I love the thrill of the chase!
+SMO1_FJ	0696B3C5	Hey baby, move those sweet cheeks!
+SMO1_FK	71918353	Try to show a little bit more enthusiasm, darling.
+SMO1_FL	EFF516F0	Hey, honey buns, I'm over here!
+SMO1_FM	98F22666	The anticipation is so unbearable!
+SMO1_GA	885F5B0C	He's broken my heart!
+SMO1_GB	11560AB6	Get him, boys!
+SMO1_GC	66513A20	Yo, I'm gonna kill that loud mouthed mother fucker!
+SMO1_GD	F835AF83	Your ass is mine!
+SMO1_GE	8F329F15	Oh, no no no, I didn't mean it like that!
+SMO1_GF	163BCEAF	CJ, help me out here!
+SMO1_HA	0FC747C3	Don't you say a damn thing, CJ.
+SMO1_HB	96CE1679	Was you lonely, Loc?
+SMO1_HC	E1C926EF	Hey, I like a nice mustache myself!
+SMO1_HD	7FADB34C	I keep it real, unlike you fake ass motherfuckers.
+SMO1_HE	08AA83DA	C'mon, gangsta. Let's get back to the Grove.
+SMO1_HF	91A3D260	Nah, I can't, I gotta go and sign in for this damn job!
+SMO1_HG	E6A4E2F6	Whatever you want. You want a ride anyway?
+SMO1_HH	761BFF67	Sure thing. Let's roll.
+SMO1_JA	3DF12541	Eh, take me to the Burger Shot in Verona Beach.
+SMO1_JB	A4F874FB	You're the boss.
+SMO1_JC	D3FF446D	Coz I'm keen, With the hygiene,
+SMO1_JD	4D9BD1CE	On a mission, Like a super technician, baby
+SMO1_JE	3A9CE158	On a mission,
+SMO1_JF	A395B0E2	Like a super technician.
+SMO1_JG	D4928074	Get on with that shit man.
+SMO1_JH	442D9DE5	Man, I got 17s on the hang.
+SMO1_JJ	AA23FCC9	You coulda did that out here.
+SMO1_JK	DD24CC5F	Because I did it in the joint, it's real now.
+SMO1_JL	434059FC	Yeah, I guess it is, gangsta.
+SMO1_JM	3447696A	Look at you, all muscley and shit.
+SMO1_KA	24EA1400	Thanks for the ride, CJ.
+SMO1_KB	BDE345BA	Don't be a stranger, fool.
+SMO1_KC	CAE4752C	Yeah, for sure. I'll see you around.
+SMO1_KD	5480E08F	Like a quarter pound!
+SMO1_KE	2387D019	Later.
+SMO1A00	D99B7BED	Yeah, you know Jeffrey's been somebody's bitch
+SMO1A01	AE9C4B7B	- for the past three weeks, right?~n~- I know!
+SMO1A02	37951AC1	Hey.
+SMO1A03	40922A57	Whassup, man? Wanna go to prison?
+SMO1A04	DEF6BFF4	What?
+SMO1A05	A9F18F62	Nah... To pick up Jeffrey. He's touching down today. You wanna roll?
+SMO1A06	30F8DED8	Yeah, for sure. What's Jeffrey doing locked up, anyway?
+SMO1A07	47FFEE4E	We'll talk about that later, man.
+SMO1A08	D740F3DF	Let's roll, we're late.
+SMO1A09	A047C349	I know!
+SMO1A10	C0804AAC	- Hey, CJ!~n~- Hey, what's up, CJ?
+SMO1A11	B7877A3A	Hey, what's up, CJ.
+SMO1A12	2E8E2B80	Wassup?
+SMO1B00	DBDDC5B4	Hey, there that fool go.
+SMO1B01	ACDAF522	Hey, what's happening with you, Jeffrey?
+SMO1B02	35D3A498	Hey, man, it's OG Loc, homie - OG Loc!
+SMO1B03	42D4940E	My bad. How was it, though, homie?
+SMO1B04	DCB001AD	Man, what you think? How was it...
+SMO1B05	ABB7313B	Hey, chill out, dude. So what you want to do now?
+SMO1B06	32BE6081	Man, I gotta kill some cholo motherfucker. He was dissin' me, man!
+SMO1B07	45B95017	Hey Jeffrey, I thought you was going to, uh, college.
+SMO1B08	D5064D86	Man, fuck you!
+SMO1B09	A2017D10	Motherfucker done stole my rhymes.
+SMO1B10	C2C6F4F5	He's in East Flores. Hey, gimme a strap.
+SMO1B11	B5C1C463	Look at this fool, man...
+SMO1B12	2CC895D9	Perpetrating like he bangin'...
+SMO1B13	5BCFA54F	...think he hard...
+SMO1B14	C5AB30EC	I know that fool can't be serious.
+SMO1B15	B2AC007A	Look, look...
+SMO1B17	5CA26156	Man, why don't you stall us out with that shit and get in the car. Fool.
+SMO1B18	CC1D7CC7	Man, that fool buggin'.

@@ -1,0 +1,35 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+MENU_10	84AEE8CC	Peds
+MENU_11	F3A9D85A	~1~
+MENU_18	8A7560FE	Yes
+MENU_19	FD725068	No
+MENU_26	46E01E3A	Ped limit
+MENU_27	31E72EAC	Bike limit
+MENU_28	A158333D	Car limit
+MENU_29	D65F03AB	Time limit
+MENU_30	B6988A4E	~1~ mins
+MENU_31	C19FBAD8	~1~ min
+MENU_33	2F91DBF4	Peds ~1~
+MENU_34	B1F54E57	~1~
+MENU_36	5FFB2F7B	Kill ~1~ pedestrians in ~1~ minutes.
+MENU_38	B843027C	Destroy ~1~ bikes in ~1~ minutes.
+MENU_41	8EDE2C1F	Cars ~1~
+MENU_42	17D77DA5	Bikes ~1~
+MENU_45	89B3E806	LEVEL ~1~
+MENU_46	10BAB9BC	Shoot ~1~ pedestrians in ~1~ minutes.
+MENU_47	67BD892A	~r~Player one was killed
+MENU_48	F70294BB	~r~Player two was killed
+MENU_49	8005A42D	~r~Both players are dead!
+MENU_50	E0C22DC8	~r~You didn't get enough kills in time!
+MENU_60	CBEF7E0B	Kill ~1~ pedestrians in ~1~ minute.
+MENU_61	BCE84E9D	Destroy ~1~ bikes in ~1~ minute.
+MENU_62	25E11F27	Shoot ~1~ pedestrians in ~1~ minute.
+MENU_63	52E62FB1	Destroy ~1~ vehicles in ~1~ minute
+MENU_64	CC82BA12	Destroy ~1~ vehicles in ~1~ minutes
+MENU_65	BB858A84	Kill ~1~ peds in ~1~ minute and ~1~ seconds.
+MENU_67	558BEBA8	Level passed

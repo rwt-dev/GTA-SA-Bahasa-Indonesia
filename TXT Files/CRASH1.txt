@@ -1,0 +1,120 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+CRA1_00	E54D6776	~s~Tenpenny has hidden some ~g~molotovs~s~ in an alleyway in Downtown Los Santos. Pick them up.
+CRA1_01	924A57E0	~s~You've got molotovs. Go to the ~y~gang house~s~ and torch it.
+CRA1_02	0B43065A	~s~Torch the house. Throw molotovs into the ~r~5 downstairs windows~s~ - that'll make it burn.
+CRA1_03	7C4436CC	~s~There are some more ~g~molotovs~s~ nearby.
+CRA1_04	E220A36F	~s~Well done. The house is going to burn to the ground.
+CRA1_05	952793F9	~s~You've trapped a girl inside the burning building. You'll have to save her.
+CRA1_06	0C2EC243	~s~Go in through the ~y~front door~s~.
+CRA1_07	7B29F2D5	The girl is upstairs. You don't have much time before she burns.
+CRA1_08	EB96EF44	~s~There's a ~g~fire extinguisher~s~ in the kitchen downstairs.
+CRA1_09	9C91DFD2	~s~Take the fire extinguisher upstairs and rescue the ~b~girl~s~.
+CRA1_10	FC565637	~s~You have left the ~b~girl~s~ behind. Go back and get her.
+CRA1_11	8B5166A1	~s~Drive the ~b~girl~s~ ~y~home~s~.
+CRA1_12	1258371B	~s~You've left the ~b~girl~s~ behind. Go back for her and take her home.
+CRA1_30	CE6034B5	~s~Up in flames! Torch the next.
+CRA1_31	B9670423	~s~Fire in the hole! Keep going.
+CRA1_32	206E5599	~s~Good shot! A few more like that should do it.
+CRA1_33	5769650F	~s~That'll burn nicely. Torch another.
+CRA1_34	C90DF0AC	~s~Burn, baby, burn. Now hit the next room.
+CRA1_35	BE0AC03A	Aim fire extinguisher at the base of a fire to put it out.
+CRA1_50	983A9333	~r~The girl is toast!
+CRA1_51	EF3DA3A5	~r~The girl is dead!
+CRA1_70	AA0CF1B1	Girl
+CRA1_AA	F46B6E6B	Oh my God, help!
+CRA1_AB	6D623FD1	Somebody help me, help!
+CRA1_AC	1A650F47	The smoke, it's choking me!
+CRA1_AD	84019AE4	Please, somebody, anybody, help!
+CRA1_AE	F306AA72	Hey! Can anybody hear me?
+CRA1_AF	6A0FFBC8	Please, God, somebody, HELP!
+CRA1_AG	1D08CB5E	FIRE! Help, FIRE!
+CRA1_AH	8DB7D6CF	CALL 911!
+CRA1_AJ	63B9B7E3	Oh God, the flames! THE FLAMES!
+CRA1_BA	DF463DA8	(SCREAM)
+CRA1_BB	464F6C12	(SCREAM)
+CRA1_BC	31485C84	(SCREAM)
+CRA1_BD	AF2CC927	(SCREAM)
+CRA1_BE	D82BF9B1	(SCREAM)
+CRA1_BF	4122A80B	(SCREAM)
+CRA1_BG	3625989D	(SCREAM)
+CRA1_BH	A69A850C	(SCREAM)
+CRA1_BJ	4894E420	(SCREAM)
+CRA1_BK	3F93D4B6	(SCREAM)
+CRA1_CA	C65D0CE9	Hold tight, girl, I'm coming!
+CRA1_CB	5F545D53	Stay at the window, I'm coming up!
+CRA1_DA	891C9A2E	Who the fuck are you?
+CRA1_DB	1015CB94	You started this!
+CRA1_DC	6712FB02	Eh, this Grove Street chingon started the fire!
+CRA1_DD	F9766EA1	Some Grove Street OG started the fire!
+CRA1_EA	9007AB6F	You there, you OK?
+CRA1_EB	090EFAD5	Yeah, but those flames, they're too hot! I'm scared!
+CRA1_EC	7E09CA43	Hold on, there's probably a fire extinguisher in the kitchen!
+CRA1_ED	E06D5FE0	I'll be right back!
+CRA1_FA	BB2AF8AC	Stand back!
+CRA1_FB	2223A916	Put it out! Put it out!
+CRA1_GA	A231C9ED	Oh God, I'm so scared!
+CRA1_GB	3B389857	OHMYGOD, what was that?
+CRA1_GC	4C3FA8C1	Hey, the building's starting to collapse, we gotta get out of here, fast!
+CRA1_HA	25A9D522	Hurry up, put it out, put it out!
+CRA1_HB	BCA08498	Oh my God, we'll never escape!
+CRA1_HC	CBA7B40E	Quickly, QUICKLY!
+CRA1_HD	55C321AD	Put out that fire, quickly, quickly!
+CRA1_HE	22C4113B	Stand back, I've got it!
+CRA1_HF	BBCD4081	Gimme a second girl, don't panic!
+CRA1_HG	CCCA7017	Quit panicking, I'm on it! I'm on it!
+CRA1_HH	5C756D86	Hold on, we're nearly there!
+CRA1_HJ	B27B0CAA	Shit! Shit! The house is collapsing!
+CRA1_HK	C57C3C3C	Oh my God, the house is going to go!
+CRA1_HL	5B18A99F	I can feel the floor giving way!
+CRA1_JA	179FB7A0	Hey, man, I owe you my life...
+CRA1_JB	8E96E61A	I was nearly dead there, for sure!
+CRA1_JC	F991D68C	Hey, you look pretty shook up. girl, you want me to take you home?
+CRA1_JD	67F5432F	Yeah, please, thanks.
+CRA1_KA	0E8486E1	Where you live?
+CRA1_KB	978DD75B	Just off Grove Street.
+CRA1_KC	E08AE7CD	No shit! What you doing in Vagos 'hood?
+CRA1_KD	7EEE726E	I like to live dangerously.
+CRA1_KE	09E942F8	You're CJ, right?
+CRA1_KF	90E01342	Yeah, how you know me?
+CRA1_KG	E7E723D4	Everybody in the Grove knows you and your brother,
+CRA1_KH	77583E45	but I thought you'd run away.
+CRA1_KJ	99565F69	I never 'ran away' OK, I just needed to...get away from shit.
+CRA1_LA	41C51026	This is my place, here!
+CRA1_MA	58DE2167	Hey, what's your name?
+CRA1_MB	C1D770DD	Denise. Denise Robinson. Give me a call sometime, we should go out, or something.
+CRA1_MC	B6D0404B	Yeah, I'd like that.
+CRA1_MD	28B4D5E8	OK, I'll catch you later, CJ.
+CRA1A00	F3F5E90C	HEY! CARL JOHNSON! CJ!
+CRA1A01	84F2D99A	Move over, let him sit down, asshole!
+CRA1A02	1DFB8820	So you finally found time to drop by.
+CRA1A03	6AFCB8B6	Man, I've been busy. I've been burying my Moms, man.
+CRA1A04	F4982D15	Sounds like a fucking excuse to me.
+CRA1A05	839F1D83	Officer Pulaski thinks you're trying to screw with us, Carl.
+CRA1A06	1A964C39	Now you get this straight. We own you. You're ours.
+CRA1A07	6D917CAF	We can shit on you from such a height
+CRA1A08	FD2E613E	you'll think God himself has crapped on you.
+CRA1A09	8A2951A8	You understand?
+CRA1A10	EAEED84D	He better fucking understand.
+CRA1A11	9DE9E8DB	Yeah, he better had.
+CRA1A12	04E0B961	Time to go to work, CJ, and earn your freedom.
+CRA1A13	73E789F7	There's a guy holed up across town.
+CRA1A14	ED831C54	You got that address, Pulaski?
+CRA1A15	9A842CC2	Another gangbanging, drug-pushing, cop-killing bitch, just like you.
+CRA1A16	038D7D78	We don't like him and he don't like us.
+CRA1A17	748A4DEE	Now you make sure he never leaves the neighborhood -
+CRA1A18	E435507F	not even in a box.
+CRA1A19	933260E9	Now get the fuck outta here!
+CRA1A20	C1C38B8E	Waiter, can we place an order over here!
+CRA1A21	B6C4BB18	Hell, no. I'm outta here...
+CRA1A22	2FCDEAA2	- Oh, shit...~n~- Come on over here, son!
+CRA1A23	58CADA34	Come on over here, son!
+FIRE_EX	0C5804C9	Press and hold ~m~~widget_explicit_extinguisher~ to use the fire extinguisher. Aim at the base of a fire to put it out.
+MOLOTOV	796950C5	Press and hold ~m~~widget_explicit_throw~ to throw a molotov. The longer you hold ~m~~widget_explicit_throw~, the farther you throw it. Be careful! If you don't throw it far enough you'll get caught in the blast.
+NEWSHAG	05EA70E2	Denise is now a potential girlfriend. Return here at any time to ask her for a date.
+RUMBLE	BF92DB43	Rumble... Rumble... (sounds of building collapsing)
+WINDOWS	235D847E	To smash the windows, hit them with a weapon or throw a molotov at them.

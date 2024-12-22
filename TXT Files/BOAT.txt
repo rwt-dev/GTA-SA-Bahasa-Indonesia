@@ -1,0 +1,61 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	251ED096	Navigate through each pair of ~y~buoys~s~. Throttle with ~m~~widget_accelerate~, and press and hold ~m~~widget_ped_move_left~ and ~m~~widget_ped_move_right~ to steer.
+	D4A72A4E	Press and hold the bottom right corner of the screen to throttle forward and bring the boat to rest within the parallel ~y~buoys~s~ region.
+	4BE107E3	Navigate through each pair of ~y~buoys~s~. Throttle by pressing the bottom right corner of the screen and steering left and right with the movement controls.
+	98BC44AB	Press ~m~~widget_enter_car~ to quit test.
+	4076B8D9	Hold ~m~~widget_accelerate~ to throttle forward and bring the boat to rest within the parallel ~y~buoys~s~ region.
+	D2E85659	Navigate through each pair of ~y~buoys~s~. Throttle with ~m~~widget_accelerate~ and steer left or right with the movement controls.
+BOAT_10	E9914BF7	Overall Time
+BOAT_11	9E967B61	Jump Distance
+BOAT_12	079F2ADB	Jump Invalid!
+BOAT_31	ACA019E3	~y~Checkpoint
+BOAT_32	35A94859	~s~In stopping region
+BOAT_33	42AE78CF	~s~Finished!
+BOAT_34	DCCAED6C	~r~Time over!
+BOAT_46	7D851A87	new record
+BOAT_47	0A822A11	new certificate awarded
+BOAT_52	63F3EFDF	Navigate
+BOAT_53	14F4DF49	Exit
+BOAT_54	8A904AEA	Start
+BOAT_55	FD977A7C	GOLD
+BOAT_56	649E2BC6	SILVER
+BOAT_57	13991B50	BRONZE
+BOAT_58	832606C1	record time ~1~:~1~s
+BOAT_59	F4213657	finish under ~1~.~1~s to pass
+BOAT_60	A6D0DD30	longest jump ~1~ meters
+BOAT_61	D1D7EDA6	jump over ~1~ meters to pass
+BOAT_62	48DEBC1C	finish under ~1~ seconds to pass
+BOAT_63	3FD98C8A	finish under ~1~ minutes to pass
+BOAT_64	A1BD1929	NO AWARD
+BOAT_7	1B8D6703	Finish Time
+BOAT_72	51C58D5D	~<~~>~
+BOAT_75	CFA118FE	Results
+BOAT_76	56A84944	Continue
+BOAT_77	21AF79D2	~1~:~1~s
+BOAT_78	B1106443	~1~:~1~s
+BOAT_79	C61754D5	~1~m ~1~s
+BOAT_80	3853F0BE	~1~:~1~m
+BOAT_9	FC354A04	Damage Penalty
+BOAT_A	A2EBB30A	basic seamanship
+BOAT_A5	B6C4C68E	Hold ~m~~widget_brake~ to apply reverse throttle.
+BOAT_B	3BE2E2B0	plot a course
+BOAT_B5	9DE9954D	~s~Hold ~m~~widget_handbrake~ while accelerating to perform a sharper turn.
+BOAT_C	4CE5D226	fresh slalom
+BOAT_C1	839F6015	~s~Navigate through the center of each pair of ~y~buoys~s~ in as quick a time as possible.
+BOAT_D	D2814785	flying fish
+BOAT_D1	CCDEF6D2	~s~ Power towards the jump ramp and land within the parallel ~y~buoys~s~ to register a valid jump.
+BOAT_E	A5867713	land, sea and air
+BOAT_H2	F962E864	Tap ~m~~widget_enter_car~ to quit test.
+BOAT_P1	E2702187	~s~Congratulations! You have passed all of the boat school tests!
+BOAT_P2	7B79703D	BOAT SCHOOL PASSED!
+BOAT_T1	861CE483	time
+OMO_1	9D3BCCC6	Welcome to the Boat School
+OMO_2	04329D7C	To pass you must achieve BRONZE or higher in all 5 tests.
+OMO_3	7335ADEA	To view a demonstration of each test, please use the TV over there.
+OMO_4	ED513849	Passing a test will unlock the next test.
+OMO_5	9A5608DF	You can come back and check your scores or take new tests at any time.

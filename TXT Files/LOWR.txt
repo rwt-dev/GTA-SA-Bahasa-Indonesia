@@ -1,0 +1,28 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+LOW_03	BDA852A0	~s~Get to the ~y~lowrider meeting~s~.
+LOW_04	23CCC703	~r~The meeting is dispersing because you attacked a group member.
+LOW_05	54CBF795	~s~You need a car with hydraulic suspension to compete.
+LOW_06	CDC2A62F	You again!
+LOW_07	BAC596B9	Choose your wager
+LOW_08	2A7A8B28	I'm not losing this time
+LOW_15	4DD0C6D4	Use the Special Ctrls to activate the car hydraulics.
+LOW_23	8F9E3022	~s~Get back in the ~b~lowrider~s~.
+LOW_24	11FAA581	Nice wheels! Can I join you for this?
+LOW_25	66FD9517	You need to move the hydraulics in time to the music
+LOW_26	FFF4C4AD	Push the suspension controls in the direction shown.
+LOW_27	88F3F43B	Try to move the suspension in time with the music.
+LOW_28	184CE9AA	Take my money then bitch.
+LOW_29	6F4BD93C	If you want to go at it again there's a contact a the taco stand, he'll tell you where and when.
+LOW_30	0F8C50D9	Your bouncing was pure pish.
+LOW_31	788B604F	Come back when you're ready to lose some more cash.
+LOW_32	E18231F5	~r~The meeting is dispersing because you messed with one of their cars.
+LOW_33	96850163	~r~You lost the lowrider challenge.
+LOW_34	08E194C0	~r~Your lowrider is history.
+LOW_35	7FE6A456	~r~The lowrider meeting has dispersed.
+LOW_36	E6EFF5EC	~s~You need a lowrider with hydraulics.
+LOW_38	0157D8EB	~s~You need $~1~ to compete.

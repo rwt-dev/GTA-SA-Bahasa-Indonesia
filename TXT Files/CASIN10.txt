@@ -1,0 +1,74 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	E59258D3	Scroll ~m~~widget_explicit_camera_zoom_in~ to change camera modes.
+	E65F92FD	Press ~m~~widget_camera~ to change camera modes.
+CAS11AA	29403C96	Alright, you guys better get out of Las Venturas, fast!
+CAS11AB	B0496D2C	I'll be in touch.
+CAS11AC	C74E5DBA	What about your backup, man, will you be a'right without us?
+CAS11AD	592AC819	Of course he will, you fucking moron, come on!
+CAS11BA	026D6F55	This is private flight CJ101 on approach to Liberty, over.
+CAS11BB	9B643EEF	Flight CJ101, we have you on our scope.
+CAS11BC	EC630E79	Stay on current heading and await final approach instructions...
+CAS11CA	1B765E14	Welcome to Liberty City, CJ101...
+CAS11DA	5437C8D3	Private function, invitation only!
+CAS11DB	CD3E9969	Oh yeah? Well Mr. Leone says otherwise!
+CAS11EA	4D2CF992	Salvatore sends his regards!
+CAS11EB	D425A828	The Forelli's are finished in this town!
+CAS11EC	A32298BE	I'm here to spill pasta sauce!
+CAS11ED	3D460D1D	Marco Forelli, I'm here for you!
+CAS11EE	4A413D8B	Marco, I'm coming for you!
+CAS11EF	D3486C31	Mafia assholes!
+CAS11EG	A44F5CA7	I'm your worst egg plant nightmare!
+CAS11FA	6601AA51	Flight CJ101, you are cleared for take-off!
+CAS11GA	7F1A9B10	This is flight CJ101 out of Liberty City,
+CAS11GB	E613CAAA	requesting final approach to Las Venturas International, over.
+CAS11GC	9114FA3C	Flight CJ101, you are clear for landing on runway 3.
+CAS11HA	F88287DF	Holy fuck, who's flying that thing?
+CAS11HB	618BD665	The guy's a maniac!
+CAS11HC	168CE6F3	He's going to hit us!
+CAS11HD	88E87350	Oh my God, he's going to lose it!
+CAS11HE	FFEF43C6	Prep the emergency crews!
+CAS11HF	66E6127C	Prepare the fire crews for a crash landing!
+CM10_1	67938193	~s~Get to the ~y~airport~s~.
+CM10_10	4FB861D3	~s~The ~b~jet ~s~is at the end of the runway, get into it and fly to Liberty City.
+CM10_11	38BF5145	~r~Maccer is dead!
+CM10_12	A1B600FF	~r~Paul is dead!
+CM10_13	D6B13069	~r~Rosenberg is dead!
+CM10_14	48D5A5CA	~r~The car has been destroyed!
+CM10_17	D1DCF470	~r~You have destroyed the jet!
+CM10_18	4163E9E1	~s~Fly to ~y~Liberty City~s~.
+CM10_19	3664D977	~s~Fly back to ~y~Las Venturas Airport~s~.
+CM10_2	FE9AD029	~s~Kill ~r~Forelli~s~ and all his bodyguards.
+CM10_99	FEBD537F	Tap ~m~~widget_camera~ to change camera modes.
+CS11A00	C17BDA66	Just feel the weight of the weapon, sweetheart.
+CS11A01	B67CEAF0	I can feel the weight of someone's weapon!
+CS11A02	2F75BB4A	Hey, you're the one to blame on that front!
+CS11A03	58728BDC	Can I fucking go now, or fucking what?
+CS11A04	C6161E7F	(giggling)
+CS11A05	B1112EE9	Ooh, you fuckin' twat! Right in the fucking happy sack!
+CS11A06	28187F53	Perhaps you'll be cured of your little antisocial condition, mate.
+CS11A07	5F1F4FC5	Carl, my man!
+CS11A08	CFA05254	Looks like this piece of shit was right.
+CS11A09	B8A762C2	You did a real number on those Forelli losers.
+CS11A10	D860EB27	Now, it's time the Forelli's found out
+CS11A11	AF67DBB1	what it means to screw with Salvatore Leone!
+CS11A12	366E8A0B	How would you like to hit the St. Mark's Bistro?
+CS11A13	4169BA9D	A hit in Liberty City? Cool, but I'm gonna need some backup.
+CS11A14	DF0D2F3E	Take who you want.
+CS11A15	A80A1FA8	Well I usually use these two.
+CS11A16	31034E12	Heh-hey! Remember all those jobs we did together, huh?
+CS11A17	46047E84	Huh? You and me, Carl, remember, huh?
+CS11A18	D6BB6315	You know, you used to call me 'Killer' Ken? Ken the Killer? Killer?
+CS11A19	A1BC5383	Ice Cold Ken, that's me...
+CS11A20	F34DB8E4	And him too, I guess...
+CS11A21	844A8872	Ah what the hell, he makes me sick anyway.
+CS11A22	1D43D9C8	If he looks like making a run for it, kill him.
+CS11A23	6A44E95E	Alright, boys, let's bounce.
+CS11A24	F4207CFD	See ya, thanks for having me, man.
+CS11A25	83274C6B	It's been a fucking blast - top banana.
+CS11A26	1A2E1DD1	Mr. Leone.
+CS11A27	6D292D47	C'mon, Sally boy, I'm bored! Can we go to your room?

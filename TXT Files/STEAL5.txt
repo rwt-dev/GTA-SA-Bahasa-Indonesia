@@ -1,0 +1,51 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	05E71F86	Press ~m~~widget_stinger~ to drop a Stinger.
+STE5_01	592F19A4	~s~Burst the tires of the ~r~target car~s~ using stingers.
+STE5_02	C026481E	~s~You only have ~1~ stingers available.
+STE5_03	B7217888	Tap ~m~~widget_stinger~ to drop a Stinger.
+STE5_04	2945ED2B	Stingers
+STE5_05	5E42DDBD	~r~You ran out of stingers.
+STE5_06	C74B8C07	~s~You need to be in the ~b~car~s~ modded to use stingers.
+STE5_07	B04CBC91	~s~Burst the tires of the ~r~target car~s~.
+STE5_08	20F3A100	~s~Get back in the ~b~car~s~.
+STE5_09	57F49196	~r~The target car has been destroyed!
+STE5_10	37331873	~r~The stinger car has been destroyed!
+STE5_11	403428E5	~s~Get the car back to the ~y~garage~s~.
+STE5_12	D93D795F	~s~Get in the ~b~car~s~. This ~b~car~s~ has been modded to use stingers.
+STE5_13	AE3A49C9	~s~Get in the ~b~car~s~.
+STE5_14	305EDC6A	~r~You missed the car!
+STL5@00	3442AF0E	Hey man, where you been?
+STL5@01	43459F98	I tracked one of the cars on our shopping list,
+STL5@02	DA4CCE22	but the crazy bitch, she drives like the devil!
+STL5@03	AD4BFEB4	I've been following her for hours, but she stops for nothing!
+STL5@04	332F6B17	You'd have to ram her off the road in order to get a chance
+STL5@05	44285B81	to get her car and you know a wrecked car is no good to us!
+STL5@06	DD210A3B	I swear she is playing with me!
+STL5@07	AA263AAD	Dude, calm down!
+STL5@08	3A99273C	If she's playing with you,
+STL5@09	4D9E17AA	then she probably won't get one-time involved until it turns ugly.
+STL5@10	2D599E4F	We gotta find a way to stop her, or slow her down.
+STL5@11	5A5EAED9	Too bad we can't involve the police,
+STL5@12	C357FF63	'cuz then they could pop her crazy bitch tires
+STL5@13	B450CFF5	and bang her crazy bitch ass in jail
+STL5@14	2A345A56	for being a danger to my sanity!
+STL5@15	5D336AC0	Dude, relax!
+STL5@16	C43A3B7A	You know what, I think I've got an idea...
+STL5_AA	321E425E	Hey, CJ, how's it going with that crazy bitch?
+STL5_AB	AB1713E4	Popped her!
+STL5_AC	DC102372	Just about to fix the tires, should be back any minute.
+STL5_AD	4274B6D1	OK, careful with that puncture repair shit, CJ, it's nasty stuff!
+STL5_AE	35738647	Will do. Later, man.
+STL5_AF	AC7AD7FD	Man, this stuff is disgusting.
+STL5_AG	DB7DE76B	Aw shit, all over my clothes!
+STL5_BA	1933119D	You loco idiota!
+STL5_BB	803A4027	Aye cabron, what the fuck you tryin' to do?
+STL5_BC	F73D70B1	You trying to kill me, asshole?
+STL5_BD	6959E512	Back off, you crazy man!
+STL5_BE	1E5ED584	Hell, you'll get me killed!
+STL5_BF	8757843E	Fuck you, asshole!

@@ -1,0 +1,118 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+RYD3_1	64DE8F18	~s~Climb onto the back of the ~y~train~s~.
+RYD3_13	ACD827CF	~s~Use the nearby ~y~pay 'n' spray~s~ to lose the cops.
+RYD3_14	32BCB26C	~r~Ryder's truck has been destroyed!
+RYD3_2	FDD7DEA2	~s~Protect the train from the ~r~Ballas~s~!
+RYD3_3	8AD0EE34	Time
+RYD3_AA	3DEC4E29	Man, we'll take LB's truck!
+RYD3_AB	A4E51F93	Hey, you down for Grove, homie?
+RYD3_AC	D3E22F05	Hell, you my dog, man!
+RYD3_AD	4D86BAA6	You drive, CJ - seeing as you 'Mister Driver' and all.
+RYD3_AE	3A818A30	Aw, not your shit again.
+RYD3_B	ADD2AF9E	~r~Ryder is dead!
+RYD3_BA	16C11DEA	Don't give me a hard time about my driving. I ain't got the energy for it, man.
+RYD3_BB	8FC84C50	Well don't go roll the damn car over and blow us all up in flames then.
+RYD3_BC	F8CF7CC6	Aw, I ain't risin' to your shit, man.
+RYD3_BD	66ABE965	Good! Means you'll concentrate on the road, then!
+RYD3_BE	11ACD9F3	You love to give a homie a hard time.
+RYD3_BF	88A58849	I'm like your motherfucking drill sergeant - hut one two!
+RYD3_BG	FFA2B8DF	Just trying to keep my soldiers alive, nigga!
+RYD3_BH	6F1DA54E	By nagging them to death?
+RYD3_BJ	8113C462	Watch the road, motherfucker! The road!
+RYD3_CA	0FDA2CAB	Yeah, here we go!
+RYD3_CB	96D37D11	That's our train alright.
+RYD3_CC	E1D44D87	Shit, looks like some Northside Vagos got it first!
+RYD3_CD	7FB0D824	Man, I'm gonna bust on them fools!
+RYD3_D	44B10AAB	Press and hold ~m~~widget_attack~ to power up your throw, then release ~m~~widget_attack~ to throw.
+RYD3_DA	409BBA6C	Aw, what's this? We got Ballas trying to crash the party?
+RYD3_DB	D992EBD6	Looks like Tenpennny told every gang in South Central!
+RYD3_DC	AE95DB40	Man, we gonna smoke those Balla assholes!
+RYD3_E	33B63A3D	Power
+RYD3_EA	59808B2D	Go check out the train, CJ.
+RYD3_F	AABF6B87	Crates
+RYD3_FA	72ADD8EE	Damn, what is that?
+RYD3_FB	EBA48954	Chill out, fool, we're gonna be right behind you!
+RYD3_GA	6BB6E9AF	Throw me some boxes, CJ!
+RYD3_GB	F2BFB815	I guess we can take five crates!
+RYD3_GC	85B88883	Careful, CJ! It's explosives in those crates!
+RYD3_H	4D074680	~s~Drive the van to the ~y~ammo train~s~.
+RYD3_HA	EC2EF560	Damn! Not so hard!
+RYD3_HB	7527A4DA	I got it!
+RYD3_HC	0220944C	Nice throw, fool!
+RYD3_HD	9C4401EF	Keep 'em coming!
+RYD3_HE	EB433179	Shit! I nearly dropped that one!
+RYD3_HF	724A60C3	Bull's eye!
+RYD3_HG	054D5055	You trying to kill me?
+RYD3_HH	95F24DC4	Oh, yeah!
+RYD3_HJ	7BFC2CE8	Can't stop me!
+RYD3_HK	0CFB1C7E	And another one!
+RYD3_HL	929F89DD	Watch the jacket!
+RYD3_HM	E598B94B	OK, CJ! That's all I can carry!
+RYD3_HN	7C91E8F1	Hop in the car and stamp out, fool!
+RYD3_I	3A007616	~s~You need to lose the cops! Use the nearby pay 'n' spray.
+RYD3_JA	DE1897E2	Watch what the fuck you're doing!
+RYD3_JB	4711C658	CJ! Man, I swear, man, you're trying to kill me!
+RYD3_JC	3016F6CE	Careful with these damn guns!
+RYD3_JD	AE72636D	Hey, EASY, CJ, EASY!
+RYD3_JE	D97553FB	Man, you toss like a girl!
+RYD3_JF	407C0241	Carl, do you understand the concept I'm throwing at you?
+RYD3_JG	377B32D7	You as bad as tossing as you is driving!
+RYD3_KA	C703A6A3	Man, we got one-time on our tail!
+RYD3_KB	5E0AF719	Head back to Grove Street, fool!
+RYD3_LA	88423064	Take this, you punk one-time!
+RYD3_LB	114B61DE	You're dealing with a kung fu master!
+RYD3_LC	664C5148	Ninja style!
+RYD3_LD	F828C4EB	You ain't never gonna catch this gangsta, fool!
+RYD3_LE	8F2FF47D	You can't stop me - I'm a genius, fool!
+RYD3_LF	1626A5C7	I'm getting tired of this, fuck off!
+RYD3_LG	61219551	Y'all ain't got nothing better to do?
+RYD3_LH	F19E88C0	One-times can't stop me - I'm incredible!
+RYD3_M	3D6DB20F	~s~Shoot the ~r~Vagos ~s~robbing the train!
+RYD3_MA	91590125	Damn, homie, your stuff was tight!
+RYD3_MB	0850509F	You too, homie!
+RYD3_MC	7F576009	LB's coming over to stash the shit.
+RYD3_MD	E133F5AA	Okay, later then.
+RYD3_ME	9634C53C	For life, CJ, for life - you heard?
+RYD3_NA	BA7452E6	Say, CJ, don't you run out on me!
+RYD3_NB	237D035C	You getting that busta itch again, huh?
+RYD3_NC	547A33CA	Don't you bail out on me, CJ!
+RYD3_OA	A36F63A7	We got enough, homie. Jump!
+RYD3_OB	3A66321D	A'ight, CJ - jump off the train!
+RYD3_OC	4D61028B	We good, man! Motherfucker, jump!
+RYD3_Q	296CEE40	Get back into ~b~Ryder's truck~s~!
+RYD3_R	B065BFFA	~r~One of your gang members died. You need to keep them alive!
+RYD3_T	59061ACF	~r~You did not get enough boxes.
+RYD3_Z	BEBE37C8	~s~Drive Ryder's Truck ~s~to the ~y~ammo train~s~.
+RYD3101	19849188	~s~Take the crates back to ~y~Grove street.
+RYD3A00	3A72C94E	Hey, Ryder? What the hell you doing?
+RYD3A01	4D75F9D8	Nigga, I couldn't find that wet I buried,
+RYD3A02	D47CA862	- so I'm making my own. It's easy, fool.~n~- Oooh! That's strong.
+RYD3A03	A37B98F4	Man, don't do that! You'll sautž the both of us.
+RYD3A04	3D1F0D57	Morning, boys.
+RYD3A05	4A183DC1	Man, who you calling a boy, fool?
+RYD3A06	D3116C7B	What should I call you? Midget?
+RYD3A07	A4165CED	Man, fuck you.
+RYD3A08	34A9417C	Mmm... Smells good. What's cooking? Where's mine?
+RYD3A09	43AE71EA	Man, just chill out, a'ight. Move. Here. Don 't be sweating me, motherfucker.
+RYD3A10	2369F80F	Mmm, my wife loves this stuff, man.
+RYD3A11	546EC899	Anyway, there's a train gonna make
+RYD3A12	CD679923	an unscheduled stop just down the way.
+RYD3A13	BA60A9B5	It's got a, how you say, 'little something something' on board for you boys.
+RYD3A14	24043C16	Square business, man.
+RYD3A15	53030C80	Catch you later, homeboys.
+RYD3A16	CA0A5D3A	Oh Carl, try not to kill any more respected police officers. Please?
+RYD3A17	BD0D6DAC	Heh heh heh.
+RYD3A18	2DB2703D	Crime has certainly gone up since you got back, kid.
+RYD3A19	5AB540AB	Just doing my part for the community.
+RYD3A20	0844ABCC	Your train's gonna be there in five.
+RYD3A21	7F439B5A	Oooh! That's strong.
+RYD3A22	E64ACAE0	How about prick?
+RYD3A23	914DFA76	Prick...
+RYD3A24	0F296FD5	Yeah, prick works.
+RYD3A25	782E5F43	Bitch, get outta here.
+RYD3A27	96203E6F	Asshole.

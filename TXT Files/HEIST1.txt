@@ -1,0 +1,111 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+HE1_AA	FAEBF86F	Hey, my camera!
+HE1_AB	63E2A9D5	Hey, My dad bought me that!
+HE1_AC	14E59943	Oh my God!
+HE1_AD	8A810CE0	He's trying to run us off the road!
+HE1_AE	FD863C76	I don't know what he wants!
+HE1_AF	648F6DCC	Watch the van you crazy man!
+HE1_AG	13885D5A	What's your beef, man?
+HE1_AH	833740CB	Why are you persecuting us?
+HE1_AI	F430705D	You some crazy idiot or something?
+HE1_AJ	6D3921E7	We'll see what the cops have to say!
+HE1_AK	1A3E1171	I'm going straight to the cops!
+HE1_AL	845A84D2	The cops won't let you get away with this!
+HE1_XA	61EB5177	Get this film developed for Woozie.
+HE1_XB	F8E200CD	You got it, CJ! Good work!
+HE1_ZA	53DD33F5	Put that weapon away sir! This is a public building!
+HE1_ZB	CAD4624F	Thank you for your cooperation, sir.
+HE1_ZC	BDD352D9	This is your final warning, sir, put the weapon away!
+HE1_ZD	23B7C77A	I'm sorry, sir, cameras are prohibited in this area.
+HE1_ZE	54B0F7EC	You are not allowed to make any copies of plans, sir!
+HE1_ZF	CDB9A656	We have a troublemaker, lock the doors and call the cops!
+HE1_ZG	BABE96C0	Everybody out, this is not a drill!
+HE1_ZH	2A018B51	That includes you, sir!
+HE1_ZJ	C40FEA7D	Where are those damn firemen?
+HE1_ZK	B308DAEB	Hey you, stop right there!
+HE1_ZL	2D6C4F48	This is security, don't make me shoot!
+HE1_ZM	5A6B7FDE	I have a visual on the suspect, get to my position!
+HEI1_1	926DD8D5	~s~Security's strict in the ~y~planning department~s~. Don't start trouble!
+HEI1_10	D0F27B2F	~s~Those old ~g~air con units~s~ are decrepit. Destroy them anyway you can.
+HEI1_11	A7F54BB9	~s~If you need another ~r~camera~s~ or film, head back to the casino area and persuade a tourist to part with theirs!
+HEI1_20	FBDF28EC	~s~That's it! That fire alarm ought to occupy those guards.
+HEI1_22	15D149C0	~s~Okay! They're busy with the evacuation just now. Get upstairs and photograph those ~y~blueprints~s~ pinned to the wall.
+HEI1_25	8BB5DC63	~s~Great! You've photographed the casino blueprints! Get out of the ~y~building~s~ before you're caught.
+HEI1_29	82039048	~s~Take the camera film to the back entrance of the ~y~Four Dragons Casino~s~.
+HEI1_33	7BCD4817	~s~The ~y~stairwell~s~ is now accessible. Climb up to get to the location of the blueprints.
+HEI1_34	E5A9DDB4	~s~The ~y~blueprints~s~ you need to photograph are in the far room on the top floor.
+HEI1_35	92AEED22	~s~There are ~r~tourists~s~ on that ship. Identify one with a camera and take it by force.
+HEI1_39	9B18A109	~s~Good! Get that ~g~camera~s~ picked up.
+HEI1_40	AD858F6A	~s~You've got a camera, now head to the ~y~planning department~s~ building.
+HEI1_41	DA82BFFC	~s~You need a camera to get a copy of those casino blueprints. Grab one from some ~r~tourists~s~ at the strip.
+HEI1_46	44E62A5F	~s~The cops can't shut the bottom doors due to the fire! Use your weapons if you need to.
+HEI1_50	B49EBE2B	~r~You were told that this is a low-profile job and you were showing off your weaponry!
+HEI1_52	5A90DF07	~r~That's just great! We should have distracted the guard before taking any photographs!
+HEI1_6	0C094D76	~s~You can't photo the casino blueprints with the guard around! You need to divert his attention.
+HEI1_7	7B0E7DE0	~s~There's a ~y~document depository~s~ downstairs. Head down to see if you can cause a distraction
+HEI1_9	9CB650E7	~s~This is a civic building. No visible guns or you'll be ejected from the premises
+HEIH	AFF622F4	Tap ~m~~widget_reply_no~ to answer NO or ~m~~widget_reply_yes~ for YES.
+HEIH2	72A891A7	Move close to the receptionist and target her to restart conversation.
+HEIH9	E57A482F	Move close to the receptionist to restart the conversation.
+HEQ1	04347335	Can I help you sir?
+HEQ1N	C7D39CC7	No thank you.
+HEQ1Y	44001900	I'd like to see the architectural plans for Caligula's Casino, please.
+HEQ2	9D3D228F	OK sir. Are you aware that reproduction of such plans is prohibited?
+HEQ2N	ECFECF04	No, I didn't know that, why?
+HEQ2Y	6F2D4AC3	Yeah, I'm only after some reference.
+HEQ2YB	9AD09EFC	I'm building a scale model for my uncle's birthday. He's very keen on blackjack.
+HEQ4	745E87BA	You'll find the plans on the top floor.
+HEQ4B	B31224A9	Very witty sir.
+HEQ4C	C415143F	I will buzz open the door. It's directly by the main entrance...
+HEQ5	0359B72C	I'm very sorry sir, I can't make it any clearer.
+HEQ5B	AA0915E8	Alert me when you've thought it over.
+HEQ5C	DD0E257E	Alert me if you change your mind.
+HEX1	D5F6C87C	I'm rather busy sir.
+HEX1B	C1B4EB63	Come to me if you change your mind.
+HEX2	4CFF99C6	Well, we don't want to be party to preparation of a daring raid on the count room!
+HEX2B	EA99B8A0	Does sir understand?
+HEX2N	E32FF48B	No, I'm just a dumb ghetto kid, I don't understand shit.
+HEX2Y	60FC714C	Oh, of course, the owners wouldn't want to take a gamble on that happening!
+HEX3	3BF8A950	Seeing as you're walking away, sir I take it you don't want to talk anymore.
+HST1A00	92AE76A1	Woozie?
+HST1A01	E5A94637	Oh, Carl.
+HST1A02	7CA0178D	You could at least turn the lights on.
+HST1A03	0BA7271B	Oh, I thought I had. This window here must let some light in.
+HST1A04	95C3B2B8	Yeah, this is perfect right here. This is where we're going to plan the heist at.
+HST1A05	E2C4822E	Anyone else coming?
+HST1A06	7BCDD394	No.
+HST1A07	0CCAE302	Couldn't we have done this in my office?
+HST1A08	9C75FE93	You gotta have a secret place to plan shit like this,
+HST1A09	EB72CE05	that's just how it's done!
+HST1A10	8BB547E0	OK, OK, I see where you're coming from.
+HST1A11	FCB27776	So, what do we do?
+HST1A12	65BB26CC	I guess we got to make a plan.
+HST1A13	12BC165A	Speaking of plans, do you have the layout to Caligula's Casino?
+HST1A14	8CD883F9	Shit. No. I guess I gotta go get one.
+HST1A15	FBDFB36F	Meeting adjourned?
+HST1A16	62D6E2D5	Meeting adjourned.
+SHEQ1	9CE1EE2F	Can I help you sir?
+SHEQ1N	3A29B020	No thank you.
+SHEQ1Y	B9FA35E7	I'd like to see the architectural plans for Caligula's Casino, please.
+SHEQ2	05E8BF95	OK sir. Are you aware that reproduction of such plans is prohibited?
+SHEQ2N	1104E3E3	No, I didn't know that, why?
+SHEQ2Y	92D76624	Yeah, I'm only after some reference.
+SHEQ2YB	A443130B	I'm building a scale model for my uncle's birthday. He's very keen on blackjack.
+SHEQ4	EC8B1AA0	You'll find the plans on the top floor.
+SHEQ4B	4EE8084E	Very witty sir.
+SHEQ4C	39EF38D8	I will buzz open the door. It's directly by the main entrance...
+SHEQ5	9B8C2A36	I'm very sorry sir, I can't make it any clearer.
+SHEQ5B	57F3390F	Alert me when you've thought it over.
+SHEQ5C	20F40999	Alert me if you change your mind.
+SHEX1	4D235566	I'm rather busy sir.
+SHEX1B	3C4EC784	Come to me if you change your mind.
+SHEX2	D42A04DC	Well, we don't want to be party to preparation of a daring raid on the count room!
+SHEX2B	17639447	Does sir understand?
+SHEX2N	1ED5D86C	No, I'm just a dumb ghetto kid, I don't understand shit.
+SHEX2Y	9D065DAB	Oh, of course, the owners wouldn't want to take a gamble on that happening!
+SHEX3	A32D344A	Seeing as you're walking away, sir I take it you don't want to talk anymore.

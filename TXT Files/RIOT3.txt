@@ -1,0 +1,45 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+RM3_1	58A00EC1	~s~Go to the ~y~Market~s~ area of town and take over all of the ~y~Los Santos Vagos territory~s~.
+RM3_2	C1A95F7B	~s~Attack the Los Santos Vagos gang members and take over the territory.
+RM3_3	B6AE6FED	~s~The enemy gang have retaken the territory, go and take it over.
+ROT3A00	8F1DBF4A	What's popping?
+ROT3A01	F81A8FDC	Ain't nothin'.
+ROT3A02	6113DE66	Hey Bear.
+ROT3A03	1614EEF0	Whattup, homie!
+ROT3A04	88707B53	Everything is locked down and cool here.
+ROT3A05	FF774BC5	How is the Varrio?
+ROT3A06	667E1A7F	Yo, it's all cool down there.
+ROT3A07	11792AE9	Yo, I want TENPENNY. It's time.
+ROT3A08	81C63778	Man, that lowlife motherfucker could be anywhere.
+ROT3A09	F6C107EE	Look what he's done to all of us, man.
+ROT3A10	96068E0B	Only Smoke would know where he's at.
+ROT3A11	E101BE9D	Where's Smoke?
+ROT3A12	7808EF27	You heard what B Dup said.
+ROT3A13	0F0FDFB1	Smoke ain't on the streets no more.
+ROT3A14	916B4A12	Stays in his den, don't go to no one.
+ROT3A15	E66C7A84	But he's still pushing?
+ROT3A16	7F652B3E	Yeah, but only to a select circle of cats.
+ROT3A17	08621BA8	Yo, even B Dup got cut off.
+ROT3A18	98DD0639	Wait, there is a Russian cat.
+ROT3A19	EFDA36AF	Just stays in his spot on the other side of town.
+ROT3A20	BD2BDDC8	I think he copped off Smoke.
+ROT3A21	CA2CED5E	A'ight. I'm gonna go speak with this Russian cat,
+ROT3A22	5325BCE4	see if he can lead me to that fat fuck Smoke.
+ROT3B00	8D5B0113	Where's Smoke?
+ROT3B01	FA5C3185	Smoke?
+ROT3B02	6355603F	You know the rules, comrade, I can't tell you where he is!
+ROT3B03	145250A9	Yeah, I know the rules;
+ROT3B04	8A36C50A	I hit you until you start talking or you stop bleeding!
+ROT3B05	FD31F59C	Oh man!
+ROT3B06	6438A426	Hell, he's holed up in an old apartment block
+ROT3B07	133F94B0	over Los Flores way.
+ROT3B08	83808921	It's easy enough to spot - they got the whole block under control.
+ROT3B09	F487B9B7	No one gets in or out without Smoke's say so!
+ROT3B10	94403052	Holy fuck!
+ROT3B11	E34700C4	I'm gonna make sure Smoke knows you're coming,
+ROT3B12	7A4E517E	you dumb bastard!

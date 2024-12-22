@@ -1,0 +1,49 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+CAS7A00	49FC0207	So what's the score, Carl, when can we make a move on this heist?
+CAS7A01	3EFB3291	I dunno, dude. This Rosenberg guy and these two idiots, man.
+CAS7A02	A7F2632B	I kinda feel responsible for them.
+CAS7A03	D0F553BD	Why?
+CAS7A04	4E91C61E	You know me, dude, another mafia leader, a pusher, no problemo.
+CAS7A05	3996F688	I mean I'll ice them. But these guys, they're like kids.
+CAS7A06	A09FA732	Oh, come on. You're losing that killer instinct, Carl.
+CAS7A07	D79897A4	You better get a move on, Ran Fa Li's flight gets in any minute!
+CAS7A08	47278A35	Damn, you're right!
+CAS7A09	3020BAA3	Be careful.
+CAS7A10	50E73346	This is the first time a Tong representative has ever been to Las Venturas!
+CAS7A11	27E003D0	Yeah, I've got a bad feeling about this.
+CAS7A12	BEE9526A	Which is why you're going to be
+CAS7A13	C9EE62FC	watching over the proceedings with...
+CAS7A14	578AF75F	where did I put it?
+CAS7A15	208DC7C9	Aha! With this!
+CAS7A16	B9849673	Yo I'm cool with whacking a Mafia Leader with a nine-iron,
+CAS7A17	CE83A6E5	but I'd rather use a weapon of my own choice.
+CAS7A18	5E3CBB74	Ah. Well take this anyway.
+CAS7A19	293B8BE2	You never know, it may come in handy...
+CAS7B00	4BBABC5E	Mr. Ran Fa Li.
+CAS7B01	3CBD8CC8	(Grunt)
+CAS7B02	A5B4DD72	Carl, what took you guys so long?
+CAS7B03	D2B3EDE4	Heh heh.
+CAS7B04	4CD77847	We ran into a little welcoming committee.
+CAS7B05	3BD048D1	The Leone family has made their move.
+CAS7B06	A2D9196B	We can handle those bastards now we're up and running.
+CAS7B07	D5DE29FD	Gentlemen, can I have your marks please?
+CAS7B08	4561346C	Gentlemen, or shall I say, partners!
+CAS7B09	326604FA	Oh, I'll drink to that!
+CAS7B10	52A18D1F	(Grunt)
+MAF1_0	1844CF66	Limo Health
+MAF1_1	6F43FFF0	Shit its the Mafia! step on it follow the front car!
+MAF1_10	9B0B814F	Carl you get up top and keep the VIP safe protect the limo, Me and the rest of the bodyguards will protect you from the side.
+MAF1_19	E2D739EB	Take the VIP back to the Triad Casino.
+MAF1_2	F64AAE4A	Watch it Driver!
+MAF1_3	814D9EDC	Follow the lead car down the alley!
+MAF1_4	1F290B7F	How is the rear car doing?
+MAF1_5	682E3BE9	It's doing ok!
+MAF1_6	F1276A53	Oh shit its an ambush!
+MAF1_7	86205AC5	Get out of here!
+MAF1_8	169F4754	I can't they have blocked both exits with line runners
+MAF1_9	619877C2	Shit! Do something!

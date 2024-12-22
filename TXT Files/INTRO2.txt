@@ -1,0 +1,81 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+HOOD2_A	3EBBA2B7	~s~Go with Ryder to the ~y~barbers~s~.
+HOOD2_B	A7B2F30D	~s~Enter the ~y~Pizza shop~s~ and buy some food.
+INT2_10	96877C85	~r~You're not meant to kill the shop keeper!
+INT2_11	E1804C13	~r~Ryder's car is wrecked!
+INT2_12	78891DA9	~r~Ryder is dead!
+INT2_13	0F8E2D3F	~s~Walk into the marker to buy a pizza.
+INT2_14	91EAB89C	~r~You've freaked out the shop keeper!
+INT2_5	89B9CF63	~s~You've left ~b~Ryder~s~ behind!
+INT2_6	10B09ED9	~s~Get in ~b~Ryder's car~s~!
+INT2_8	F708B3DE	Walk into the yellow marker to enter the barber shop.
+INT2_9	800F8348	~s~Walk into the marker to get a haircut.
+INT2_AA	9EBA44D9	Hey, show me how they drive on the East Coast, homie!
+INT2_BA	B597171A	So when you running off again?
+INT2_BB	2C9E46A0	I'm not, I'm thinkin' of staying.
+INT2_BC	5B997636	Why?
+INT2_BD	C5FDE395	My family, the homies is here.
+INT2_BE	B2FAD303	We were always here, fool!
+INT2_BF	2BF382B9	Yeah, but, now I'm back and I know what I've been missing.
+INT2_BG	5CF4B22F	Don't expect me to kiss your ass or nothing.
+INT2_BH	CC4BAFBE	You still a buster to me.
+INT2_BJ	2245CE92	Yeah, OK. Thanks homie.
+INT2_BK	5542FE04	Yeah, don't mention it.
+INT2_CA	AC8C265B	Hey, Old Reece still run the barber shop?
+INT2_CB	358577E1	Like a raggedy-assed motherfucker!
+INT2_CC	42824777	He popped his membrane years ago!
+INT2_CD	DCE6D2D4	No WAY I'd let that old fool near MY head!
+INT2_CE	ABE1E242	Yeah, I think I'll get cut up.
+INT2_CF	32E8B3F8	Whatever. You got five minutes.
+INT2_CG	45EF836E	I'll be cutting you like a DJ.
+INT2_DA	E3CDB09C	Shit! I told you he was crazy!
+INT2_DB	7AC4E126	Man, you jacked up!
+INT2_DC	0DC3D1B0	What's that? A wig or something?
+INT2_EA	FAD681DD	You know something? I take it back. Old Reece still got it cracking.
+INT2_EB	63DFD067	Word.
+INT2_FA	D1FBD21E	Man, what's this? Shit looks ridiculous.
+INT2_FB	48F283A4	No respect for the 'hood, all clean and shit.
+INT2_FC	3FF5B332	You're looking too skinny, CJ.
+INT2_FD	A1912691	Go and get us something to eat. I'm gonna finish this. Then I'm going to take care of business.
+INT2_GA	C8E0E35F	Give up the money! This a raid!
+INT2_GB	51E9B2E5	Ryder! Not this again!
+INT2_GC	26EE8273	It ain't me, fool!
+INT2_GD	B88A17D0	No one else is that small! I feel sorry for your dad!
+INT2_GE	CF8D2746	Shit, you crazy! Let's get up outta here!
+INT2_GF	568476FC	Same old CJ! Busta! Straight busta!
+INT2_HA	4F78FF90	This pizza parlor is no push-over!
+INT2_HB	D671AE2A	Oh, shit! RUN!
+INT2_IA	5663CED1	CJ, we need some wheels!
+INT2_IB	CF6A9F6B	We need a ride, super fast! Get us a car!
+INT2_JA	7D4E9D12	What you waiting for, fool?
+INT2_JB	E447CCA8	Take us back to the Grove, motherfucker!
+INT2_KA	6455AC53	CJ! Damn... Got caught slipping.
+INT2_KB	FD5CFDE9	What would you take a bullet for, fool?
+INT2_LA	2B143A94	CJ, quit tripping, get up!
+INT2_LB	B21D6B2E	It figures, CJ.
+INT2_LC	C51A5BB8	You ain't made for these streets, CJ.
+INT2_MA	320F0BD5	Oh shit, RYDER!
+INT2_MB	AB065A6F	This ain't cool!
+INT2_NA	19225816	Yeah, we straight! Here's your cut.
+INT2_NB	802B09AC	Better drop by and see Sweet.
+INT2_NC	F72C393A	He's been yapping on about that graffiti, too.
+INT2_ND	6948AC99	Later, homie.
+INT2_O	39695741	~s~Drive Ryder ~y~home~s~.
+INT2A00	9924C3BE	Ryder always was crazy.
+INT2A01	EE23F328	A big guy trapped in a little guy's body, and real angry about it.
+INT2A02	772AA292	Hey, man, what you want?
+INT2A03	002D9204	Seeing my homie. What's up with you?
+INT2A04	9E4907A7	Yeah, homie, yeah yeah. It's good to see you back.
+INT2A05	E94E3731	No homie love? No hug?
+INT2A06	7047668B	Hey, man, what you strapped for?
+INT2A07	0740561D	Man, some pizza place keeps painting over our hit up, man!
+INT2A08	97FF4B8C	That shit is beautiful. Teach the owner a lesson.
+INT2A09	E0F87B1A	He's fucking with Grove Street. You down?
+INT2A10	803FF2FF	I'm always down.
+INT2A11	F738C269	Ahhhh, yeah... Let's go, bitch.
+INT2A99	313AC053	Oh, for sure, for sure my nigga, my bad. What's crackin' with you?

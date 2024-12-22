@@ -1,0 +1,171 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	BD30F56A	Press and hold the movement controls to the left to bank round and head for the next ~y~corona.
+	54EA368B	If you need to descend, hold ~m~~widget_explicit_flight_descend~.
+	C047012F	~s~Hold the movement controls down and to the right to bank round and head for the next ~y~corona.
+	5A88D86D	As soon as you hit the corona, move the mouse down to pull up quickly, and hold to do a loop-the-loop.
+	AAF721DD	~s~As soon as you hit the corona, push and hold ~m~~widget_ped_move~ leftward to do a barrel roll.
+	B7F9576D	~s~Press and hold ~m~~widget_ped_move~ upward to keep the plane's nose down.
+	B9417DE2	Press ~m~~widget_rocket~ to fire rockets. Press and hold ~m~~widget_air_gun~ to fire the guns.
+	5387F292	~s~Press and hold the movement controls down to tilt the helicopter up.
+	CA8EA328	~s~Press and hold ~m~~widget_ped_move_down~ upward to tilt the helicopter up.
+	2EF006D7	~s~Press and hold the movement controls upward to keep the plane's nose down.
+	CEC53A20	Hold ~m~~widget_explicit_flight_descend~ to descend slowly and land. Land in the ~y~target area ~s~for extra points.
+	37EC5A52	Rotate the helicopter 180 degrees by moving the mouse to the sides to turn left and right. Head toward the red marker.
+	533E9446	~s~Pull back on ~m~~widget_ped_move~ now.
+	C38189D7	~s~Push the movement controls down now.
+	C83A76C7	Press and hold the bottom left corner of the screen to go clockwise.
+	7F4300E5	Press and hold ~m~~widget_brake~ to descend. Press the right side of the screen to ascend.
+	98C62E9B	~s~Push and hold ~m~~widget_ped_move~ leftward now.
+	7C2ADA39	Tap ~m~~widget_school_continue~ to continue. Tap ~m~~widget_minigame_cancel~ to quit.
+	9620A5D0	Release the right side of the screen to stop rising and level off.
+	88D558E1	~s~When the plane's tail rises, pull the movement controls downward to lift the nose and take off.
+	8F566896	Press and hold the right side of the screen to accelerate upward.
+	961DA6A9	~s~Hold the movement controls down and to the left to bank round and head for the next ~y~corona.
+	782EC4FC	Press and hold the lower right corner of the screen to maintain your height. Keep the plane level and head for the first ~y~corona.
+	6A50FA60	~s~Double tap the center of the screen to open the parachute now.
+	A75347C3	Release ~m~~widget_explicit_flight_ascend~ to stop rising and level off.
+	66DB39CD	~s~Pull the movement controls downward now.
+	A6018BAB	Move the mouse down to maintain your height. Keep the plane level and head for the first ~y~corona.
+	75B7A19B	~s~Push up on ~m~~widget_ped_move~ to descend to the next ~y~corona.
+	72F1520B	Press ~m~~widget_school_continue~ to continue. Press ~m~~widget_minigame_cancel~ to quit.
+	A4751AD2	If you start to descend too quickly, release ~m~~widget_explicit_flight_descend~ and hold ~m~~widget_explicit_flight_ascend~ to slow your descent.
+	16D11389	Press and hold ~m~~widget_accelerate~ to maintain your height. Keep the plane level and head for the first ~y~corona.
+	E1279546	Press and hold the right side of the screen to go forward and head for the ~y~corona.
+	05188B44	Press ~m~~widget_school_left~ to go clockwise or ~m~~widget_school_right~ to go counterclockwise.
+	EBD33438	~s~Push up on the movement controls to descend to the next ~y~corona.
+	E5B6B71A	~s~As soon as you hit the corona, push and hold the movement controls leftward to do a barrel roll.
+	08443073	If you start to descend too quickly, release ~m~~widget_brake~ and hold the right side of the screen to slow your descent.
+	FDE204B4	Press and hold the right side of the screen to accelerate along the runway.
+	1B87FA01	Press and hold ~m~~widget_accelerate~ to accelerate along the runway.
+	FFD26877	~s~When the plane's tail rises, pull back on ~m~~widget_ped_move~ to lift the nose and take off.
+	D95C306E	Press and hold the movement controls to the right to bank round and head for the next ~y~corona.
+	11DC095B	~s~Pull back on ~m~~widget_ped_move~ now.
+	FCAD865B	~s~As soon as you hit the corona, push the movement controls downward to pull up quickly. Hold to do a loop-the-loop.
+	F791FB8D	Steer upward and by moving the mouse down, and climb back up to the final ~y~corona.
+	FA067E5B	Steer upward and press and hold the bottom right corner of the screen to climb back up to the final ~y~corona.
+	D0547755	If you need to bank, press and hold the movement controls, and steer either left or right.
+	01F27C58	Press and hold the lower right corner of the screen to maintain your forward speed.
+	23ED061D	Press and hold ~m~~widget_explicit_flight_ascend~ to accelerate upward.
+	01CF7F21	~s~Push and hold the movement controls leftward now.
+DES5@00	BC01DC23	Carl...
+DES5@01	CB06ECB5	Hell!
+DES5@02	520FBD0F	What do you want?
+DES5@03	25088D99	Relax. Listen. Can you fly a plane?
+DES5@04	BB6C183A	No. Next question.
+DES5@05	CC6B28AC	Will you let me teach you?
+DES5@06	55627916	No. I make it a rule not to defy gravity with compulsive liars.
+DES5@07	22654980	Carl. You scared of flying?
+DES5@08	B2DA5411	No. I'm scared of you. You're a fucking lunatic.
+DES5@09	C5DD6487	Have you heard the bullshit that comes out your mouth?
+DES5@10	A51AED62	Come on. Be a man, Carl, Your country needs you.
+DES5@11	D21DDDF4	Get in the fucking plane.
+DES5_1B	0C6B193F	When the plane's tail rises, move the mouse down to lift the nose and take off.
+DES5_1C	7B6C29A9	Move the mouse down now.
+DES5_1E	920F8C9C	~s~Keep climbing steadily and gaining height.
+DES5_1F	0B06DD26	~s~Head for the first ~y~corona.
+DES5_1G	7C01EDB0	Move the mouse up to descend to the next ~y~corona.
+DES5_1H	ECBEF021	Steer upward and press and hold ~m~~widget_accelerate~ to climb back up to the final ~y~corona.
+DES5_1I	9BB9C0B7	~s~Press ~m~~widget_explicit_toggle_landing_gear~ to retract the landing gear.
+DES5_1J	02B0910D	~s~As the plane climbs and falls, the altitude meter to the right of the radar will rise and fall respectively.
+DES5_2B	27464AFC	Press and hold ~m~~widget_brake~ to slow your descent.
+DES5_2C	50417A6A	~s~Head for the first ~y~corona.
+DES5_2D	CE25EFC9	Point the nose of the plane upward to reduce the rate of descent.
+DES5_2E	B922DF5F	Move the mouse up to keep the plane's nose down.
+DES5_2F	202B8EE5	~s~Taxi along the runway and stop in the ~y~target zone ~s~for extra points.
+DES5_2I	B0949374	Hold ~m~~widget_brake~ to lower your speed until the plane slowly descends.
+DES5_3B	3E5D7BBD	~s~Take off and climb steadily until you reach the first ~y~corona.
+DES5_3D	D73EDE88	~s~You can use the rudder to turn more quickly while banking.
+DES5_3E	A039EE1E	Move the mouse down and to the right to bank round and head for the next ~y~corona.
+DES5_3F	3930BFA4	Move the mouse down and to the left to bank round and head for the next ~y~corona.
+DES5_3G	4E378F32	~s~Bank left and fly through the next ~y~corona.
+DES5_3H	DE8892A3	~s~Bank right and fly through the next ~y~corona.
+DES5_3K	4781C319	~s~Keep banking round and follow the ~y~coronas.
+DES5_3L	D9E556BA	~s~The artificial horizon on the radar displays the plane's attitude.
+DES5_3M	AEE2662C	~s~As the plane banks and pitches, the artificial horizon changes appropriately.
+DES5_5H	88D23525	~s~Bank left and land on the runway.
+DES5_5I	FFD505B3	~s~Bank right and land on the runway.
+DES5_5J	66DC5409	~s~Stop in the ~y~target zone ~s~for extra points.
+DES5_7A	C338EF03	Press and hold ~m~~widget_accelerate~ to accelerate upward.
+DES5_7B	5A31BEB9	~s~Keep gaining height.
+DES5_7C	2D368E2F	Release ~m~~widget_accelerate~ to stop rising and level off.
+DES5_7D	B3521B8C	Rotate the helicopter 180 degrees by using ~m~~widget_vehicle_turret_left~ and ~m~~widget_vehicle_turret_right~ to turn left and right. Head toward the red marker.
+DES5_7F	5D5C7AA0	~s~Press and hold ~m~~widget_ped_move_down~ to tilt the helicopter up.
+DES5_7G	2A5B4A36	Press and hold ~m~~widget_accelerate~ to go forward and head for the ~y~corona.
+DES5_7H	BAE457A7	If you need to bank, press and hold ~m~~widget_ped_move_left~ or ~m~~widget_ped_move_right~.
+DES5_7I	CDE36731	If you need to descend, hold ~m~~widget_brake~.
+DES5_8A	44A0F3CC	Press and hold ~m~~widget_accelerate~ to maintain your forward speed.
+DES5_8B	DDA9A276	~s~Head for the far end of the runway and maintain your height.
+DES5_8C	AAAE92E0	~s~Slow down and hover over the ~y~target zone~s~.
+DES5_8D	34CA0743	Hold ~m~~widget_brake~ to descend slowly and land. Land in the ~y~target area ~s~for extra points.
+DES5_8E	43CD37D5	If you start to descend too quickly, release ~m~~widget_brake~ and hold ~m~~widget_accelerate~ to slow your descent.
+DES5_8F	DAC4666F	Press and hold ~m~~widget_brake~ to descend and ~m~~widget_accelerate~ to ascend.
+DES5_8G	ADC356F9	Press and hold ~m~~widget_explicit_flight_descend~ to descend and ~m~~widget_explicit_flight_ascend~ to ascend.
+DES5_9A	5DBBC28D	~s~Destroy the three ~r~trucks ~s~at the end of the runway.
+DES5_9B	C4B29337	Tap ~m~~widget_rocket~ to fire rockets. Press and hold ~m~~widget_air_gun~ to fire the guns.
+DES5_9C	B3B5A3A1	Press ~m~~widget_explicit_flight_secondary_attack~ to fire rockets. Press and hold ~m~~widget_explicit_flight_primary_attack~ to fire the guns.
+DES5_9D	2DD13602	~s~Now destroy the two moving ~r~cars ~s~to the south-west of the runway.
+DES5_9E	5AD60694	~s~Land on the runway.
+DES5_AB	235460C9	~s~As soon as you hit the corona, press and hold ~m~~widget_ped_move_down~ to pull up quickly, and hold to do a loop-the-loop.
+DES5_AC	5453505F	Move the mouse down now.
+DES5_AD	CA37C5FC	~s~Fly through the final ~y~corona.
+DES5_BB	0879330A	As soon as you hit the corona, move the mouse to the left to do a barrel roll.
+DES5_BC	7F7E039C	Move the mouse to the left or right now.
+DES5_BD	E11A963F	~s~Lift the plane's nose slightly just before starting the barrel roll to stop the plane from losing height.
+DES5_CA	886B53F1	While freefalling, push ~m~~widget_ped_move_up~ to dive forward.
+DES5_CB	1162024B	While freefalling, press and hold the bottom left side of the screen upward to dive forward.
+DES5_CC	666532DD	~s~Press ~m~~widget_attack~ to open the parachute now.
+DES5_CD	F801A77E	~s~Land on the ~y~target.~s~~N~Land closer to the centre for extra points.
+DES5_CE	8F0697E8	Use the movement controls to guide the parachute left and right.
+DES5_CF	160FC652	Use the movement controls lift your legs up and move forward.
+DES5_CG	6108F6C4	Use the movement controls to lift your legs up and move forward.
+DES5_CH	F1B7EB55	When you move forward, this will also slow your rate of descent.
+DES5_CI	86B0DBC3	Use the movement controls to slow your descent and to rotate.
+DES5_FA	F51CA7B4	Movement Controls Navigate
+DES5_FB	6C15F60E	~m~~widget_enter_car~ Exit
+DES5_FD	8576533B	GOLD
+DES5_FE	F27163AD	SILVER
+DES5_FF	6B783217	BRONZE
+DES5_FG	1C7F0281	~1~%
+DES5_FH	8CC01F10	Which course?
+DES5_FI	FBC72F86	Tap ~m~~widget_school_left~ to go clockwise or ~m~~widget_school_right~ to go counterclockwise.
+DES5_FK	15C94EAA	~<~~>~
+DES5_FN	65A3BA25	Navigate
+DES5_FO	12A48AB3	Exit
+DES5_FP	9FAC8746	Start
+DES5_FQ	E8ABB7D0	Record: ~1~%
+DES5_FR	71A2E66A	Get 70% or above to pass
+DES5_FS	06A5D6FC	No award
+DES5_H1	3B9AFB06	You need 70% or above to pass each mission.
+DES5_MA	16E87E7F	Takeoff
+DES5_MB	8FE12FC5	Land plane
+DES5_MC	F8E61F53	Circle airstrip
+DES5_MD	66828AF0	Circle and land
+DES5_ME	1185BA66	Helicopter takeoff
+DES5_MF	888CEBDC	Land helicopter
+DES5_MG	FF8BDB4A	Destroy targets
+DES5_MH	6F34C6DB	Loop-the-loop
+DES5_MI	1833F64D	Barrel roll
+DES5_MJ	813AA7F7	Land on target
+DES5_PS	1A3D632B	MISSION PASSED!~n~~w~FLYING SKILL +
+DES5_S3	7CA251B0	Time
+DES5_S4	E2C6C413	Time taken:
+DES5_S5	95C1F485	Position score:
+DES5_S6	0CC8A53F	Damage penalty:
+DES5_S7	7BCF95A9	Overall score:
+DES5_S8	EB708838	Continue
+DES5_S9	9C77B8AE	Exit
+DES5_SA	C2A941A0	new certificate awarded
+DES5_SB	5BA0101A	new record
+DES5_SC	2CA7208C	~1~s
+DES5_SD	B2C3B52F	~1~%
+DES5_SE	C5C485B9	Retry
+DES5_SF	5CCDD403	Flying skill upgraded.
+DES5_SG	2BCAE495	Pilot's license now obtained!
+DES5_T1	DDEDA65B	~s~Walk to the television to start the lesson.
+DES5_T3	33E3C777	Time taken: ~1~
+DES5_T4	AD8752D4	Time

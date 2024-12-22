@@ -1,0 +1,86 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	1C0C92C1	Press ~m~~widget_enter_targeting~ to look through the camera viewfinder.
+BCR1@00	BB8AB4E3	Wake up, boy.
+BCR1@01	CC8D8475	Carl. Hey Carl.
+BCR1@02	5584D5CF	What's going on?
+BCR1@03	2283E559	You got a bag over your head, boy. How you feel about that?
+BCR1@04	BCE770FA	Man, take it off. Please, man, I can't breathe! Please!
+BCR1@05	CBE0406C	Oh, alright. But only because you said please.
+BCR1@06	52E911D6	You fucking sick motherfucker!
+BCR1@07	25EE2140	Intimidate those who intimidate others, Carl. It's my job.
+BCR1@08	B5513CD1	Hey, man, where we at?
+BCR1@09	C2560C47	The middle of fucking nowhere. Nice, clean air.
+BCR1@10	A29185A2	Fucking Smoke! Oh, Sweet!
+BCR1@11	D596B534	Sweet is alive.
+BCR1@12	4C9FE48E	Alive and inside. He's in a prison hospital being treated for gunshot wounds, awaiting trial.
+BCR1@13	3B98D418	Yeah, somehow, nobody's caught you yet.
+BCR1@14	A5FC41BB	We've done you a big favor.
+BCR1@15	D2FB712D	Oh yeah, you should be glad, Carl. Your moron brother's alive.
+BCR1@16	4BF22097	Your street trash, soon to be turned out sister's alive.
+BCR1@17	3CF51001	And, she's only sucking one greaseball's dick.
+BCR1@18	AC4A0D90	Things are going pretty well for you, Carl.
+BCR1@19	DB4D3D06	So behave, nigga.
+BCR1@20	89BCD661	We want you to do a little favor for us, Carl.
+BCR1@21	FEBBE6F7	Yeah, an eye for an eye, and all that.
+BCR1@22	67B2B74D	I can't believe that nigga Smoke turned on me.
+BCR1@23	10B587DB	Smoke? Smoke does exactly what he's told.
+BCR1@24	8ED11278	He learned that lesson a long time ago.
+BCR1@25	F9D622EE	Homies for life? Street loyalty? That's all bullshit, Carl.
+BCR1@26	60DF7354	Didn't you learn that when they ran you out of town,
+BCR1@27	17D843C2	just cause you'se a buster?
+BCR1@28	87675E53	just 'cause you let Brian die? Huh?
+BCR1@29	F0606EC5	Eddie, I can't deal with this guy. He's an idiot!
+BCR1@30	90A7E720	Let me air this fucker out, I...
+BCR1@31	E7A0D7B6	No no no no no no no, officer..
+BCR1@32	7EA9860C	For once, let's let the kid do something good with his useless life.
+BCR1@33	09AEB69A	He's gonna help us with the fight against crime. Right, Carl?
+BCR1@34	97CA2339	Yeah. By any means necessary.
+BCR1@35	E0CD13AF	Now you stay the fuck away from Smoke,
+BCR1@36	79C44215	and stay the fuck away from us.
+BCR1@37	0EC37283	Otherwise Sweet is going to find himself on a Ballas block
+BCR1@38	9E7C6F12	getting in touch with his feminine side.
+BCR1@39	E97B5F84	Hey Hernandez, you going to piss all day?
+BCR1@40	DFE671E7	For some reason, we've got a little problem with a former friend of ours,
+BCR1@41	A8E14171	he seems to disagree with some of our methods.
+BCR1@42	31E810CB	Yeah, you'll never find anybody as fork-tongued as this snake ass bastard.
+BCR1@43	46EF205D	Soon as he gets caught with his hand in the cookie jar,
+BCR1@44	D88BB5FE	he'll whistle any tune Internal Affairs wants him to.
+BCR1@45	AF8C8568	See, they've got him hiding up Mount Chiliad someplace,
+BCR1@46	3685D4D2	so they can manipulate his testimony any way they want to.
+BCR1@47	4182E444	I want you to pay him a little visit, Carl. And destroy all his evidence before he testifies.
+BCR1@48	D13DF9D5	Sort this out, Carl, so Officer Tenpenny can sleep easy at night.
+BCR1@49	A63AC943	We want evidence he ain't gonna talk.
+BCR1@94	6D25CBB3	Now who could do that?
+BCR1@95	1A22FB25	Get your hands off me, man.
+BCR1@96	832BAA9F	Come here.
+BCR1@97	F42C9A09	Damn, man. Take it easy!
+BCR1@98	64938798	Sounds like your wife.
+BCR1@99	1394B70E	Right Ed?
+BCR1_01	DBF76038	~s~You'll need the ~g~camera~s~.
+BCR1_02	42FE3182	~s~Make your way up the mountain, find that ~r~snitch~s~.
+BCR1_03	35F90114	~s~Kill the ~y~witness~s~! ~s~Bring back proof.
+BCR1_04	AB9D94B7	~s~He's inside, smoke him out!
+BCR1_05	DC9AA421	~s~Be wary of the U.S. Marshals.
+BCR1_06	4593F59B	~s~And don't let him escape!
+BCR1_07	3294C50D	~s~The ~r~snitch ~s~is getting away!
+BCR1_08	A22BD89C	~s~The ~r~snitch ~s~is getting away on foot!
+BCR1_09	D52CE80A	~r~He can't be identified!
+BCR1_10	B5EB61EF	~s~Photograph the ~r~body~s~.
+BCR1_11	C2EC5179	~s~You need a ~g~camera, ~s~go and pick one up.
+BCR1_12	5BE500C3	~r~You let him get away!
+BCR1_13	2CE23055	~s~Chase ~r~him ~s~down and kill him!
+BCR1_14	B286A5F6	~s~Get a vehicle!
+BCR1_15	C5819560	~s~Take ~r~him ~s~out!
+BCR1_16	5C88C4DA	~r~The buzzards got him!
+BCR1_17	2B8FF44C	~s~Take the camera to the ~y~drop~s~.
+BCR1_18	BB30E9DD	~s~Make your way up the ~y~mountain~s~ to find that snitch!
+BCR1_19	CC37D94B	~s~Watch out for the feds!
+BCR1_20	9EC6322C	~s~Remember, you need a photo of him in one piece!
+BCR1_21	E9C102BA	When using the camera, use ~m~~widget_zoom_in~ to zoom in, or use ~m~~widget_zoom_out~ to zoom out.
+BCR1_22	70C85300	Tap ~m~~widget_enter_targeting~ to look through the camera viewfinder.
+BCR1_23	07CF6396	You can view your Gallery photos in your GTA San Andreas User Files directory.

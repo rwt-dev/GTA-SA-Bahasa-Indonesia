@@ -1,0 +1,75 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+CAS2@00	7FE09802	Ha ha ha! The glorious sound of a hole in one!
+CAS2@01	08E7A894	Great shot, boss!
+CAS2@02	91EEF92E	Not bad, Woozie.
+CAS2@03	E6E9C9B8	So the Sindacco Family was behind the attempts to sabotage our venture.
+CAS2@04	788D5C1B	I wonder why it's only them and not the others?
+CAS2@05	0F8A6C8D	Probably ain't just them. Rule of the streets; don't snitch.
+CAS2@06	96833D37	What we need... is to hit the mafia casino. Yeah, go jack the place.
+CAS2@07	E1840DA1	Hey, hitting a casino isn't like gangbanging - it's a whole different league!
+CAS2@08	713B1030	Yeah, you're right, it'll take some planning, but I'm down.
+CAS2@09	063C20A6	Shit, I always wanted to pull a heist.
+CAS2@10	66FBA943	What the-?
+CAS2@11	11FC99D5	Bad luck.
+CAS2@12	88F5C86F	Listen, you're gonna need a crew and some special equipment.
+CAS2@13	FFF2F8F9	Yeah, it'll take some explosives. Always got to blow up shit to pull a heist.
+CAS2@14	61966D5A	You know what? There's an open cast mine South West of the city limits.
+CAS2@15	16915DCC	They must have explosives.
+CAS2@16	8F980C76	I'll go peep it out.
+CAS2@17	F89F3CE0	Thanks.
+CAS2_AA	79BC7552	Hey you can't come down here!
+CAS2_AB	E0B524E8	Where's your safety gear?
+CAS2_AC	97B2147E	You don't have clearance for this area!
+CAS2_AD	09D681DD	Get away from that dynamite!
+CAS2_AE	7ED1B14B	Hey, that's dangerous!
+CAS2_AF	E7D8E0F1	Stay away from that stuff!
+CAS2_AG	90DFD067	Meet my shovel asshole!
+CAS2_AH	0060CDF6	He's gonna blow us all to hell!
+CAS2_AI	7767FD60	Dude, somebody stop that guy!
+CAS2_AJ	EE6EACDA	Who's this asshole?
+CAS2_AK	99699C4C	Someone call security!
+CAS2_AL	070D09EF	What do you think you're doing?
+CAS2_AM	700A3979	Someone's stealing dynamite, call security!
+CAS2_AN	E90368C3	He's after the dynamite!
+CAS2_AO	9E045855	He's stealing the demolition charges!
+CAS2_BA	52912691	ALL PERSONNEL CLEAR!
+CAS2_BB	CB98772B	FIVE SECONDS TO DETONATION!
+CAS2_BC	BC9F47BD	THREE...
+CAS2_BD	22FBD21E	TWO...
+CAS2_BE	55FCE288	ONE...
+CAS2_CA	4B8A17D0	Delivery for Woozie.
+CAS2_CB	D283466A	Hey, you be careful with that...
+PD_01	FCC05707	Enter the Quarry and steal the dynamite.
+PD_02	65C906BD	You'll need something heavy to smash this dynamite crate.
+PD_05	FBAD931E	1 stick of 4
+PD_06	62A4C2A4	2 sticks of 4
+PD_07	15A3F232	3 sticks of 4
+PD_08	851CEFA3	4 sticks of 4
+PD_09	F21BDF35	~r~You blew up the dynamite.
+PD_10	92DC56D0	Security is blocking the exit.
+PD_11	E5DB6646	~s~Use the ~b~dirt bike ~s~and find another way out!
+PD_12	7CD237FC	~s~Now collect the ~r~Dynamite~s~!
+PD_16	7BBFF3E5	~s~Go to the ~y~Quarry~s~.
+PD_17	0CB8C373	Press ~m~~widget_auto_hydraulics~ to lower the crate.
+PD_18	9C07DEE2	~r~The bike was destroyed!
+PD_19	EB00EE74	~r~The dynamite has been destroyed!
+PD_20	B9F10513	The dynamite is rigged to blow!
+PD_21	CEF63585	Get it before the workers destroy it.
+PD_22	57FF643F	~s~Get back home with the dynamite.
+PD_23	20F854A9	~s~Follow the ~y~arrows ~s~to escape.
+PD_25	C99BF19C	Detonation
+PD_26	5092A026	~s~Get the ~g~Dynamite ~s~before the timer runs out and it's detonated.
+PD_27	279590B0	You'll need something heavy to smash those crates.
+PD_28	B72A8D21	~s~Now deliver the dynamite to the ~y~drop point~s~.
+PD_29	C02DBDB7	~s~Pick up the ~r~Dynamite~s~.
+PD_30	A0EA3452	~r~You idiot you blew up the couriers car!
+PD_31	D7ED04C4	~r~You idiot you killed the courier!
+PD_32	4EE4557E	Visit the quarry to access the Quarry sub-missions.
+PD_33	39E365E8	~r~The dumper truck has been destroyed - it was the only way to break the crates!
+PD_34	A787F04B	~s~Find another ~b~bike ~s~and escape!
+PD_X	3AB69200	~s~Get back on the ~b~bike~s~!

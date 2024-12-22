@@ -1,0 +1,42 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+F4_D	0F34AE5C	Damage
+F4_F	E13ACF70	~r~The car has been destroyed!
+F4_T0	0EC90B8C	~s~Pick up the car from the airport ~y~car park~s~.
+F4_T2	E0C76AA0	~s~Get the car back in one piece!
+F4_T4	09A4CF95	~s~Get back in the ~b~car~s~!
+F4_T5	7EA3FF03	It's an ambush, the Da Nang Boys are covering the exits!
+F4_T7	90AD9E2F	~s~Get the ~b~car~s~!
+F4_T8	001283BE	~s~Take the car back to the ~y~garage~s~.
+F4_T9	7715B328	~s~Dodge the enemy ~r~bikes~s~!
+FAR4_AA	338F2C99	You won't get far!
+FAR4_AB	AA867D23	Stop that car!
+FAR4_AC	DD814DB5	He's getting away!
+FAR4_AD	43E5D816	Stop that car at all costs!
+FAR4_AE	34E2E880	Get after him!
+FAR4_AF	ADEBB93A	Don't just stand there, get that car!
+FAR4_AG	DAEC89AC	Give up the car and we'll spare you!
+FAR4_AH	4A53943D	That's our property!
+FAR4_AJ	A45DF511	After him, no quarter!
+FAR4A00	3411ABFE	Hey, Woozie, my man, what's going down?
+FAR4A01	43169B68	Hey CJ. Let me introduce you to Shuk Foo Ran Fa Li.
+FAR4A02	DA1FCAD2	He heads the Red Gecko Tong on the West Coast.
+FAR4A03	AD18FA44	How you doin'?
+FAR4A04	337C6FE7	Ah Ah Kung has sent word from Kowloon;
+FAR4A05	447B5F71	a Vietnamese crime family, the Da Nang Boys,
+FAR4A06	DD720ECB	are preparing to move to the United States.
+FAR4A07	AA753E5D	This may explain the cowardly attack on the Blood Feather Triad.
+FAR4A08	3ACA23CC	There may be some trouble ahead.
+FAR4A09	4DCD135A	The Shuk Foo would like a package retrieved.
+FAR4A10	2D0A9ABF	A courier has left it in a drop at the airport.
+FAR4A11	5A0DAA29	It is most important to the matter at hand.
+FAR4A12	C304FB93	Oh, I can do that.
+FAR4A13	B403CB05	He is Triad? A Mountain Boy?
+FAR4A14	2A675EA6	No - a personal friend of mine. And less likely
+FAR4A15	5D606E30	to draw the attention of the Da Nang Boys.
+FAR4A16	C4693F8A	OK.
+FAR4A17	B36E0F1C	Thanks for your support.
