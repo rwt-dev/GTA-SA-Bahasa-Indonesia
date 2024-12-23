@@ -1,74 +1,22 @@
-*************************************
-*            X GXT Editor           *
-*Developed By: Xmen ( W.K. )        *
-*Version : 2.2                      *
-*************************************
+   _____  _______     __   _ _ _             
+  / _ \ \/ /__   \   /__\_| (_) |_ ___  _ __ 
+ / /_\/\  /  / /\/  /_\/ _` | | __/ _ \| '__|
+/ /_\\ /  \ / /    //_| (_| | | || (_) | |   
+\____//_/\_\\/     \__/\__,_|_|\__\___/|_|   
+                           reveal the hidden
 
-*******************************
-*  Email: xmen_xwk@yahoo.com  *
-*******************************
-
-*******************************
-* Website : www.x-squares.com *
-*******************************
-
-Date : 12th October 2011
-
-IMPORTANT
-Install .net framework 2.0 before use from following site :
-http://www.microsoft.com/downloads/details.aspx?FamilyID=0856eacb-4362-4b0d-8edd-aab15c5e04f5&displaylang=en
+Version : 2.3
+Date : 11th January 2015
 
 
-
-***********
-* Changes *
-***********
-
-Version 1.5
-
-Added Character Editor
-Added Fonts*.dat Reader
-Added Preview
-Added Import/Export Tables From/To Text Files
-Fixed Text Reading Bug(Germen chars)
-Enhanced Hash Table Creator
-Enhanced Item Editor
-Enhanced Find Engine
-
-Version 2.0
-
-Added Preview Editor
-Enhanced Characters Editor
-Enhanced Preview
-Fixed All Known Bugs
-Updated GTA IV Names Dictionary
-And More...
+Developed By: Xmen ( W.K. )
+www.x-squares.com
+xmen_xwk@yahoo.com
 
 
-Version 2.1
-
-Fast CRC Matching
-Can support all GTA 4 expansions
-
-Version 2.2
-
-Better Table Exporting
-Imporved CSE
-Improved Search(Find)
-Preview Support Colors and Current User Keys(only for GTA SA)
-Support Multiple Languages
-Removed Skin Bugs
-Added Recent Files
-Added and Fixed Other Things
-
-
-****************
-*  HOW TO USE  *
-****************
-
-Go to Help > Online Guide
-
-
+Prerequisites
+.Net Framework 2.0 :
+http://www.microsoft.com/en-US/download/details.aspx?id=1639
 
 
 Enjoy!
