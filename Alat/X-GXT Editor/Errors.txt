@@ -1,7 +1,0 @@
-11 Jan 2015 16:51:58 UTC 
-The remote name could not be resolved: 'www.x-squares.com'
-   at System.Web.Services.Protocols.WebClientAsyncResult.WaitForResponse()
-   at System.Web.Services.Protocols.WebClientProtocol.EndSend(IAsyncResult asyncResult, Object& internalAsyncState, Stream& responseStream)
-   at System.Web.Services.Protocols.SoapHttpClientProtocol.InvokeAsyncCallback(IAsyncResult result)
-
-
