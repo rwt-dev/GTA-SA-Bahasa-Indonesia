@@ -13,3 +13,4 @@ Dikembangkan Oleh: Buset Project
 ## UNUSED ASSETS
 - CESAR2.txt (Impounded Mission)
 - DSERT12.txt (The Truth is Out There)
+- DOCKCR.txt (Unnamed Crane Mission)
