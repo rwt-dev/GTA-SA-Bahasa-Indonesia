@@ -6,10 +6,10 @@
 
 A_CANC	49ACBD0A	~r~Misi paramedis dibatalkan!
 A_COMP1	3234CD61	Misi paramedis selesai: $~1~
-A_COMP2	AB3D9CDB	You will never get tired!
-A_COMP3	DC3AAC4D	~s~Kesehatan maksimum Anda telah meningkat!
+A_COMP2	AB3D9CDB	Kamu tidak akan pernah lelah!
+A_COMP3	DC3AAC4D	~s~Kesehatan maksimum Kamu telah meningkat!
 A_FAIL1	FB75C0A3	Misi paramedis dibatalkan
-A_FAIL2	627C9119	~r~Kurangnya urgensi Anda berakibat fatal bagi pasien!
+A_FAIL2	627C9119	~r~Kurangnya urgensi Kamu berakibat fatal bagi pasien!
 A_FAIL3	157BA18F	~r~Pasien sudah meninggal!!
 A_FULL	C7D43987	~s~Ambulan penuh!!
 A_PASS	E9DB3903	Diselamatkan!

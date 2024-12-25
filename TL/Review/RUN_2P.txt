@@ -1,0 +1,12 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+RUN_01	6D3BC751	2p Berlari di Sekitar
+RUN_02	F43296EB	~s~Bebas berkeliling kota.
+RUN_03	8335A67D	~r~Pemain satu tewas
+RUN_04	1D5133DE	~r~Pemain dua tewas
+RUN_05	6A560348	~r~Kedua pemain tewas
+RUN_06	F35F52F2	~s~Kamu dapat mencium pemain lain dengan berdiri di dekat mereka dan menekan ~m~~widget_phone~.

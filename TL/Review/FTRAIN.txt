@@ -1,0 +1,20 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+FREI_02	0270074E	~r~Misi pengangkutan dibatalkan!
+FREI_03	757737D8	~s~Kirim kargo ke stasiun dalam batas waktu yang ditentukan!
+FREI_04	EB13A27B	Level Misi Pengangkutan ~1~
+FREI_05	9C1492ED	+~1~ Detik
+FREI_06	051DC357	~r~Kamu melewatkan pengiriman!
+FREI_07	721AF3C1	KARGO TERKIRIM! $~1~
+FREI_10	F5655723	Jarak
+FREI_11	826267B5	Kecepatan
+FREI_12	1B6B360F	~s~Jika Kamu melaju terlalu cepat, Kamu akan tergelincir!
+FREI_13	6C6C0699	~s~Rem lebih awal atau Kamu akan melampaui batas kecepatan!
+FREI_14	F208933A	Waktu
+FREI_15	850FA3AC	Level ~1~ Selesai
+FREI_16	1C06F216	Pekerjaan serabutan pengangkutan telah berlalu. Anda dapat mengulangnya untuk mendapatkan uang tambahan.
+FREI_X	5EFDAD9B	Misi Pengangkutan
