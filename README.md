@@ -11,5 +11,5 @@ Dikembangkan Oleh: Buset Project
 ## Selesai ??/??/25
 
 ## UNUSED ASSETS
-CESAR2.txt (Impounded Mission)
-DSERT12.txt (The Truth is Out There)
+- CESAR2.txt (Impounded Mission)
+- DSERT12.txt (The Truth is Out There)
