@@ -1,0 +1,40 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	50213A75	Jalan ke bagian belakang truk dan tekan ~m~~widget_drop_item~ untuk menaruh barang.
+B_FAIL1	CA9DDA3E	Misi pencurian berakhir.
+BURG1	66E3DF7D	~s~Masuk ke ~b~truck~s~ lalu pergi dan bongkar barangnya di garasi.
+BURG2	FFEA8EC7	~s~Sekarang siang hari! Bukan saatnya untuk mencuri! Pergi dan bongkar apa yang sudah kamu curi dalam batas waktu!
+BURG20	23268D31	Gua bakal kasih lu $~1~ buat itu.
+BURG21	5421BDA7	Gua bakal kasih lu $~1~ buat semuanya.
+BURG23	BA2FDC8B	Dekati barang tersebut untuk mengambilnya.
+BURG24	244B4928	Jalan ke bagian belakang truk dan tekan ~m~~widget_drop_item~ untuk menaruh barang.
+BURG25	534C79BE	Suara
+BURG26	CA452804	~s~Pergi dan bongkar barang di ~y~garasi penyimpanan~s~.
+BURG27	BD421892	~s~Taruh barang ke ~b~truk~s~.
+BURG29	5AFA3595	~s~Pergi dan cari rumah untuk dibobol.
+BURG3	88EDBE51	WAKTU
+BURG30	3A3DBC70	~s~Cari sesuatu yang layak dicuri.
+BURG31	4D3A8CE6	~s~Go and find a house to break into, or get in the ~b~truck~s~ and go offload what you've already stashed.
+BURG36	D35E1945	~s~Muatan : ~1~ barang $~1~
+BURG37	A45929D3	TOTAL: ~1~ nilai barang $~1~
+BURG39	43E104D4	~s~Muatan : ~1~ barang $~1~
+BURG4	16892BF2	~s~Pergi dan bongkar barang di ~y~garasi penyimpanan~s~, atau cari rumah lain untuk dibobol.
+BURG40	757C2AB7	~s~Parkirkan truk ke dalam ~y~garasi penyimpanan~s~.
+BURG41	027B1A21	~r~Misi pencurian dibatalkan!
+BURG50	6C671BF6	~s~Kamu harus menghilangkan status buronan sebelum kamu dapat menurunkan barang.
+BURG51	1B602B60	UANG
+BURG52	82697ADA	SIANG HARI
+BURG53	F56E4A4C	~r~Kamu kehabisan waktu, kembali lagi malam berikutnya dan selesaikan pekerjaan itu
+BURG54	6B0ADFEF	Misi pencurian selesai: $~1~
+BURG55	1C0DEF79	~s~Kamu telah terdeteksi!
+BURG56	8504BEC3	~s~Pintu ~y~keluar~s~ ditampilkan di radar.
+BURG57	F2038E55	~s~Bawa barang itu kembali ke truk.
+BURG58	62BC93C4	~s~Kamu memiliki ~1~ detik untuk keluar dari rumah!
+BURG59	15BBA352	~s~Kamu memiliki ~1~ detik untuk keluar dari rumah!
+BURG60	474A4835	~s~Polisi sedang dalam perjalanan!
+BURG61	304D78A3	POLISI
+BURG62	A9442919	~r~Kamu tidak lagi memiliki topeng ski.
