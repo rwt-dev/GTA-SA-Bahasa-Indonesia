@@ -9,3 +9,6 @@ Dikembangkan Oleh: Buset Project
 </details>
 
 ## Selesai ??/??/25
+
+## UNUSED ASSETS
+CESAR2.txt (Impounded Mission)
