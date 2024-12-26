@@ -4,14 +4,14 @@
 
 
 
-STUNT_1	6BC13132	~s~Kamu punya ~1~ detik untuk kembali ke ~b~kendaraanmu~s~.
+STUNT_1	6BC13132	~s~Kamu punya waktu ~1~ detik untuk kembali ke ~b~kendaraanmu~s~.
 STUNT_2	F2C86088	SISA WAKTU
 STUNT_3	85CF501E	~s~+~1~ detik
 STUNT_4	1BABC5BD	~r~Kamu meninggalkan kendaraanmu.
 STUNT_5	6CACF52B	~r~Kamu menghancurkan kendaraanmu!
-STUNT_6	F5A5A491	~s~Kumpulkan semua ~r~checkpoint~s~ sebelum waktu habis.
+STUNT_6	F5A5A491	~s~Kumpulkan semua ~r~cekpoin~s~ sebelum waktu habis.
 STUNT_7	82A29407	~r~Kamu kehabisan waktu!
-STUNT_8	121D8996	~s~Kamu punya ~1~ detik untuk kembali ke ~b~kendaraanmu~s~.
+STUNT_8	121D8996	~s~Kamu punya waktu ~1~ detik untuk kembali ke ~b~kendaraanmu~s~.
 STUNTN0	4F1F22B4	MISI SELESAI!~n~~w~WAKTU TERBAIK BARU ~1~:0~1~
 STUNTPN	2CE34150	MISI SELESAI!~n~~w~WAKTU TERBAIK BARU ~1~:~1~
 STUNTPT	D181B82A	MISI SELESAI!~n~~w~WAKTU ~1~:~1~
