@@ -4,8 +4,8 @@
 
 
 
-C_BREIF	61CA6685	~r~Tersangka ~s~terakhir kali terlihat di sekitar ~a~.
-C_BREIS	0C17826E	~r~Tersangka ~s~terakhir kali terlihat di sekitar ~a~.
+C_BREIF	61CA6685	~r~Buronan ~s~terakhir kali terlihat di sekitar ~a~.
+C_BREIS	0C17826E	~r~Buronan ~s~terakhir kali terlihat di sekitar ~a~.
 C_CANC	04641C01	~r~Misi Vigilante dibatalkan!
 C_COMP1	A5ABDC48	Misi Vigilante level 12 selesai: armor maksimal meningkat menjadi 150%
 C_PASS	A4139808	ANCAMAN~n~DIHILANGKAN:~n~~w~$~1~
