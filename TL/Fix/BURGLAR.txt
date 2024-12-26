@@ -18,7 +18,7 @@ BURG27	BD421892	~s~Taruh barang ke ~b~truk~s~.
 BURG29	5AFA3595	~s~Pergi dan cari rumah untuk dibobol.
 BURG3	88EDBE51	WAKTU
 BURG30	3A3DBC70	~s~Cari sesuatu yang layak dicuri.
-BURG31	4D3A8CE6	~s~Go and find a house to break into, or get in the ~b~truck~s~ and go offload what you've already stashed.
+BURG31	4D3A8CE6	~s~Pergi dan cari rumah untuk dibobol, atau naiklah ke dalam ~b~truk~s~ dan keluarkan apa yang sudah Kamu simpan.
 BURG36	D35E1945	~s~Muatan : ~1~ barang $~1~
 BURG37	A45929D3	TOTAL: ~1~ nilai barang $~1~
 BURG39	43E104D4	~s~Muatan : ~1~ barang $~1~
