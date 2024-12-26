@@ -1,0 +1,52 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	625D51AA	Gunakan kontrol gerakan untuk memposisikan bola putih. Tekan ~m~~widget_gambling_continue~ untuk melanjutkan. Tekan ~m~~widget_minigame_cancel~ untuk keluat.
+	3B90AF45	Tekan dan tahan ~m~~widget_place_bet~ untuk menambah taruhan. Tekan dan tahan ~m~~widget_remove_bet~ untuk menurunkan taruhan. Tekan ~m~~widget_minigame_cancel~ untuk keluar.
+	E6F02C57	Geser jari kamu ke bawah pada dan lepaskan untuk menembak. Tap ~m~~widget_minigame_cancel~ to go back to aiming.
+	D59ECE69	Tekan ~m~~widget_gambling_continue~ to continue.
+	A299FEFF	Gunakan kontrol gerakan untuk mengarahkan tongkat. Tekan ~m~~widget_camera~ untuk mengubah pandangan. Tekan ~m~~widget_gambling_continue~ untuk menembak. tekan ~m~~widget_minigame_cancel~ untuk keluar.
+	0095D2E2	Tekan ~m~~widget_attack~ untuk menembak. Tekan ~m~~widget_minigame_cancel~ untuk kembali membidik.
+	1E63AF39	Tekan ~m~~widget_gambling_continue~ untuk melanjutkan.
+COMMA	D9B73CCD	~1~,
+FOUL1	4A7C0108	Pelanggaran! Melewatkan semua bola!
+FOUL2	D37550B2	Pelanggaran! Mengenai bola yang salah!
+FOUL3	A4726024	Pelanggaran! Memasukan bola putih!
+FOUL4	3A16F587	Pelanggaran! Memasukan warna yang salah!
+FOUL5	4D11C511	Pelanggaran! Mengantongi warna hitam di luar belokan!
+FOUL6	D41894AB	Pelanggaran! Tidak ada bola yang membentur rel!
+NUM	B51B121B	~1~
+PL_01	39747FE8	CJ
+PL_02	A07D2E52	Pemain 2
+PL_03	D77A1EC4	Lawan
+PL_04	491E8B67	Pelanggaran!
+PL_05	3E19BBF1	Memasukan Bola!
+PL_06	A710EA4B	Memasukan Bola!
+PL_07	D017DADD	Kamu Menang!~n~~w~$~1~
+PL_08	40A8C74C	Pemain 1 Menang!
+PL_09	37AFF7DA	Pemain 2 Menang!
+PL_10	57687E3F	~r~Kamu Kalah!~n~~w~-$~1~
+PL_11	206F4EA9	PERMAINAN SELESAI
+PL_12	B9661F13	Bola solid
+PL_13	CE612F85	Bola belang
+PL_14	5005BA26	Hitam
+PL_15	27028AB0	Open Table
+PL_16	BE0BDB0A	Scratch
+PL_17	C90CEB9C	Bola di tangan
+PL_H1	DE928C16	Tekan dan tahan ~m~~widget_place_bet~ untuk menambah taruhan. Tekan dan tahan ~m~~widget_remove_bet~ untuk mengurangi taruhan. Tekan ~m~~widget_minigame_cancel~ untuk keluar.
+PL_H3	309CED3A	Gunakan kontrol gerakan untuk mengarahkan tongkat. Tekan ~m~~widget_camera~ untuk mengubah pandangan. Tekan ~m~~widget_gambling_continue~ untuk menembak. Tekan ~m~~widget_minigame_cancel~ untuk keluar.
+PL_H4	AEF87899	Gunakan kontrol gerakan untuk mengarahkan tongkat. Gulirkar ~m~~widget_camera~ untuk mengubah pandangan. Tekan ~m~~widget_gambling_continue~ untuk menembak. Tekan ~m~~widget_minigame_cancel~ untuk keluar.
+PL_H5	D9FF480F	Tekan ~m~~widget_gambling_continue~ untuk melanjutkan.
+PL_H6	40F619B5	Seret bola putih untuk memposisikannya. Tekan ~m~~widget_gambling_continue~ untuk melanjutkan. Tekan ~m~~widget_minigame_cancel~ untuk keluar.
+PL_H8	A74E34B2	Tekan ~m~~widget_gambling_continue~ untuk melanjutkan.
+POOL_B1	40581DA2	Ayo kita taruhan sedikit.
+POOL_B2	D9514C18	Permainan biliar gak akan akan sama kalo kagak pake sedikit duit.
+POOL_B3	AE567C8E	Tunjukin ke gua warna duit lu
+POOL_B4	3032E92D	Gua cuma mempermainkan lu kalo lu pengen membuatnya menarik.
+POOL_B5	4735D9BB	Lu pengen pasang taruhan kecil?
+POOL_B6	DE3C8801	Ayo taruh uangmu di tempat yang tepat, bro.
+POOL01	AC7F9335	Lu pengen bermain biliar, pilih taruhan lu.
+SCORE	3A320A1E	Info
