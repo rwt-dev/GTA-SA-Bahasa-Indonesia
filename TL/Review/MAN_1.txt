@@ -8,7 +8,7 @@ BH1@00	A5BCF2E8	Jangan membenci pria kecil itu, karena dia membawa 6 senjata!
 BH1@01	D2BBC27E	Berikutnya.
 BH1@02	4BB293C4	Terima kasih.
 BH1@03	3CB5A352	Terima kasih? Terima kasih?!
-BH1@04	A2D136F1	Apa lu tau berapa banyak biji yang dibutuhin buat berdiri di sini?
+BH1@04	A2D136F1	Apa lu tau berapa banyak keberanian yang dibutuhin buat berdiri di sini?
 BH1@05	D5D60667	dan nyanyi lagu kaya gitu? Itu butuh keberanian!
 BH1@06	4CDF57DD	Maafin gua. Kita cuma nyari sesuatu yang sedikit lebih menarik bagi masyarakat luas.
 BH1@07	3BD8674B	Apa yang bisa lebih narik perhatian masyarakat luas daripada sebuah lagu?
@@ -26,7 +26,7 @@ BH1@18	B27C4B9B	Iya, iya, itu maksud gua.
 BH1@19	C57B7B0D	Yang gua tahu, kapan kita bakal dapetin bakat nyata di sini?
 BH1@20	978A906A	Madd Dogg!
 BH1@21	E08DA0FC	CJ! Gua sembuh, bro!
-BH1@22	7984F146	Itu berita baik, bro. Hey, what's cracking?
+BH1@22	7984F146	Itu berita baik, bro. Hei, bagaimana?
 BH1@23	0E83C1D0	Lu siap buat manggung lagi?
 BH1@24	90E75473	Kalem, CJ, ayolah. Selangkah demi selangkah, lu tahu? Gua hampir siap, tapi, tapi...
 BH1@25	E7E064E5	Tapi apa?
