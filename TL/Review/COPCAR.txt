@@ -1,0 +1,18 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+C_BREIF	61CA6685	~r~Tersangka ~s~terakhir kali terlihat di sekitar ~a~.
+C_BREIS	0C17826E	~r~Tersangka ~s~terakhir kali terlihat di sekitar ~a~.
+C_CANC	04641C01	~r~Misi Vigilante dibatalkan!
+C_COMP1	A5ABDC48	Misi Vigilante level 12 selesai: armor maksimal meningkat menjadi 150%
+C_PASS	A4139808	ANCAMAN~n~DIHILANGKAN:~n~~w~$~1~
+C_TIME	05F7D469	~r~Waktumu sebagai penegak hukum sudah berakhir!
+CLEVEL	6C6DDF20	Misi Vigilante Level ~1~
+COPCA_T	78B1FC45	~s~Kamu punya waktu ~1~ detik untuk kembali ke kendaraan polisi sebelum misi berakhir.
+COPCART	CD1F8208	~s~Kamu punya waktu ~1~ detik untuk kembali ke kendaraan polisi sebelum misi berakhir.
+COPLEVL	E57567D0	LEVEL
+COPTIME	A92892FA	WAKTU
+KILLS	27CC02EE	MEMBUNUH

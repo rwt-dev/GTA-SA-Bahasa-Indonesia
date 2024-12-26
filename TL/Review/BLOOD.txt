@@ -1,0 +1,18 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+BLOD_01	EE30D170	~s~Berkendara melalui cekpoin untuk meningkatkan waktumu secara keseluruhan.
+BLOD_02	773980CA	~s~Kamu akan kalah jika waktu keseluruhanmu mencapai nol.
+BLOD_03	003EB05C	~s~Dapatkan waktu keseluruhanmu di atas Waktu Target untuk menang!
+BLOD_04	9E5A25FF	~s~Ambil upgrade mobil untuk meningkatkan peluang Anda untuk menang.
+BLOD_05	E95D1569	~r~Kamu kehabisan waktu!
+BLOD_06	705444D3	Hasil
+BLOD_07	07537445	Waktu Terbaik Baru (menit)
+BLOD_08	97EC69D4	Mobil Hancur
+BLOD_09	E0EB5942	~1~
+BLOD_10	802CD0A7	~s~Keseluruhan waktu dimulai dari 30 detik dan dihitung mundur.
+BLOD_11	F72BE031	~s~Target Waktu saat ini untuk memenangkan Blood Ring adalah 1 menit.
+BLOD_12	6E22B18B	~s~Target Waktu saat ini untuk memenangkan Blood Ring adalah ~1~ menit.
