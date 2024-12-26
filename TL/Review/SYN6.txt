@@ -1,0 +1,20 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+SYN6_01	80D49485	~s~Toreno menaiki helikopter di ~y~landasan helikopter~s~ di dekatnya. Pergilah ke sana dan hentikan dia.
+SYN6_02	19DDC53F	~s~Pasukan Toreno memiliki ~g~persenjataan berat~s~ yang sangat lengkap. Ambil untukmu sendiri!
+SYN6_03	6EDAF5A9	~s~Helikopter sudah mengudara! Gunakan ~g~peluncur roket~s~ untuk menjatuhkannya!
+SYN6_04	F0BE600A	~s~ Ikuti ~r~helikopter~s~ itu dan jatuhkan! Gunakan segala cara yang diperlukan!
+SYN6_05	87B9509C	Kondisi Heli
+SYN6_06	1EB00126	~r~Kamu gagal menghancurkan helikopternya!
+SYN6_07	69B731B0	~s~Ini perangkap! Cegah ~r~helikopter~s~ itu untuk melarikan diri!
+SYN6_08	F9082C21	~r~Terlambat! Helikopter Toreno sudah berada di luar jangkauan sekarang!
+SYN6_09	8E0F1CB7	~s~Bagus sekali. Toreno tidak mungkin selamat dari roket itu.
+SYN6_10	EEC89552	~r~Toreno menipumu! Dia pergi dan Kamu mendapat masalah!
+SYN6_11	99CFA5C4	~s~Kejad ~r~helikopter~s~ dan pakai peluncur roket untuk menghancurkannya!
+SYN6_12	00C6F47E	~s~ ~r~helikopter~s~ Toreno mulai menjauh! Kejar!
+SYN6_13	77C1C4E8	~s~Bagus. Dekati dan tembak jatuh ~r~helikopter~s~ itu.
+SYN6_20	C5E5C691	~s~Naik ke jalan tol dan jatuhkan ~r~helikopter~s~ itu.
