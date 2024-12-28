@@ -4,7 +4,7 @@
 
 
 
-DCKCR01	1C395BB5	~s~Hentikan kapal-kapal yang membawa narkoba memasuki dermaga.
-DCKCR02	85300A0F	~s~Gunakan crane untuk melemparkan kotoran ke arah mereka.
-DCKCR03	F2373A99	Kapal dihentikan: ~1~
-DCKCR04	6C53AF3A	Mendapatkan $~1~
+DCKCR01	1C395BB5	~s~Stop the boats carrying drugs from entering the docks.
+DCKCR02	85300A0F	~s~Use the crane to fling shit at them.
+DCKCR03	F2373A99	Boats Stopped: ~1~
+DCKCR04	6C53AF3A	Earnings $~1~
