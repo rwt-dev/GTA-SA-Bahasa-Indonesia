@@ -1,15 +1,16 @@
 # Project GTA:SA Bahasa Indonesia
 Dikembangkan Oleh: Buset Project
-## Dimulai 22/12/24
-[![Status](https://badges.crowdin.net/gtasa/localized.svg)](https://crowdin.com/project/gtasa)
+
+## Status
+Dimulai 22/12/24
+![Translated - 12/127](https://img.shields.io/static/v1?label=Translated&message=12%2F127&color=red&logo=googletranslate&logoColor=blue)
+
 ## Changelog
 <details>
 <summary>V24.12.22</summary>
 
   - RAW Upload
 </details>
-
-## Selesai ??/??/25
 
 ## UNUSED ASSETS
 - CESAR2.txt (Impounded Mission)
