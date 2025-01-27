@@ -21,3 +21,4 @@ Dikembangkan Oleh: Buset Project
 ## Credit
 - DeepL
 - Meta AI
+- Google Translate
