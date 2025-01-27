@@ -1,9 +1,11 @@
+![PROGRESS](https://img.shields.io/badge/dynamic/json?label=PROGRESS&query=%24.TL.persen&url=https%3A%2F%2Fraw.githubusercontent.com%2Frwt-dev%2Fprogress%2Frefs%2Fheads%2Fmain%2Ftrack.json) ![STATUS](https://img.shields.io/badge/dynamic/json?label=STATUS&query=%24.TL.status&url=https%3A%2F%2Fraw.githubusercontent.com%2Frwt-dev%2Fprogress%2Frefs%2Fheads%2Fmain%2Ftrack.json) ![START](https://img.shields.io/badge/dynamic/json?label=DIMULAI&query=%24.TL.start&url=https%3A%2F%2Fraw.githubusercontent.com%2Frwt-dev%2Fprogress%2Frefs%2Fheads%2Fmain%2Ftrack.json)
+
 # Project GTA:SA Bahasa Indonesia
 Dikembangkan Oleh: Buset Project
 
-## Status
+## INFO
 Dimulai 22/12/24
-![Translated - 12/127](https://img.shields.io/static/v1?label=Translated&message=12%2F127&color=red&logo=googletranslate&logoColor=blue)
+
 
 ## Changelog
 <details>
