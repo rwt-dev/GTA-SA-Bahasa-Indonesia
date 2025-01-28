@@ -1,11 +1,7 @@
-![STATUS](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Frwt-dev%2Fprogress%2Frefs%2Fheads%2Fmain%2Ftrack.json&query=%24.TL.status&style=plastic&label=STATUS&labelColor=grey&color=orange) ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Frwt-dev%2Fprogress%2Frefs%2Fheads%2Fmain%2Ftrack.json&query=%24.TL.start&style=plastic&logo=status&label=DIMULAI&labelColor=grey&color=blue)
-:---:
+![START](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Frwt-dev%2Fprogress%2Frefs%2Fheads%2Fmain%2Ftrack.json&query=%24.TL.start&style=plastic&logo=status&label=DIMULAI&labelColor=grey&color=blue&cacheSeconds=86400) ![STATUS](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Frwt-dev%2Fprogress%2Frefs%2Fheads%2Fmain%2Ftrack.json&query=%24.TL.status&style=plastic&label=STATUS&labelColor=grey&color=orange&cacheSeconds=86400) ![PROGRESS](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Frwt-dev%2Fprogress%2Frefs%2Fheads%2Fmain%2Ftrack.json&query=%24.TL.persen&style=plastic&logo=status&label=PROGRESS&labelColor=grey&color=red&cacheSeconds=86400)
 
 # Project GTA:SA Bahasa Indonesia
 Dikembangkan Oleh: Buset Project
-
-## INFO
-Dimulai 22/12/24
 
 
 ## Changelog
