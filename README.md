@@ -1,7 +1,5 @@
-<p style="text-align:center;">test</p>
-
-![STATUS](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Frwt-dev%2Fprogress%2Frefs%2Fheads%2Fmain%2Ftrack.json&query=%24.TL.status&style=plastic&label=STATUS&labelColor=grey&color=orange)
-
+![STATUS](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Frwt-dev%2Fprogress%2Frefs%2Fheads%2Fmain%2Ftrack.json&query=%24.TL.status&style=plastic&label=STATUS&labelColor=grey&color=orange) ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Frwt-dev%2Fprogress%2Frefs%2Fheads%2Fmain%2Ftrack.json&query=%24.TL.start&style=plastic&logo=status&label=DIMULAI&labelColor=grey&color=blue)
+:---:
 
 # Project GTA:SA Bahasa Indonesia
 Dikembangkan Oleh: Buset Project
