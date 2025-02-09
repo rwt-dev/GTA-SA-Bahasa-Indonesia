@@ -22,3 +22,4 @@ Dikembangkan Oleh: Buset Project
 - DeepL
 - Meta AI
 - Google Translate
+- Kamus Lengkap 999 Triliun
