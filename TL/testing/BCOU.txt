@@ -1,0 +1,42 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+	3038A1A6	Tekan ~m~~widget_vehicle_shoot_left~ atau ~m~~widget_vehicle_shoot_right~ untuk melempar barang ke kiri atau kanan. Tabrak barang terakhir yang gagal dilempar untuk mengambilnya kembali.
+BCOU_10	99DF5288	~s~Lempar paket dan masukkan ke dalam ~y~penanda pengantaran~s~ agar pengiriman berhasil.
+BCOU_11	EED8621E	~r~Kamu tidak memiliki cukup barang untuk memenuhi kuota pengiriman kali ini!
+BCOU_12	77D133A4	Kerja bagus! Ayo hitung bagian keuntunganmu!
+BCOU_18	9704DABA	Pengendara Motor LA
+BCOU_19	E003EA2C	Pengendara Motor LV
+BCOU_20	B2F2014B	Pengendara Motor SF
+BCOU_21	C5F531DD	Pembayaran:
+BCOU_22	5CFC6067	Sisa Waktu
+BCOU_23	2BFB50F1	Sisa Barang
+BCOU_24	B59FC552	Total Uang
+BCOU_3	380D531F	~s~Segera lempar barang-barang itu ke dalam ~y~tanda lingkaran pengantaran~s~!
+BCOU_31	DCEE009C	Naik ke motor:
+BCOU_33	32E061B0	~r~Waktu habis!
+BCOU_34	AC84F413	Waktu
+BCOU_35	DB83C485	~r~Misi pengantaran berakhir.
+BCOU_37	358DA5A9	~s~Kamu punya waktu ~1~ detik untuk kembali ke ~b~motor~s~ atau misi ini gagal!
+BCOU_4	A669C6BC	~s~Kendarai motor keliling kota dan lempar barang ke dalam ~y~tanda lingkaran pengantaran~s~ sebelum waktu habis.
+BCOU_40	E4A8A6CD	0 dari 4 pengiriman selesai
+BCOU_41	93AF965B	1 dari 4 pengiriman selesai
+BCOU_42	0AA6C7E1	2 dari 4 pengiriman selesai
+BCOU_43	7DA1F777	3 dari 4 pengiriman selesai
+BCOU_44	E3C562D4	4 dari 4 pengiriman selesai
+BCOU_45	94C25242	5 dari 4 pengiriman selesai
+BCOU_46	0DCB03F8	6 dari 4 pengiriman selesai
+BCOU_47	7ACC336E	7 dari 4 pengiriman selesai
+BCOU_48	EA732EFF	~y~Kurir San Fierro selesai!
+BCOU_49	9D741E69	~y~Kurir Los Santos selesai!
+BCOU_5	D16EF62A	~s~Barang Terkirim! Pergi ke ~y~tanda lingkaran pengantaran~s~ lainnya dan kirim barang berikutnya.
+BCOU_50	FDB3978C	~y~Kurir Las Venturas selesai!
+BCOU_6	4867A790	~s~Semua barang terkirim! Kembali ke ~y~titik pengambilan~s~ untuk mengambil bayaranmu.
+BCOU_7	3F609706	~s~Pembayaran $~1~
+BCOU_8	AFDF8A97	barang dibawa
+BCOU_80	481DE9C1	San Fierro
+BCOU_81	3F1AD957	Los Santos
+BCOU_82	A61388ED	Las Venturas
+BCOU_83	D114B87B	Barang di Tangan
+BCOU_84	4F702DD8	Tekan ~m~~widget_vehicle_shoot_left~ atau ~m~~widget_vehicle_shoot_right~ untuk melempar barang ke kiri atau kanan. Tabrak barang terakhir yang gagal dilempar untuk mengambilnya kembali.

@@ -1,0 +1,97 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+BCE4@00	5E940F43	Hei, aku sudah menunggu selamanya, kawan. Dari mana saja kau?
+BCE4@01	29933FD5	Maaf, sobat, aku tidak tahu kapan balapannya dimulai.
+BCE4@02	B09A6E6F	Tentu saja - kau kebetulan muncul
+BCE4@03	C79D5EF9	lima menit setelah orang lain, ya?
+BCE4@04	59F9CB5A	Ketika bensin mengalir di nadimu seperti gairah yang membara,
+BCE4@05	2EFEFBCC	kau akan tahu kapan waktunya untuk balapan!
+BCE4@06	B7F7AA76	Kurasa kau terlalu banyak menghirup udara pedesaan, kawan!
+BCE4@07	C0F09AE0	Hei, CJ, lihat...
+BCE4@08	504F8771	Kau belum pernah ikut pertemuan kami sebelumnya,
+BCE4@09	2748B7E7	dari mana asalmu, teman?
+BCE4@10	478F3E02	Aku dari Grove Street Families, Los Santos. Ada apa?
+BCE4@11	30880E94	Santai. Ini bukan parade, kawan. Tapi, kau tahu, kami harus berhati-hati.
+BCE4@12	A9815F2E	Wu Zi Mu, tapi teman-temanku memanggilku 'Woozie'. Apa kabar?
+BCE4@13	DE866FB8	Apa..? CJ. Carl Johnson.
+BCE4@14	40E2FA1B	Dengar, di sini kami suka balapan demi uang atau BPKB - pilihan pembalap.
+BCE4@15	37E5CA8D	Nyalakan mobilmu, kita akan segera mulai. Semoga beruntung, Carl Johnson.
+BCE4@16	AEEC9B37	Hati-hati CJ!
+BCE4@17	D9EBABA1	Ada sesuatu yang sangat aneh tentang orang itu, kawan.
+BCE4@18	4954B630	Sial, di mana orang ini?
+BCE4@19	3E5386A6	Tentu saja, kawan.
+BCE4W00	47FDBAB6	Kau menyetir dengan gaya, Carl Johnson -
+BCE4W01	30FA8A20	dan aku tidak keberatan kalah dari orang yang berani memacu dirinya hingga batas maksimal.
+BCE4W02	A9F3DB9A	Bagiku, aku adalah orang yang menghormati taruhan.
+BCE4W03	DEF4EB0C	Yah, kau belajar dengan cepat saat polisi mengejarmu.
+BCE4W04	40907EAF	Dengar, sebaiknya kita segera pergi dari sini secepat mungkin
+BCE4W05	37974E39	karena, entah kenapa, polisi lokal tidak menghargai olahraga mulia kita.
+BCE4W06	AE9E1F83	Ya. Terima kasih atas sarannya.
+BCE4W07	D9992F15	Oke, aku harus pergi.
+BCE4W08	49263284	Uh, kau tahu? Jika kau pernah berada di San Fierro, hubungi aku,
+BCE4W09	3E210212	mungkin kita bisa melakukan bisnis bersama.
+BCE4W10	5EE68BF7	Ya, mungkin aku akan melakukannya.
+BCE4W11	29E1BB61	Kurasa itu peringatan untuk kita. Senang bertemu denganmu.
+BCE4W12	B0E8EADB	Oooh, ya!
+BCE5@00	E6286826	Sial, sekarang apa lagi?
+BCE5@01	912F58B0	BABI!
+BCE5@02	0826090A	Apa? Apa lagi yang kulakukan sekarang?
+BCE5@03	7F21399C	Oh, jadi DI SINI kau berada, eh?
+BCE5@04	E145AC3F	Begini caramu membalas kelembutanku!
+BCE5@05	96429CA9	Kau lebih suka lekukan mobil daripada lekukan wanita sungguhan?
+BCE5@06	0F4BCD13	Dengar, Catalina, kau yang membatalkannya, ingat, 'hanya bisnis'.
+BCE5@07	784CFD85	Pria macam apa kau ini?
+BCE5@08	E8F3E014	Saat aku bilang 'hanya bisnis', itu artinya aku mencintaimu!
+BCE5@09	9FF4D082	Saat aku bilang aku tidak tertarik lagi, itu artinya aku merindukanmu!
+BCE5@10	FF335967	Tunggu, Catalina, tunggu! Jangan sentuh mobilku,
+BCE5@11	883469F1	Aku melakukan ini untuk kita, untukku dan untukmu!
+BCE5@12	113D384B	Sudah terlambat. Aku tidak mencintaimu lagi. Aku cinta yang lain, oke?
+BCE5@13	663A08DD	Apa?
+BCE5@14	F85E9D7E	Lalu apa maksud semua ini?
+BCE5@15	8F59ADE8	Aku tidak bisa menahan gairahku, mereka butuh pelampiasan.
+BCE5@16	1650FC52	Itu tadi pelampiasan yang bagus,
+BCE5@17	6157CCC4	seperti memukul pria dengan penggorengan saat dia tidur.
+BCE5@18	F1E8D155	Ini, CARL, INI pria baruku.
+BCE5@19	86EFE1C3	Kau cemburu? Kau mau bertarung demi aku?
+BCE5@20	D41E0AA4	Tidak, tidak, aku bisa menerima penolakan.
+BCE5@21	A3193A32	Kau cemburu dan pengecut!
+BCE5@22	3A106B88	Sekarang ayo balapan!
+BCE5@23	4D175B1E	Wanita gila.
+BCE5@24	D373CEBD	Apa-apaan ini?
+BCE5@25	A474FE2B	Tunggu! Hei, itu punyaku...
+BCE5@26	3D7DAF91	Dan saat aku bilang aku merindukanmu..!
+BCE5W00	FF41DDD3	Kau punya keuntungan yang tidak adil!
+BCE5W01	8846ED45	Menjadi pengemudi yang lebih baik bukanlah keuntungan yang tidak adil.
+BCE5W02	114FBCFF	Kau pikir kau pintar, tapi kaulah yang tidak mengerti intinya!
+BCE5W03	66488C69	Bukan saja dia balapan, tapi dia memuaskanku sepenuhnya!
+BCE5W04	F82C19CA	Keunggulan dari mobil manual, kurasa.
+BCE5W05	8F2B295C	Ya terserahlah, pokoknya, apa pilihannya, uang atau BPKB?
+BCE5W06	162278E6	Ini dia!
+BCE5W07	61254870	Selamat tinggal Tuan Johnson, aku TIDAK akan merindukanmu!
+BCE5W08	F19A55E1	Hei, tunggu sebentar, jalang! Apa-apaan ini?
+BCE5W09	869D6577	Sertifikat sebuah bengkel di San Fierro.
+BCE5W10	E65AEC92	Kekasihku butuh mobilnya agar kami bisa pergi ke Liberty City.
+BCE5W11	915DDC04	Liberty City? Ya, terserahlah, selamat bersenang-senang.
+BCE5W12	08548DBE	Tentu saja.
+BCE5W13	7F53BD28	Bagus.
+BCE5W14	E137288B	OKE.
+BCE5W15	9630181D	SELAMAT TINGGAL!
+BCE5W16	0F3949A7	Apa yang akan kau katakan tentang itu?
+BCE5W17	783E7931	Pergi sana, aku tidak akan merindukanmu.
+BCS5_AA	0FD4E754	Oh, Claude, kau sangat besar dan jantan!
+BCS5_AB	96DDB6EE	Claude, kau pengemudi terbaik yang pernah meniduriku!
+BCS5_AC	E1DA8678	Tangan tetap di kemudi, Claude, tetap di kemudi!
+BCS5_AD	7FBE13DB	Oh Claude, ini lebih besar dari tuas persneling!
+BCS5_AE	08B9234D	Aku tidak pernah merasa sepuas ini!
+BCS5_AF	91B072F7	Lima kali orgasme dalam beberapa menit saja!
+BCS5_AG	E6B74261	Nikahi aku, Claude, nikahi aku!
+BCS5_AH	76085FF0	Oh Claude, aku tidak tahu apakah aku cukup wanita untukmu!
+BCS5_BA	24F9B497	Hei, Carl, kau menyetir seperti unta mabuk!
+BCS5_BB	BDF0E52D	Carl, kau cemburu, ya?
+BCS5_BC	CAF7D5BB	Claude sangat kekar, dia LUAR BIASA!
+BCS5_BD	54934018	Claude akan membuatmu merasa tidak sebanding!
+BCS5_BE	2394708E	Akhirnya aku menemukan pria yang bisa memuaskanku!
+BCS5_BF	BA9D2134	Claude sangat jantan, sangat PERKASA!
+BCS5_BG	CD9A11A2	Aku tidak pernah tahu ada hal LEBIH dalam seks!

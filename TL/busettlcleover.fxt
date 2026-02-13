@@ -1,0 +1,174 @@
+#AMBULAE
+A_CANC	~r~Misi paramedis dibatalkan!
+A_COMP1	Misi paramedis selesai: $~1~
+A_COMP2	Kamu tidak akan pernah lelah!
+A_COMP3	~s~Kesehatan maksimum Kamu telah meningkat!
+A_FAIL1	Misi paramedis dibatalkan
+A_FAIL2	~r~Kurangnya urgensi Kamu berakibat fatal bagi pasien!
+A_FAIL3	~r~Pasien sudah meninggal!!
+A_FULL	~s~Ambulan penuh!!
+A_PASS	Diselamatkan!
+A_SAVES	DISELAMATKAN: ~1~
+ALEV	LEVEL
+ALEVEL	Level Misi Paramedis ~1~
+AMBSEAT	KURSI KOSONG
+AMBTIME	WAKTU TERSIA
+ATUTOR2	~s~Antarkan ~b~pasien~s~ ke ~y~Rumah Sakit~s~ dengan HATI-HATI. Setiap benturan akan mengurangi peluang mereka untuk bertahan hidup.
+#BCESAR2
+BCE2@00	Hei Carl.
+BCE2@01	Apa kabar, sis?
+BCE2@02	Lebih baik. Terima kasih. Kau sudah membantuku.
+BCE2@03	Ini belum selesai, kawan. Aku melakukan ini demi wanitaku.
+BCE2@04	Tapi sekarang aku akan langsung pulang ke rumah,
+BCE2@05	dan aku akan menghabisi para pengedar narkoba sialan itu!
+BCE2@06	Hei dengar, kalau kau masuk ke barrio dengan omong kosong sok jagoan itu,
+BCE2@07	kau bakal mati tercabik-cabik.
+BCE2@08	Dan aku tidak mau kehilanganmu hanya karena aksi macho yang konyol!
+BCE2@09	Hei, santai saja.
+BCE2@10	Semuanya akan diurus saat waktunya tiba.
+BCE2@11	Kita sudah tahu siapa bajingan yang sebenarnya,
+BCE2@12	saudaramu dari Grove Street yang busuk itu, Smoke,
+BCE2@13	dan polisi-polisi kotor itu, Tenpenny dan Pulaski!
+BCE2@14	Smoke itu pengedar, kawan!
+BCE2@15	Tidak, tidak mungkin Smoke. Dia mungkin berurusan dengan C.R.A.S.H,
+BCE2@16	tapi dia tidak bermain dengan kokain.
+BCE2@17	Ayolah, CJ! Menurutmu bagaimana dia bisa punya rumah baru itu, hah?
+BCE2@18	Lupakan omong kosong setiamu pada Grove itu dan lihatlah sekelilingmu.
+BCE2@19	Kabar yang beredar di jalanan adalah dua kali seminggu,
+BCE2@20	Smoke mengirim mobil ke San Fierro,
+BCE2@21	dan bagasinya kembali dalam keadaan penuh dengan barang putih itu.
+BCE2@22	Sial. Aku harus mengawasi jalan raya menuju San Fierro.
+BCE2@23	Mungkin aku akan menemukan sesuatu.
+BCE2@24	Tunggu saja... Tetaplah bersembunyi dan aku akan kembali.
+#BCESAR4
+BCE4@00	Hei, aku sudah menunggu selamanya, kawan. Dari mana saja kau?
+BCE4@01	Maaf, sobat, aku tidak tahu kapan balapannya dimulai.
+BCE4@02	Tentu saja - kau kebetulan muncul
+BCE4@03	lima menit setelah orang lain, ya?
+BCE4@04	Ketika bensin mengalir di nadimu seperti gairah yang membara,
+BCE4@05	kau akan tahu kapan waktunya untuk balapan!
+BCE4@06	Kurasa kau terlalu banyak menghirup udara pedesaan, kawan!
+BCE4@07	Hei, CJ, lihat...
+BCE4@08	Kau belum pernah ikut pertemuan kami sebelumnya,
+BCE4@09	dari mana asalmu, teman?
+BCE4@10	Aku dari Grove Street Families, Los Santos. Ada apa?
+BCE4@11	Santai. Ini bukan parade, kawan. Tapi, kau tahu, kami harus berhati-hati.
+BCE4@12	Wu Zi Mu, tapi teman-temanku memanggilku 'Woozie'. Apa kabar?
+BCE4@13	Apa..? CJ. Carl Johnson.
+BCE4@14	Dengar, di sini kami suka balapan demi uang atau BPKB - pilihan pembalap.
+BCE4@15	Nyalakan mobilmu, kita akan segera mulai. Semoga beruntung, Carl Johnson.
+BCE4@16	Hati-hati CJ!
+BCE4@17	Ada sesuatu yang sangat aneh tentang orang itu, kawan.
+BCE4@18	Sial, di mana orang ini?
+BCE4@19	Tentu saja, kawan.
+BCE4W00	Kau menyetir dengan gaya, Carl Johnson -
+BCE4W01	dan aku tidak keberatan kalah dari orang yang berani memacu dirinya hingga batas maksimal.
+BCE4W02	Bagiku, aku adalah orang yang menghormati taruhan.
+BCE4W03	Yah, kau belajar dengan cepat saat polisi mengejarmu.
+BCE4W04	Dengar, sebaiknya kita segera pergi dari sini secepat mungkin
+BCE4W05	karena, entah kenapa, polisi lokal tidak menghargai olahraga mulia kita.
+BCE4W06	Ya. Terima kasih atas sarannya.
+BCE4W07	Oke, aku harus pergi.
+BCE4W08	Uh, kau tahu? Jika kau pernah berada di San Fierro, hubungi aku,
+BCE4W09	mungkin kita bisa melakukan bisnis bersama.
+BCE4W10	Ya, mungkin aku akan melakukannya.
+BCE4W11	Kurasa itu peringatan untuk kita. Senang bertemu denganmu.
+BCE4W12	Oooh, ya!
+BCE5@00	Sial, sekarang apa lagi?
+BCE5@01	BABI!
+BCE5@02	Apa? Apa lagi yang kulakukan sekarang?
+BCE5@03	Oh, jadi DI SINI kau berada, eh?
+BCE5@04	Begini caramu membalas kelembutanku!
+BCE5@05	Kau lebih suka lekukan mobil daripada lekukan wanita sungguhan?
+BCE5@06	Dengar, Catalina, kau yang membatalkannya, ingat, 'hanya bisnis'.
+BCE5@07	Pria macam apa kau ini?
+BCE5@08	Saat aku bilang 'hanya bisnis', itu artinya aku mencintaimu!
+BCE5@09	Saat aku bilang aku tidak tertarik lagi, itu artinya aku merindukanmu!
+BCE5@10	Tunggu, Catalina, tunggu! Jangan sentuh mobilku,
+BCE5@11	Aku melakukan ini untuk kita, untukku dan untukmu!
+BCE5@12	Sudah terlambat. Aku tidak mencintaimu lagi. Aku cinta yang lain, oke?
+BCE5@13	Apa?
+BCE5@14	Lalu apa maksud semua ini?
+BCE5@15	Aku tidak bisa menahan gairahku, mereka butuh pelampiasan.
+BCE5@16	Itu tadi pelampiasan yang bagus,
+BCE5@17	seperti memukul pria dengan penggorengan saat dia tidur.
+BCE5@18	Ini, CARL, INI pria baruku.
+BCE5@19	Kau cemburu? Kau mau bertarung demi aku?
+BCE5@20	Tidak, tidak, aku bisa menerima penolakan.
+BCE5@21	Kau cemburu dan pengecut!
+BCE5@22	Sekarang ayo balapan!
+BCE5@23	Wanita gila.
+BCE5@24	Apa-apaan ini?
+BCE5@25	Tunggu! Hei, itu punyaku...
+BCE5@26	Dan saat aku bilang aku merindukanmu..!
+BCE5W00	Kau punya keuntungan yang tidak adil!
+BCE5W01	Menjadi pengemudi yang lebih baik bukanlah keuntungan yang tidak adil.
+BCE5W02	Kau pikir kau pintar, tapi kaulah yang tidak mengerti intinya!
+BCE5W03	Bukan saja dia balapan, tapi dia memuaskanku sepenuhnya!
+BCE5W04	Keunggulan dari mobil manual, kurasa.
+BCE5W05	Ya terserahlah, pokoknya, apa pilihannya, uang atau BPKB?
+BCE5W06	Ini dia!
+BCE5W07	Selamat tinggal Tuan Johnson, aku TIDAK akan merindukanmu!
+BCE5W08	Hei, tunggu sebentar, jalang! Apa-apaan ini?
+BCE5W09	Sertifikat sebuah bengkel di San Fierro.
+BCE5W10	Kekasihku butuh mobilnya agar kami bisa pergi ke Liberty City.
+BCE5W11	Liberty City? Ya, terserahlah, selamat bersenang-senang.
+BCE5W12	Tentu saja.
+BCE5W13	Bagus.
+BCE5W14	OKE.
+BCE5W15	SELAMAT TINGGAL!
+BCE5W16	Apa yang akan kau katakan tentang itu?
+BCE5W17	Pergi sana, aku tidak akan merindukanmu.
+BCS5_AA	Oh, Claude, kau sangat besar dan jantan!
+BCS5_AB	Claude, kau pengemudi terbaik yang pernah meniduriku!
+BCS5_AC	Tangan tetap di kemudi, Claude, tetap di kemudi!
+BCS5_AD	Oh Claude, ini lebih besar dari tuas persneling!
+BCS5_AE	Aku tidak pernah merasa sepuas ini!
+BCS5_AF	Lima kali orgasme dalam beberapa menit saja!
+BCS5_AG	Nikahi aku, Claude, nikahi aku!
+BCS5_AH	Oh Claude, aku tidak tahu apakah aku cukup wanita untukmu!
+BCS5_BA	Hei, Carl, kau menyetir seperti unta mabuk!
+BCS5_BB	Carl, kau cemburu, ya?
+BCS5_BC	Claude sangat kekar, dia LUAR BIASA!
+BCS5_BD	Claude akan membuatmu merasa tidak sebanding!
+BCS5_BE	Akhirnya aku menemukan pria yang bisa memuaskanku!
+BCS5_BF	Claude sangat jantan, sangat PERKASA!
+BCS5_BG	Aku tidak pernah tahu ada hal LEBIH dalam seks!
+#BCOU
+BCOU_10	~s~Lempar paket dan masukkan ke dalam ~y~penanda pengantaran~s~ agar pengiriman berhasil.
+BCOU_11	~r~Anda tidak memiliki cukup barang untuk memenuhi kuota pengiriman kali ini!
+BCOU_12	Kerja bagus! Ayo hitung bagian keuntunganmu!
+BCOU_18	Pengendara Motor LA
+BCOU_19	Pengendara Motor LV
+BCOU_20	Pengendara Motor SF
+BCOU_21	Pembayaran:
+BCOU_22	Sisa Waktu
+BCOU_23	Sisa Barang
+BCOU_24	Total Uang
+BCOU_3	~s~Segera lempar barang-barang itu ke dalam ~y~tanda lingkaran pengantaran~s~!
+BCOU_31	Naik ke motor:
+BCOU_33	~r~Waktu habis!
+BCOU_34	Waktu
+BCOU_35	~r~Misi pengantaran berakhir.
+BCOU_37	~s~Anda punya waktu ~1~ detik untuk kembali ke ~b~motor~s~ atau misi ini gagal!
+BCOU_4	~s~Kendarai motor keliling kota dan lempar barang ke dalam ~y~tanda lingkaran pengantaran~s~ sebelum waktu habis.
+BCOU_40	0 dari 4 pengiriman selesai
+BCOU_41	1 dari 4 pengiriman selesai
+BCOU_42	2 dari 4 pengiriman selesai
+BCOU_43	3 dari 4 pengiriman selesai
+BCOU_44	4 dari 4 pengiriman selesai
+BCOU_45	5 dari 4 pengiriman selesai
+BCOU_46	6 dari 4 pengiriman selesai
+BCOU_47	7 dari 4 pengiriman selesai
+BCOU_48	~y~Kurir San Fierro selesai!
+BCOU_49	~y~Kurir Los Santos selesai!
+BCOU_5	~s~Barang Terkirim! Pergi ke ~y~tanda lingkaran pengantaran~s~ lainnya dan kirim barang berikutnya.
+BCOU_50	~y~Kurir Las Venturas selesai!
+BCOU_6	~s~Semua barang terkirim! Kembali ke ~y~titik pengambilan~s~ untuk mengambil bayaranmu.
+BCOU_7	~s~Pembayaran $~1~
+BCOU_8	barang dibawa
+BCOU_80	San Fierro
+BCOU_81	Los Santos
+BCOU_82	Las Venturas
+BCOU_83	Barang di Tangan
+BCOU_84	Tekan ~m~~widget_vehicle_shoot_left~ atau ~m~~widget_vehicle_shoot_right~ untuk melempar barang ke kiri atau kanan. Tabrak barang terakhir yang gagal dilempar untuk mengambilnya kembali.

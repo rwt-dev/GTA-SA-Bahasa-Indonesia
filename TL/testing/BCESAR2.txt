@@ -1,0 +1,29 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+BCE2@00	7BFF509F	Hei Carl.
+BCE2@01	0CF86009	Apa kabar, sis?
+BCE2@02	95F131B3	Lebih baik. Terima kasih. Kau sudah membantuku.
+BCE2@03	E2F60125	Ini belum selesai, kawan. Aku melakukan ini demi wanitaku.
+BCE2@04	7C929486	Tapi sekarang aku akan langsung pulang ke rumah,
+BCE2@05	0B95A410	dan aku akan menghabisi para pengedar narkoba sialan itu!
+BCE2@06	929CF5AA	Hei dengar, kalau kau masuk ke barrio dengan omong kosong sok jagoan itu,
+BCE2@07	E59BC53C	kau bakal mati tercabik-cabik.
+BCE2@08	7524D8AD	Dan aku tidak mau kehilanganmu hanya karena aksi macho yang konyol!
+BCE2@09	0223E83B	Hei, santai saja.
+BCE2@10	62E461DE	Semuanya akan diurus saat waktunya tiba.
+BCE2@11	15E35148	Kita sudah tahu siapa bajingan yang sebenarnya,
+BCE2@12	8CEA00F2	saudaramu dari Grove Street yang busuk itu, Smoke,
+BCE2@13	FBED3064	dan polisi-polisi kotor itu, Tenpenny dan Pulaski!
+BCE2@14	6589A5C7	Smoke itu pengedar, kawan!
+BCE2@15	128E9551	Tidak, tidak mungkin Smoke. Dia mungkin berurusan dengan C.R.A.S.H,
+BCE2@16	8B87C4EB	tapi dia tidak bermain dengan kokain.
+BCE2@17	FC80F47D	Ayolah, CJ! Menurutmu bagaimana dia bisa punya rumah baru itu, hah?
+BCE2@18	6C3FE9EC	Lupakan omong kosong setiamu pada Grove itu dan lihatlah sekelilingmu.
+BCE2@19	1B38D97A	Kabar yang beredar di jalanan adalah dua kali seminggu,
+BCE2@20	49C9321D	Smoke mengirim mobil ke San Fierro,
+BCE2@21	3ECE028B	dan bagasinya kembali dalam keadaan penuh dengan barang putih itu.
+BCE2@22	A7C75331	Sial. Aku harus mengawasi jalan raya menuju San Fierro.
+BCE2@23	D0C063A7	Mungkin aku akan menemukan sesuatu.
+BCE2@24	4EA4F604	Tunggu saja... Tetaplah bersembunyi dan aku akan kembali.
