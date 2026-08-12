@@ -1,0 +1,61 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+GAR2_01	D6B2417A	~s~Scare off the construction firm.
+GAR2_02	4FBB10C0	~s~Destroy all the ~g~portables~s~ and kill the foreman.
+GAR2_05	D1DF8563	~s~Construction machinery will help destroy ~g~portables~s~.
+GAR2_06	48D6D4D9	Flush.....
+GAR2_10	B8AE40AD	~s~Bury the ~r~foreman~s~ and his toilet.
+GAR2_11	CFA9703B	~s~Push the ~r~mobile toilet~s~ into the ditch.
+GAR2_12	56A02181	~s~Then bury him under concrete.
+GAR2_13	21A71117	~s~Back a cement mixer into position in front of the hole.
+GAR2_14	BFC384B4	~s~Straighten up and back the cement truck towards the hole.
+GAR2_19	C172F809	~s~Destroy all the ~g~portables~s~. You will need a bulldozer.
+GAR2_20	9383136E	~s~You need a cement truck!
+GAR2_29	EA5FABCA	~s~There are 5 ~g~portables~s~ left to destroy.
+GAR2_30	8A98222F	~s~There are 4 ~g~portables~s~ left to destroy.
+GAR2_31	FD9F12B9	~s~There are 3 ~g~portables~s~ left to destroy.
+GAR2_32	64964303	~s~There are 2 ~g~portables~s~ left to destroy.
+GAR2_33	13917395	~s~There is 1 ~g~portable~s~ left to destroy.
+GAR2_34	8DF5E636	~s~Hurry up! The cops will be here soon!
+GAR2_35	FAF2D6A0	~r~You took too long to bury the foreman.
+GAR2_36	63FB871A	~s~Get in a ~b~cement truck~s~.
+GAR2_37	14FCB78C	~s~Back into position in front of the ~y~hole~s~.
+GAR2_38	8443AA1D	~s~Keep ramming it!
+GAR2_39	F3449A8B	~s~Other heavy vehicles can destroy the ~g~portables~s~.
+GAR2_40	C5D9B4E8	~r~You took too long. The cops are on to you!
+GAR2_41	B2DE847E	~s~Destroy all the ~g~portables~s~ before the cops arrive!
+GAR2_42	2BD7D5C4	Be careful to avoid explosive barrels!
+GAR2_AA	B09378F1	What's all that damned clatter?
+GAR2_AB	299A294B	Holy crap! I didn't see nothing!
+GAR2_AC	5E9D19DD	Oh God, no!
+GAR2_AD	C0F98C7E	Oh god! Argh, I'm gonna barf!
+GAR2_AE	B7FEBCE8	Oh, my suit, it's ruined!
+GAR2_AF	2EF7ED52	Oh God the stench!
+GAR2_AG	59F0DDC4	Please, somebody help!
+GAR2_AH	C94FC055	I'm gonna throw - huurrgghh!
+GAR2_AJ	2741A179	Oh, my own shit!
+GAR2_AK	504691EF	Shouldn't have had that goddam curry!
+GAR2_AL	CE22044C	Oh God, is that corn?
+GAR2_AM	B92534DA	Urgh, it's all in my mouth!
+GAR2_BA	9BBE2B32	Hey, where's your hard hat?
+GAR2_BB	02B77A88	Are you supposed to be here?
+GAR2_BC	75B04A1E	Hey, this site is dangerous!
+GAR2_CA	82A51A73	Stop where you are!
+GAR2_DB	54EDDD0E	Step away from the toilet!
+GAR2_EC	3AF1DCD9	That's enough!
+GAR3A00	0FB198F3	Hey, homies!
+GAR3A01	78B6A865	What up, Carl?
+GAR3A02	E1BFF9DF	What the fuck is going on?
+GAR3A03	96B8C949	Do I look like a hooker to you?
+GAR3A04	08DC5CEA	What?
+GAR3A05	7FDB6C7C	Those assholes keep saying shit to me!
+GAR3A06	E6D23DC6	Who said this to you?
+GAR3A07	91D50D50	The construction workers up that hill.
+GAR3A08	016A10C1	No, hold up, I got this. I need to go and teach them a little respect, huh?
+GAR3A09	766D2057	I been thinking about getting me some new land anyway.
+GAR3A10	16AAA9B2	I'm gonna fuck them up...
+GAR3A11	61AD9924	That's right.

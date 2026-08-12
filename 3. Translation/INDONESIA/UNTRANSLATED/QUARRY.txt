@@ -1,0 +1,77 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	916640AB	You are competing against your own best time. Press ~m~~widget_mission_cancel~ to skip this mission.
+QUAR_00	219A82C4	~s~A cop has been killed. Use the ~b~bulldozer~s~ in the quarry to get rid of the body before more cops come snooping.
+QUAR_01	569DB252	~s~Get into the ~b~bulldozer~s~.
+QUAR_02	CF94E3E8	~s~Push the ~g~body~s~ and the ~g~bike~s~ towards the crane ~y~pick up area~s~.
+QUAR_03	B893D37E	~s~Now get the ~g~body~s~.
+QUAR_04	26F746DD	~s~Now get the ~g~cop's bike~s~.
+QUAR_05	51F0764B	~s~Get into the ~y~crane.
+QUAR_06	C8F927F1	~s~Use the crane to load the body and the bike into the back of the ~b~dumper truck~s~.
+QUAR_07	BFFE1767	~s~Get into the ~b~dumper~s~.
+QUAR_08	2F410AF6	~s~Drive carefully up to the ~y~quarry entrance~s~.
+QUAR_09	58463A60	~s~Dump the body and the bike in the ~y~water~s~.
+QUAR_11	4F868313	~s~Use the ~b~bulldozer~s~ to clear the paths before the next delivery arrives.
+QUAR_12	D68FD2A9	~s~Clear a path by pushing the ~g~rocks~s~ over the edge into the markers.
+QUAR_13	A188E23F	~s~~1~ rocks cleared. ~1~ to go.
+QUAR_14	3FEC779C	~s~~1~ rock cleared. ~1~ to go.
+QUAR_15	48EB470A	~s~Bombs have been planted by a rival organization. Use the ~b~bulldozer~s~ to push the bombs to safe area markers.
+QUAR_16	D1E216B0	~s~The first ~g~bomb~s~ is behind the site office. Push it to ~y~safety~s~.
+QUAR_17	A6E52626	~s~There's a ~g~bomb~s~ beside the crane. Make it ~y~safe~s~.
+QUAR_18	365A3BB7	~s~The next ~g~bomb~s~ is at the grinder. Push it to the ~y~safe area~s~.
+QUAR_19	415D0B21	~s~The last ~g~bomb~s~ is between the crushers. Move out of the blast radius when you've made it ~y~safe~s~.
+QUAR_20	13ACE046	~s~Move out of the bomb's blast radius.
+QUAR_21	64ABD0D0	~s~Move the ~g~bomb~s~ to the alternative ~y~safe area~s~.
+QUAR_22	FDA2816A	~s~The bombers have been caught. Their bodies are loaded on a ~b~dumper~s~ at the quarry's ~y~other entrance~s~. Dump them before the cops come snooping.
+QUAR_23	8AA5B1FC	~s~Take the bodies to the quarry ~y~main entrance~s~.
+QUAR_24	14C1245F	~s~Follow the tracks down to the quarry floor and burn the bodies in the ~y~fire~s~.
+QUAR_25	63C614C9	~s~The ~b~dumper~s~ is loaded with explosives and needs to be driven gently. Deliver the explosives to the ~y~desert airstrip~s~ then return to the Quarry.
+QUAR_26	FACF4573	~s~Drop the barrels. The soft sand will prevent an explosion.
+QUAR_27	8DC875E5	~s~Return to the ~y~Quarry~s~.
+QUAR_28	1D776874	~s~A dumper has spilled it's load of explosives all along the train tracks. Use the ~b~bulldozer~s~ to clear them before the next train passes.
+QUAR_29	6A7058E2	~s~The ~b~train~s~ is approaching.
+QUAR_30	0AB7D107	~s~Thieves have stolen equipment and are escaping in a ~r~dumper~s~. Use this ~b~dumper~s~ to destroy it.
+QUAR_31	7DB0E191	~s~The ~r~thieves~s~ are getting too far away.
+QUAR_32	E4B9B02B	~s~The bombers are escaping in a ~r~dumper~s~. Use this ~b~dumper~s~ to destroy it before they reach safety.
+QUAR_33	93BE80BD	~s~The ~r~bombers~s~ are getting too far away.
+QUAR_34	0DDA151E	The last ~g~bomb~s~ is between the crushers. Move it to ~y~safety~s~.
+QUAR_35	7ADD2588	~s~Get back in the ~b~bulldozer~s~.
+QUAR_36	E3D47432	~s~Get back in the ~b~dumper truck~s~.
+QUAR_37	94D344A4	~s~Return to the site office to start the next mission.
+QUAR_38	046C5935	~s~The ~b~dumper~s~ is loaded with explosives and needs to be driven gently. Deliver the explosives to the ~y~desert airstrip~s~.
+QUAR_D1	1DCE0EA0	Cops
+QUAR_D2	84C75F1A	Delivery
+QUAR_D3	F3C06F8C	Explode
+QUAR_D4	6DA4FA2F	Deadline
+QUAR_D5	1AA3CAB9	Train
+QUAR_D6	83AA9B03	Damage
+QUAR_F0	58FF5CB4	~r~Missed deadline.
+QUAR_F1	2FF86C22	~r~Dozer destroyed.
+QUAR_F2	B6F13D98	~r~Dumper destroyed.
+QUAR_F3	C1F60D0E	~r~You dropped your load!
+QUAR_F4	5F9298AD	~r~The cops have arrived.
+QUAR_F5	2895A83B	~r~The delivery trucks have arrived.
+QUAR_F6	B19CF981	~r~The bomb exploded.
+QUAR_F7	C69BC917	~r~Too close.
+QUAR_F8	5624D486	~r~You've dropped the bodies.
+QUAR_F9	2123E410	~r~The barrels have exploded.
+QUAR_FA	7FFD1D1E	~r~Explosives on track.
+QUAR_FB	E6F44CA4	~r~Train destroyed.
+QUAR_FC	91F37C32	~r~Too far away.
+QUAR_FD	0F97E991	~r~Bombers reached safety.
+QUAR_H1	B17B41AC	Press ~m~~widget_auto_hydraulics~ to raise and lower the Dumper's loader.
+QUAR_H2	28721016	You are competing against your own best time. Tap ~m~~widget_mission_cancel~ to skip this mission.
+QUAR_H3	5F752080	The dumper truck and bulldozer will now always be available in the quarry.
+QUAR_H4	C111B523	Don't let the Dumper Truck follow the bike and the body into the water.
+QUAR_P1	3360D9F5	~s~You have completed your first quarry mission. Return to the site office for more.
+QUAR_P2	AA69884F	Quarry Complete!
+QUAR_P3	DD6EB8D9	~s~You have completed all the quarry missions.
+QUAR_P4	430A2D7A	~s~~1~ quarry missions complete.
+QUAR_P5	340D1DEC	~s~You equaled your best time!
+QUAR_P6	AD044C56	~s~You set a new best time - ~1~m ~1~s. The quarry missions have now been completed in ~1~m ~1~s.
+QUAR_P7	DA037CC0	~s~Quarry missions complete in ~1~m ~1~s. In future missions you will be competing against your own best times.
+SKIPPED	1BDC0CE7	SKIPPED!

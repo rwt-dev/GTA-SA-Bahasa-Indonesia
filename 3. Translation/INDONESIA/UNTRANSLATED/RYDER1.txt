@@ -1,0 +1,145 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	EDC6CDE0	Press ~m~~widget_explicit_crouch~ to crouch and sneak around the house quietly.
+	0BA33355	Double tap the lower left corner of the screen to crouch and sneak around the house quietly.
+GUNS1_5	CF3EBE49	Noise
+GUNS1_6	5637EFF3	ZZZZZZzzzzZZ
+GUNS1_7	2130DF65	Hhhhrrummphh
+GUNS111	332D3C79	I heard you for sure that time, I'm phoning the cops!
+GUNS122	81093E00	~r~The truck has been destroyed!
+GUNS123	F60E0E96	~s~You got too much heat on you. Lose the cops.
+GUNS124	686A9B35	~s~Get safely back to the ~y~lockup~s~.
+GUNS125	1F6DABA3	~r~Ryder's dead!
+GUNS128	61DCD71E	~s~You left the ~b~truck~s~! Get back to it!
+GUNS130	761C6E6D	~s~Park the truck near the ~y~house~s~ and get the guns before daylight.
+GUNS134	7171AA74	~s~You're making too much noise, you have to sneak!
+GUNS135	06769AE2	As I was saying....
+GUNS143	A054A910	~s~You've left ~b~Ryder~s~ behind go and get him.
+GUNS146	D03E5D9F	~s~Take the guns back to the truck.
+GUNS147	A7396D09	~s~Go and fetch another crate.
+RYD1_1	675A5B76	~s~Do not run or you will be caught.
+RYD1_2	FE530ACC	Find a ~g~crate~s~, or get in the ~b~truck~s~ and go offload what you've already stashed.
+RYD1_30	ADEEDC7C	Walk over to the truck to drop the item.
+RYD1_32	43E0BD50	~r~There aren't enough guns left to fill the truck!
+RYD1_34	AA831865	~s~Park the truck inside the ~y~lockup~s~.
+RYD1_35	DD8428F3	~r~You've waited too long to get to the house, it's no longer night time!
+RYD1_36	448D7949	Morning already.. wait a minute something doesn't feel right here!
+RYD1_37	338A49DF	~r~You no longer have the ski mask.
+RYD1_39	D43264D8	Enter the ~y~house~s~.
+RYD1_40	E2AF4ABB	Find a ~g~crate~s~.
+RYD1_41	95A87A2D	DAYLIGHT
+RYD1_42	0CA12B97	~r~You took too long to get the guns, it's no longer night time!
+RYD1_43	7BA61B01	~r~You're not going to be able to get the guns now that he's awake!
+RYD1_44	E5C28EA2	~s~You're not going to be able to steal any more crates, get back to the ~b~truck~s~.
+RYD1_88	40C18D85	You can perform burglaries at night when not on a mission.
+RYD1_89	37C6BD13	You need to get in this type of van to start the burglary.
+RYD1_90	570134F6	Many houses can be broken into, and goods stolen from the owners.
+RYD1_91	20060460	Load up the truck and then take it back to the lockup.
+RYD1_92	B90F55DA	You must remain silent at all times.
+RYD1_94	506CF0EF	If you make too much noise you will wake the inhabitants of the house.
+RYD1_95	276BC079	Make sure the noise bar does not reach maximum.
+RYD1_96	BE6291C3	~r~You did not manage to steal enough crates.
+RYD1_97	C965A155	~s~You need to steal at least ~1~ crates of guns.
+RYD1_AA	97E586A2	It's already night, man you soakin' wet!
+RYD1_AB	0EECD718	Where is this old motherfucker? Where in hell is he?
+RYD1_AC	79EBE78E	Relax man. We ain't there yet.
+RYD1_AD	E78F722D	Yeah, right, Carl. You always right.
+RYD1_AE	908842BB	That's my homie. Mister right.
+RYD1_AF	09811301	Shut up.
+RYD1_AG	7E862397	You can't stop me.
+RYD1_AH	EE393E06	Who can't?
+RYD1_AJ	00375F2A	Whatever.
+RYD1_BA	BCC8D561	Let's storm the place.
+RYD1_BB	25C184DB	Hold up. Let's creep in, grab the guns, and bounce out.
+RYD1_BC	52C6B44D	Yeah, yeah, I got it - ninja style! Right...
+RYD1_BD	CCA221EE	Come out you old bastard!
+RYD1_BF	22AC40C2	He can't stop me, you buster, Carl!
+RYD1_CA	A5D3E420	OK, fool, in you go - I'll keep watch.
+RYD1_CB	3CDAB59A	CJ! What we gonna get?
+RYD1_CC	4BDD850C	Sshhhhh! On the hush homie. They over here. Just gimme a second.
+RYD1_CD	D5B910AF	I thought you was gonna keep watch outside!
+RYD1_CE	A2BE2039	That's a good idea! I'll be outside!
+RYD1_CF	3BB77183	Lord, gimme the strength.
+RYD1_DA	EA9272E7	Gooks!
+RYD1_DB	739B235D	Get off my ridge, you Viet Cong bastards!
+RYD1_DC	049C13CB	This one's for Kenny!
+RYD1_DD	9AF88668	Let's get up out of here!
+RYD1_DE	EDFFB6FE	Thieving commie bastards!
+RYD1_DF	74F6E744	Damn!
+RYD1_DG	03F1D7D2	Let's get up out of here!
+RYD1_DH	934ECA43	Me first!
+RYD1_DJ	7D40AB6F	That pussy called the cops!
+RYD1_DK	0A479BF9	I'm gonna smoke 'em!
+RYD1_DL	94230E5A	Let's just get this stuff outta here!
+RYD1_EA	F38943A6	You dumb bastard sherm-head.
+RYD1_EB	6A80121C	What'd I do? You the one who woke the crazy old bastard up!
+RYD1_EC	1D87228A	We gotta lose this heat, man!
+RYD1_ED	83E3B729	There's a paint shop in Idlewood should be able to take a van this big.
+RYD1_FA	D8A41065	A'ight, now we straight.
+RYD1_FB	41AD41DF	LB's got a storage garage down on Seville Boulevard Families' turf we can use.
+RYD1_FC	36AA7149	I'm on it!
+RYD1_GA	C1BF2124	Seriously, Ryder man, you gotta give up them sticks.
+RYD1_GB	58B6709E	What? I'll give up the water if you give up being a busta.
+RYD1_GC	2FB14008	Hold it right there, homie.
+RYD1_GD	B1D5D5AB	Buster!
+RYD1_GE	C6D2E53D	Forget it.
+RYD1_GF	5FDBB487	Forget you, fool!
+RYD1_GG	28DC8411	One day you're gonna wish you hadn't pissed me off!
+RYD1_GH	B8639980	Did I hear something?
+RYD1_GJ	566DF8AC	Sounds like the busta complaining again!
+RYD1_GK	216AC83A	Man, this is childish.
+RYD1_GL	BF0E5D99	Man, I ain't talking you to you no more, fool.
+RYD1_HA	46273DEB	You done fucked up again, CJ with your crazy-assed driving!
+RYD1_HB	DF2E6C51	Now we headed back to Pay'n'Spray!
+RYD1_JA	74115F69	You see, I told you! Simple!
+RYD1_JB	ED180ED3	Yeah that was a real breeze.
+RYD1_KA	6D0A6E28	Say, CJ -you gotta get it in your head that this is everyday shit, homie.
+RYD1_KB	F4033F92	Listen up, no motherfucker gonna give a gangbanging carjacker like you anything for free.
+RYD1_KC	83040F04	So you gotta go take it.
+RYD1_KD	1D609AA7	All the houses in this state full of shit to rob.
+RYD1_KE	6A67AA31	They're insured - they ain't gonna miss nothing.
+RYD1_KF	F36EFB8B	Just bring it back here and LB will give you a nice price for it.
+RYD1_KG	8469CB1D	OK, look, I'm tired, I'll see you later.
+RYD1_KH	14D6D68C	A'ight, holmes. Just think about what I said.
+RYD1_LA	224BF8EF	Ryder! Buster!
+RYD1_LB	BB42A955	Ryder, where the hell you at, man?
+RYD1_LC	CC4599C3	Mark ass Ryder!
+RYD1_ZA	3ED34D38	Keep it coming, CJ!
+RYD1_ZB	A7DA1C82	What I tell y'all? We making a killing!
+RYD1_ZC	D0DD2C14	Get back in there and strip the place!
+RYD1_ZD	4EB9B9B7	There's plenty more in there, homie.
+RYD1_ZE	39BE8921	Hurry up, CJ!
+RYD1_ZF	A0B7D89B	Take him for everything you can get!
+RYD1_ZG	D7B0E80D	C'mon, CJ, we can empty that place!
+RYD1_ZH	470FF59C	We got plenty more room in LB's van!
+RYD1_ZJ	A90194B0	Man, we gonna hit him up for everything he got!
+RYD1_ZK	DE06A426	You a natural house-breaker, homie!
+RYD1_ZL	40623185	C'mon, keep it up!
+RYD1_ZM	37650113	We gonna be able to retire off of this one!
+RYD1_ZN	AE6C50A9	One more trip, CJ, we still got time!
+RYD1A00	907B01C5	Damn, where the fuck did I put it, man?
+RYD1A01	E77C3153	Put what, nigga?
+RYD1A02	7E7560E9	Man, the fucking water.
+RYD1A03	0972507F	I need a little something before I go deal with things.
+RYD1A04	9716C5DC	What things, fool?
+RYD1A05	E011F54A	My homie, LB - he told me about this army motherfucker who's got all the guns we need.
+RYD1A06	7918A4F0	Not that old school Emmet bullshit neither!
+RYD1A07	0E1F9466	I'm down. Let's roll.
+RYD1A08	9EA089F7	Yeah, you always down, homie.
+RYD1A09	E9A7B961	Apart from when you ain't around here.
+RYD1A10	89603084	Damn! Man, you want some of this?
+RYD1A11	FE670012	No, man - I'm cool on that. Where we going?
+RYD1A12	676E51A8	This till overlooking East Beach.
+RYD1A13	1069613E	Better yet, we better wait until it's dark,
+RYD1A14	8E0DF49D	catch the motherfucker while he in bed!
+RYD1A15	F90AC40B	Damn! Where the fuck..?
+RYD1A16	600395B1	Man, what you doing? Digging graves?
+RYD1A17	1704A527	Nigga, fuck you.
+RYD1A18	87BBB8B6	Yeah - I'm feeling that.
+RYD1A19	F0BC8820	Yeah, yeah, that's it, that's it...
+RYD1A20	A24D6347	C'mon, nigga, what you waiting for? Look!
+RYD1A21	D54A53D1	Let it go!

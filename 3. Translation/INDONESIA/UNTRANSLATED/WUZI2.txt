@@ -1,0 +1,168 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	08B67B86	Press ~m~~widget_mission_start~ to plant the bug.
+	9B5AD276	Double tap the lower right corner of the screen to jump and climb out of the water.
+W2ALT00	EB284751	I need something taken care of.
+W2ALT01	9C2F77C7	What? Hey, man, quit trying to distract me!
+W2ALT02	0526267D	How are you in the water?
+W2ALT03	722116EB	What you mean, can I swim?
+W2ALT04	EC458348	Yeah. Can you swim well?
+W2ALT05	9B42B3DE	No, I can't!
+W2ALT06	024BE264	SHIT! Man, damn!
+W2ALT07	754CD2F2	How you do that?!!
+W2ALT08	E5F3CF63	Shit! Damn!
+WOO2@00	736B3B2C	Hold on. You tryin' to tell me you can't swim?
+WOO2@01	046C0BBA	Seriously, when I'm in the deep water, it panics me,
+WOO2@02	9D655A00	plus, I'm terrified of eels, and squid, and seaweed, and...
+WOO2@03	EA626A96	OK dude, see - I know you just trying to make excuses now!
+WOO2@04	7406FF35	Look, CJ, I need someone from outside the Triad who I can trust.
+WOO2@05	0301CFA3	A'ight, so let me get this straight.
+WOO2@06	9A089E19	You want me to swim around in dirty dock water,
+WOO2@07	ED0FAE8F	dodging little brown jelly beans and Vietnamese gangsters,
+WOO2@08	7DB0B31E	to put a bug on a boat in the harbor?
+WOO2@09	0AB78388	You're so negative!
+WOO2@10	6A700A6D	Listen, man - when I was a kid, swimming off the Santa Maria,
+WOO2@11	1D773AFB	I once got a condom stuck to my face.
+WOO2@12	847E6B41	Horror like that stays with you for life, believe that.
+WOO2@13	F3795BD7	I have a confession to make...
+WOO2@14	6D1DCE74	I... I'm blind.
+WOO2@15	1A1AFEE2	No shit!
+WOO2@16	8313AF58	Yes, although I've trained my other senses to a point
+WOO2@17	F4149FCE	where you wouldn't notice my handicap,
+WOO2@18	64AB825F	in the water they'd be quite useless.
+WOO2@19	13ACB2C9	Alright, Woozie, relax. Don't beat yourself up about it.
+WOO2@20	415D59AE	Look, I'll do it.
+WOO2@21	365A6938	Uh, one last thing. You do know that I'm black, right? And not Chinese.
+WOO2@22	AF533882	I'm blind, Carl, not stupid.
+WUZ2_AA	7F7AEF73	I think I see something in the water!
+WUZ2_AB	E673BEC9	Hey, what was that? Over there!
+WUZ2_AC	91748E5F	Anybody else see that?
+WUZ2_BA	5457BCB0	Gotta stop spooking myself!
+WUZ2_BB	CD5EED0A	Must have been a seal or something...
+WUZ2_BC	BA59DD9C	My mind must be playing tricks.
+WUZ2_CA	4D4C8DF1	Shit, over there! Some guy in the water!
+WUZ2_CB	D445DC4B	There, a man in the water!
+WUZ2_CC	A342ECDD	We got somebody in the water over here!
+WUZ2_DA	020D1B36	Where'd he go?
+WUZ2_DB	9B044A8C	He's gone under!
+WUZ2_DC	EC037A1A	He was just here!
+WUZ2_EA	1B162A77	Shit, must have been a seal...
+WUZ2_EB	821F7BCD	Man, he must have drowned by now!
+WUZ2_EC	F5184B5B	No, he's long gone or dead.
+WUZ2_FA	303B79B4	There he is again!
+WUZ2_FB	A932280E	I got him, he's over there!
+WUZ2_FC	DE351898	I see him!
+WUZ2_GA	292048F5	We got him!
+WUZ2_GB	B029194F	Oh yeah, I see him!
+WUZ2_GC	C72E29D9	OK, we see him!
+WUZ2_HA	AEB8543A	What was that?
+WUZ2_HB	37B10580	Hey!
+WUZ2_HC	40B63516	What the fuck?
+WUZ2_JA	9C8E36B8	Must be hearing things...
+WUZ2_JB	05876702	Nah, I don't know what it was...
+WUZ2_JC	72805794	Nothing, gotta stop freaking out...
+WUZ2_KA	859507F9	Shit, who's that?
+WUZ2_KB	1C9C5643	Hey you!
+WUZ2_KC	6B9B66D5	Who the fuck are you?
+WUZ2_LA	CAD4913E	Damn, lost him!
+WUZ2_LB	53DDC084	I lost him, keep your eyes open!
+WUZ2_LC	24DAF012	Damn, gave me the slip!
+WUZ2_MA	D3CFA07F	Oh fuck, we lost one!
+WUZ2_MB	4AC6F1C5	Shit, keep on your toes!
+WUZ2_MC	3DC1C153	Oh shit man, we got a man down!
+WUZ2_NA	F8E2F3BC	Hey, someone in the water!
+WUZ2_NB	61EBA206	See that? Over there!
+WUZ2_NC	16EC9290	We got a swimmer approaching the boat!
+WUZ2_OA	E1F9C2FD	Nah, I must be tripping or something.
+WUZ2_OB	78F09347	Shit, could have sworn I saw something!
+WUZ2_OC	0FF7A3D1	Man, I swear I saw something...
+WUZ2_PA	2CA3CC63	There he is!
+WUZ2_PB	B5AA9DD9	I see him!
+WUZ2_PC	C2ADAD4F	There's the bastard!
+WUZ2_QA	35B8FD22	He's gone under!
+WUZ2_QB	ACB1AC98	He's dived again!
+WUZ2_QC	DBB69C0E	He's under us!
+WUZ2_RA	1E95AEE1	No one can hold their breath that long, man!
+WUZ2_RB	879CFF5B	He must be dead...
+WUZ2_RC	F09BCFCD	Shit he's been down there too long!
+WUZ2_SA	078E9FA0	There he is again!
+WUZ2_SB	9E87CE1A	We picked him up again!
+WUZ2_SC	E980FE8C	Over here! He's over here!
+WUZ2_TA	48CF0967	Yo, we got him now!
+WUZ2_TB	D1C658DD	I see him too!
+WUZ2_TC	A6C1684B	Hey, I see the bastard too!
+WUZ2_UA	51D43826	Who's there?
+WUZ2_UB	C8DD699C	Don't fuck with me, man...
+WUZ2_UC	BFDA590A	Hey, who goes there?
+WUZ2_VA	7AF96BE5	Must have been a ghost!
+WUZ2_VB	E3F03A5F	Damn gulls get everywhere!
+WUZ2_VC	94F70AC9	Shit, man, I gotta loosen up, man, shit...
+WUZ2_WA	63E25AA4	Hey you, stop right there!
+WUZ2_WB	FAEB0B1E	Who the fuck are you!
+WUZ2_WC	8DEC3B88	Hey, we got some asshole over here!
+WUZ2_XA	E47A466B	Shit, where'd he go?
+WUZ2_XB	7D7317D1	Man, he gave me the slip!
+WUZ2_XC	0A742747	Fuck, lost him!
+WUZ2_XD	9410B2E4	Shit, we got a body here!
+WUZ2_XE	E3178272	Man, he's dead!
+WUZ2_XF	7A1ED3C8	Oh fuck!
+WUZ2_YA	FD61772A	Shit, I gotta stop spooking myself!
+WUZ2_YB	64682690	Man, this place is filled with ghosts...
+WUZ2_YC	136F1606	Don't move a fucking muscle!
+WUZ2_YD	8D0B83A5	Guys! Hey guys!
+WUZ2_YE	FA0CB333	Stay right where you are!
+WUZ2_YF	6305E289	Given me the fucking slip!
+WUZ2_YG	1402D21F	Hey, has he gone your way?
+WUZ2_YH	84BDCF8E	I lost him, you see him over there?
+WUZ2_YJ	6AB3AEA2	Fuck, we lost a man!
+WUZ2_YK	1DB49E34	Oh shit, we down one!
+WUZ2_YL	83D00B97	Hey! Oh shit...
+WUZ2_ZA	D64C24E9	Shit, did you see that?
+WUZ2_ZB	4F457553	Hey, we gotta check over there!
+WUZ2_ZC	384245C5	That a guy in the water?
+WUZ2_ZD	A626D066	Must have been one of those seals...
+WUZ2_ZE	D121E0F0	Shit, I dunno what I saw...
+WUZ2_ZF	4828B14A	Man, did you see him? No..?
+WUZ2_ZG	3F2F81DC	Told you I saw some idiot!
+WUZ2_ZH	AF909C4D	There! See him?
+WUZ2_ZJ	419EFD61	Get the son of a bitch!
+WUZ2_ZK	3699CDF7	He can't hold his breath forever!
+WUZ2_ZL	A8FD5854	Keep circling!
+WUZ2_ZM	DFFA68C2	He's got to come up for air at some point!
+WUZ2_ZN	46F33978	We must have winged him!
+WUZ2_ZO	31F409EE	We must have killed him!
+WUZ2_ZP	BCFC041B	He must have got trapped down there!
+WUZ2_ZQ	CBFB348D	Told you we'd get him!
+WUZ2_ZR	52F26537	There he is again!
+WUZ2_ZS	25F555A1	He's on the surface again!
+WUZ2_ZT	BB91C002	Hey, he's over here!
+WUZ2_ZU	CC96F094	We got him now!
+WUZ2_ZV	559FA12E	You guys, he's over here!
+WUZ2_ZW	229891B8	Hey, what was that?
+WUZ2_ZX	B2278C29	You hear something?
+WUZ2_ZY	C520BCBF	Damn gulls, I'm gonna shoot one!
+WUZ2_ZZ	5C29ED05	Must have scared whatever it was...
+WZI2_1	801BD691	~s~Get to the ~y~docks~s~.
+WZI2_2	1912872B	~s~The boat that you have to plant the bug on is anchored out at sea.
+WZI2_3	6E15B7BD	~s~You will have to swim to it, however there are Da Nang Boys patrolling the route.
+WZI2_30	9367EA2A	Tap ~m~~widget_mission_start~ to plant the bug.
+WZI2_31	E460DABC	~s~Lose the attention of the ~r~guards~s~ before you plant the bug.
+WZI2_32	7D698B06	~s~You have planted the bug! Get off the tanker and back to the ~y~docks~s~.
+WZI2_35	E30D1EA5	~s~Sneak to the back of the tanker and plant the ~y~bug~s~, be as quiet as possible to avoid the attention of the ~r~guards~s~ onboard.
+WZI2_36	7A044F1F	You have been spotted by one of the ~r~guards~w~ dive underwater to lose their attention.
+WZI2_37	0D037F89	If the ~r~guards~w~ spot you swimming fast or you don't dive quick enough they will start shooting.
+WZI2_38	9DBC6218	Once you have lost the attention of the ~r~guards~w~ return to the surface to get your breath back.
+WZI2_39	EABB528E	When you return to the surface the ~r~guards~w~ will not spot you until you move.
+WZI2_40	DC267CED	The main route across the water is guarded by two patrol boats. If they spot you, dive underwater to lose their attention.
+WZI2_41	AB214C7B	Don't swim on the surface of the water or you will be spotted.
+WZI2_42	32281DC1	If one of the searchlights spot you on the surface of the water the ~r~guards~w~ will shoot at you.
+WZI2_5	87761288	~s~The route ahead is blocked but there is an underwater tunnel! You will have to dive and swim through it to proceed.
+WZI2_50	C53D4DAC	You need more practice in the water before you can start this mission.
+WZI2_6	1E7F4332	~s~You can now resurface.
+WZI2_7	697873A4	~s~Pick up the ~g~knife ~s~at the bottom of the cave.
+WZI2_8	F9C76E35	~s~Swim to the ~y~tanker~s~ and get aboard.
+WZI2_C0	BC5893DC	Press ~m~~widget_explicit_jump~ to jump and climb out of the water.

@@ -1,0 +1,75 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+ALLRACE	A8C8A814	ALL RACES WON!~n~~w~$~1~
+LAPMTB	A67E4C6F	New Best Time ~1~:0~1~
+LAPMTB2	157C5305	New Best Time ~1~:~1~
+LAPTIM0	450506D0	New Best Lap Time ~1~:0~1~
+LAPTIME	656A8363	New Best Lap Time ~1~:~1~
+MTROUT1	B48ADE28	Scotch Bonnet Yellow Route
+MTROUT2	2D838F92	Birdseye Winder
+MTROUT3	5A84BF04	Cobra Run
+MTWIN1	26DDCD00	You won! The 'Birdseye Winder' race is now available
+MTWIN2	BFD49CBA	You won! The 'Cobra Run' race is now available
+MTWIN3	C8D3AC2C	You have completed all routes for 'The Chiliad Challange'
+RACE_21	7A0AB686	~s~You have ~1~ second to return to your ~b~vehicle ~s~before you are disqualified.
+RACE_49	228B9932	~s~You have ~1~ second to get off your ~b~bike ~s~ and start running before you are disqualified.
+RACE_51	354B2041	~s~You have ~1~ second to get on your ~b~bicycle ~s~before you are disqualified.
+RACES_0	D4446A9E	Races
+RACES_4	D329AE87	3
+RACES_5	A42E9E11	2
+RACES_6	3D27CFAB	1
+RACES_7	4A20FF3D	GO!
+RACES_8	DA9FE2AC	Loser!
+RACES00	36211DF6	Race ~1~
+RACES08	38FA95C4	Best Time: ~1~:~1~
+RACES09	4FFDA552	Best Result: 1st
+RACES10	2F3A2CB7	Best Result: 2nd
+RACES11	583D1C21	Best Result: 3rd
+RACES12	C1344D9B	Best Result: ~1~th
+RACES13	B6337D0D	Track Length: ~1~.~1~ km
+RACES14	2857E8AE	Track Length: ~1~.0~1~ km
+RACES15	5F50D838	Best Time: NA
+RACES16	C6598982	Best Result: NA
+RACES17	B15EB914	Track Length: ~1~.0~1~ miles
+RACES18	21E1A485	Winner!
+RACES20	04177F74	~r~You have been disqualified for leaving your vehicle.
+RACES21	73104FE2	~s~You have ~1~ seconds to return to your ~b~vehicle ~s~before you are disqualified.
+RACES22	EA191E58	Best Time: ~1~:0~1~
+RACES23	9D1E2ECE	Track Length: ~1~.~1~ miles
+RACES24	037ABB6D	~r~You have been disqualified for destroying your vehicle.
+RACES25	747D8BFB	~r~You have been disqualified from the race.
+RACES26	ED74DA41	1ST
+RACES27	9A73EAD7	2ND
+RACES28	0ACCF746	3RD
+RACES29	7DCBC7D0	~1~TH
+RACES30	1D0C4E35	Position:
+RACES31	6A0B7EA3	Time:
+RACES32	F3022F19	LAP ~1~/~1~
+RACES33	84051F8F	Press ~m~~widget_race_left~ or ~m~~widget_race_right~ to select race. Press ~m~~widget_store_accept~ To Start Race. Press ~m~~widget_store_cancel~ to quit.
+RACES34	1A618A2C	~1~.~1~ km
+RACES35	6D66BABA	~1~.0~1~ km
+RACES36	F46FEB00	Track Distance
+RACES37	8368DB96	Best Result
+RACES38	13D7C607	Best Time
+RACES39	64D0F691	~1~:~1~
+RACES40	524DD8F2	~1~:0~1~
+RACES41	254AE864	1ST
+RACES42	BC43B9DE	2ND
+RACES43	CB448948	3RD
+RACES44	55201CEB	~1~TH
+RACES45	22272C7D	NA
+RACES46	BB2E7DC7	~1~.~1~ miles
+RACES47	CC294D51	~1~.0~1~ miles
+RACES48	5C9650C0	~s~You have ~1~ seconds to get off your ~b~bike ~s~ and start running before you are disqualified.
+RACES50	4B56E9B3	~s~You have ~1~ seconds to get on your ~b~bicycle ~s~before you are disqualified.
+TIMER	627BE355	TIME
+TOP_POS	0945F897	NEW Best Position:
+TOPTIME	0B5130BA	NEW Best Time:
+TRAI1	9477B541	You have been awarded with $~1~
+TRAI2	0D7EE4FB	Run into the Water and swim
+TRAI3	7A79D46D	Get on the bicycle to continue the race
+TRAI4	E41D41CE	Get off the bicycle and run to checkpoint to continue the race

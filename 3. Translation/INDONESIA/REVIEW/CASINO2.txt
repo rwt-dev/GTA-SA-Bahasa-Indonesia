@@ -1,0 +1,75 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+CAS2@00	7FE09802	Ha ha ha! Suara indah dari sebuah hole in one!
+CAS2@01	08E7A894	Pukulan yang hebat, bos!
+CAS2@02	91EEF92E	Boleh juga, Woozie.
+CAS2@03	E6E9C9B8	Jadi Keluarga Sindacco yang ada di balik percobaan sabotase usaha kita.
+CAS2@04	788D5C1B	Aku penasaran kenapa hanya mereka dan bukan yang lainnya?
+CAS2@05	0F8A6C8D	Mungkin bukan cuma mereka. Hukum jalanan; jangan pernah mengadu.
+CAS2@06	96833D37	Yang kita butuhkan... adalah menyerang kasino mafia. Ya, pergilah rampok tempat itu.
+CAS2@07	E1840DA1	Hei, merampok kasino tidak sama seperti tawuran geng - ini tingkatan yang sepenuhnya berbeda!
+CAS2@08	713B1030	Ya, kamu benar, ini butuh perencanaan, tapi aku ikut.
+CAS2@09	063C20A6	Sial, aku selalu ingin melakukan perampokan besar.
+CAS2@10	66FBA943	Apa-apaan-?
+CAS2@11	11FC99D5	Nasib buruk.
+CAS2@12	88F5C86F	Dengar, kamu bakal butuh tim dan beberapa peralatan khusus.
+CAS2@13	FFF2F8F9	Ya, ini butuh bahan peledak. Selalu harus meledakkan sesuatu untuk melakukan perampokan besar.
+CAS2@14	61966D5A	Kamu tahu apa? Ada tempat tambang terbuka di sebelah Barat Daya batas kota.
+CAS2@15	16915DCC	Mereka pasti punya bahan peledak.
+CAS2@16	8F980C76	Aku akan pergi mengintipnya.
+CAS2@17	F89F3CE0	Terima kasih.
+CAS2_AA	79BC7552	Hei kamu tidak boleh turun ke sini!
+CAS2_AB	E0B524E8	Mana perlengkapan keselamatanmu?
+CAS2_AC	97B2147E	Kamu tidak punya izin untuk area ini!
+CAS2_AD	09D681DD	Menjauhlah dari dinamit itu!
+CAS2_AE	7ED1B14B	Hei, itu berbahaya!
+CAS2_AF	E7D8E0F1	Jauhi barang-barang itu!
+CAS2_AG	90DFD067	Rasakan sekopku, bajingan!
+CAS2_AH	0060CDF6	Dia bakal meledakkan kita semua ke neraka!
+CAS2_AI	7767FD60	Kawan, seseorang hentikan orang itu!
+CAS2_AJ	EE6EACDA	Siapa bajingan ini?
+CAS2_AK	99699C4C	Seseorang panggil sekuriti!
+CAS2_AL	070D09EF	Kamu pikir apa yang sedang kamu lakukan?
+CAS2_AM	700A3979	Ada yang mencuri dinamit, panggil sekuriti!
+CAS2_AN	E90368C3	Dia mengejar dinamit itu!
+CAS2_AO	9E045855	Dia mencuri bahan peledak pembongkaran!
+CAS2_BA	52912691	SEMUA PERSONEL MENJAUH!
+CAS2_BB	CB98772B	LIMA DETIK MENUJU PELEDAKAN!
+CAS2_BC	BC9F47BD	TIGA...
+CAS2_BD	22FBD21E	DUA...
+CAS2_BE	55FCE288	SATU...
+CAS2_CA	4B8A17D0	Pengiriman untuk Woozie.
+CAS2_CB	D283466A	Hei, berhati-hatilah dengan barang itu...
+PD_01	FCC05707	Masuki Tambang (Quarry) dan curi dinamitnya.
+PD_02	65C906BD	Kamu butuh sesuatu yang berat untuk menghancurkan peti dinamit ini.
+PD_05	FBAD931E	1 dari 4 batang
+PD_06	62A4C2A4	2 dari 4 batang
+PD_07	15A3F232	3 dari 4 batang
+PD_08	851CEFA3	4 dari 4 batang
+PD_09	F21BDF35	~r~Kamu meledakkan dinamitnya.
+PD_10	92DC56D0	Sekuriti menghalangi jalan keluar.
+PD_11	E5DB6646	~s~Gunakan ~b~motor trail ~s~dan cari jalan keluar lain!
+PD_12	7CD237FC	~s~Sekarang kumpulkan ~r~Dinamit~s~!
+PD_16	7BBFF3E5	~s~Pergilah ke ~y~Tambang (Quarry)~s~.
+PD_17	0CB8C373	Tekan ~m~~widget_auto_hydraulics~ untuk menurunkan peti.
+PD_18	9C07DEE2	~r~Motornya telah hancur!
+PD_19	EB00EE74	~r~Dinamitnya telah hancur!
+PD_20	B9F10513	Dinamit diatur untuk meledak!
+PD_21	CEF63585	Ambil sebelum para pekerja menghancurkannya.
+PD_22	57FF643F	~s~Kembalilah pulang membawa dinamit tersebut.
+PD_23	20F854A9	~s~Ikuti ~y~tanda panah ~s~untuk meloloskan diri.
+PD_25	C99BF19C	Peledakan
+PD_26	5092A026	~s~Ambil ~g~Dinamit ~s~sebelum penghitung waktu habis dan diledakkan.
+PD_27	279590B0	Kamu butuh sesuatu yang berat untuk menghancurkan peti-peti itu.
+PD_28	B72A8D21	~s~Sekarang antarkan dinamit ke ~y~titik penyerahan~s~.
+PD_29	C02DBDB7	~s~Ambil ~r~Dinamit~s~ tersebut.
+PD_30	A0EA3452	~r~Dasar idiot kamu meledakkan mobil kurir!
+PD_31	D7ED04C4	~r~Dasar idiot kamu membunuh kurir!
+PD_32	4EE4557E	Kunjungi tambang untuk mengakses sub-misi Tambang (Quarry).
+PD_33	39E365E8	~r~Truk dumper telah hancur - itu satu-satunya cara untuk menghancurkan peti!
+PD_34	A787F04B	~s~Cari ~b~motor ~s~lain dan meloloskan dirilah!
+PD_X	3AB69200	~s~Naiklah kembali ke ~b~motor~s~!

@@ -1,0 +1,118 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	E846B6FB	When you're targeting, press ~m~~widget_attack~ to fire a rocket.
+	F15D87BA	Press ~m~~widget_enter_targeting~ to target using the rocket launcher.
+SYN3_22	1C35578F	Tap ~m~~widget_enter_targeting~ to target using the rocket launcher.
+SYN3_23	6B326719	When you're targeting, tap ~m~~widget_attack~ to fire a rocket.
+SYN3_24	F556F2BA	Use the camera movement controls to move the target position.
+TRU2@00	D79BBFD7	Peace. I've got everything you need, lone traveler.
+TRU2@01	A09C8F41	It's in the Mothership back there.
+TRU2@02	3995DEFB	Thanks, man. Look, here go your paper.
+TRU2@03	4E92EE6D	The karmic circle closes.
+TRU2@04	D0F67BCE	All is as it should be.
+TRU2@05	A7F14B58	Back to the egg.
+TRU2@06	3EF81AE2	Oooommmmmm.
+TRU2@07	49FF2A74	Damn, man, there must be two tons of that stuff back there!
+TRU2@08	D94037E5	Threeeee. Ramayanaaaaa...
+TRU2@09	AE470773	What the fuck's that noise?
+TRU2@10	CE808E96	Hey, that sounds like a chopper.
+TRU2@11	B987BE00	Oh man, narcs! You fucking rat!
+TRU2@12	208EEFBA	Dude, don't put that on me! You're the one that deals with Tenpenny!
+TRU2@13	5789DF2C	Calm, brother; panic paves the way to bad karma.
+TRU2@14	C9ED4A8F	We gotta torch those fields. I only hope Gaia can forgive us!
+TRU2@15	BEEA7A19	What's all this?
+TRU2@16	27E32BA3	Man...
+TRU2_01	B7E66B0C	~s~Go and help The Truth destroy the ~r~weed~s~.
+TRU2_02	2EEF3AB6	~s~To burn a weed field, cover it in flames.
+TRU2_03	59E80A20	~s~Get a vehicle and follow the Mothership back to San Fierro.
+TRU2_04	C78C9F83	~S~Follow the ~b~Mothership~s~ back to San Fierro.
+TRU2_06	2982FEAF	Cops arrival
+TRU2_07	5E85CE39	Truth Heat
+TRU2_08	CE3AD3A8	~r~The Truth has been killed!
+TRU2_09	B93DE33E	~r~The Mothership has been destroyed!
+TRU2_10	D9FA6ADB	~r~The Truth has been arrested!
+TRU2_12	37F40BF7	~s~Drive the Mothership to the ~y~garage~s~ in San Fierro.
+TRU2_13	40F33B61	~s~There is more ~g~ammo~s~ near the barn.
+TRU2_14	DE97AEC2	~s~Go and speak to the ~b~Truth~s~.
+TRU2_15	A9909E54	~s~Take out the ~r~chopper~s~.
+TRU2_16	3099CFEE	~s~Keep the ~r~cop car~s~ away from the ~b~Mothership~s~! The Truth will be arrested if the Heat Bar is full!
+TRU2_17	479EFF78	~s~Get inside the ~b~Mothership~s~.
+TRU2_18	D721E2E9	~s~Get a ~b~vehicle~s~ and follow the Mothership back to San Fierro.
+TRU2_19	A026D27F	~s~Don't stray too far from the Truth!
+TRU2_AA	D1C75287	Assholes! Right-wing assholes!
+TRU2_AB	48CE033D	I don't, I don't feel too good...
+TRU2_AC	3FC933AB	It's a crying shame, ain't it.
+TRU2_AD	A1ADA608	No I mean I think I'm gonna black out!
+TRU2_AE	D6AA969E	Fight the ocean and you will drown, brother!
+TRU2_BA	FAEA0144	Carl, man, we'll take the Mothership and get our shit out of here!
+TRU2_BB	63E350FE	Go get her fired up!
+TRU2_BC	14E46068	I'll finish burnin' and I'll follow you!
+TRU2_CA	E3F13005	Hey, I'm kinda busy, lemme get back at you.
+TRU2_CB	7AF861BF	Carl, it's me! Get those cops off my damn tail!
+TRU2_DA	ACB0A6C2	What you pull over for?
+TRU2_DB	35B9F778	You better drive. I haven't driven in 15 years.
+TRU2_DC	42BEC7EE	You was doin' alright.
+TRU2_DD	DCDA524D	Yeah, then the fear hit me.
+TRU2_DE	ABDD62DB	Now I'm rolling a number to calm the waves!
+TRU2_EA	B5AB9783	Jesus, we're screwed, when'd you get this?
+TRU2_EB	2CA2C639	1967.
+TRU2_EC	5BA5F6AF	How you get around if you don't drive?
+TRU2_ED	C5C1630C	I have an astral goat called 'Herbie'.
+TRU2_EF	2BCF0220	She's faster than most, but gettin' old...
+TRU2_EG	5CC832B6	Yeah, whatever man, you talkin' shit.
+TRU2_FA	9E86C440	Hey, you want a hit on this? A little Temple Charas
+TRU2_FB	078F95FA	in a cocktail with some Nepalese munga munga.
+TRU2_FC	7088A56C	Put that thing out, man, I can't see.
+TRU2_FD	EEEC30CF	Hey, mellow out, brother. It's good shit.
+TRU2_FE	99EB0059	Put it out, motherfucker, I'm warning you!
+TRU2_FF	00E251E3	Wooah, chill the fuck out!
+TRU2_FG	77E56175	Firstly, you are a real buzz killer, amigo.
+TRU2_FH	E75A7CE4	And secondly, I never made love to my mother. She wouldn't.
+TRU2_FJ	09541DC8	And thirdly, we're in this together, so be cool.
+TRU2_FK	7E532D5E	Sorry, man, I just don't drive when I'm faded.
+TRU2_GA	879DF501	Hey, this thing go any faster?
+TRU2_GB	1E94A4BB	Man, we got 3 tons of grass on board,
+TRU2_GC	6993942D	the engine block is held together with a macramž hammock, and it's running on 15-year-old cooking oil.
+TRU2_GE	80F03118	Shit. Can you shoot?
+TRU2_GF	19F960A2	Shoot? I'm a hippy!
+TRU2_GG	6EFE5034	The only thing I've shot is acid.
+TRU2_GH	FE414DA5	I heard about this dude who snorted it once.
+TRU2_GJ	104F2C89	Thought his nose was a kangaroo and the moon was a dog. Whooo!
+TRU2_HA	0005E9CE	What's with all the aluminum foil, man?
+TRU2_HB	990CB874	Protection from mind control, dude.
+TRU2_HC	EE0B88E2	Mind control?
+TRU2_HD	706F1D41	Induction of images, sound or emotion using microwave radiation.
+TRU2_HE	07682DD7	D'you know how many government satellites
+TRU2_HF	9E617C6D	are watching any citizen at any moment?
+TRU2_HG	E9664CFB	No.
+TRU2_HH	79D9516A	Twenty-three.
+TRU2_HJ	97D73046	Do you know how many religious relics are kept at the Pentagon?
+TRU2_HK	E0D000D0	No I don't.
+TRU2_HL	7EB49573	Twenty-three.
+TRU2_HM	09B3A5E5	You see a pattern emerging here, man?
+TRU2_HN	90BAF45F	Man, I'm seeing patterns all over the place!
+TRU2_HO	E7BDC4C9	Get that smoke outta my face!
+TRU2_JA	32338B4C	We got a chopper on our tail, we'll never shake 'em now.
+TRU2_JB	AB3ADAF6	Hold on, I got a little something back here I was saving for a rainy day.
+TRU2_KA	2B28BA0D	Holy motherfucker!
+TRU2_KB	B221EBB7	Where'd you get that?
+TRU2_KC	C526DB21	Found it in a bail of Thai Sticks.
+TRU2_KD	5B424E82	Shame really, I was going to make it into a lamp.
+TRU2_LA	64692CCA	There she is, brother; San Fierro: the City of Psychedelic Wonders!
+TRU2_LB	FD607D70	Man, I can't believe I ain't been here before.
+TRU2_LC	8A674DE6	There ain't a better place to escape the man, man.
+TRU2_MA	7D721D8B	OK, Mr. San Fierro, where's the spot at?
+TRU2_MB	E47B4C31	It's in Doherty on the East side of Fierro,
+TRU2_MC	937C7CA7	between Garcia and Easter Basin.
+TRU2_NA	565F4E48	This is the place.
+TRU2_NB	CF561FF2	Whoa, Jesus dude, looks like you've been fed a bummer.
+TRU2_OA	4F447F09	Shit, I better call Cesar!
+TRU2_OB	D64D2EB3	(Dialing number)
+TRU2_OC	A14A1E25	Hey Cesar, no time to talk, man!
+TRU2_OD	3F2E8B86	I'm on my way to San Fierro, OK,
+TRU2_OE	4829BB10	I'll meet you and Kendl at that garage I won at that races!
+TRU2_OF	D120EAAA	Holla at y'all later!

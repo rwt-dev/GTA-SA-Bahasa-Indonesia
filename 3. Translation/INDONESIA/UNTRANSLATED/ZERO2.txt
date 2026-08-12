@@ -1,0 +1,65 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	8CD10C9B	Press ~m~~widget_mission_cancel~ to self-destruct.
+	1C50DDAA	Press ~m~~widget_air_gun~ to fire Machine Guns.
+ZER1_FH	09234664	Fight or die Carl, it's the only choice we have.
+ZER2@00	2B572AB9	Hey, Zee, where you at?
+ZER2@01	5C501A2F	Go away, Carl. I'm very, very, busy back here. Top secret stuff. Not for your eyes. Too sensitive...
+ZER2@02	C5594B95	Come on, homie, where are you?
+ZER2@03	B25E7B03	I said go away, Carl. I don't need any friends today, thank you.
+ZER2@04	2C3AEEA0	Man, them some pretty strong drawers!
+ZER2@05	5B3DDE36	Yes, my hero. Carl, he came back and humiliated me!
+ZER2@06	C2348F8C	I shall probably turn to prostitution now,
+ZER2@07	B533BF1A	where I will be found dead, and broken.
+ZER2@08	258CA28B	I am a 28 year old man,
+ZER2@09	528B921D	whose landlord just helped him down from a hook,
+ZER2@10	324C1BF8	from which I had been hanging from my underwear,
+ZER2@11	454B2B6E	contemplating my inadequacy, for nearly two hours.
+ZER2@12	DC427AD4	Look, you gotta get even, homie.
+ZER2@13	AB454A42	What kind of weapons you got?
+ZER2@14	3521DFE1	Uhh... I've got a prototype of a miniature plane.
+ZER2@15	4226EF77	Well with that plane, we gonna go humiliate Berkley.
+ZER2@17	AC288E5B	Ow! Ooh, my crack...
+ZER2@18	3C9793CA	OK, cool!
+ZER2@19	4B90A35C	Man, this is ridiculous.
+ZER2@20	1961483B	That went right up my crack...
+ZER2_1	592D1582	Press and hold ~m~~widget_accelerate~ to increase throttle. Press and hold ~m~~widget_brake~ to decrease throttle.
+ZER2_14	225B3BAC	~s~Destroy the~r~ couriers ~s~before they complete their deliveries.
+ZER2_28	00C02444	FUEL
+ZER2_3	B72374AE	Use the movement controls to change the plane's altitude and to turn using the rudder.
+ZER2_30	17009D37	Tap ~m~~widget_air_gun~ to fire Machine Guns.
+ZER2_4	2947E10D	Tap ~m~~widget_mission_cancel~ to self-destruct.
+ZER2_41	2F463B66	~s~Fly back to ~y~Zero's roof.
+ZER2_42	B64F6ADC	~r~You ran out of fuel!
+ZER2_43	C1485A4A	Score ~1~
+ZER2_44	5F2CCFE9	~s~Destroy as many of Berkley's delivery vans as possible.
+ZER2_45	282BFF7F	~s~Destroy as many of Berkley's delivery vans within the time limit as possible!
+ZER2_5	5E40D19B	TIME
+ZER2_7	B04EB0B7	~s~Line up RC Baron behind the ~r~courier~s~.
+ZER2_8	20F1AD26	~r~The plane was destroyed!
+ZER2_AA	2D0BC7E9	Launch the Red Baron!
+ZER2_AB	B4029653	Berkley has his sycophantic lackeys do all his deliveries.
+ZER2_AC	C305A6C5	Well, we shall hit him where it hurts the most!
+ZER2_AD	5D613366	Bring his mail order model business to its knees!
+ZER2_BA	0626942A	Don't let him get away, punish him for his war crimes!
+ZER2_BB	9F2FC590	He's armed his lieutenants, be careful, Carl!
+ZER2_CA	1F3DA56B	One down, four to go!
+ZER2_CB	8634F4D1	That's two Berkley, TWO!
+ZER2_CC	F133C447	Ha ha, only three delivery boys left!
+ZER2_CD	6F5751E4	Only two left now, Carl - HUNT THEM DOWN!
+ZER2_CE	18506172	Just one more and Berkley's mail order department is finished!
+ZER2_DA	507C33AC	Watch your fuel, Carl, only half a tank left!
+ZER2_DB	C9756216	You're nearly out of fuel, hurry up!
+ZER2_DC	BE725280	Watch your battery, Carl. Only half the charge is left!
+ZER2_DD	2016C723	You're battery's nearly flat, hurry up!
+ZER2_EA	496702ED	Well done, Carl!
+ZER2_EB	D06E5357	Now get her back home in one piece, before she runs out of fuel!
+ZER2_EC	A76963C1	Now get her back home in one piece, before her battery runs flat!
+ZER2_FA	624A512E	Smell it! You know that two-stroke smell,
+ZER2_FB	FB430094	The smell, you know that ozone smell,
+ZER2_FC	8C443002	smells like... victory!
+ZER2_FD	1220A5A1	smells like... victory!

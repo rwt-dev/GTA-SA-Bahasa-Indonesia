@@ -1,0 +1,177 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	A4E386C6	Tekan ~m~~widget_mission_start~ saat berdiri di depan sakelar freezer untuk mengoperasikan pintu.
+	BDF8B787	Tekan ~m~~widget_mission_start~ saat berdiri di depan sakelar untuk mengoperasikannya.
+CAS6_10	FEE3DA59	~s~Bawa ~b~Rosenberg~s~ ke ~y~pabrik pemotongan hewan~s~.
+CAS6_11	89E4EACF	~s~Jangan tinggalkan ~b~Rosenberg~s~ kamu harus membawanya ke ~y~pabrik pemotongan hewan~s~.
+CAS6_12	10EDBB75	~s~Kamu harus membawa ~b~Rosenberg~s~ ke ~y~pabrik pemotongan hewan~s~.
+CAS6_AA	F6DEE205	OK, bos, mau ke mana?
+CAS6_AB	6FD7B3BF	Kita akan mengunjungi keluarga Sindacco.
+CAS6_AC	18D08329	Melihat keadaan Johnny,
+CAS6_AD	86B4168A	membuatnya senang dengan beberapa kata penghiburan (sniff) selama masa pemulihannya.
+CAS6_AE	F1B3261C	Yah, tentu. Aku bisa mengantarmu ke sana.
+CAS6_AF	68BA77A6	OK bagus! (sniff) Kita butuh mobil!
+CAS6_BA	DDF3B1C6	Aku harus keluar dari dunia ini.
+CAS6_BB	44FAE07C	Sial, hidungku mengucur deras seperti kuda balap (sniff).
+CAS6_BC	33FDD0EA	Barang ini benar-benar bagus. Hei kemudikan lebih cepat, tolong? Ayo, ayo, ayo, kamu ini apa, nenek-nenek?
+CAS6_BD	AD994549	Jadi kamu mencoba untuk keluar dari dunia ini?
+CAS6_BE	DA9E75DF	Ya. Tuhan, ya.
+CAS6_BF	43972465	Aku ingin melakukan sesuatu yang aman dan legal serta membosankan, bersama orang-orang yang menyukaiku.
+CAS6_BG	349014F3	bersama orang-orang yang menyukaiku.
+CAS6_BH	A42F0962	Dan punya istri dan beberapa anak lalu bercerai dan berebut hak berkunjung akhir pekan, seperti orang lain.
+CAS6_BJ	4A21684E	dan berebut hak berkunjung akhir pekan, seperti orang lain.
+CAS6_BK	3D2658D8	Dengar. Aku akan lihat apa yang bisa kubantu.
+CAS6_BL	A342CD7B	Terima kasih, aku cuma sangat lelah dengan semua omong kosong hidup atau mati ini.
+CAS6_BM	D445FDED	(sniff) Oh, sial, kotoran ini mengotori kemeja (sniff) sialanku, dan semuanya,
+CAS6_BN	4D4CAC57	ah, itu kemeja terbaikku juga, bukankah kemeja ini kelihatan bagus padaku?
+CAS6_C0	E3EAC12D	Rosie
+CAS6_CA	C4E88087	OK, mari kita selesaikan ini.
+CAS6_CB	5DE1D13D	Aku bosnya, aku adalah bosnya! Aku bosnya, aku adalah bosnya! Ya,(sniff) ya...
+CAS6_DA	8BA91640	Apa yang kukatakan? Apa yang kulakukan?
+CAS6_DB	12A047FA	Tidak ada. Salahku. Sekarang berlindunglah.
+CAS6_EA	92B22701	Sialan, ada apa dengan nasibku?
+CAS6_EB	0BBB76BB	Aku dalam masalah besar!
+CAS6_EC	7CBC462D	Kita harus melakukan sesuatu!
+CAS6_ED	E2D8D38E	Carl, jangan tinggalkan saksi atau kita akan mati!
+CAS6_EE	95DFE318	Siapa pun yang membutuhkanku, mereka bisa mencariku di sini!
+CAS6_EF	0CD6B2A2	Aku tidak akan keluar sampai keadaannya aman!
+CAS6_EG	7BD18234	Akhir yang tipikal bagiku, tertembak, dipukuli lalu dipanggang!
+CAS6_EH	EB6E9FA5	Punya alat pemadam, aku punya alat pemadam!
+CAS6_EJ	0560FE89	Habisi orang-orang itu dan aku akan memadamkan apinya!
+CAS6_EK	7267CE1F	Mundur, aku akan menyemprot api ini!
+CAS6_EL	EC035BBC	Hei, CJ, tunggu aku! Tunggu! Tunggu!
+CAS6_EM	9B046B2A	Yah apa lagi yang kamu tunggu?
+CAS6_EN	020D3A90	Aku tidak akan jalan paling depan!
+CAS6_EO	750A0A06	Aku akan menyalakan rel pemotong daging!
+CAS6_EP	F80207F3	Sial, mereka membuat api untuk menahan kita!
+CAS6_EQ	8F053765	Pasti ada alat pemadam di sekitar sini, cari itu!
+CAS6_ER	160C66DF	Aduh, untuk apa kamu melakukan itu?
+CAS6_ES	610B5649	OK, sudah aman!
+CAS6_ET	FF6FC3EA	Ini sangat mendebarkan, Tommy, seperti masa lalu!
+CAS6_EU	8868F37C	Siapa si brengsek Tommy itu?
+CAS6_F0	9E9D3568	~r~Rosenberg telah terbunuh.
+CAS6_F1	E99A05FE	~r~Rosenberg mati membeku.
+CAS6_F2	70935444	~r~Kamu dan Rosenberg terjebak di dalam freezer.
+CAS6_FA	B99F74C2	Persetan dengan ini, aku akan bersembunyi di freezer!
+CAS6_FB	20962578	Hei, CJ, aku terkunci di dalam freezer!
+CAS6_FC	579115EE	CJ, ada orang yang mengunciku di dalam freezer!
+CAS6_FD	C9F5804D	Hei, keluarkan aku dari freezer ini!
+CAS6_FE	BEF2B0DB	Dingin sekali di dalam freezer ini!
+CAS6_FF	27FBE161	CJ? CJ! Keluarkan aku dari sini!
+CAS6_FG	50FCD1F7	Halo, ada orang di sana?
+CAS6_FH	C043CC66	CJ? Di mana kamu, CJ?
+CAS6_FJ	2E4DAD4A	Terima kasih, CJ, tapi aku tidak akan keluar sampai mereka semua mati!
+CAS6_FK	594A9DDC	Terima kasih, kawan, aku pikir aku bakal jadi es lilin!
+CAS6_FL	C72E087F	Kenapa kamu lama sekali?
+CAS6_FM	B02938E9	Pintu keluarnya lewat gudang stok!
+CAS6_FN	29206953	Rosenberg! Aku terjebak di dalam freezer!
+CAS6_FO	5E2759C5	Rosenberg, keluarkan aku dari freezer ini!
+CAS6_FP	D32F5430	Keluarkan aku dari freezer ini, Rosie!
+CAS6_G0	87860429	~s~Lindungi ~b~Rosenberg~s~ dan bunuh semua ~r~saksi~s~.
+CAS6_G1	F08134BF	~s~Semua saksi telah mati, pergilah ke ~y~pintu keluar~s~.
+CAS6_G2	69886505	~s~Semua saksi telah mati tapi ~b~Rosenberg~s~ terkunci di dalam freezer, kamu harus mengeluarkannya sebelum bisa pergi.
+CAS6_G3	1E8F5593	~s~Semua saksi telah mati tapi kamu harus menunggu sampai ~b~Rosenberg~s~ mengeluarkanmu sebelum bisa pergi.
+CAS6_G4	80EBC030	~s~Pergilah ke ~y~pintu keluar~s~.
+CAS6_G5	F7ECF0A6	~s~Bawa ~b~Rosenberg~s~ kembali ke ~y~Kasino~s~.
+CAS6_G6	6EE5A11C	~s~Jangan tinggalkan ~b~Rosenberg~s~ kamu harus membawanya ke ~y~kasino~s~.
+CAS6_G7	19E2918A	~s~Kamu harus membawa ~b~Rosenberg~s~ ke ~y~kasino~s~.
+CAS6_GA	A0844583	Di belakangmu, CJ!
+CAS6_GB	398D1439	Awas di belakangmu!
+CAS6_GC	4E8A24AF	Awas sebelah kirimu!
+CAS6_GD	D0EEB10C	CJ, di sebelah kirimu!
+CAS6_GE	A7E9819A	Ada preman di sebelah kananmu!
+CAS6_GF	3EE0D020	Tembak ke kanan, CJ, kanan!
+CAS6_GG	49E7E0B6	Maju duluan, aku, errr, bakal menjaga belakang kita!
+CAS6_GH	D958FD27	Kerja bagus, CJ!
+CAS6_GJ	37569C0B	Sial, ini gila!
+CAS6_GK	4051AC9D	Aku tidak akan pernah pakai narkoba lagi, tidak akan pernah, pernah!
+CAS6_H0	001E18E6	Ketuk ~m~~widget_mission_start~ saat berdiri di depan sakelar untuk mengoperasikannya.
+CAS6_H1	77192870	Ketuk ~m~~widget_mission_start~ saat berdiri di depan sakelar freezer untuk mengoperasikan pintu.
+CAS6_H2	EE1079CA	Selama Rosenberg terjebak kesehatannya akan perlahan menurun.
+CAS6_H3	9917495C	Kamu terjebak di dalam freezer, kesehatanmu akan perlahan menurun sampai Rosenberg mengeluarkanmu.
+CAS6_HA	271C594C	Sial, kita harus keluar dari sini!
+CAS6_HB	BE1508F6	Kita butuh kendaraan!
+CAS6_HC	C9123860	Bawa aku kembali ke Caligula's!
+CAS6_HD	5776ADC3	Kamu tenanglah, dan ikuti instruksiku.
+CAS6_JA	152A3BCE	Gila, kawan, kita bekerja sama dengan baik sebagai tim, huh, CJ?
+CAS6_JB	8C236A74	Kamu dan aku, mengacak-acak kota ini.
+CAS6_JC	FB245AE2	Tidak ada yang bisa menghentikan kita, tidak ada seorang pun di dunia ini!
+CAS6_JD	6540CF41	Johnny sudah selesai. Begitu juga gengnya.
+CAS6_JE	1247FFD7	Benar sekali, penakut bodoh!
+CAS6_JF	8B4EAE6D	Oh sial! Aku dalam masalah besar! Aku benar-benar dalam masalah besar!
+CAS6_JG	FC499EFB	Apa yang harus kulakukan? Sial, sial, SIIIAAAL....
+CAS6_JJ	82F8E246	Kamu cuma harus bertahan di sana.
+CAS6_JK	F5FFD2D0	Berpura-puralah bodoh/tidak tahu apa-apa.
+CAS6_JL	6B9B4773	Aku akan mencari cara untuk mengeluarkanmu dari masalah ini.
+CAS6_JM	1C9C77E5	Turunkan saja aku di bandara!
+CAS6_JN	8595265F	Jangan kawan, mereka harus mengira kamu sudah mati.
+CAS6_JO	F29216C9	Aku akan memikirkan sesuatu, aku janji.
+CAS6_KA	0C310A8F	Masuklah ke sana, dan tetap santai. Seperti kamu baru saja selesai mengemudi santai atau semacamnya.
+CAS6_KB	95385B35	Tenang, ya, tenang.
+CAS6_KC	E23F6BA3	Aku tenang.
+CAS6_KD	7C5BFE00	SANGAT BENAR-BENAR tenang!
+CAS6_KE	0B5CCE96	Aku tenang, Tuan Tenang, Tuan Tenang, itulah aku, Tuan Tenang.
+CAS6_LA	43709C48	Rosie, kamu mau ke mana?
+CAS6_LB	DA79CDF2	Rosenberg, apakah itu kamu di dalam?
+CAS6_LC	AD7EFD64	Bagaimana kamu bisa terkunci di dalam sana, kawan?
+CAS6_LD	331A68C7	Oke, tetaplah di dalam sementara aku menghabisi bajingan-bajingan ini!
+CAS6A00	F1406562	Oh, ha ha ha ha! Sayang, aku kembali, AKU KEMBALI!
+CAS6A01	864755F4	Mari kita mulai pertunjukan ini!
+CAS6A02	1F4E044E	Dokter yang baik telah menghidupkan kembali pasiennya!
+CAS6A03	684934D8	Terima kasih. Terima kasih. Terima kasih.
+CAS6A04	F62DA17B	Jadi semuanya sudah beres sekarang?
+CAS6A05	812A91ED	Tidak! Sama sekali tidak! Aku masih dalam masalah besar!
+CAS6A06	1823C057	Beneran dalam masalah besar, tapi setidaknya sekarang aku berada di suasana hati yang tepat.
+CAS6A07	6F24F0C1	Apa yang harus kita lakukan?
+CAS6A08	FF9BED50	Kapan saja dari sekarang,
+CAS6A09	889CDDC6	peluru Mafia akan menyemburkan otakku ke seluruh dinding!
+CAS6A10	E85B5423	Dindingku, dindingku yang indah...
+CAS6A11	9F5C64B5	Ooh, kamu melewatkan sedikit. Aku minta itu.
+CAS6A12	0655350F	Lupakan saja
+CAS6A13	71520599	Oh, itu ide yang bagus, Tony, tapi kamu tahu apa? Itu tidak akan berhasil, OK? Tidak kali ini...
+CAS6A14	EF36903A	Dengar, kawan, santai, kuasai dirimu...
+CAS6A15	9831A0AC	Ya, kamu benar, aku harus menguasai diri!
+CAS6A16	0138F116	Pegang kendali...
+CAS6A17	763FC180	Ya, hadapi masalah ini dengan berani!
+CAS6A18	E680DC11	Dan tunjukkan pada semua orang siapa bosnya...
+CAS6A19	9187EC87	- Aku bosnya! A-ku-ada-lah-bosnya!~n~- Baiklah kalau begitu!
+CAS6A20	C37607E0	Baiklah kalau begitu!
+CAS6A21	B4713776	Baiklah! Mari kita acak-acak kota ini!
+CAS6A22	2D7866CC	Mari kita acak-acak kota ini!
+CAS6A23	5A7F565A	Itu yang kukatakan! Jadi, kita mau ke mana?
+CAS6A24	C41BC3F9	Rincian nanti saja! Mari kita pergi ke sana sekarang!
+CAS6A25	B31CF36F	Bagus sekali, kawan, bagus sekali!
+CAS6A26	2A15A2D5	Siapkan barangnya, Maccer. Ada apa denganmu?
+CAS6B00	F306DB3B	Ada apa? Kamu melupakan sesuatu?
+CAS6B01	8401EBAD	Tidak - dengar, kamu masuklah duluan, aku akan menunggu.
+CAS6B02	1D08BA17	Dengar, kamu harus ikut bersamaku sekali ini saja.
+CAS6B03	6A0F8A81	Jika aku berhasil melakukan ini, aku bisa melanjutkannya, aku tahu aku bisa,
+CAS6B04	F46B1F22	tapi tolong, kamu harus ikut bersamaku - aku bakal berak di celana!
+CAS6B05	836C2FB4	Sekali ini saja tolongtolongtolongtolong...
+CAS6B06	1A657E0E	Oke, oke - tenang!
+CAS6B07	6D624E98	Sial, ini kelihatannya tidak bagus.
+CAS6B08	FDDD5309	Dengar, semuanya akan baik-baik saja.
+CAS6B09	8ADA639F	Ingat saja; kamu bosnya!
+CAS6B10	EA1DEA7A	Aku bosnya? Aku bosnya. Aku bosnya. Aku bosnya! Aku adalah bosnya!
+CAS6B11	9D1ADAEC	Hei teman-teman. Beritahu bos kalian bahwa Ken Rosenberg di sini ingin bertemu dengannya.
+CAS6B12	04138B56	Ken siapa?
+CAS6B13	7314BBC0	K-Ken Rosenberg...
+CAS6B14	ED702E63	Ken Rosenberg! Orang yang mengendalikan kota ini!
+CAS6B15	9A771EF5	Jadi, uh, bagaimana keadaan Johnny?
+CAS6B16	037E4F4F	Keadaannya jauh lebih baik, ya.
+CAS6B17	74797FD9	Dia makan sesuatu tadi pagi.
+CAS6B18	E4C66248	Heeeyyy, Ken... Ah, Kristus, benda sialan ini... Ken... Como esta e, eh, bagaimana kabarmu?
+CAS6B19	93C152DE	Cukup baik. Dan kamu?
+CAS6B20	C130B9B9	Ah, masih sedikit mengalami ketakutan malam,
+CAS6B21	B637892F	- sedikit diare, tapi aku akan melaluinya.~n~- Huh, diare, keren! Ya...
+CAS6B22	2F3ED895	Dan siapa ini..?
+CAS6B23	5839E803	Bagaimana kabarmu, Johnny?
+CAS6B24	C65D7DA0	Dia ini sialan... Dia orangnya!
+CAS6B25	B15A4D36	Oh Tuhan... Oh Tuhan... Dia orangnya...
+CAS6B26	28531C8C	Aaargghh! Jantungku! Euchh... jantungku...
+CAS6B27	5F542C1A	Huh, diare, keren! Ya...
+CAS6B28	CFEB318B	Sial, orang itu benar-benar hancur!

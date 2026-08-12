@@ -1,0 +1,182 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	9B4B3CD8	Press ~m~~widget_horn~ to sound car horn.
+GAR1_07	2D644BA1	~r~The car's destroyed!
+GAR1_10	AA1BEF43	Hey! Get back in the ~b~car.
+GAR1_14	AD762B5A	~r~Jethro's dead!
+GAR1_15	DA711BCC	~r~Dwayne's dead!
+GAR1_16	43784A76	~r~Zero's dead!
+GAR1_17	347F7AE0	~r~Truth's dead!
+GAR1_18	A4C06771	~r~You abandoned the car!
+GAR1_19	D3C757E7	~r~You abandoned The Truth!
+GAR1_20	8136BC80	~r~You abandoned Jethro!
+GAR1_21	F6318C16	~r~You abandoned Dwayne!
+GAR1_22	6F38DDAC	~s~Get inside the ~b~car~s~.
+GAR1_23	183FED3A	Tap ~m~~widget_horn~ to sound car horn.
+GAR1_26	685519B5	~s~Get to The Hospital.
+GAR1_AA	A226D71F	C'mon, man, there's these two guys I know - used to work on marine engines,
+GAR1_AB	3B2F86A5	'til the mob bought their business over in Vice.
+GAR1_AC	4C28B633	Now they try and make ends meet by taking any old job.
+GAR1_AD	D24C2390	They're a little bit dulled by their habit,
+GAR1_AE	A54B1306	but the smoke don't get in the way of their skills with an engine.
+GAR1_AF	3C4242BC	We'll pick up Jethro first.
+GAR1_AG	4B45722A	Last I heard, he was working at a garage over Easter Basin.
+GAR1_AH	DBFA6FBB	Last I heard, he was working at a garage over East Esplanade way.
+GAR1_AJ	35F40E97	Last I heard, he was working at a garage over North Esplanade way.
+GAR1_BA	890B84DC	Hey man, how'd you meet these dudes anyway?
+GAR1_BB	1002D566	I met them at the '89 Fierro Love-in, apparently.
+GAR1_BC	6705E5F0	Apparently?
+GAR1_BD	F9617053	You know how it is, man,
+GAR1_BE	8E6640C5	a field of tents, crazy-assed music,
+GAR1_BF	176F117F	a quart of mescaline vodka, polar bears...
+GAR1_BG	606821E9	Polar bears?
+GAR1_BH	F0D73C78	Yeah. Go figure. But they were funny guys, man - great sense of humor.
+GAR1_CA	9010B59D	This here's Vietnamese gang territory.
+GAR1_CB	0919E427	Da Nang Boys, Shining Razors, Butterfly Children.
+GAR1_CC	7E1ED4B1	Watch yourself, dude. These cats are real serious.
+GAR1_DA	DF51235A	Hey, Jethro!
+GAR1_DB	465872E0	Hey there Truth dude!
+GAR1_DC	315F4276	Oh man, do I owe you?
+GAR1_DD	AF3BD7D5	Coz I swear I paid for that weed, dude!
+GAR1_DE	D83CE743	No, man, we're good, I think.
+GAR1_DF	4135B6F9	Hop in, man. I've landed you a real job.
+GAR1_EA	C64A121B	Jethro, Carl. Carl, Jethro.
+GAR1_EB	5F4343A1	Wassup man.
+GAR1_EC	28447337	Can we swing by the hospital, it's over in Santa Flora district, west of here.
+GAR1_ED	B620E694	Yeah, you sick?
+GAR1_EE	C127D602	No. The government is, but that's a long story.
+GAR1_FA	ED6741D8	So y'know, like what's the deal, dudes?
+GAR1_FB	746E1062	I'm opening a garage in Doherty by the waste ground.
+GAR1_FC	036920F4	You know, car mods, lowriders, all that shit.
+GAR1_FD	9D0DB557	You down?
+GAR1_FE	EA0A85C1	Do polar bears shit in the woods?
+GAR1_FF	7303D47B	No, but they've been known to shit in the liquor tent, if I remember it right.
+GAR1_FG	0404E4ED	Yeah, that was, like, so far gone, man.
+GAR1_GA	F47C7099	What we here for, anyway?
+GAR1_GB	6D752123	Nothin'.
+GAR1_GC	1A7211B5	Ooh, don't look.
+GAR1_GD	84168416	Cover your faces.
+GAR1_GE	F311B480	Think about a yellow rubber duck.
+GAR1_GF	6A18E53A	You tripping again.
+GAR1_GG	1D1FD5AC	Sshhh!
+GAR1_GH	8DA0C83D	OK, I've seen enough.
+GAR1_GI	FAA7F8AB	Let's go see if we can find Dwaine.
+GAR1_GJ	63AEA911	He's working a hotdog van at the tram terminal in King's.
+GAR1_HA	73E46C56	C'mon, dude, what's all that about?
+GAR1_HB	EAED3DEC	You don't want to know.
+GAR1_HC	9DEA0D7A	Why?
+GAR1_HD	038E98D9	Do you know what a sub-dermal neurophone is?
+GAR1_HE	7489A84F	A what?
+GAR1_HF	ED80F9F5	Exactly.
+GAR1_HG	9A87C963	Sometimes it's best to stay in the dark, kid.
+GAR1_JA	41D20ED4	Dude, Dwaine, man, how's the hot dog business?
+GAR1_JB	D8DB5F6E	It's totally shit. Why, what's happenin'?
+GAR1_JC	AFDC6FF8	Uh, my friend Carl here is opening a chop shop.
+GAR1_JD	31B8FA5B	Jethro's in, how about you?
+GAR1_JE	46BFCACD	Ah yeah, cool man.
+GAR1_JF	DFB69B77	Uh I've got like some shit to take care of first though.
+GAR1_JG	A8B1ABE1	So uh you tell me where you guys are going to be at and I'll meet you dudes there.
+GAR1_JH	380EB670	The garage is on the waste grounds in Doherty.
+GAR1_JJ	D600D75C	I'll see y'all later.
+GAR1_KA	58C93F95	OK, next stop the cop station downtown.
+GAR1_KB	C1C06E2F	What? You out your mind! Why?
+GAR1_KC	B6C75EB9	If I told you, the likelihood is you'd get a probe up your ass within a month.
+GAR1_KD	28A3CB1A	Like, listen to the man, dude, he's real serious about that shit.
+GAR1_KE	5FA4FB8C	Wuh? OK, but you're starting to freak me out with all that space shit, man.
+GAR1_LA	1788A952	OK, you know the drill.
+GAR1_LB	8E81F8E8	Don't look interested in anything.
+GAR1_LC	F986C87E	Picture a pink golfball in your mind.
+GAR1_LD	67E25DDD	OK, we're good to go.
+GAR1_MA	0E939813	Where to next, Spacehead?
+GAR1_MB	979AC9A9	There's an electronics guy I've had dealings with,
+GAR1_MC	E09DF93F	goes by the name of ZERO.
+GAR1_MD	7EF96C9C	He could fix a supercomputer with a paperclip.
+GAR1_ME	09FE5C0A	He's got his own shop,
+GAR1_MF	90F70DB0	but he's always ready to help fellow travelers along the path.
+GAR1_MG	E7F03D26	Let's go introduce you to him
+GAR1_NA	25BECBD0	Look, what's goin' on, Truth?
+GAR1_NB	BCB79A6A	Who was them dudes?
+GAR1_NC	CBB0AAFC	Don't go there, man.
+GAR1_ND	55D43F5F	Listen to Jethro.
+GAR1_NE	22D30FC9	Now, what if I told you we never went to the moon,
+GAR1_NF	BBDA5E73	JFK lives in Scotland with Janis Joplin,
+GAR1_NG	CCDD6EE5	and the only reason we've been in a cold war for the last forty-five years,
+GAR1_NH	5C627374	was because snake-headed aliens run the oil business?
+GAR1_NJ	B26C1258	I think you popped another microdot.
+GAR1_NK	C56B22CE	Good. Keep it that way.
+GAR1_OA	3CA5FA91	Blow the horn.
+GAR1_OB	A5ACAB2B	Leave me alone Berkley!
+GAR1_OC	D2AB9BBD	This is stalking!
+GAR1_OD	4CCF0E1E	Oh, hey, Truth.
+GAR1_OE	3BC83E88	Get in, I'll fill you in as we drive.
+GAR1_OF	A2C16F32	Home, James!
+GAR1_PA	F1FFF40F	Carl, Zero, Zero, Carl.
+GAR1_PB	68F6A5B5	Sup.
+GAR1_PC	1FF19523	Carl here is opening a garage around the corner.
+GAR1_PD	81950080	I told him you're the man to speak to when it comes to electronics.
+GAR1_PE	F6923016	Actually, I'm the ONLY man to speak to.
+GAR1_PF	6F9B61AC	You should drop by the shop sometime, see some of my shit, bro.
+GAR1_PG	189C513A	I'll do that.
+GAR1_PH	88234CAB	OK, we here.
+GAR1_PJ	662D2D87	Grade A, tip-top genius, that's me.
+GAR1B00	A7FEEE21	Motherfucker! That mute asshole!
+GAR1B01	D0F9DEB7	That fucking snake without a tongue!
+GAR1B02	49F08F0D	Gave me this shithole instead of a pink slip?
+GAR1B03	3EF7BF9B	I must be the biggest fucking idiot in the whole fucking world!
+GAR1B04	A0932A38	Holmes, take it easy. At least we're alive.
+GAR1B05	D7941AAE	Carl, friend, fellow traveler, relax, man.
+GAR1B06	4E9D4B14	You're really killing my fucking vibe here!
+GAR1B07	399A7B82	Well, I'm sorry I'm fucking up your vibe, old man,
+GAR1B08	A9256613	but I can't wait to get my hands on that mute
+GAR1B09	DE225685	and your bitch ass cousin.
+GAR1B10	BEE5DF60	Hey!
+GAR1B11	C9E2EFF6	My cousin? You're gonna dis my familia?
+GAR1B12	50EBBE4C	My bad, man. I'm just pissed for all of us.
+GAR1B13	27EC8EDA	I mean look, we in a strange place, we got shit to our name,
+GAR1B14	B9881B79	and for once I try to make something work, this garage,
+GAR1B15	CE8F2BEF	and it ain't even a garage.
+GAR1B16	57867A55	Then make it into a garage.
+GAR1B17	20814AC3	Oh, that's a great idea, sis! Why don't you shut up?
+GAR1B18	B03E5752	You know what, Carl, you are a fucking idiot.
+GAR1B19	C73967C4	Your whole life you've wanted something for nothing.
+GAR1B20	95C88CA3	Now you've got something, and you don't know what to do with it.
+GAR1B21	E2CFBC35	Well, make it good enough. We'll help, right?
+GAR1B22	7BC6ED8F	C'mon stop tripping, man.
+GAR1B23	0CC1DD19	Both of you.
+GAR1B24	92A548BA	Woah man, the energy here - it's fantastic.
+GAR1B25	E5A2782C	Yeah, alright, but how am I gonna find some good mechanics to work up in here, man?
+GAR1B26	7CAB2996	I know a few guys. Come with me, friend.
+GAR1B27	0BAC1900	They're good people, I swear it.
+GAR1B28	9B130491	We got your back, CJ.
+GAR1B29	EC143407	Ommmmmm...
+GAR1B30	8CD3BDE2	Oh, man - I'm about to ride with this fool again?
+GAR1C00	A63C8416	Nice place you got here.
+GAR1C01	D13BB480	A week of hard work and we'll transform this place.
+GAR1C02	4832E53A	Cesar, this is Jethro, Dwaine and Zero.
+GAR1C03	3F35D5AC	- Hey man.~n~- Dude.
+GAR1C04	A151400F	Wassup, B?
+GAR1C05	D6567099	Salutations, my sibling!
+GAR1C06	4F5F2123	Horale, let's get to work.
+GAR1C07	385811B5	Hey Carl, look - I think I found a way for us to get paid.
+GAR1C08	A8E70C24	I ain't going to no college to study no accounting!
+GAR1C09	DFE03CB2	No, idiot, property!
+GAR1C10	BF27B557	Decorating ain't exactly my thing, either.
+GAR1C11	C82085C1	No, property development!
+GAR1C12	5129D47B	Look, you buy a dump like this, fix it up and sell it.
+GAR1C13	262EE4ED	Or better yet, you turn the property into a business.
+GAR1C14	B84A714E	The snowball gets bigger...
+GAR1C15	CF4D41D8	I dunno, sis, this all sounds big time to me.
+GAR1C16	56441062	Look, Carl, this place is gonna get on its feet,
+GAR1C17	214320F4	and when it does, we are gonna have money.
+GAR1C18	B1FC3D65	If you want to make something of yourself,
+GAR1C19	C6FB0DF3	you gotta let your money work for you.
+GAR1C20	940AE694	Look, I wouldn't even know where to start.
+GAR1C21	E30DD602	Look, you two concentrate on the garage,
+GAR1C22	7A0487B8	and let me work the property thing, OK?
+GAR1C23	0D03B72E	Hey, Cesar! Come over here.
+GAR1C24	9367228D	Yeah, that's my baby girl right there, holmes!
+GAR1C25	E460121B	Man, you chose her, I'm stuck with her!

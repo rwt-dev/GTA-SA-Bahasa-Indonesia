@@ -1,0 +1,47 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+HE4_AA	CD35085D	Okay, that should do us.
+HE4_AB	543C59E7	Take care of those bikes.
+HE4_AC	233B6971	Now get out of here!
+HE4_BA	E6185B9E	Come in control; I was doing a walk-the-line on some drunk at the pizza place
+HE4_BB	7F110A24	and my bike's been stolen!
+HE4_BC	08163AB2	Larry, some prick's trying your bike for size!
+HE4_BD	9672AF11	Get him!
+HE4_BF	787CCE3D	I'm at the hospital and, well, some joker's stolen my bike!
+HE4_BG	0F7BFEAB	All units, this is an APB for a serial patrol bike thief.
+HE4_BJ	71CA8216	Suspect is black male, about six feet tall, and light build,
+HE4_BK	06CDB280	Suspect is black male, about six feet tall, and medium build,
+HE4_BL	98A92723	Suspect is black male, about six feet tall, and heavy build,
+HE4_BM	EFAE17B5	Oh, and a stupid haircut!
+HE4_CA	FF036ADF	You get the Packer, hit the Julius Thruway and keep moving.
+HE4_CB	660A3B65	I'll steal the bikes and get them to you.
+HEI4_01	89308ACA	~s~We need to steal four ~g~police bikes~s~ and get them safely onto the back of a Packer truck.
+HEI4_02	1039DB70	~s~Drive the bike onto the ~b~Packer~s~ truck.
+HEI4_03	673EEBE6	~s~Get back on the ~g~bike~s~.
+HEI4_04	F95A7E45	~r~We needed all those bikes in good working order!
+HEI4_05	8E5D4ED3	~r~The Packer is destroyed! How are we going to deliver the bikes now?
+HEI4_06	17541F69	~s~Get another ~g~police bike~s~ for the job.
+HEI4_07	60532FFF	~s~All four bikes have been safely delivered!
+HEI4_08	F0EC326E	~s~Two more ~g~bikes~s~ to go.
+HEI4_09	87EB02F8	~s~One more ~g~bike~s~ to go.
+HEI4_10	E72C8B1D	~r~Out of time! The Packer truck has left!
+HEI4_11	902BBB8B	~s~The Packer's circling the outskirts of town but you'll have to be quick, it leaves soon.
+HEI4_12	0922EA31	time
+HEI4_13	7E25DAA7	~s~There's the ~b~Packer~s~ up ahead. Drive up the ramp at a steady speed so it can be attached.
+HST5A00	1DCCE1F6	Alright, here's the plan. It's all about the art of deception.
+HST5A01	6ACBD160	While I get as much heat on me as possible,
+HST5A02	F3C280DA	Y'all get away with the green.
+HST5A03	84C5B04C	Question: how does the Mafia normally move cash out of Caligula's?
+HST5A04	1AA125EF	Bingo! Stripes for Mr. Zero here.
+HST5A05	6DA61579	Ha hey! Good job, you little ass kisser!
+HST5A06	F4AF44C3	So, we're going to steal ourselves an armored car
+HST5A07	83A87455	and re-spray it so it looks like one of their regular trucks.
+HST5A08	131769C4	What about the police escorts?
+HST5A09	64105952	Whenever they move cash around they use police motorcycles as outriders.
+HST5A10	04D7D0B7	Exactly what I was thinking.
+HST5A11	73D0E021	C'mon, come with me, and we're gonna go get some cop wheels...
+HST5A12	EAD9B19B	Ha ha, tha... Ow... Ow?

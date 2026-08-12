@@ -1,0 +1,100 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+TRU1@00	C52E1039	Hello? Hello, somebody in there?
+TRU1@01	B22920AF	In here.
+TRU1@02	2B207115	Yo, Carl! What up, kid?
+TRU1@03	5C274183	Hey, what's happening? Oh, is this undercover training? Oh no, you must be off duty.
+TRU1@04	C243D420	Yeah, yeah, whatever, hush up man.
+TRU1@05	B544E4B6	Mr. Truth here is going to be supplying you with some of the finest... weed,
+TRU1@06	2C4DB50C	and you are going to deliver it for us.
+TRU1@07	5B4A859A	Hey, man, you losing it, you hallucinating and shit.
+TRU1@08	CBF5980B	Whuh? Oh - Yo, Truth, come here, man.
+TRU1@09	BCF2A89D	Welcome friend.
+TRU1@10	DC352178	Carl here is going to be paying you your money.
+TRU1@11	AB3211EE	What you talking about?
+TRU1@12	323B4054	Now, Carl, I got a real do gooder fucking with me,
+TRU1@13	453C70C2	and I want you to take this evil green poison, and drop it on him.
+TRU1@14	DB58E561	It's going to ruin that asshole's career.
+TRU1@15	AC5FD5F7	Oh bullshit.
+TRU1@16	3556844D	Dudes, you want mushrooms? Ludes? How about some DMT?
+TRU1@17	4251B4DB	No, not for me, man. I gotta jet.
+TRU1@18	D2EEA94A	Yo, Carl, pay the man.
+TRU1@19	A5E999DC	Whoa man! I never thought I'd see that.
+TRU1@20	F71872BB	A fed out-smoking me. What are you, dude? FBI? DEA?
+TRU1@21	801F422D	No, I'm more like a private investigator.
+TRU1@22	19161397	Friend, you give off a positive energy. How about some Vietnamese opium?
+TRU1@23	6E112301	Nah, I don't get down with that.
+TRU1@24	F075B6A2	But how do I know I can trust you then?
+TRU1@25	87728634	What, I'm working for you now?
+TRU1@26	1E7BD78E	I'm a man of peace
+TRU1@27	697CE718	but some squares across that ridge are not respecting my peace.
+TRU1@28	F9C3FA89	I mean survivalist maniacs. Right wingers. Fascists!
+TRU1@29	8EC4CA1F	They have a harvester and I need one.
+TRU1@30	EE0343FA	Get it, and then you can pay me.
+TRU1@31	9904736C	Namaste, Carl.
+TRU1@32	000D22D6	Check this shit out. What do we have here?
+TRU1@33	770A1240	Wassup?
+TRU1@34	E96E87E3	Oh, shit... I'm fucked up.
+TRU1@35	9E69B775	The fuck that mean? Later, freak.
+TRU1_1	2E76B980	Get to the ~y~farm ~s~where the combine harvester is located.
+TRU1_16	222C6000	~r~The combine harvester is wrecked!
+TRU1_2	B77FE83A	~s~The ~b~combine harvester ~s~is located at the field towards the back of the farm.
+TRU1_3	C078D8AC	~s~There are several groups of survivalists working, they will not take kindly to any strangers.
+TRU1_4	5E1C4D0F	~s~Get into the farm and steal the ~b~combine harvester~s~.
+TRU1_5	291B7D99	~s~Take the combine harvester back to ~y~The Truth's farm~s~.
+TRU1_7	C7151CB5	~s~Get back in ~b~the combine harvester ~s~and get it back to The Truth!
+TRU1_AA	C372FD69	Who's this guy?
+TRU1_AB	5A7BACD3	Dunno but he looks kinda shifty!
+TRU1_AC	2D7C9C45	Stop that dang varmint!!
+TRU1_AD	B31809E6	Roll him in some pig shit!
+TRU1_AE	C41F3970	Oh, my pride and joy!
+TRU1_AF	5D1668CA	He ain't sleeping with my sister!
+TRU1_AG	2A11585C	You don't belong around here!
+TRU1_AH	BAAE45CD	We got a snooper, folks!
+TRU1_BA	E85FAEAA	Who's the smog sucker?!
+TRU1_BB	7156FF10	He ain't got no good about him!
+TRU1_BC	0651CF86	Blast the hair-brained coot!
+TRU1_BD	98355A25	Ain't nobody knows he's here!
+TRU1_BE	EF326AB3	He's got my nooky wagon!
+TRU1_BF	763B3B09	Whatever you want, it ain't here, mister!
+TRU1_BG	013C0B9F	We didn't order no shit delivery!
+TRU1_BH	9183160E	Feed him to the pigs!
+TRU1_CA	F1449FEB	Who's this dang chicken wrangler?!
+TRU1_CB	684DCE51	Trouble is all he looks like to me, friend!
+TRU1_CC	1F4AFEC7	We got ourselves a chase, cue the banjo music!
+TRU1_CD	812E6B64	There he is, get him!
+TRU1_CE	F6295BF2	Get him! He's got Betsy!
+TRU1_CF	6F200A48	You'll get nothing but trouble here, son!
+TRU1_CG	18273ADE	You ain't welcome, not no way, not no how!
+TRU1_CH	8898274F	He's some loco drughead, get him!
+TRU1_DA	BE05092C	Who's this city slicker?
+TRU1_DB	270C5896	He ain't got a clue where he is!
+TRU1_DC	500B6800	Holy snout rings, he's getting away!
+TRU1_DD	CE6FFDA3	Throw him down the pit with the others!!
+TRU1_DE	B968CD35	He's a combine rustler!! That son of a bitch is stealin' Betsy!
+TRU1_DF	20619C8F	You come to the wrong farm, boy.
+TRU1_DG	5766AC19	This ain't no country club, fella!
+TRU1_DH	C7D9B188	He's high on evil, beat the Lord into him!
+TRU1_EA	A71E386D	Who's this here snoopy noser?
+TRU1_EB	3E1769D7	He's lost and down on his luck!
+TRU1_EC	49105941	Bag him for the pot!
+TRU1_ED	D774CCE2	Shred him!
+TRU1_EE	A073FC74	Hey, that's my bed!
+TRU1_EF	397AADCE	You take a wrong turn, boy?
+TRU1_EG	4E7D9D58	You deaf, boy, you ain't welcome!
+TRU1_EH	DEC280C9	Po' fella must be deaf and dumb!
+TRU1_FA	8C336BAE	Hey, who is this guy?
+TRU1_FB	153A3A14	He don't look all there to me!
+TRU1_FC	623D0A82	Somebody run and get the darn sheriff!
+TRU1_FD	FC599F21	Beat him down, it's all he's good for!
+TRU1_FE	8B5EAFB7	He's got the family car!
+TRU1_FF	1257FE0D	This here's private land, stranger.
+TRU1_FG	6550CE9B	What the, what's he doin'?
+TRU1_FH	F5EFD30A	Don't ignore us, you dumb mute!
+TRU1_ZA	6A4436F3	Man, you've brought peace back to my valley, thank you, friend.
+TRU1_ZB	F34D6749	I'll call you when the whoop-de-doo is ready,
+TRU1_ZC	844A57DF	just make sure you get that cash.

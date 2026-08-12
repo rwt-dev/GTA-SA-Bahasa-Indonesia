@@ -1,0 +1,66 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+DES6@00	AEB473CD	Got you again, Carl. You're half asleep.
+DES6@01	D9B3435B	I could have killed you in 9 different ways.
+DES6@02	40BA12E1	Wake up and smell the coffee.
+DES6@03	37BD2277	You need to lay off the coffee.
+DES6@04	A9D9B7D4	We got a problem.
+DES6@05	DEDE8742	I got some guys out in the field need some equipment.
+DES6@06	47D7D6F8	If they don't get it, they'll be dead by nightfall.
+DES6@07	30D0E66E	Then take it to them.
+DES6@08	A06FFBFF	Me take it to them?
+DES6@09	D768CB69	Yeah, why not?
+DES6@10	B7AF428C	I got five guys watching me all the time.
+DES6@11	C0A8721A	Two in that hill. One over there and two by satellite.
+DES6@12	59A123A0	If I go my guys and I will be dead.
+DES6@13	2EA61336	I don't have a death wish. I'm a man of peace, son.
+DES6@14	B0C28695	Yeah, clearly.
+DES6@15	C7C5B603	Take the plane.
+DES6@16	5ECCE7B9	You're not ready yet so stay low under the radar. Questions?
+DES6@17	29CBD72F	- Yeah, just one thing...~n~- Get to it.
+DES6@18	B974CABE	Get to it.
+DES6@19	CE73FA28	Wait. Hey. Listen! Listen to me for once.
+DES6@20	9C82114F	Why won't these guys come after me?
+DES6@21	EB8521D9	Oh, they can't because they're all posted on me.
+DES6@22	728C7063	One DEA. One FBI. A Russian, a Cuban double agent and my paymasters.
+DES6@23	058B40F5	Checks and balances. Nobody is watching anybody watching nobody.
+DES6@24	9BEFD556	You know what I mean? Go.
+DES6@25	ECE8E5C0	Whatever, man.
+DES6_00	B9CE9780	~s~The ~b~plane~s~ is all loaded up and ready to go.
+DES6_03	20C7C63A	~s~You have ~1~ seconds to get back in the ~b~plane~s~.
+DES6_04	BEA35399	~s~You have ~1~ second to get back in the ~b~plane~s~.
+DES6_06	50AD32B5	~s~Remain under the radar for a short time and they will lose you and give up the chase.
+DES6_07	27AA0223	~s~Above radar limit!
+DES6_09	C0122F24	~s~Fly into the ~y~corona~s~ to trigger the drop.
+DES6_10	A0D5A6C1	~s~Return to the ~y~airfield~s~ and land.
+DES6_11	D7D29657	~s~Bring the plane to a stop anywhere on the ~y~landing strip~s~.
+DES6_12	4EDBC7ED	~s~Keep an eye on your 'visibility bar' to stay under the radar.
+DES6_50	C4B963C5	Visibility
+DES6_51	B3BE5353	Timer
+DES6_97	F668B96A	~r~Out of time.
+DES6_98	66D7A4FB	~r~Not in aircraft.
+DES6_99	11D0946D	~r~The aircraft has been destroyed.
+DES6_AA	A8E89E9D	Hey Carl.
+DES6_AB	31E1CF27	You gotta stay nice and low on your approach or you'll pop up on the radar.
+DES6_AD	D8826A12	Use the canyon as cover.
+DES6_AE	AF855A84	You sure this thing's safe, I can see daylight through the floor?
+DES6_AF	368C0B3E	Hey, in that thing you look like an enthusiast.
+DES6_AG	418B3BA8	The US Air Force is less likely to shoot you down.
+DES6_AH	D1342639	Cool. What's the problem then?
+DES6_AJ	3F3A4715	I said less likely.
+DES6_AK	483D7783	If you did as many amphetamines as these guys do, you'd be lucky not to shoot anything that moves.
+DES6_AM	A15ED2B6	Aw, shit.
+DES6_AN	3857830C	Hey, just stay low and you'll be fine.
+DES6_BA	83C5CD5E	You're flying too high!
+DES6_BB	1ACC9CE4	Get below the radar!
+DES6_BC	6DCBAC72	Stay low, Carl!
+DES6_BD	F3AF39D1	Nap of the Earth, Carl, nap of the Earth!
+DES6_CA	9ADEFC1F	Shit, you've been spotted!
+DES6_CB	03D7ADA5	What that mean?
+DES6_CC	74D09D33	it means they'll send something in the area to go check you out!
+DES6_CD	EAB40890	Watch your six!
+DES6_DA	D59F6AD8	Nice going Carl, really, you did good kid

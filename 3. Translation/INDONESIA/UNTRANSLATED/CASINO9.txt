@@ -1,0 +1,77 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	5499E50E	To aim, use ~m~~widget_ped_move~. To take cover, press ~m~~widget_explicit_take_cover_left~ or ~m~~widget_explicit_take_cover_right~. To fire press ~m~~widget_attack~.
+CAS9_01	C89CCBD8	You're going to need a fast plane to catch up with the hitmen, there is one at the airport.
+CAS9_02	51959A62	~s~Get to the airport and steal the ~b~plane~s~ in the hangar.
+CAS9_03	2692AAF4	~s~Get the plane up in the air and catch up with the ~y~hitmen~s~.
+CAS9_04	B8F63F57	~s~Get back in the ~b~plane~s~ you need to catch the hitmen.
+CAS9_08	B140737C	~s~Get to the ~y~airport~s~.
+CAS9_09	C64743EA	~s~Steal the ~b~plane~s~ in the hangar.
+CAS9_10	A680CA0F	~s~You have 20 seconds to manually eject from the plane before your fuel runs out.
+CAS9_12	488EAB23	~s~Head into the ~r~corona~s~ at the back of the ~b~jet~s~.
+CAS9_16	4FE36F3A	~s~Kill all the hitmen.
+CAS9_21	FAAAA95A	~s~Kill the pilot.
+CAS9_23	14A4C876	~s~Fly the plane back to ~y~Las Venturas~s~.
+CAS9_40	DBF73E4A	~s~Fly the plane into the ~r~corona~s~.
+CAS9_41	ACF00EDC	~s~Fly the plane back to the ~y~airport~s~.
+CAS9_42	35F95F66	~r~You lost the hitmen's plane.
+CAS9_50	C2EC0F0B	~s~The hitmen's flight is due to land soon, intercept the ~y~plane~s~ before it gets to Las Venturas.
+CAS9_51	B5EB3F9D	~s~Get behind the ~y~plane~s~ and fly into the ~r~corona~s~.
+CAS9_52	2CE26E27	~r~The hitmen's plane reached Las Venturas.
+CAS9_AA	AEBDF253	Hey, what's going on!
+CAS9_AB	37B4A3E9	Shit, how the fuck did HE get in here?
+CAS9_AC	40B3937F	Who cares?
+CAS9_AD	DED706DC	Waste him!
+CAS9_BA	8590A190	You picked the wrong plane to hijack!
+CAS9_BB	1C99F02A	I'm gonna give you the full trolley service, asshole!
+CAS9_BC	6B9EC0BC	We're gonna dump your body over the desert!
+CAS9_BD	F5FA551F	Who is this nut job, anyway?
+CAS9_CA	9C8B90D1	Come out, you chicken shit asshole!
+CAS9_CB	0582C16B	Heh yeah - yeah, what's the matter, you lost your nerve?
+CAS9_CC	7285F1FD	Ah, the 'ickle boy is hiding, ain't dat cute?
+CAS9_CD	ECE1645E	Hey, come out and play, asshole!
+CAS9_DA	D3CA0616	I ain't going down without a fight!
+CAS9_F1	B1F915A8	~r~You destroyed the plane.
+CAS9_F2	28F04412	~r~You opened your parachute and lost the plane.
+CAS9_F3	5FF77484	~r~You fell below the hitmen's plane.
+CAS9_H4	5F10CCA9	Move left and right to take cover.
+CAS9A00	A9237534	Top fuckin' buzz this.
+CAS9A01	DE2445A2	I'm peaking on the blood pressure alone.
+CAS9A02	472D1418	Yeah, t'riffic.
+CAS9A03	302A248E	Well, well, well...
+CAS9A04	AE4EB12D	Here's your sandwich.
+CAS9A05	D94981BB	What have we got here?
+CAS9A06	4040D001	I don't usually do this kind of shit, you know.
+CAS9A07	3747E097	Heh, heh, heh. I like this girl.
+CAS9A08	A7F8FD06	What's your name, kid?
+CAS9A09	D0FFCD90	Maria. And the service is not included.
+CAS9A10	B0384475	Pay the woman, you fat fuck!
+CAS9A11	C73F74E3	You heard the bird!
+CAS9A12	5E362559	And who's this asshole?
+CAS9A13	293115CF	The name's Carl Johnson, sir.
+CAS9A14	B755806C	Before working with Mr. Rosenberg here,
+CAS9A15	C052B0FA	I had the pleasure of doing business
+CAS9A16	595BE140	with your son, Joey, back in Liberty City.
+CAS9A17	2E5CD1D6	You know my Joey? I like that.
+CAS9A18	BEE3CC47	So, kid, what can I do for you?
+CAS9A19	C9E4FCD1	Well, Ken'll vouch for me, I'm a straight killer.
+CAS9A20	9B1517B6	Oh, oh he, eerr, one man fucking army!
+CAS9A21	EC122720	Real dependable. Total fucking maniac, too.
+CAS9A22	751B769A	You know, the Forelli's are sending over a crew to hit me.
+CAS9A23	021C460C	Their flight gets in soon - traveling as a string quartet.
+CAS9A24	9C78D3AF	I was going to send some of the boys over as a little welcoming committee,
+CAS9A25	EB7FE339	but, uh, maybe you can take care of it.
+CAS9A26	7276B283	Thank you, sir. I guarantee you, you won't regret this.
+CAS9A27	05718215	- Maybe I should go along-~n~- Waaarrgghhh!
+CAS9A28	95CE9F84	Waaarrgghhh!
+CAS9A29	E2C9AF12	You stay where you are, Rosenberg.
+CAS9A30	820E26F7	I don't want you getting yourself lost.
+CAS9A31	F5091661	Who's this pretty thing?
+CAS9A32	6C0047DB	Come on.
+CAS9A33	1B07774D	Are you kidding me?
+CAS9A34	8563E2EE	See you later, guys.
+CAS9A35	F264D278	- That's OK, I'm comfortable, I'm fine.~n~- You stay where you are, Rosenberg.

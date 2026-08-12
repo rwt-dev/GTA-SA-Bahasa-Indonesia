@@ -1,0 +1,66 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+CRA3_AA	5E62A6E0	Hey, who the fuck are you?
+CRA3_AB	C76BF75A	Go on, get out of here!
+CRA3_AC	B06CC7CC	I think you are trespassing, my friend!
+CRA3_BA	754FF523	Big mistake, my friend!
+CRA3_CA	6C54C462	He's after the guns!
+CRA3_CB	F55D95D8	Wrong, I'm after you!
+CRA3_DA	231552A5	Hey, hey, maybe we can talk about this!
+CRA3_DB	BA1C031F	Stop, we could do business!
+CRA3_DC	CD1B3389	Fuck you, Americansky! I'm gone!
+CRA3_DD	537FA62A	Doing business in America is dangerous!
+CRA3_DE	247896BC	Got to get away from this crazy Americansky!
+CRA3_EA	3A0E63E4	Hey, who the fuck are you?
+CRA3_EB	A307325E	You don't want to be nosing around here!
+CRA3_EC	D40002C8	You're putting your nose where it's not wanted!
+CRA3A00	59FC2187	Where you running off to, Carl, I thought we were friends!
+CRA3A01	2EFB1111	Carl!
+CRA3A02	B7F240AB	As an officer in charge of putting an end to gang violence,
+CRA3A03	C0F5703D	I find myself in a difficult moral position, Carl.
+CRA3A04	5E91E59E	Yeah right.
+CRA3A05	2996D508	Carl, I'm hurt, I truly am.
+CRA3A06	B09F84B2	And just as I was about to help those poor Grove Street boys.
+CRA3A07	C798B424	Oh yeah? How?
+CRA3A08	5727A9B5	I like the status quo, Carl.
+CRA3A09	20209923	I like having all you bastards doing my job for me -
+CRA3A10	40E710C6	blowing each other's guts all over the sidewalk.
+CRA3A11	37E02050	Now, if it's brought to my attention
+CRA3A12	AEE971EA	that one tribe gets an unfair advantage over another,
+CRA3A13	D9EE417C	that truly troubles me, Carl.
+CRA3A14	478AD4DF	So what you saying, man?
+CRA3A15	308DE449	I'm saying the Ballas have brains, Carl, they watch the news.
+CRA3A16	A984B5F3	I'm saying they're making friends, cutting deals,
+CRA3A17	DE838565	and tooling up for more than half-assed drive-by's.
+CRA3A18	4E3C98F4	Lots of cheap guns coming into America since the fall of the wall, Carl.
+CRA3A19	393BA862	Man, cut that bullshit, Tenpenny - just say what you mean, man.
+CRA3A20	6BCA4305	Go check out a busy freight warehouse down the docklands and you'll see what I mean, Carl.
+CRA3A21	1CCD7393	Y'all take care, now!
+CRA3A22	85C42229	Damn!
+CRA3A23	F2C312BF	Where you off to?
+CRA3A24	6CA7871C	Yeah, whatever.
+CRA3A25	1BA0B78A	Dumb bastards?
+CRA3A26	82A9E630	Yeah, OK.
+CRA3A27	F5AED6A6	For sure.
+CRA3A28	6511CB37	Shit!
+CSH3_1	AC32F93F	~s~Go to the ~y~docks ~w~where the Ballas and the Russians are making a deal.
+CSH3_10	90132F68	If you press and hold ~m~~widget_attack~ while armed with a gun you can strafe.
+CSH3_11	E7141FFE	When strafing you can manually aim and shoot by using the camera movement controls.
+CSH3_12	7E1D4E44	Strafing allows you to look around corners and position yourself more effectively in gun fights.
+CSH3_13	091A7ED2	~s~The meeting is taking place in the ~r~office ~s~at the back.
+CSH3_14	977EEB71	~s~The ~r~Russian Mafia Boss ~s~is getting away chase him down!
+CSH3_15	E079DBE7	~r~He got away!
+CSH3_16	79708A5D	~s~Take out the ~r~gang members~s~ involved in the meeting!
+CSH3_2	353BA885	~s~The Russians and the Ballas are having a meeting inside the warehouse.
+CSH3_3	423C9813	~s~You will have to find some way inside.
+CSH3_51	8378DAFA	Rolling is useful in gun fights as it allows you to dodge gunfire and surprise enemies. You can roll left or right.
+CSH3_52	1A718B40	To roll you must be crouched and have a gun equipped then press and hold ~m~~widget_attack~ and move left or right to roll.
+CSH3_53	6D76BBD6	~s~Take out the ~r~Russian arms dealer~s~ inside the office!
+CSH3_54	F3122E75	~s~He has got in a ~r~car~s~! Chase him down and take him out!
+CSH3_55	84151EE3	~r~He got away!
+CSH3_6	32566C9C	~s~The meeting is taking place in the ~y~office ~s~at the back.
+CSH3_7	45515C0A	The door is locked. Damaging the keypad might get it open.

@@ -1,0 +1,220 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+CAS4_01	3AF61305	~s~Pergi cari ~b~Paul ~s~dan ~b~Maccer~s~.
+CAS4_02	A3FF42BF	~s~Kembali dan jemput ~b~Paul~s~!
+CAS4_03	D4F87229	~s~Kembali dan jemput ~b~Maccer~s~!
+CAS4_04	4A9CE78A	~r~Paul benar-benar tewas!
+CAS4_05	3D9BD71C	~r~Maccer telah mati, dunia musik tidak akan pernah sama lagi!
+CAS4_06	A49286A6	~s~Bawa mereka kembali ke ~y~kasino Rosie~s~ di Las Venturas!
+CAS4_16	BD89B7E7	Bawa Paul dan Maccer ke ~y~peternakan ular.
+CAS4_17	CA8E8771	Itu tidak benar kawan, aku tidak akan pernah melihat sepotong daging babi dengan cara yang sama lagi
+CAS4_18	5A319AE0	Sepertinya aku ingat... tunggu sebentar, bukankah kamu yang memegang kamera video!
+CAS4_19	2D36AA76	~s~Kamu harus mencari kendaraan dengan setidaknya dua kursi penumpang.
+CAS4_26	96A4E424	Sepertinya kukuku patah
+CAS4_27	E1A3D4B2	Aku terlalu tampan untuk bertarung
+CAS4_29	061BF9B5	Bau apa ini?
+CAS4_30	66DC7050	Oh tunggu sebentar, ini bau diriku.
+CAS4_34	61B1B449	~s~Lindungi ~b~Paul ~s~dan ~b~Maccer~s~!
+CAS4_37	F8B8E5F3	~s~Pergi dan jemput ~b~Paul ~s~dan ~b~Maccer~s~.
+CAS4_44	2EF0228E	~s~Mereka akan terus bertengkar sampai kamu menemukan mobil dengan kursi yang cukup untuk mereka berdua.
+CAS4_45	59F71218	Aku tidak sudi naik bus sialan, cari mobil yang layak untuk kita!
+CAS4_46	C0FE43A2	~s~Mereka tidak akan senang dengan bus! Cari yang lain.
+CAS4_47	B7F97334	~r~Paul dan Maccer telah terbunuh!
+CAS4_BA	77FA794D	Kakiku sakit sekali dan kepalaku rasanya mau pecah!
+CAS4_BB	EEF328F7	Kita tidak bisa jalan kaki kembali, nak, lihat keadaan kita.
+CAS4_CA	6EE1480C	Giliranmu di bagasi, nak!
+CAS4_CB	F7E819B6	Oooo, ini nyaman sekali!
+CAS4_CC	80EF2920	Aku manajernya, aku duduk di kursi depan!
+CAS4_CD	1E8BBC83	Oi! Itu kursiku!
+CAS4_CE	698C8C15	Biarkan dia, dia bakal baik-baik saja!
+CAS4_CF	F085DDAF	Kami akan kembali menjemputmu, aku janji!
+CAS4_CG	8782ED39	Oh tidak, tidak bisa, aku ingat kejadian di Preston Guild Hall!
+CAS4_CH	173DF0A8	Aku manajernya, apa kataku yang berlaku!
+CAS4_CJ	F9339184	Jangan buat aku menamparmu, manis!
+CAS4_CK	8E34A112	Jangan buat aku memecatmu, P.!
+CAS4_CL	105034B1	Kamu manajerku, ini semua salahmu!
+CAS4_DA	21A0DECB	Jadi di mana anggota band yang lain, teman-teman?
+CAS4_DB	B8A98F71	Maccer, di mana anak-anak yang lain?
+CAS4_DC	CFAEBFE7	Aku tidak tahu, memangnya aku tahu?
+CAS4_DD	51CA2A44	Aku ingat ular, banyak sekali ular...
+CAS4_DE	26CD1AD2	Ada peternakan ular yang tidak jauh dari sini, kita bisa pergi mengeceknya.
+CAS4_EA	38BBEF8A	Aku tidak mengenali bagian Manchester yang ini, nak, apakah kita di Chorlton?
+CAS4_EB	A1B2BE30	Berapa kali harus kuberi tahu, kita ada di Amerika!
+CAS4_EC	D6B58EA6	Amerika? Tunggu sampai kuberitahu ibuku soal ini!
+CAS4_ED	48D11B05	Dia seperti piringan hitam yang rusak. Selanjutnya dia pasti bakal bertanya soal Las Venturas.
+CAS4_EE	3FD62B93	Las Venturas? Selalu ingin pergi ke sana, payudara yang indah.
+CAS4_EF	A6DF7A29	Jangan mulai, jangan di dalam ruangan sempit ini.
+CAS4_EG	D1D84ABF	Membal, bergoyang, besar, payudara yang indah!
+CAS4_EH	4167572E	Hentikan perbuatanmu itu, demi Tuhan!
+CAS4_FA	1396BC49	Kita sampai, kelihatan familier?
+CAS4_FB	8A9FEDF3	Kelihatan persis seperti Salford bagiku...
+CAS4_FC	FD98DD65	Apa yang kamu bicarakan?
+CAS4_FD	63FC48C6	Coba lihat mereka teman-teman, apakah itu mereka?
+CAS4_FE	14FB7850	Bocah kota itu telah bersetubuh dengan babi betina keanggakanku!
+CAS4_FF	8DF229EA	Sekarang aku bahkan tidak dapat jatah darinya lagi!
+CAS4_FG	FAF5197C	Dan yang itu telah meniduri adik perempuanku!
+CAS4_FH	6A4A04ED	Selangkanganku terasa sakit sekali sejak saat itu!
+CAS4_FJ	844465C1	Aku akan menamparmu sampai gila karena memberi aku dan pasanganku bintik-bintik merah!
+CAS4_FK	F3435557	Apa-apaan ini?
+CAS4_FL	6D27C0F4	Aku akan menghajarmu atas apa yang telah kamu lakukan pada anak-anakku!
+CAS4_GA	0A8D8D08	Oh, tidak! Lari cepat!
+CAS4_GB	9384DCB2	Semuanya masuk ke mobil!
+CAS4_HA	8D1591C7	Tunggu, nak, tunggu!
+CAS4_HB	141CC07D	Aku juga ikut!
+CAS4_HC	631BF0EB	Oi, tunggu aku, manis!
+CAS4_HD	FD7F6548	Jangan tinggalkan aku di cengkeraman jahat mereka!
+CAS4_JA	BF23F345	Kurasa kita berhasil meloloskan diri dari mereka.
+CAS4_JB	262AA2FF	Aku tidak melihat peternak ular itu lagi!
+CAS4_JC	512D9269	Diam kalian berdua!
+CAS4_JD	CF4907CA	Berhentilah bertengkar!
+CAS4_KA	A638C204	Sepertinya kalian bersenang-senang.
+CAS4_KB	3F3193BE	Hei, bagaimana dengan anggota band yang lain?
+CAS4_KC	4836A328	Kita cuma bisa berdoa semoga mereka berhasil mencapai peradaban.
+CAS4_KD	D652368B	Pemain kibor dan pemukul drum mudah dicari gantinya lagipula.
+CAS4_KE	A155061D	Hei, kawan, aku kebelet kencing sekali!
+CAS4_KF	385C57A7	Oh sial, kita dalam masalah!
+CAS4_KG	4F5B6731	Hei, tidak bisakah ditahan dulu?
+CAS4_KH	DFE47AA0	Kandung kemihku mau meledak kawan!
+CAS4_KJ	31EA1B8C	Kamu harus tepi mobilnya, dia punya kondisi medis - dia priapismus. Itu bakal menyemprot ke mana-mana!
+CAS4_LA	E97954C3	Aku tidak bisa menahannya lagi!
+CAS4_LB	70700579	Oh, sial! Kena mataku!
+CAS4_LC	077735EF	Hei, ayolah, kawan!
+CAS4_LD	9913A04C	Argh! Hentikan!
+CAS4_LE	EE1490DA	Arahkan ke luar jendela sialan itu, bisa tidak?
+CAS4_MA	F0626582	Oh persetan, itu enak sekali.
+CAS4_NA	DB4F3641	Oh, sial- sekarang aku gemetaran.
+CAS4_NB	424667FB	Kamu kelihatan pucat seperti bayi tenggelam, kawan!
+CAS4_NC	3541576D	Oh Tuhan, kurasa aku mau muntah!
+CAS4_ND	AB25C2CE	P., yang kamu butuhkan adalah makanan untuk diisi.
+CAS4_NE	DC22F258	(Paul hampir muntah)
+CAS4_NF	452BA3E2	Roti tangkap telur goreng dengan mayones bakal menyembuhkannya.
+CAS4_NG	322C9374	(Paul hampir muntah lagi)
+CAS4_NH	A2938EE5	Atau bagaimana kalau telur acar?
+CAS4_NJ	4C9DEFC9	Pinggirkan mobilnya, SEKARANG!
+CAS4_OA	C2540700	Si- huuuuueeek- alt!
+CAS4_OB	5B5D56BA	Aku m- huuuuuueeeeeek!
+CAS4_OC	2C5A662C	Mual- Hhuuuuueeeek!
+CAS4_OD	B23EF38F	Mual- hueek!
+CAS4_OE	C539C319	Mual- hueek!
+CAS4_OF	5C3092A3	Mual muntah... Oh...
+CAS4_OG	2B37A235	Oh, kurasa... kurasa sudah reda.
+CAS4_OH	BB88BFA4	Bagaimana kalau segelas minyak hati ikan kod, itu pasti menyembuhkanmu.
+CAS4_OJ	5586DE88	(Paul muntah-muntah hebat)
+CAS4_OK	2281EE1E	Biarkan dia, kawan!
+CAS4_OL	BCE57BBD	Hei, hei, dokter yang baik ini cuma mencoba membantu!
+CAS4_OM	CBE24B2B	Per-he-Persetan!
+CAS4_PA	0F0E099E	Payudara seperti apa yang dimiliki Rosie ini?
+CAS4_PB	96075824	Payudara sosis yang besar dan kendur?
+CAS4_PC	E10068B2	Kantung pelana kosong?
+CAS4_PD	7F64FD11	Kantung pelana kosong? Atau sengatan lebah?
+CAS4_PE	0863CD87	Rosie itu pria!
+CAS4_PF	916A9C3D	Dan berhenti menyentuh dirimu sendiri!
+CAS4_PG	E66DACAB	Ini cuma untuk menenangkan diri Pablo, ini situasi yang bikin stres, kawan.
+CAS4_PH	76D2B13A	Kamu tidak perlu memberi tahuku soal itu!
+CAS4_PJ	98DCD016	Duh, diamlah kalian berdua!
+CAS4_PK	EFDBE080	Hei, dia yang mulai duluan!
+CAS4_QA	161538DF	Kasino yang mana?
+CAS4_QB	8F1C6965	Namanya Caligula's. Ada di kawasan Strip di suatu tempat, kurasa.
+CAS4_RA	3D386B1C	Sial! Para peternak ular itu datang!
+CAS4_RB	A4313AA6	Baiklah, aku sudah muak. Mari kita selesaikan ini!
+CAS4_RD	4D529F93	Oh, aku bakal memegang payudara besar, kawan!
+CAS4_RE	3A55AF05	Oh, omong kosong. Kepalang basah, mandi sekalian.
+CAS4_SA	24235A5D	Ayo kalau begitu, mari kita masuk dan menemui Rosie.
+CAS4_SB	BD2A0BE7	Bagaimana dengan bantuanmu, kawan? Apa kamu bakal baik-baik saja tanpa kami?
+CAS4_TA	6B62CC9A	Hei Woozie.
+CAS4_TB	F26B9D20	Kurasa aku menemukan cara untuk memata-matai Caligula's tanpa menimbulkan terlalu banyak kecurigaan.
+CAS4_TC	856CADB6	Kita bisa bicara nanti.
+CAS4A00	5B49ADE9	Halo.
+CAS4A01	2C4E9D7F	Dengan siapa aku bicara?
+CAS4A02	B547CCC5	Ini CJ. Hei, Truth, apakah itu kamu?
+CAS4A03	C240FC53	Bisa jadi.
+CAS4A04	5C2469F0	Mungkin algoritma pemerintah sedang mencoba meretas otakmu,
+CAS4A05	2B235966	jadi jangan akui apa pun!
+CAS4A06	B22A08DC	Terserahlah, kawan. Ada apa?
+CAS4A07	C52D384A	Aku butuh bantuan, Carl, kurasa aku bisa mencairkan cip karmaku.
+CAS4A08	559225DB	Kreditmu baik.
+CAS4A09	2295154D	Aku membawa beberapa sesama pengelana jauh ke dalam padang pasir
+CAS4A10	42529CA8	dalam safari peyote beberapa malam yang lalu.
+CAS4A11	3555AC3E	Kami menghadapi cahaya batin dan menyatu dengan raja kadal.
+CAS4A12	AC5CFD84	Kelihatannya seru. Bagaimana hasilnya?
+CAS4A13	DB5BCD12	Itu masalahnya, aku tidak tahu.
+CAS4A14	453F58B1	Aku berada di Los Santos.
+CAS4A15	32386827	Aku terbangun di pemandian umum Jepang sekitar satu jam yang lalu.
+CAS4A16	AB31399D	Aku tidak tahu bagaimana aku bisa sampai di sini atau di mana yang lainnya.
+CAS4A17	DC36090B	Mungkin mereka baik-baik saja.
+CAS4A18	4C89149A	Kurasa tidak.
+CAS4A19	3B8E240C	Mereka orang Inggris - sebuah band dan manajer mereka.
+CAS4A20	697FCF6B	Mereka tidak punya pengalaman tentang padang pasir.
+CAS4A21	1E78FFFD	OK, di mana kalian berkemah? Aku bisa pergi melihatnya.
+CAS4A22	8771AE47	Aku membawa mereka ke Arco del Oeste - pemandangan matahari terbenam yang fantastis.
+CAS4A23	F0769ED1	Paling baik mulai mencari mereka di sana.
+CAS4B00	590F13B0	Halo? Hei, ada orang di luar sini? Truth mengutusku!
+CAS4B01	2E082326	EH! Di sebelah 'sini!
+CAS4B02	B701729C	Hei, kawan, kamu tidak apa-apa?
+CAS4B03	C006420A	Sialan, aku pusing dan mual sekali.
+CAS4B04	5E62D7A9	Demi Tuhan. Di mana aku?
+CAS4B05	2965E73F	Aku tidak tahu, kawan. Aku sedang bermimpi;
+CAS4B06	B06CB685	aku sedang bermesraan dengan payudara wanita gemuk saat si bodoh ini muncul.
+CAS4B07	C76B8613	Oh sial.
+CAS4B08	57D49B82	Maccer, kamu psiko sialan! Kamu melakukannya lagi, kan!
+CAS4B09	20D3AB14	Peyote itu sampah, kamu beruntung aku membawa beberapa pil!
+CAS4B10	401422F1	Sudah kubilang sejuta kali jangan memasukkan barang ke dalam minumanku!
+CAS4B11	37131267	Oh, persetan, bocah!
+CAS4B12	AE1A43DD	Siapa kamu lagi?
+CAS4B13	D91D734B	Di mana kita?
+CAS4B14	4779E6E8	Oh, aku teman The Truth.
+CAS4B15	307ED67E	Dia bilang kalian mungkin butuh tumpangan ke kota atau semacamnya.
+CAS4B16	A97787C4	Tapi aku lumpuh total!
+CAS4B17	DE70B752	Kamu tidak lumpuh total!
+CAS4B18	4ECFAAC3	Aku tidak bisa merasakan kakiku, P.
+CAS4B19	39C89A55	Aku telah melumpuhkannya karena terlalu banyak bermasturbasi!
+CAS4B20	6B397132	Berdirilah, kamu bajingan cengeng.
+CAS4B21	1C3E41A4	Kita mengalami hal ini setiap akhir pekan.
+CAS4B22	8537101E	Kawan, apa yang kalian lakukan tadi malam?
+CAS4B23	F2302088	Jadi, ke mana aku harus membawa kalian?
+CAS4B24	6C54B52B	Ada yang punya kain lap?
+CAS4B25	1B5385BD	Aku punya kawan, Rosie.
+CAS4B26	825AD407	Dia punya pekerjaan kasino di Venturas. Mantap.
+CAS4B27	F55DE491	Persetan, kurus.
+CAS4B28	65E2F900	Oh, ramah sekali.
+CAS4B29	12E5C996	Rasanya seperti aku tidak bisa merasakannya, jujur!
+CAS4B30	72224073	Ah! Ooh!
+CAS4B31	052570E5	Baiklah.
+CAS4B32	9C2C215F	Baiklah, para wanita, ayo pergi.
+CAS4B33	EB2B11C9	Ayo. Orang Utara sialan...
+CAS4C00	58CD7987	Kent Paul, di sini ingin bertemu Rosie.
+CAS4C01	2FCA4911	Hei bos, ada seseorang di sini ingin bertemu denganmu.
+CAS4C02	B6C318AB	Oh, pergilah, aku sedang migrain.
+CAS4C03	C1C4283D	Oi, Rosie, nak, ini aku, Paulo!
+CAS4C04	5FA0BD9E	Oh Tuhan.
+CAS4C05	28A78D08	Keputusasaanku sudah lengkap.
+CAS4C06	B1AEDCB2	OK, biarkan dia masuk.
+CAS4C07	C6A9EC24	Rosiiieee! Bagaimana kabarmu, kawan lamaku?
+CAS4C08	5616F1B5	Aku berdoa semoga suatu hari nanti aku bisa melarikan diri dari penderitaan abadi ini
+CAS4C09	2111C123	dan pensiun dengan tenang dan nyaman sejuta mil jauhnya
+CAS4C10	41D648C6	dari siapa pun yang pernah kukenal, tapi sebaliknya, aku malah mendapatkan ini.
+CAS4C11	36D17850	Ayolah, ini aku, Kent Paul!
+CAS4C12	AFD829EA	Yah, halo Paul, kejutan yang menyenangkan. Siapa orang-orang ini?
+CAS4C13	D8DF197C	Ini teman-temanku - Maccer dan Carl.
+CAS4C14	46BB8CDF	Ada apa?
+CAS4C15	31BCBC49	Kamu mau pil Speckled Doves, bos?
+CAS4C16	A8B5EDF3	Aku sedang berada di puncaknya sekarang.
+CAS4C17	DFB2DD65	Kualitas terbaik, kawan.
+CAS4C18	4F0DC0F4	Yah, ini sangat cocok.
+CAS4C19	380AF062	Saat aku duduk di sini hingga leherku tenggelam dalam sungai kotoran,
+CAS4C20	6AFB1B05	dengan setiap gorila Mafia dari Liberty City hingga Los Santos
+CAS4C21	1DFC2B93	kencing di mukaku, lalu kamu, Kent Paul, menyaksikan ini.
+CAS4C22	84F57A29	Ada apa, nak?
+CAS4C23	F3F24ABF	Terlalu banyak, sangat tidak teratasi
+CAS4C24	6D96DF1C	dan sangat tipikal untuk disebutkan.
+CAS4C25	1A91EF8A	Tidak apa-apa, kawan, Paulo bisa membantu.
+CAS4C26	8398BE30	Beri kami ruang sebentar, nak.
+CAS4C27	F49F8EA6	Aku akan meneleponmu nanti.
+CAS4C28	64209337	Baiklah, tentu saja.
+CAS4C29	1327A3A1	Bukan kamu, Maccer.
+CAS4C30	73E02A44	Oh, kamu bajingan.
+CAS4C31	04E71AD2	Luas biasa.

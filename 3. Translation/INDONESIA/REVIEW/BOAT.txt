@@ -1,0 +1,61 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	251ED096	Arahkan perahu melewati setiap pasangan ~y~pelampung~s~. Tancap gas dengan ~m~~widget_accelerate~, lalu tekan dan tahan ~m~~widget_ped_move_left~ dan ~m~~widget_ped_move_right~ untuk mengemudi.
+	D4A72A4E	Tekan dan tahan sudut kanan bawah layar untuk menancap gas ke depan dan hentikan perahu di dalam area ~y~pelampung~s~ sejajar.
+	4BE107E3	Arahkan perahu melewati setiap pasangan ~y~pelampung~s~. Tancap gas dengan menekan sudut kanan bawah layar dan kemudikan ke kiri dan kanan dengan kontrol arah.
+	98BC44AB	Tekan ~m~~widget_enter_car~ untuk keluar dari tes.
+	4076B8D9	Tahan ~m~~widget_accelerate~ untuk menancap gas ke depan dan hentikan perahu di dalam area ~y~pelampung~s~ sejajar.
+	D2E85659	Arahkan perahu melewati setiap pasangan ~y~pelampung~s~. Tancap gas dengan ~m~~widget_accelerate~ dan kemudikan ke kiri atau kanan dengan kontrol arah.
+BOAT_10	E9914BF7	Waktu Keseluruhan
+BOAT_11	9E967B61	Jarak Lompatan
+BOAT_12	079F2ADB	Lompatan Tidak Sah!
+BOAT_31	ACA019E3	~y~Titik Pemeriksaan
+BOAT_32	35A94859	~s~Di dalam area berhenti
+BOAT_33	42AE78CF	~s~Selesai!
+BOAT_34	DCCAED6C	~r~Waktu habis!
+BOAT_46	7D851A87	rekor baru
+BOAT_47	0A822A11	sertifikat baru didapatkan
+BOAT_52	63F3EFDF	Kemudikan
+BOAT_53	14F4DF49	Keluar
+BOAT_54	8A904AEA	Mulai
+BOAT_55	FD977A7C	EMAS
+BOAT_56	649E2BC6	PERAK
+BOAT_57	13991B50	PERUNGGU
+BOAT_58	832606C1	rekor waktu ~1~:~1~d
+BOAT_59	F4213657	selesaikan di bawah ~1~.~1~d untuk lulus
+BOAT_60	A6D0DD30	lompatan terjauh ~1~ meter
+BOAT_61	D1D7EDA6	melompat lebih dari ~1~ meter untuk lulus
+BOAT_62	48DEBC1C	selesaikan di bawah ~1~ detik untuk lulus
+BOAT_63	3FD98C8A	selesaikan di bawah ~1~ menit untuk lulus
+BOAT_64	A1BD1929	TANPA PENGHARGAAN
+BOAT_7	1B8D6703	Waktu Selesai
+BOAT_72	51C58D5D	~<~~>~
+BOAT_75	CFA118FE	Hasil
+BOAT_76	56A84944	Lanjutkan
+BOAT_77	21AF79D2	~1~:~1~d
+BOAT_78	B1106443	~1~:~1~d
+BOAT_79	C61754D5	~1~m ~1~d
+BOAT_80	3853F0BE	~1~:~1~m
+BOAT_9	FC354A04	Penalti Kerusakan
+BOAT_A	A2EBB30A	kemampuan dasar pelaut
+BOAT_A5	B6C4C68E	Tahan ~m~~widget_brake~ untuk mundur.
+BOAT_B	3BE2E2B0	tentukan rute
+BOAT_B5	9DE9954D	~s~Tahan ~m~~widget_handbrake~ sambil menancap gas untuk berbelok lebih tajam.
+BOAT_C	4CE5D226	slalom segar
+BOAT_C1	839F6015	~s~Arahkan perahu melewati bagian tengah setiap pasangan ~y~pelampung~s~ secepat mungkin.
+BOAT_D	D2814785	ikan terbang
+BOAT_D1	CCDEF6D2	~s~ Melesatlah ke arah papan lompatan dan mendaratlah di dalam area ~y~pelampung~s~ sejajar agar lompatan terhitung sah.
+BOAT_E	A5867713	darat, laut, dan udara
+BOAT_H2	F962E864	Ketuk ~m~~widget_enter_car~ untuk keluar dari tes.
+BOAT_P1	E2702187	~s~Selamat! Kamu telah lulus semua tes sekolah perahu!
+BOAT_P2	7B79703D	SEKOLAH PERAHU LULUS!
+BOAT_T1	861CE483	waktu
+OMO_1	9D3BCCC6	Selamat datang di Sekolah Perahu
+OMO_2	04329D7C	Untuk lulus kamu harus meraih PERUNGGU atau lebih tinggi di seluruh 5 tes.
+OMO_3	7335ADEA	Untuk melihat demonstrasi dari setiap tes, silakan gunakan TV di sebelah sana.
+OMO_4	ED513849	Lulus dari satu tes akan membuka tes berikutnya.
+OMO_5	9A5608DF	Kamu bisa kembali dan memeriksa skormu atau mencoba tes baru kapan saja.

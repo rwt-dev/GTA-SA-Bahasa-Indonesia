@@ -1,0 +1,102 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+BH5A@00	91604FE1	Resist, sunshine, you can do it! For me, eh? Fucking Northerners...
+BH5A@01	E6677F77	No, Maccer! Fight the urge!
+BH5A@02	7F6E2ECD	Think of... Thatcher!
+BH5A@03	08691E5B	You know it's my time again...
+BH5A@04	960D8BF8	I know, dude. So what's holding you back?
+BH5A@05	E10ABB6E	Woah, hold up, this his video? I gotta see this fool...
+BH5A@06	7803EAD4	Hey, man, you clean now.
+BH5A@07	0F04DA42	You got nothing to worry about.
+BH5A@08	9FBBC7D3	Man, that fake-ass LOC!
+BH5A@09	E8BCF745	Loc? But he's terrible!
+BH5A@10	887B7EA0	Motherfucker...
+BH5A@11	FF7C4E36	I knew there was something familiar about those rhymes he was kicking.
+BH5A@12	66751F8C	They're from my rhyme book!
+BH5A@13	11722F1A	And that's my video he's shooting today.
+BH5A@14	8F16BAB9	OK, I say we make a cameo appearance.
+BH5A@15	F8118A2F	Just drop in, unannounced.
+BH5A@16	6118DB95	Oh, Maccer!
+BH5A@17	161FEB03	Hey, what's up, Dogg?
+BH5A@18	86A0F692	CJ, what's up, baby? Word.
+BH5A@19	F1A7C604	That's my money! And those are my 'hos!
+BH5A@20	A3562D63	...Thatcher...Thatcher...Thatcher...Thatcher...Thatcher...
+BH5A@21	D4511DF5	Yeah, that's gangsta.
+BH5A@22	4D584C4F	C'mon.
+BH5A@23	3A5F7CD9	- I love you, Maggie! I love you, Maggie!~n~- Oh, Maccer!
+BH5A@24	A43BE97A	- Oh, man!- ~n~You ain't right in the head, mate.
+BH5A@25	D33CD9EC	You ain't right in the head, mate.
+BH5B@00	83D5E00F	You phony!
+BH5B@01	F4D2D099	Man, you can't prove nothing!
+BH5B@02	6DDB8123	Hey, Jeffrey, you a buster, straight bitch.
+BH5B@03	1ADCB1B5	You stabbed me and my brother in the back.
+BH5B@04	84B82416	Man, I'm an artiste! We all make mistakes, ain't that right, alkie?
+BH5B@05	F3BF1480	You ain't no artist! You's a buster! You's a fake!
+BH5B@06	6AB6453A	Man, I was going to give you credit on the next album!
+BH5B@07	1DB175AC	Here, royalties! Take that! I got more, too!
+BH5B@08	8D0E683D	Yeah, you phony! Heh heh heh heh!
+BH5B@09	FA0958AB	Mr. Dogg, Jimmy Silverman, Blastin' Fools Records.
+BH5B@10	9ACED14E	Hold up, I'm the manager. You want to talk, talk to me.
+BH5B@11	EDC9E1D8	Oh, okay. Pleasure, gentlemen.
+BH5B@12	74C0B062	Let's talk, all right?. I need hits. I mean, hits!
+BH5B@13	03C780F4	Now what about this guy... this phony...
+BH5B@14	9DA31557	I've got a good mind to sue his ass into next year.
+BH5B@15	EAA425C1	Hey, Loc - go get us some lunch.
+BH5B@16	73AD747B	Excuse me, gangsta - I don't think so!
+BH5B@17	04AA44ED	Yo. There he go, right there.
+BH5B@18	9415597C	Hell, yeah - get that nigga, man.
+BH5B@19	E31269EA	Little bitch, I should just smack dogshit out your ass, break your face right here, motherfucker!
+BH5B@20	B1E3828D	Please - just don't hit me!
+BH5B@21	C6E4B21B	Motherfucker, I'll bust your ass...
+BH5B@22	5FEDE3A1	Man, get off me, you drunk!
+BH5B@23	28EAD337	You get lunch!
+BH5B@24	B68E4694	Man - get outta here.
+BH5B@25	C1897602	Don't let him be pushing me! Don't be pushing me...
+MAN5_AA	2C246585	Let's drop in on OG Loc,
+MAN5_AB	B52D343F	See if we can't interrupt that video shoot and recoup some royalties!
+MAN5_AC	C22A04A9	And my rhyme book!
+MAN5_BA	07093646	We're flying in style, baby! You got all the makings of a great manager, Carl!
+MAN5_BB	9E0067FC	Save it until we're spending Loc's royalties!
+MAN5_BC	E907576A	I mean, tell me how a fake, buster phony like suck-ass Loc can make it in the rap game, CJ?
+MAN5_BD	7763C2C9	Music business is changin', Dogg.
+MAN5_BE	0064F25F	It's all about dance routines and showmanship now.
+MAN5_BF	996DA3E5	Any fake-ass idiot can get a record deal these days.
+MAN5_BG	EE6A9373	So what am I supposed to do?
+MAN5_BH	7ED58EE2	Dogg, you got heart.
+MAN5_BJ	90DBEFCE	You got natural style.
+MAN5_BK	E7DCDF58	You got ice cold gangstas running through your veins!
+MAN5_BL	79B84AFB	Anybody can get a record deal,
+MAN5_BM	0EBF7A6D	but only the genuine article can shake down the house!
+MAN5_BN	97B62BD7	CJ, my man, you're a natural manager!
+MAN5_BO	E0B11B41	Let's go hit those life-or-death busters.
+MAN5_CA	1E120707	He's being interviewed, huh?
+MAN5_CB	871B56BD	OK, let's smash this party up!
+MAN5_DA	515391C0	You fucking phonies! Sum' bitch!
+MAN5_DB	C85AC07A	Gimme my rhyme book!
+MAN5_DC	BF5DF0EC	Gimme back my chain!
+MAN5_DD	2139654F	Gimme back my hoes!
+MAN5_EA	4848A081	He bustin' out!
+MAN5_EB	D141F13B	Come on, Dogg, let's get him!
+MAN5_F0	4467B2E8	~r~Madd Dogg was killed.
+MAN5_F1	3360827E	~r~You lost Madd Dogg and OG Loc.
+MAN5_F2	AA69D3C4	~r~You lost OG Loc.
+MAN5_F3	DD6EE352	~r~You killed OG Loc.
+MAN5_FA	6365F342	Stay away from me!
+MAN5_FB	FA6CA2F8	I thought we were friends!
+MAN5_FC	8D6B926E	You're yesterday's news!
+MAN5_FD	130F07CD	Kids want Loc! LOC!
+MAN5_FE	6408375B	Madd Dogg ain't nothing!
+MAN5_FF	FD0166E1	Madd Dogg, you a drunk ass busta!
+MAN5_FG	8A065677	The kids, they don't want you no more!
+MAN5_FH	1AB94BE6	You're washed up, both of you!
+MAN5_FJ	F4B72ACA	Smoke's gonna deal with you pussies!
+MAN5_G0	5D7C83A9	~s~Take ~b~Madd Dogg~s~ to the ~y~video shoot~s~.
+MAN5_G1	2A7BB33F	~s~Don't leave ~b~Madd Dogg~s~ behind you need to take him to the ~y~video shoot~s~.
+MAN5_G2	B372E285	~s~You need to bring ~b~Madd Dogg~s~ to the ~y~video shoot~s~.
+MAN5_G3	C475D213	~s~Follow ~b~Madd Dogg~s~ and help him chase ~r~OG Loc~s~.
+MAN5_G4	5A1147B0	~r~OG Loc's~s~ making a run for it, don't let him get away.
+MAN5_G5	2D167726	~s~Chase after ~r~OG Loc~s~ don't lose him.

@@ -1,0 +1,138 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	90381B24	Press ~m~~widget_horn~ to raise and lower the vehicle's hydraulics.
+LOWR_AA	7B583508	Na man, you need some REAL springs none of this standard shit.
+LOWR_AB	E25164B2	Man, your car gotta be set to bounce, homie!
+LOWR_AD	0B32C187	You trippin', ese? How you going to compete without a ride?
+LOWR_AE	7C35F111	Man, you gotta have a lowrider to hop!
+LOWR_AG	923B903D	You can't take part in that curacha, get yourself a lowrider!
+LOWR_AH	02848DAC	This is for firme rides, ese, not that old shit!
+LOWR_AK	9B8DDC16	You don't have enough cash to play, ese.
+LOWR_AL	05E949B5	You gotta put up some real green, homie!
+LOWR_BD	201F9244	My ese will see if you up to scratch, eh!
+LOWR_CA	496E578A	I've seen worse, but you did alright.
+LOWR_CB	D0670630	You're pretty good for a beginner, eh!
+LOWR_DA	062FC14D	Maybe hoppin' is just for eses.
+LOWR_DB	9F2690F7	Hey homie, maybe you should take up golf or some shit like that.
+LOWR_EA	1F34F00C	That's some serious bouncing, eh?
+LOWR_EB	863DA1B6	Shit, look at that Grove boy bounce!
+LOWR_EC	F13A9120	Damn, homie, that fool can hop!
+LOWR_ED	6F5E0483	Hey, homie, you're bouncing like a pro!
+LOWR_EE	18593415	Damn, homie, he's gonna shake that ride apart!
+LOWR_EF	815065AF	Damn, dog, he's showin' us all up!
+LOWR_FA	3419A3CF	Come on Dog, My mom can bounce better than that!
+LOWR_FB	AD10F275	Hey homie stick to spraying graffiti!
+LOWR_FC	DA17C2E3	Ah, fucking leva!
+LOWR_FD	44735740	They, this fool just don't got what it takes.
+LOWR_FE	337467D6	You're still looking lame in front of your hood.
+LOWR_FF	AA7D366C	Man, dog, you're losing it!
+LOWR_GA	2D02928E	Good job, eh. We usually hang out here between 8 and 10 pm,
+LOWR_GB	B40BC334	you got a hot lowrider and you got some cash to burn, well come along.
+LOWR_HA	AA9A8E41	You looking for something, ese?
+LOWR_HB	3393DFFB	Hey nice car, you looking for the competition?
+LOWR_HC	4494EF6D	Hey homie I can show you where it's at if you like.
+LOWR_HD	DAF07ACE	Follow me.
+LOWR_KA	81B7DD82	So, you must be Sweet's bro' huh?
+LOWR_KB	18BE8C38	He phoned ahead, said you might be looking for a car that bounces.
+LOWR_KC	6FB9BCAE	Well I owe him big from way back, so here, this should do the trick.
+LOWR_KD	F1DD290D	Custom springs should see you hopping all the way home! Try her out.
+LOWR_KE	86DA199B	Very popular with the eses - they compete in these things.
+LOWR_KF	1FD34821	You can usually find them over by Unity Station.
+LOWR_KG	68D478B7	If you ever want to mod your ride, come back any time, man.
+S6_01	7A5645C0	~s~Go to the garage in ~y~Willowfield~s~.
+S6_03	945824EC	~s~Get to the ~y~lowrider meeting~s~.
+S6_04	0A3CB14F	~r~The meeting is dispersing because you attacked a group member.
+S6_05	7D3B81D9	~s~You need a car with hydraulic suspension to compete.
+S6_15	6420B098	Use the Special Ctrls to activate the car hydraulics.
+S6_16	FD29E122	~s~Go to the ~y~garage~s~ for a paint job.
+S6_17	8A2ED1B4	~s~You don't have enough cash, you need $500.
+S6_18	1A91CC25	~r~You've destroyed the lowrider.
+S6_22	D16976F8	You can return to the garage at any time. It is marked on the radar with a wrench icon.
+S6_23	A66E466E	~s~Get back in the ~b~lowrider~s~.
+S6_26	D604B2E1	Use the suspension controls in the direction shown.
+S6_27	A1038277	Try to move the car in time with the music.
+S6_32	C87247B9	~r~The meeting is dispersing because you messed with one of their cars.
+S6_33	BF75772F	~r~You lost the lowrider challenge.
+S6_34	2111E28C	~r~Your lowrider is history.
+S6_35	5616D21A	~s~You need to take the ~b~lowrider ~s~with you.
+S6_36	CF1F83A0	Press and hold ~m~~widget_hydraulics~ while steering to control the vehicle's hydraulics. Tap ~m~~widget_hydraulics~ to lock hydraulics into place.
+S6_38	28A7AEA7	~s~Back up the lowrider into the ~y~mod garage~s~.
+S6_39	5FA09E31	Use the suspension controls to bounce in time with the music.
+S6_40	693DB052	You need $50 to compete in the lowrider event.
+S6_41	1E3A80C4	Tap ~m~~widget_horn~ to raise and lower the vehicle's hydraulics.
+SWE6A00	ACB17A08	Where are you going?
+SWE6A01	DBB64A9E	I'm tired of you not listening to me, girl.
+SWE6A02	42BF1B24	And I'm tired of you acting like you own me.
+SWE6A03	35B82BB2	I can see who I want to see.
+SWE6A04	ABDCBE11	Ohh, what - a no good narrow minded hypocrite gang banger
+SWE6A05	DCDB8E87	telling me what is right and what is wrong.
+SWE6A06	45D2DF3D	Let me guess, Sweet - senseless killing right,
+SWE6A07	32D5EFAB	but a boyfriend from the Southside, wrong?
+SWE6A08	A26AF23A	Some things ain't just meant to happen. I mean what if y'all have kids.
+SWE6A09	D56DC2AC	Leroy Hernandez? That don't sound good, girl.
+SWE6A10	B5AA4B49	His name ain't Hernandez.
+SWE6A11	C2AD7BDF	Well, Leroy Lopez then.
+SWE6A12	5BA42A65	Or Lopez, either, you racist fuck!
+SWE6A13	2CA31AF3	That ain't how Moms raised us.
+SWE6A14	B2C78F50	I ain't racist. I just know how they feel about you.
+SWE6A15	C5C0BFC6	And look at you, you're dressed like a hooker!
+SWE6A16	5CC9EE7C	Oh and I guess you two would know what a hooker look like, huh.
+SWE6A17	2BCEDEEA	You say it like it's a bad thing!
+SWE6A18	BB71C37B	Shut up, Carl.
+SWE6A19	CC76F3ED	I'm just trying to protect you.
+SWE6A20	9E87188A	For what, so I can date one of your mindless friends?
+SWE6A21	E980281C	I don't think so.
+SWE6A22	708979A6	Don't say a word, Carl. Just follow your sister,
+SWE6A23	078E4930	before you see another dead sibling.
+SWE6A24	99EADC93	Then you'll know exactly what my problem is.
+SWE6A25	EEEDEC05	She's meeting him at some cholo car club.
+SWE6A26	77E4BDBF	It just ain't right you seeing some cholo motherfucker.
+SWE6B00	AEF7C451	That shit was alright! Eeee!
+SWE6B01	D9F0F4C7	So since when has my brother been a lowrider?
+SWE6B02	40F9A57D	Since Sweet told me to keep an eye on you,
+SWE6B03	37FE95EB	make sure that whatever you're dating
+SWE6B04	A99A0048	don't get you in no trouble.
+SWE6B05	DE9D30DE	Que honda? Nice hopping, holmes.
+SWE6B06	47946164	Well you just shook that whatever's hand.
+SWE6B07	309351F2	Come here, baby girl
+SWE6B08	A02C4C63	- Hey, get your dirty hands off my sister!~n~- Carl! What is wrong with you?
+SWE6B09	D72B7CF5	Carl! What is wrong with you?
+SWE6B10	B7ECF510	Holmes, you acting like she's your woman, eh.
+SWE6B11	C0EBC586	She's with me, cabron. So chill the fuck out. I treat her good.
+SWE6B12	59E2943C	Look, baby, don't start no shit. Don't make it worse, OK?
+SWE6B13	2EE5A4AA	Horale vato. Who's this pendejo?
+SWE6B14	B0813109	What? Dickhead? This dickhead is my brother!
+SWE6B15	C786019F	Easy, holmes. He ain't from nowhere. He's cool.
+SWE6B16	5E8F5025	Well I say he ain't cool, holmes.
+SWE6B17	298860B3	I say he thinks he's gangster, man, and I don't like it.
+SWE6B18	B9377D22	So you know what you can do for me, man?
+SWE6B19	CE304DB4	You can fuck off, pendejo, and then maybe we cool.
+SWE6B20	9CC1A6D3	No, you fuck off, I'm talking to my sister.
+SWE6B21	EBC69645	Carl!
+SWE6B22	72CFC7FF	Jose, c'mon, holmes, I can handle this. This is important to me.
+SWE6B23	05C8F769	Horale pendejo you lucky. That's right, you lucky Cesar's spoken for you.
+SWE6B24	9BAC62CA	Vamanos muchachos.
+SWE6B25	ECAB525C	Let's get some fucking beer, huh.
+SWE6B26	75A203E6	Carl! What the hell were you thinking?
+SWE6B27	02A53370	Look, baby, go get in the car, OK, I'm gonna speak to Carl.
+SWE6B28	921A2EE1	Look, holmes, I love your sister. I honor her, she's my girl for life.
+SWE6B29	E51D1E77	This is why I stop you from being skinned just then.
+SWE6B30	85DA9792	You got a problem with me, fine, we don't have to be friends.
+SWE6B31	F2DDA704	But Kendl, she's happy with me, carnal.
+SWE6B32	6BD4F6BE	Yeah, OK, I guess we're cool. For now.
+SWE6B33	1CD3C628	Cesar Vialpando.
+SWE6B34	82B7538B	Carl Johnson - CJ.
+SWE6B35	F5B0631D	Cabron! You got a nice ride there, holmes. Maybe we'll get to kick it again soon, eh?
+SWE6B36	6CB932A7	Yeah. Maybe.
+SWE6B37	1BBE0231	Shit that was close.
+SWE6B38	8B011FA0	Back in the ghetto five minutes and I'm acting like my life ain't worth jack.
+SWE6B39	FC062F36	Damn this place has a way of getting to you.
+SWE6B40	CA9B0155	Hey, girl!
+SWE6B41	BD9C31C3	Look, baby, don't start no shit. Don't make it worse, OK?
+SWE6B42	24956079	I'm thirsty.
+SWHUD1	BF08216C	Wager
+SWHUD2	260170D6	$~1~

@@ -1,0 +1,98 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+SWE4_00	10003CF9	~s~Get in the ~b~car~s~.
+SWE4_01	67070C6F	~s~Drive your homies into ~y~Balla territory~s~.
+SWE4_02	FE0E5DD5	~s~Shoot up the neighborhood.
+SWE4_03	89096D43	~s~Get to the ~y~spray shop~s~, you can lose the police there!
+SWE4_04	176DF8E0	~r~Your homies didn't make it.
+SWE4_05	606AC876	~r~You sure you're down for the 'hood?
+SWE4_06	F96399CC	Drive your vehicle into the spray shop to lose your ~h~wanted level~w~, ~h~repair ~w~and ~h~respray ~w~your vehicle. Cost - ~h~$100~w~. This time it's free.
+SWE4_07	8E64A95A	The spray shop icon is marked on the radar as a spray can.
+SWE4_08	1EDBB4CB	CAR HEALTH
+SWE4_09	69DC845D	~s~You've left ~b~Smoke ~s~behind!
+SWE4_10	091B0DB8	~s~You've left ~b~Ryder ~s~behind!
+SWE4_11	7E1C3D2E	~s~You've left ~b~Sweet ~s~behind!
+SWE4_12	E7156C94	~s~You have a two star wanted level, the cops will chase you down.
+SWE4_13	90125C02	Press and hold ~m~~widget_look_left~ or ~m~~widget_look_right~ to look left or right when in a car.
+SWE4_14	0E76C9A1	~s~Take your homies back to ~y~the hood~s~.
+SWE4_15	7971F937	This will allow you to see where your enemies are located.
+SWE4_AA	012635E4	Where we going, homie?
+SWE4_AB	982F645E	Rollin' Heights Ballas country.
+SWE4_AC	EF2854C8	Front Yard Ballas country.
+SWE4_AD	714CC16B	Kilo Trays country.
+SWE4_AE	064BF1FD	Do us a little drive by, huh?
+SWE4_AF	9F42A047	For real. You down, Carl?
+SWE4_AG	E84590D1	Man I ain't even strapped.
+SWE4_AH	78FA8D40	You ain't cold enough for that shit, CJ.
+SWE4_AI	0FFDBDD6	You know somethin', matter of fact, you're our chauffeur for this little gig. C'mon.
+SWE4_AJ	96F4EC6C	Gee, thanks G.
+SWE4_AK	E1F3DCFA	Just don't drive like no fool.
+SWE4_BA	2A0B6627	Yeah - Ballas turf. You dogs ready?
+SWE4_BB	B302379D	Yeah, for sure, I'm ready.
+SWE4_BC	C405070B	Carl, Just concentrate on the driving and we'll take care of the shooting.
+SWE4_BD	5A6192A8	Listen to the man, fool! And try not to park us up a tree or something.
+SWE4_BE	2D66A23E	Yeah if the car stops, we're dead meat.
+SWE4_CA	33105766	What did I say? Told y'all CJ drives like a blind motherfucker.
+SWE4_CB	AA1906DC	CJ, you a mark. Don't ever by a ride, never.
+SWE4_CC	DD1E364A	This fool crashing on purpose - I swear!
+SWE4_DA	7C51C1A1	Shit! Get us out of here! We're sitting ducks!
+SWE4_DB	E558901B	Damn, man, move! MOVE!
+SWE4_DC	925FA08D	What is you doing! CJ?!
+SWE4_DD	0C3B352E	Get us the hell out of here!
+SWE4_DE	7B3C05B8	Man, they trying to get us popped!
+SWE4_DF	E2355402	What the fuck are you doing, CJ? Move it!
+SWE4_EA	654AF0E0	Man, what'd I tell y'all - told you he was a buster!
+SWE4_EB	FC43A15A	Carl, don't run out on me again!
+SWE4_EC	8B4491CC	Carl's quitting on us!
+SWE4_FA	4E67A323	Damn, he's shook us!
+SWE4_FB	D76EF299	Fuck you, CJ! I'm on it.
+SWE4_FC	A069C20F	I'll get us up out of here!
+SWE4_FD	3E0D57AC	Motherfucker! I've got the wheel!
+SWE4_GA	577C9262	Smash on it, Carl, smash!
+SWE4_GB	CE75C3D8	Damn, the ride is hot! Every one-time in South Central is going to be looking for this car!
+SWE4_HA	D0E48EAD	That's right! Now let's get back to the Grove!
+SWE4_HB	49EDDF17	Yeah, what you waiting for, Carl?
+SWE4_KA	FBC9DD6E	Yeah, Grove is back, man, Grove is back!
+SWE4_KB	62C08CD4	Yeah for sure. They was slippin' man!
+SWE4_KC	15C7BC42	Man. I'm shocked you didn't get us killed, CJ!
+SWE4_KD	8BA329E1	Let me check myself. Am I dead?
+SWE4_KE	FCA41977	Yeah, yeah, for sure, you know that. I'll see y'all later.
+SWE4_KF	65AD48CD	Hey, Carl, ignore that motherfucker, you did good today.
+SWE4_KG	12AA785B	You're down with the Grove and the Ballas know it,
+SWE4_KH	821565CA	so watch yourself from now on, CJ.
+SWE4_KI	F512555C	Here, take this, go get yourself some beers.
+SWE4_LA	B4884BA9	We iced them! CJ, let's hunt down some more!
+SWE4_LB	2D811A13	That was way too easy! Let's go blast on some more Ballas fools.
+SWE4_LC	5A862A85	What you waiting for, CJ? Find us some more Ballas so we can cap 'em.
+SWE4_MA	AD937AE8	Some of those fools are still standing, we gotta make another pass!
+SWE4_MB	349A2B52	We didn't get all those motherfuckers!
+SWE4_MC	439D1BC4	Let's finish 'em off! Woo Woo!
+SWE4_MD	DDF98E67	Where you going CJ? There's sill some more Ballas need to get popped.
+SWE4_NA	86BE292B	CJ! You such a liability, man!
+SWE4_NB	1FB77891	The one-times' on us again!
+SWE4_NC	68B04807	CJ! Are you trying to get us pinched?
+SWE4_OA	9FA5186A	C'mon, CJ, we gotta lose this attention!
+SWE4_OB	06AC49D0	CJ, get us to a spray shop!
+SWE4_OC	71AB7946	C'mon, CJ, get us someplace safe!
+SWE4_PA	52FF16F4	Now, what was I sayin'?
+SWE4_PB	CBF6474E	Hey, what was we hollerin' about?
+SWE4_PC	BCF177D8	OK, we're cool. Now what was I sayin'?
+SWE4A00	06B8B283	I can drive as well as CJ, man, I'm telling you.
+SWE4A01	71BF8215	Hey, homie, whassup?
+SWE4A02	E8B6D3AF	Hey, what you saying about me, fool?
+SWE4A03	9FB1E339	I'm saying that the East Coast made you drive like a idiot, fool!
+SWE4A04	01D5769A	Man, you always crashing cars and shit.
+SWE4A05	76D2460C	And for some reason now you back,
+SWE4A06	EFDB17B6	all it is, is 'CJ drive here, CJ drive there.' Bullshit!
+SWE4A07	98DC2720	Man, why don't you take it easy.
+SWE4A08	08633AB1	No disrespect, man, but you can't drive for shit!
+SWE4A09	7F640A27	Thanks, man. No, no, no, say what you really mean.
+SWE4A10	1FA383C2	You such a good gunman, homie, you gotta ride shotgun.
+SWE4A11	68A4B354	Show CJ what's cracking.
+SWE4A12	F1ADE2EE	Hey, you know something - you're right. Yeah, CJ, you can drive, homie.
+SWE4A13	86AAD278	Wassup, man?
+SWE4A14	18CE47DB	He's trippin'.

@@ -1,0 +1,162 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+SYN_D06	48EDF53E	You're coming with me, bitch!
+SYN_D07	3FEAC5A8	You're not worth the trouble, bitch!
+SYN_F_2	AE619221	~r~You destroyed Jizzy's car.
+SYN_F_5	30050782	~r~Jizzy's girl is history.
+SYN_F_6	A90C5638	~r~You took too long.
+SYN_M_1	3B3D2C7A	~s~Get back in the ~b~pimpmobile~s~.
+SYN_M_2	A2347DC0	~s~---- PHONE RINGS ----
+SYN_T_1	28CAB485	Timer :
+SYN_T_2	B1C3E53F	Ho's Health
+SYN_T_3	C6C4D5A9	Call for backup
+SYN2_01	0FB603D2	~s~Drop the ho off ~y~Downtown~s~.
+SYN2_06	91D29671	~s~Waste the pimp in ~y~Hashbury~s~.
+SYN2_14	66C7C61C	~s~Save ~y~Jizzy's girl~s~.
+SYN2_15	11C0F68A	~s~Take out both ~r~punters~s~.
+SYN2_19	1876BAA1	~s~Get to the hotel ~y~Downtown~s~.
+SYN2_20	4A8751C6	~s~Take out the ~r~diplomat~s~.
+SYN2_30	539C6087	Ram the ~r~diplomat's car~w~ to prevent him from calling backup.
+SYN2_37	CDF8F524	~s~Get in the ~b~pimpmobile~s~.
+SYN2_38	5D47E8B5	~s~Take out the ~r~rival pimp~s~.
+SYN2_44	1BB03259	~s~Number Dialed - ~1~
+SYN2_47	82B963E3	~s~The ~r~diplomat~s~ is fleeing on foot, kill him!
+SYN2_60	2EEB94C2	~s~Go to Jizzy's club.
+SYN2_61	59ECA454	~s~Ram the ~r~diplomat's car~s~ to prevent him from calling backup.
+SYN2_62	C0E5F5EE	~r~You lost the diplomat.
+SYN2_63	B7E2C578	Ho
+SYN2_70	37F0A583	~s~Take out the ~r~preacher~s~ and his ~r~protection~s~.
+SYN2_71	40F79515	~r~You lost the preacher.
+SYN2_AA	69973A59	What would your mother think?
+SYN2_AB	F09E6BE3	You're as bad as them!
+SYN2_AC	87995B75	Filth like you always has to pay for sex!
+SYN2_AD	19FDCED6	Oh! You're disgusting!
+SYN2_BA	42BA699A	Wait up, Mr. C-to-the-Jay!
+SYN2_BB	DBB33820	See that pretty young thang in my car?
+SYN2_BC	ACB408B6	Drop her off at the hotel Downtown.
+SYN2_BD	32D09D15	Use my carphone to gimme a ring-a-ding when you're done.
+SYN2_BE	45D7AD83	And watch the rims, playa!
+SYN2_BF	DCDEFC39	Treat that baby like the Pope Mobile!
+SYN2_CA	5BA158DB	Hey Jizzy, it's Carl, I just dropped off your girl.
+SYN2_CB	C2A80961	Church! Got a little errand for you to run
+SYN2_CC	B5AF39F7	before you deal with that problem I was just talking about.
+SYN2_CD	2BCBAC54	Some young buck thinks he's a playa,
+SYN2_CE	5CCC9CC2	been trying to peel my hos over in Hashbury.
+SYN2_CF	C5C5CD78	Now one of my girls over there just eyeballed the punk
+SYN2_CG	B2C2FDEE	I want you to get your ass over there and ice that pretender!
+SYN2_DA	14E0CE1C	Hey, it's CJ.
+SYN2_DB	8DE99FA6	Just to let you know you don't have to worry about no competition in Hashbury.
+SYN2_DC	FAEEAF30	Worry? Did I say I was worried?
+SYN2_DD	648A3A93	No I did not.
+SYN2_DE	138D0A05	Now to the real deal.
+SYN2_DF	8A845BBF	Some of my girls in the Foster Valley been getting knuckled over.
+SYN2_DG	FD836B29	I want you to get your ass up there and nose around - find out what's going on.
+SYN2_EA	0DFBFF5D	What's happenin?
+SYN2_EB	94F2AEE7	Man, my bitches are in peril as we speak!
+SYN2_EC	E3F59E71	Get your ass over there now!
+SYN2_FA	26D6AC9E	Mr. Jizzy, it's CJ.
+SYN2_FB	BFDFFD24	You is a bad luck charm, clucky!
+SYN2_FC	C8D8CDB2	That girl you dropped off Downtown wants out of the game!
+SYN2_FD	56BC5811	Her sugar daddy wants to take her off the streets!
+SYN2_FE	21BB6887	Nobody turns my hos!
+SYN2_FF	B8B2393D	Now you get your ass back to the hotel, and you make an example out of all of 'em!
+SYN2_GA	3FCD9DDF	Everything's been taken care of, Mr. Jizzy!
+SYN2_GB	A6C4CC65	Oh, CJ, you's a playa's right hand, baby.
+SYN2_GC	D1C3FCF3	Oh, and by the way - that car's just come up over on an APB.
+SYN2_GD	4FA76950	Dump it, keep it, whatever.
+SYN2_GE	38A059C6	Oh, for sure, you got that, man.
+SYN2_GF	A1A9087C	Just keep it away from me, my hos, and my club!
+SYN2_HA	B8558110	The Lord sent me to save your thread-bear soul, harlot!
+SYN2_HB	215CD0AA	Get in the car and remove your filthy vestments,
+SYN2_HC	565BE03C	so I my better gaze upon thine corruption!
+SYN2_HD	C83F759F	Driver,
+SYN2_HE	BF384509	get us out of here before the devil's right hand snatches this po'girl from salvation!
+SYN2_HF	263114B3	Right away, your evangelical holiness!
+SYN2_JA	8A63E392	The Devil comes to claim his own, Godspeed, driver, Godspeed!
+SYN2_JB	136AB228	We need more than just the Lord's benefaction!
+SYN2_JC	646D82BE	Where's my cell phone?
+SYN2_JD	FA09171D	Hello, God Squad? I need the wrath of the Lord and I need it now!
+SYN2_JE	8D0E278B	Don't worry, girl, the Lord's army will come to our aid!
+SYN2_JF	14077631	Now just keep undressing...
+SYN2_JG	630046A7	That's right, put your hand there...
+SYN2_JH	F3BF5B36	Holy fuck, I've dropped my phone!
+SYN2_KA	9378D2D3	Be gone, foul abomination!
+SYN2_KB	0A718369	Argh, he comes for us!
+SYN2_KC	7D76B3FF	Faster, driver, faster!
+SYN2_KD	E312265C	Ow! Watch those teeth, girl!
+SYN2_KE	941516CA	Argh! Careful with the 'little bishop', whore!
+SYN2_LA	DC394414	Here comes my playa, now you in real trouble.
+SYN2_LB	453015AE	I was pimpetry in motion 'til you showed up.
+SYN2_LC	32372538	This is my track, sucka!
+SYN2_LD	AC53B09B	Square, you have no business touching me
+SYN2_LE	DB54800D	Man, I ain't got time for you!
+SYN2_LF	425DD1B7	Mmm, you walked in like a winner, bitch!
+SYN2_LG	355AE121	Bitch, I'm knocking, now let me in.
+SYN2_LH	A5E5FCB0	You ready for sexin' with proper direction?
+SYN2_LI	D2E2CC26	Yo, I had to put the price tag on that pussy.
+SYN2_LJ	4BEB9D9C	Lookin' like a million bucks in my pocket.
+SYN2_LK	3CECAD0A	Mmmm... Miss Mighty! Lettin' it all hang out!
+SYN2_LL	A28838A9	Hola m'hijo!
+SYN2_LM	D58F083F	Ooh! What a strong pecho!
+SYN2_LN	4C865985	Ever had half-n-half with a sucia like me?
+SYN2_LP	B68964E6	I'll do things your ruca won't.
+SYN2_LQ	C18E5470	I'm listening, honest!
+SYN2_LR	588705CA	I'm no slut but I need the feria.
+SYN2_LS	2F80355C	Uh huh, real interesting.
+SYN2_LT	B1E4A0FF	Whatever, puto
+SYN2_LU	C6E39069	Later, ese.
+SYN2A00	6E09BD3E	Hey man, you get them flicks developed?
+SYN2A01	190E8DA8	Hey Carl.
+SYN2A02	8007DC12	W'sup, Woozie!
+SYN2A03	F700EC84	I was just explaining to your... brother in law that we were friends.
+SYN2A04	69647927	Oh yeah?
+SYN2A05	1E6349B1	Well look, Woozie, I need to get some info from you, man.
+SYN2A06	876A180B	What exactly do you boys want to know?
+SYN2A07	F06D289D	Who are these putas, holmes?
+SYN2A08	60D2350C	Why don't you go take a look?
+SYN2A09	17D5059A	- These guys?~n~- Yeah.
+SYN2A10	77128C7F	They're the Loco Syndicate. They're pretty big time, I think.
+SYN2A11	0015BCE9	Don't have any dealings with them - we don't touch blow.
+SYN2A12	991CED53	Now this guy runs things. I don't know his name.
+SYN2A13	EE1BDDC5	This guy is T-Bone Mendez. He's the muscle.
+SYN2A14	707F4866	And who's that guy?
+SYN2A15	077878F0	That's Jizzy B. He's the biggest pimp in town.
+SYN2A16	9E71294A	He helps set up the deals...
+SYN2A17	E97619DC	You know, a concierge of sorts.
+SYN2A18	79C9044D	Hey, then he's my way in.
+SYN2A19	0ECE34DB	How I get to him?
+SYN2A20	5C3FDFBC	Oh, Jizzy? Jizzy runs the Pleasure Domes Club in that old fortress under the Gant Bridge.
+SYN2A21	2B38EF2A	Hey, good looking out, Woozie.
+SYN2A22	B231BE90	No problem. Don't be a stranger!
+SYN2A23	C5368E06	They's all this, ese!
+SYN2A24	5B521BA5	That's crazy, man. What are we looking at exactly?
+SYN2B00	6C4F0367	Now who's this trick? I don't need no more friends, baby.
+SYN2B01	1B4833F1	All they try to do is peel me from my hos.
+SYN2B02	8241624B	No, no, it ain't about them. It's all about you, playa.
+SYN2B03	F54652DD	I heard you was the man with the hook up,
+SYN2B04	6B22C77E	and you was the man I needed to see.
+SYN2B05	1C25F7E8	I'm offering my services.
+SYN2B06	852CA652	Say what?
+SYN2B07	F22B96C4	Yes, sir. See, I'm new in town. Anything you want, I can do.
+SYN2B08	62948B55	There's a lot we could do for each other.
+SYN2B09	1593BBC3	For a guy like me, to work with, to work FOR, a guy like Jizzy B, well...
+SYN2B10	75543226	Now that you mention it, I do have a slight problem.
+SYN2B11	025302B0	Something a little dumb muscle like yourself might be able to fix.
+SYN2B12	9B5A530A	Cause you see me, I'm an intellectual.
+SYN2B13	EC5D639C	See I only got two eyes, and on these streets you got to have more than that.
+SYN2B14	7239F63F	You got to be like a fly on shit, you know?
+SYN2B15	053EC6A9	A hundred eyes, everywhere.
+SYN2B16	9C379713	Now some lunatic been fucking with my bitches.
+SYN2B17	EB30A785	Motherfucker killed two last week. I want you... Go find out.
+SYN2B18	7B8FBA14	No prob.
+SYN2B19	0C888A82	Okay. You, mister C dot J dot.
+SYN2B20	5E7961E5	See what you can do.
+SYN2B21	297E5173	I'm a playa partner now, Jizzy
+SYN2B22	B07700C9	See, baby, I got everything...
+SYN2B23	C770305F	Mink sheets... Mink coats... Mink curtains in the window.
+SYN2B24	5914A5FC	When I walk down the stairs I'm walking down on... Mink carpet.
+SYN2B25	2E13956A	Bitches, y'all walk on down to the bar and fix a pimp a drink.

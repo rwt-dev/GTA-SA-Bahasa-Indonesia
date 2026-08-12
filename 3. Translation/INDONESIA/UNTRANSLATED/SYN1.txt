@@ -1,0 +1,129 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+MCES10A	7C1CF3DD	CJ.
+MCES10B	E515A267	You got it.
+MCES10C	921292F1	Hey, my cousin just called me.
+MCES10D	0C760752	He gave me a tip about a Balla car going San Fierro to score yay.
+MCES10E	7B7137C4	Shit, we gotta find out who's supplyin' those cats.
+MCES10F	E278667E	Read your mind, holmes,
+MCES10G	957F56E8	I picked them up at the Mulholland Intersection and I'm trailing them now.
+MCES10H	05C04B79	OK, I'm coming to meet you.
+MCES10J	EBCE2A55	Better make it fast, holmes, these boys aren't hanging around!
+MCES10K	9CC91AC3	I've got an idea - I'll be there in a minute.
+SYN1_01	1D03AC3C	~s~Go and steal a car.
+SYN1_02	840AFD86	~s~Go and pick up ~b~Cesar~s~.
+SYN1_03	F30DCD10	~s~Track down that ~r~Balla car~s~.
+SYN1_04	6D6958B3	~s~Photograph ~r~his ~s~face!
+SYN1_05	1A6E6825	~s~Zoom in further.
+SYN1_06	8367399F	~r~Cesar didn't make it.
+SYN1_07	F4600909	~s~Get in the ~b~car~s~.
+SYN1_08	64DF1498	~r~You destroyed the car!
+SYN1_09	13D8240E	~r~You didn't get the photo!
+SYN1_10	731FADEB	~s~Get a photo of ~r~his ~s~face!
+SYN1_11	04189D7D	~s~Got him! Look out for the next target!
+SYN1_12	9D11CCC7	~s~Photograph the face of each target, but be quick about it and be sure to zoom in!
+SYN1_13	EA16FC51	~s~Head out to ~y~Angel Pine~s~.
+SYN1_14	747269F2	~s~Get up on the ~y~roof~s~.
+SYN1_15	03755964	~s~Get in ~b~Cesars~s~ car.
+SYN1_44	09059DB7	~m~~widget_zoom_in~ Zoom in. ~m~~widget_zoom_out~ Zoom out.
+SYN1_AA	7B2295B7	Hey, who are you?
+SYN1_AB	E22BC40D	Uh, a Helmet Inspection Officer.
+SYN1_AC	952CF49B	Eh, you see that shit? Look over there!
+SYN1_AD	0B486138	Where?
+SYN1_AE	7C4F51AE	There!
+SYN1_AF	E5460014	Ow! Ooomph!
+SYN1_BA	500FC674	Eh, Cesar, I'm coming at you, where you at?
+SYN1_BB	C90697CE	Sitting by the damn road just South of Blueberry!
+SYN1_BC	BE01A758	They spotted me and shot out my ride!
+SYN1_BD	206532FB	Alright, hold up, I'll be there in a minute!
+SYN1_CA	4914F735	OK, sucker, the game's up!
+SYN1_CB	D01DA68F	I hope that's a gun at the back of my head, and not something else.
+SYN1_CC	A71A9619	No, I'm just fucking pleased to see you!
+SYN1_CD	397E03BA	Land this thing!
+SYN1_DA	065561F2	Enjoy the walk, asshole!
+SYN1_EA	1F4E50B3	Wow! Holmes! I didn't know you could fly!
+SYN1_EB	86470109	I can't. I'm learning, get in.
+SYN1_FA	34630370	There's somebody sleeping back here, eh.
+SYN1_FB	AD6A52CA	Yeah. Leave him, he should be OK.
+SYN1_FC	DA6D625C	Where we goin'?
+SYN1_FD	4409F7FF	They were headed over Angel Pine way. Follow the road and maybe we can pick them up!
+SYN1_GA	2D783231	Holmes, this dude's waking up!
+SYN1_GB	B471638B	I've been awake for ages, land this thing!
+SYN1_GC	C376531D	Dude, he's got a gun, we better land...
+SYN1_HA	AAE02EFE	Screw you guys!
+SYN1_HB	33E97F44	Shit, I'm outta here!
+SYN1_IA	B3FB1FBF	There it is, holmes!
+SYN1_IB	2AF24E05	Here, I brought a camera.
+SYN1_IC	5DF57E93	I dunno, ese, it looks complicated...
+SYN1_ID	C391EB30	Take the stick then, I'll take the photos!
+SYN1_IE	B496DBA6	CJ! Oh shit, this is even more complicated!
+SYN1_IF	2D9F8A1C	Just keep her steady and don't crash!
+SYN1_JA	98D64C7C	Quite a mix meetin' down there.
+SYN1_JB	01DF1DC6	These guys look organized.
+SYN1_JC	76D82D50	Cholos from up in the bay - from San Fierro, I think.
+SYN1_JD	E8BCB8F3	They packing serious heat;
+SYN1_JE	9FBB8865	Mac's, Uzi's, rifles - these fools connected.
+SYN1_JF	06B2D9DF	Check the big guy, holmes.
+SYN1_JG	71B5E949	That's T-Bone Mendez.
+SYN1_JH	E10AF4D8	He did time for running black tar out of Mexico.
+SYN1_JI	960DC44E	Killed two guys inside, real bad blood with my eses.
+SYN1_JJ	0F0495F4	Shit, Ryder - damned sherm-head fool!
+SYN1_JK	7803A562	Oh man, it's true, Ballas rule the Families!
+SYN1_JL	E66730C1	T-Bone's up to something...
+SYN1_JM	91600057	Check out the clown!
+SYN1_JN	086951ED	Ha ha! That's real pimp shit right there.
+SYN1_JO	7F6E617B	What's his role in this, he ain't copping?
+SYN1_JP	F2666C8E	A case full of yay each...
+SYN1_JQ	85615C18	Holmes, check the gringo.
+SYN1_JR	1C680DA2	Oh yeah, he's keeping real quiet.
+SYN1_JS	6B6F3D34	Could be just a driver,
+SYN1_JT	F50BA897	I don't like the look of him though.
+SYN1_JU	820C9801	I think he on to us.
+SYN1_JV	1B05C9BB	We're not exactly inconspicuous, eh.
+SYN1_JW	6C02F92D	Hurry it up, holmes!
+SYN1_JX	FCBDE4BC	SHIT he's onto us alright!
+SYN1_JY	8BBAD42A	And we're sitting ducks!
+SYN1_KA	81CD7D3D	Oh Pope crap!
+SYN1_KB	18C42C87	I'm gonna try and land this thing before it blows!
+SYN1_LA	CE8CEBFA	They'll all be long gone by now.
+SYN1_LB	5785BA40	We better split up and get outta here. I'll meet you back at the garage!
+SYN1_LC	20828AD6	Coolio Man, we got what we came for.
+SYN1_YA	F9390DEE	I don't like the look of that guy.
+SYN1_YB	60305C54	Ah shit, I think they peeped us out.
+SYN1_YC	17376CC2	Well we're not exactly inconspicuous up here.
+SYN1_YD	8953F961	Besides, what's he going to do, huh, throw stones at us?
+SYN1_YE	FE54C9F7	Oh fuck! OH FUCK!
+SYN1_YF	675D984D	Get us out of here!
+SYN1_YG	105AA8DB	Pope crap!
+SYN1_YH	80E5B54A	That was some heavy shit!
+SYN1_YJ	6EEBD466	We better split up and get outta here. I'll meet you back at the garage!
+SYN1_YK	19ECE4F0	Coolio. We got what we came for anyway.
+SYN1_ZA	D2145E2D	That's our Ballas car alright.
+SYN1_ZB	4B1D0F97	Who's that in the back?
+SYN1_ZC	3C1A3F01	Ryder, you sherm-head!
+SYN1_ZD	A27EAAA2	What's he rolling with Ballas for?
+SYN1_ZE	D5799A34	This business is bigger than any gang, ese.
+SYN1_ZF	4C70CB8E	Someone's coming out of the diner's back door!
+SYN1_ZG	3B77FB18	Who's this guy, Aztecas? Vagos?
+SYN1_ZH	ABC8E689	Neither, holmes, he's San Fierro Rifa!
+SYN1_ZJ	45C687A5	Ryder's getting out of the car!
+SYN1_ZK	32C1B733	Ryder, little bitch!
+SYN1_ZL	ACA52290	That must be the cash...
+SYN1_ZM	DBA21206	They're being clever about this. There ain't no exchange or nothin' incriminating.
+SYN1_ZN	42AB43BC	What now? Was that it?
+SYN1_ZO	35AC732A	Hey, holmes, check the van!
+SYN1_ZP	B8A47EDF	This guy takes himself real serious!
+SYN1_ZQ	CFA34E49	That's T-Bone Mendez.
+SYN1_ZR	56AA1FF3	There's the courier with a fresh load of yay for Ryder and his new friends.
+SYN1_ZS	21AD2F65	Who are all these guys?
+SYN1_ZT	BFC9BAC6	More San Fierro Rifa, by the looks of things.
+SYN1_ZU	C8CE8A50	They sure keep their security tight!
+SYN1_ZV	51C7DBEA	I didn't scope those guys, did you?
+SYN1_ZW	26C0EB7C	This more than a few thugs pushing a product. This is a serious organization.
+SYN1_ZX	B67FF6ED	How many of these clowns are there?
+SYN1_ZY	C178C67B	I know a pimp when I see one!
+SYN1_ZZ	587197C1	Hey, who's the gringo?

@@ -1,0 +1,79 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+SYN3_1	C03FBCD9	~s~Drive to the van's ~g~location~s~.
+SYN3_14	DE7BA179	~r~Your escort bike was destroyed!
+SYN3_15	A97C91EF	~r~The van was destroyed!
+SYN3_16	3075C055	~r~The van driver died!
+SYN3_18	D7CDED52	~s~Go to the ~b~car~s~.
+SYN3_19	A0CADDC4	~r~The car was destroyed!
+SYN3_2	5936ED63	~s~Take out the first ~r~roadblock ~s~before the ~b~van ~s~gets there.
+SYN3_20	F23B36A3	~s~Get to the ~b~van.
+SYN3_21	853C0635	~s~Pick up the ~g~rocket launcher ~s~when you get there.
+SYN3_25	8251C22C	~s~Pick up the ~b~escort bike~s~.
+SYN3_26	1B589396	~s~Get back into the ~b~car~s~.
+SYN3_27	6C5FA300	~r~Toreno died!
+SYN3_28	FCE0BE91	~r~T-Bone died!
+SYN3_3	2E31DDF5	~s~Use the ~g~rocket launcher ~s~to destroy the ~r~roadblocks.
+SYN3_4	B0554856	~s~Use the rocket launcher to destroy the ~r~roadblocks.
+SYN3_5	C75278C0	~s~Clear the next ~r~roadblock.
+SYN3_6	5E5B297A	~s~Clear the third ~r~roadblock.
+SYN3_7	295C19EC	~s~Destroy the final ~r~roadblock.
+SYN3_8	B9E3047D	~s~Make sure the ~b~van ~s~gets to its destination safely.
+SYN3_9	CEE434EB	The ~b~van~s~ is almost at the current ~r~roadblock~s~!~N~Clear the ~r~roadblock~s~ quickly.
+SYN3_AA	D12B5D3C	Hey, what the fuck you doing man?!
+SYN3_AB	48220C86	Hey, what the fuck's your problem?
+SYN3_AC	3F253C10	You trying to get us both killed?
+SYN3_AD	A141A9B3	Our guys are waiting for us a quarter mile further up the road on the right.
+SYN3_BA	FA060EFF	Hey holmes, where you going?
+SYN3_BB	630F5F45	Rule No.1: Never drive a direct route.
+SYN3_BC	14086FD3	Man, what the fuck are you talking about?
+SYN3_BD	8A6CFA70	You do what we tell you!
+SYN3_BE	FD6BCAE6	Get us over there now!
+SYN3_BF	64629B5C	Hey, leave the kid alone, he's doing fine.
+SYN3_BG	1365ABCA	Man, fuck that, I just want to get this next shipment out of the way.
+SYN3_BH	83DAB65B	Hey, and we will.
+SYN3_BI	F4DD86CD	And stop cursing around me, you know I'm sensitive, ya fuck!
+SYN3_CA	E31D3FBE	Get out and grab a bike.
+SYN3_CB	7A146E04	This shipment has to get to the factory.
+SYN3_CC	0D135E92	You make sure it does, we make it worth your while.
+SYN3_CD	9377CB31	Hold it, Mendez, we got business elsewhere.
+SYN3_CE	E470FBA7	He can take care of this just fine by himself.
+SYN3_CF	7D79AA1D	We're watching you, kid.
+SYN3_CG	0A7E9A8B	Si mon, ese. We're watching.
+SYN3_DC	4252C855	Get the van out of sight, and I'm gonna draw the cops away.
+SYN3_EA	B5479838	OK, we made it, but the cops gonna be all over the spot real soon.
+SYN3_EB	2C4EC982	Get the van out of sight, I'm gonna get out of here!
+SYN3A00	D6B5DA5B	Man, where the hell everybody anyway?
+SYN3A01	A1B2EACD	Hey, you a pinche jura or what?
+SYN3A02	38BBBB77	What the hell?
+SYN3A03	4FBC8BE1	You think you can mess with me?
+SYN3A04	D1D81E42	(Chokes)
+SYN3A05	A6DF2ED4	I will blow your head off,
+SYN3A06	3FD67F6E	and rape and kill your family, you snake.
+SYN3A07	48D14FF8	You think you can fucking bullshit me,
+SYN3A08	D86E5269	and fuck me over?
+SYN3A09	AF6962FF	I know your fucking game, ese.
+SYN3A10	CFAEEB1A	I don't know what you're talking about, man! My throat!
+SYN3A11	B8A9DB8C	Who you working for?
+SYN3A12	21A08A36	Nobody!
+SYN3A13	56A7BAA0	Turn around and look at me.
+SYN3A14	C8C32F03	Man, I'm just trying to make some money,
+SYN3A15	BFC41F95	and keep my mouth shut. I swear, man!
+SYN3A16	26CD4E2F	I almost had you, man.
+SYN3A17	51CA7EB9	I almost fucking had you.
+SYN3A18	C1756328	Guacha! You gotta be careful in this business, man, you know that.
+SYN3A19	B67253BE	Are you boys done playing around?
+SYN3A20	E483B8D9	Yeah, we're straight, vato.
+SYN3A21	9384884F	Oh good, that's great. Now we gotta go meet this shipment.
+SYN3A22	0A8DD9F5	We're late as it is.
+SYN3A23	7D8AE963	Let's go!
+SYN3A24	E3EE7CC0	You heard what jefe said.
+TORX_AA	883488B5	Get in the car!
+TORX_AB	113DD90F	C'mon, take a seat.
+TORX_AC	663AE999	Carl, lets go for a drive.
+TORX_AD	F85E7C3A	C'mon, take the wheel!
+TORX_AE	8F594CAC	C'mon, get in!

@@ -1,0 +1,31 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+KICK_10	D8EAF990	Use the Sanchez to collect Coronas. The ~g~Green Corona~s~ is worth 1 point. The ~y~Amber Corona~s~ is worth 2 points. The ~r~Red Corona~s~ is worth 3 points.
+KICK_11	AFEDC906	Score 26 points to complete the mission. To leave the stadium stand in the ~r~red highlighted~s~ area on foot.
+KICK_12	36E498BC	~r~You bottled it!
+KICK_13	41E3A82A	~r~You have taken too long!
+KICK_14	DF873D89	~s~You have collected a ~g~Green Corona~s~ +1
+KICK_15	A8800D1F	~s~You have collected an ~y~Amber Corona~s~ +2
+KICK_16	31895CA5	~s~You have collected a ~r~Red Corona~s~ +3
+KICK_17	468E6C33	3
+KICK_18	D63171A2	2
+KICK_19	A1364134	1
+KICK_20	F3C7AA53	GO!
+KICK_21	84C09AC5	The Highest Score ~1~
+KICK_22	1DC9CB7F	New Highest Score ~1~
+KICK_23	6ACEFBE9	~s~You broke the record!
+KICK_24	F4AA6E4A	~r~You failed to break the record!
+KICK_25	83AD5EDC	Your score ~1~
+KICK_26	1AA40F66	~s~Collect as many points as possible.
+KICK_27	6DA33FF0	~s~You have ~1~ seconds to return to your ~b~bike ~s~before you are disqualified.
+KICK_28	FD1C2261	~s~You have ~1~ second to return to your ~b~bike ~s~before you are disqualified.
+KICK1_1	16DA6905	~s~Complete the course as quickly as possible.
+KICK1_2	8FD338BF	~r~You did not get back to the bike quickly enough!
+KICK1_6	88BEFCA6	~s~Well done!
+KICK1_7	FFB9CC30	~r~You have wrecked the bike!
+KICK1_8	6F06D1A1	~s~Get on the ~b~bike~s~!
+KICK1_T	2B02FCD2	TIME

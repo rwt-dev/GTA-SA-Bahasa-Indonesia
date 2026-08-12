@@ -1,0 +1,155 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	CB5F1713	Press and hold ~m~~widget_explicit_flight_ascend~ to increase thrust - this will make you ascend.
+	8E421F4A	When goggles are selected, press ~m~~widget_attack~ to toggle thermal vision on and off.
+	6827E1FF	Use the movement controls to strafe while in the jetpack.
+	4FE156CD	To descend quickly press and hold ~m~~widget_explicit_flight_descend~.
+	230EA085	~s~Go back and get the jetpack!
+	2B8AFE0D	Press and hold the lower right corner of your screen to increase thrust - this will make you ascend.
+D8ALT00	1C85E264	Toreno, where are you?
+D8ALT01	6B82D2F2	Wrong devil, CJ!
+D8ALT02	F28B8348	Truth, how are you?
+D8ALT03	858CB3DE	In better shape than you, fat ass!
+D8ALT04	1BE8267D	What - hey, you watching me?
+D8ALT05	6CEF16EB	Can't talk now. I need your help for something special.
+D8ALT06	F5E64751	Come back here when you've lost some weight, fatso
+D8ALT07	82E177C7	I'll be waiting.
+D8ALT08	125E6A56	Hey, man, what the? Damn!
+D8ALT09	65595AC0	I ain't that chubby...
+DES8@00	4E6B04FE	Hail fellow, well met. Namaste. Peace. Carl, brother.
+DES8@01	396C3468	Hey, Truth, where you at?
+DES8@02	A06565D2	Just checking that you were no longer on 'government business'.
+DES8@03	D7625544	Where is he?
+DES8@04	4906C0E7	How the fuck would I know, man?
+DES8@05	3E01F071	He's like the devil. Hey, man, you OK?
+DES8@06	A708A1CB	Everything is transient.
+DES8@07	D00F915D	I'm passing through life, same as every man.
+DES8@08	40B08CCC	Okay.
+DES8@09	37B7BC5A	Do you have any idea what you're doing for Toreno?
+DES8@10	577035BF	No. I seem to be on a need to know basis.
+DES8@11	20770529	Two lies don't cancel each other out.
+DES8@12	B97E5493	You know that.
+DES8@13	CE796405	We pay them to lie to us. Is that what our founding fathers wanted?
+DES8@14	501DF1A6	No more, friend. No more. We're not alone.
+DES8@15	271AC130	Get off me, man, what's going on?
+DES8@16	BE13908A	Everything is going on! Don't you get it?
+DES8@17	C914A01C	There's a place. Not even on the map.
+DES8@18	59ABBD8D	A train is about to leave. It can explain better than I ever can.
+DES8@19	2EAC8D1B	Boy, this is going to blow your fucking mind!
+DES8@20	7C5D667C	We got work to do.
+DES8@21	0B5A56EA	You better drive. I'll explain.
+DES8@22	92530750	Elegance does not even touch it.
+DES8@23	E55437C6	Oof. Oh, man. Uh.
+DES8@24	7B30A265	Oh, no, man.
+DES8_1	D5DA94DA	Avoid the spotlights and gain entry to the Area51 research lab.
+DES8_12	AE04B0DE	You can shoot out the spotlights, shoot too many though and the guards may become suspicious.
+DES8_14	476715EB	You have a limited amount of time to get through the ~y~door ~w~hurry!
+DES8_15	3060257D	You have now made it into area51. This is a large military/research facility manned by scientist and soldiers.
+DES8_16	A96974C7	Use stealth and quick thinking to get past the guards whenever possible. If you get spotted look for dark areas to hide in.
+DES8_17	DE6E4451	The jet pack is located in the research lab at the rear of the installation.
+DES8_18	4ED159C0	Possible intruder DEFCON RED ALERT soldiers take up patrol positions. Everyone on high alert.
+DES8_19	39D66956	Level 1 Keycard Acquired
+DES8_2	4CD3C560	To open the blast door go to the control tower.
+DES8_20	6B278231	Level 2 Keycard Acquired
+DES8_21	1C20B2A7	SAM site disabled
+DES8_22	8529E31D	The door to the jetpack will not open you will need to get a level 2 keycard. A scientist nearby may have it.
+DES8_23	F22ED38B	You have the keycard now open the door!
+DES8_24	6C4A4628	Intruder is over here!
+DES8_25	1B4D76BE	You now have the jetpack! Deliver it back to the airstrip.
+DES8_28	65FC0A03	The doors have now closed! Get back to the ~y~control tower ~w~to switch them on again.
+DES8_29	12FB3A95	Try shooting the keypad to shut the door and trap the soldiers!
+DES8_3	3BD4F5F6	There are military personnel patrolling the area.
+DES8_30	723CB370	The blast doors directly above you will slowly open as soon as there is space fly out and take it back to the ~y~airstrip~w~.
+DES8_31	053B83E6	There is an apache chasing you!
+DES8_36	9B5F1645	Intruder spotted send in troops to Research Lab A.
+DES8_37	EC5826D3	The blast doors have opened get out of there back to the airstrip.
+DES8_39	0BE00BD4	You may have been spotted keep out the spotlight for a short while!
+DES8_40	3D7D25B7	They have seen you, and are sending the troops in! Stay out the tracking searchlight for as long as possible!
+DES8_AA	4837E9AE	Please, no more violence! Take my pass card and go!
+DES8_BA	631ABA6D	Possible intruder sighted. Condition Blue! Set searchlights to tracking mode!
+DES8_BB	FA13EBD7	Code Blue! Set the Searchlight perimeter to tracking mode!
+DES8_BC	8D14DB41	This installation is at Condition Blue! Switching searchlights to tracking mode!
+DES8_BD	13704EE2	Code Blue! Searchlights set to tracking mode!
+DES8_CA	7A018B2C	Sighting unconfirmed. Stand down from Condition Blue!
+DES8_CB	E308DA96	No further sign of intrusion. Stand down, repeat, stand down!
+DES8_CC	940FEA00	Perimeter is secure. Standing down from Code Blue!
+DES8_CD	0A6B7FA3	No perimeter breach confirmed. Stand down from Blue Alert!
+DES8_DA	35401DEB	Code Red! Sighting confirmed! All personnel shoot to kill!
+DES8_DB	AC494C51	Code Red! Repeat Code Red! Intruder alert!
+DES8_DC	DB4E7CC7	This is a code red! All personnel adopt intruder protocols!
+DES8_DD	452AE964	Intruder alert! Condition Red! Repeat: Condition Red!
+DES8_EA	2C5B2CAA	Set blast doors and control tower to Lock Down!
+DES8_EB	B5527D10	This facility is in Lock Down!
+DES8_EC	C2554D86	Secure blast doors and control tower!
+DES8_ED	5C31D825	Lock down protocols initiated! Blast doors and security tower isolated!
+DES8_EE	2B36E8B3	All towers are cleared to use lethal force, repeat, lethal force!
+DES8_EF	B23FB909	All towers shoot on sight, repeat, shoot on sight!
+DES8_FA	07767F69	Installation personnel please be aware we are at Condition Blue. This is not a drill!
+DES8_FB	9E7F2ED3	Installation personnel please be aware we are at Condition Red. This is not a drill!
+DES8_FC	E9781E45	This facility has been breached, all security personnel head to the research labs now!
+DES8_HA	99F552E7	Code red, code red!
+DES8_HB	00FC035D	Intruder has penetrated the project! All military personnel to the launch bay IMMEDIATELY!
+DES8_JA	ABC33065	Intruder is stealing the jet pack! All military personnel outside and fire at will!
+DES8_JB	32CA61DF	Take him out! That's a $60,000,000 project!
+DES8_JC	45CD5149	Get the General Mills on the line!
+DES8_KA	B2D80124	Call Syracuse! I want anything they've got airborne after that bastard!
+DES8_LA	FD9997E3	Hey, Truth, do we have a plan here?
+DES8_LB	6490C659	Go, go, go!
+DES8_LC	1397F6CF	HEY! Hold up, dude!
+DES8_MA	E482A6A2	Carl, dude, man!
+DES8_MB	7D8BF718	Hey, here you go. You better stash it somewhere fast!
+DES8_MC	0A8CC78E	Far out, have a nice trip, dude!
+DES8_MD	94E8522D	Hey, wait a...
+DES8_ME	E3EF62BB	Ahh, was it too much to ask to get a lift into town?
+DST8_1	A7ADCE41	~s~The Truth wants you to gain entry to the Area 69 research lab and bring back to him the Black Project that is being developed inside.
+DST8_10	27A5EC64	Damage the ~y~vent grate ~w~and drop into it to gain entry.
+DST8_11	50A2DCF2	Use stealth to gain entry and where possible avoid the searchlights and patrolling soldiers.
+DST8_12	C9AB8D48	You have been spotted! Stay out the searchlights!
+DST8_13	BEACBDDE	(PLACEHOLDER)Your sighting has been confirmed! Military personnel will be aware of your presence and searchlights will constantly home in on your position.
+DST8_14	20C8287D	~s~The control tower has been disabled you must now find another way in. There is a ~y~vent~s~ that goes into the Area 69 interior.
+DST8_15	57CF18EB	(PLACEHOLDER)What was that possible intruder sighted. Set searchlights to tracking mode.
+DST8_16	CEC64951	(PLACEHOLDER)False sighting resume normal searchlights.
+DST8_17	B9C179C7	(PLACEHOLDER)Code Red! Sighting confirmed send the soldiers in! Set the blast doors and control tower onto lock down!
+DST8_18	297E6456	~s~The easiest way into the Area 69 bunker complex is through the blast doors. To open these go to the ~y~control tower~s~.
+DST8_19	5E7954C0	~s~There are searchlights sweeping the area. Observe their routine and plan your route around them.
+DST8_2	3EA49FFB	~s~The main way into the Area 69 interior is to go through the blast doors open these go to the ~y~control tower~s~.
+DST8_20	0C88BFA7	~s~If you stay in a searchlight's beam for too long or shoot too many out you will be spotted and the control tower will lock down the facility. This will force you to find an alternative route in.
+DST8_21	7B8F8F31	~s~There are also several military personnel patrolling the area. Use the thermal goggles that The Truth gave you to help you see them in the dark.
+DST8_22	E286DE8B	You can use stealth to avoid patrols or climb to the top of a control tower and use your sniper rifle to take them out.
+DST8_23	9581EE1D	~s~The ~y~door~s~ to the launch bay where the black project is being stored is closed. You will need to find a keycard to access it. Try threatening any scientists nearby.
+DST8_24	0BE57BBE	~s~You need to get a keycard to open this door.
+DST8_25	7CE24B28	~s~Collect the ~g~keycard ~S~and open the ~y~door ~s~to the Black Project.
+DST8_26	E5EB1A92	~s~You've found what The Truth wanted. You must escape by using the Jet pack to fly out of the ~y~launch bay ~s~directly above you.
+DST8_27	92EC2A04	Press and hold ~m~~widget_accelerate~ to increase thrust - this will make you ascend.
+DST8_28	02533795	To move in a direction with the jet pack use the movement controls while in the air.
+DST8_29	75540703	To descend quickly press and hold ~m~~widget_brake~.
+DST8_3	49A3AF6D	~s~Try not to get spotted by the searchlights, observe their pattern and set movements and plan your route around.
+DST8_30	15938EE6	Press and hold ~m~~widget_ped_move_left~ and ~m~~widget_ped_move_right~ to strafe while in the jetpack.
+DST8_33	8C9ADF5C	You can fire a single-handed weapon as normal while piloting the jetpack.
+DST8_34	12FE4AFF	~s~The ~g~Black Project ~s~is located at the bottom of the launch bay.
+DST8_35	65F97A69	~s~Deliver the jetpack to a ~y~drop off point ~s~deep in the canyons.
+DST8_37	8BF71B45	When goggles are selected, tap ~m~~widget_attack~ to toggle thermal vision on and off.
+DST8_38	1B4806D4	~s~You must gain entry to the research labs before sunrise at 0530 hours.
+DST8_39	6C4F3642	~s~You are venturing too far away from Area 69. If you go any further the mission will be failed!
+DST8_4	D7C73ACE	~s~Searchlights can be disabled by shooting them out. Shooting out more than two will cause the control tower to be shut down and an alternative route in will have to be found.
+DST8_40	5AD21821	~r~You are too far away from Area 69!
+DST8_41	2DD528B7	~r~You had to break into the Area 69 research lab while undercover of night. Next time be quicker!
+DST8_42	B4DC790D	~s~Make your way through Area 69 to the research lab which will give you access to the black project.
+DST8_43	C3DB499B	~s~There are several military personnel on patrol throughout the installation.
+DST8_44	5DBFDC38	~s~The control room will allow you to deactivate some of Area 69's exterior defenses, which will aid your escape.
+DST8_45	2AB8ECAE	~s~Go and find the ~g~'black project'~s~.
+DST8_46	B3B1BD14	~s~The ~y~door~s~ to the launch bay where the black project is being stored is locked. Find a keycard to access it.
+DST8_47	C4B68D82	~s~If you stay in a searchlight for too long or shoot more than 2 out you will be spotted.
+DST8_48	54099013	~s~The blast doors will go on lockdown, and an alternative route inside will then have to be found.
+DST8_5	A0C00A58	~s~There are also several military personnel patrolling the area, use stealth to avoid them.
+DST8_6	39C95BE2	~s~You must gain entry to the research lab before sunrise.
+DST8_7	4ECE6B74	~s~Open the blast doors by activating the switch in the ~y~control tower~s~.
+DST8_8	DE7176E5	~s~The ~y~blast doors ~s~have been opened, you have limited amount of time to get through them before they shut again!
+DST8_9	A9764673	~s~The blast doors have shut make your way back to the ~y~control tower ~s~to open them again.
+TRUX_AS	76E534A8	Go, go, go!
+TRUX_BH	D7ADAE87	Carl, dude, man!
+TRUX_BI	A0AA9E11	Far out, have a nice trip, dude.

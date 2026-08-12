@@ -1,0 +1,77 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	8FD84233	~s~Press ~m~~widget_attack~ when falling to open the parachute.
+	5BB9325B	~s~Double tap the center of the screen when falling to open the parachute.
+DES9@00	F6D7639B	What's your take on this?
+DES9@01	81D0530D	Damn!
+DES9@02	18D902B7	I thought they was your people.
+DES9@03	6FDE3221	Listen, Carl. We've got a problem.
+DES9@04	F1BAA782	Some traitors from another department
+DES9@05	86BD9714	think they can help the 'overseas situation'
+DES9@06	1FB4C6AE	by financing militaristic dictators
+DES9@07	68B3F638	in exchange for arms contracts.
+DES9@08	F80CEBA9	Hey, ain't that exactly what you do?
+DES9@09	8F0BDB3F	Well, kind of, but we get to pick our dictators.
+DES9@10	EFCC52DA	Degenerates that we can control.
+DES9@11	98CB624C	We try to stay the hell away from these guys with principles,
+DES9@12	01C233F6	Because that just - muddies the waters.
+DES9@13	76C50360	Yeah, OK.
+DES9@14	E8A196C3	OK, so, of course these idiots have stolen a consignment of land mines
+DES9@15	9FA6A655	and they plan to offload them in the Middle East, and cause a little ruckus...
+DES9@16	06AFF7EF	Carl, do you like maiming people? Just curious...
+DES9@17	71A8C779	Maiming? Some people, shit...
+DES9@18	E117DAE8	Anyway, the point is - you and me, Carl, we're the same.
+DES9@19	9610EA7E	Now yeah, it's a dirty job, but somebody's got to do it.
+DES9@20	C4E10119	But if you screw this up, it causes a tinder box situation
+DES9@21	B3E6318F	all over Latin America and the Middle East.
+DES9@22	2AEF6035	Now look, I spoke to the big man.
+DES9@23	5DE850A3	You've got clearance to eliminate these fuckers. How's that?
+DES9@24	C38CC500	Huh, man, kill Government agents?
+DES9@25	B48BF596	don't look at it that way, will you?
+DES9@26	2D82A42C	Think of it as pest control. It works for me.
+DES9@27	5A8594BA	All right, come on, I can't stay here now. I'm too hip, I gotta go. OK? I'm outta here.
+DES9@28	CA3A892B	And everybody goes crazy and has a lot of problems...
+DES9@29	BD3DB9BD	Kill, schmill. Come on...
+DES9_13	61BFE72D	DETONATION :
+DES9_24	D4F6214D	~s~You have the parachute. Now plant the bomb at the back of the plane.
+DES9_25	A3F111DB	~s~Kill the guard with the parachute.
+DES9_26	3AF84061	~s~You have the parachute, now get the hell out of there!
+DES9_27	4DFF70F7	~s~Pick up the parachute.
+DES9_28	DD406D66	~s~Use the parachute to land safely.
+DES9_29	AA475DF0	~r~The guard with the parachute fell out the plane!
+DES9_3	3A169FC1	~s~Toreno needs you to plant a bomb in the plane. Stealth is out of the question so you'll need to move fast.
+DES9_30	CA80D415	~r~You fell out the plane!
+DES9_31	BD87E483	~r~You killed Toreno!
+DES9_32	248EB539	~r~You failed to get on the plane.
+DES9_33	538985AF	~r~You didn't get clear of the bomb.
+DES9_37	54E441B6	~S~Then plant the bomb at the end of the plane and jump out to safety.
+DES9_39	B35C6CB1	~r~You were supposed to destroy the plane!
+DES9_4	A4720A62	~s~Use this bike to get up the plane's ramp and plant the bomb inside.
+DES9_40	85C142D2	~s~Get on the ~b~bike~s~.
+DES9_41	F2C67244	~s~You've been spotted! Quick, drive the ~b~bike~s~ up the plane's ~y~ramp~s~.
+DES9_42	6BCF23FE	~r~You were blown up in the plane.
+DES9_43	1CC81368	~s~The bomb is planted. You got 20 seconds to get out of there.
+DES9_44	82AC86CB	~s~Drive the bike up the plane's ramp before it takes off.
+DES9_45	F5ABB65D	~s~Use a satchel charge to destroy the plane.
+DES9_46	6CA2E7E7	~s~Jump out the plane with this guard's parachute after detonating the bomb.
+DES9_47	1BA5D771	~s~You have the parachute. Now detonate a satchel charge and get clear of the plane.
+DES9_5	D3753AF4	~s~The plane is leaving. Use the bike to chase the plane and get up the ramp before it takes off.
+DES9_50	9CDA7393	~s~Avoid weapon fire whilst on the aircraft.
+DES9_6	4A7C6B4E	~s~You'll need to plant the bomb and get out. A guard at the back of the plane has a parachute.
+DES9_A1	A08EFFF7	~s~You have the parachute.
+DES9_A2	3987AE4D	~s~Place a satchel charge on the plane then get out the back.
+DES9_A3	4E809EDB	~s~Make sure you get clear of the explosion.
+DES9_A4	D0E40B78	~s~Go! Get up the plane's ~y~ramp~s~ now!
+DES9_A5	A7E33BEE	~S~You're trapped on the plane.
+DES9_A6	3EEA6A54	~s~You'll need a parachute to get off the plane. One of the crew members will have one.
+DES9_A7	49ED5AC2	~s~Once planted, trigger the satchel charge with the detonator or by jumping out the back of the plane.
+DES9_A8	D9524753	~s~Clear the plane before being engulfed in the explosion!
+DES9_A9	AE5577C5	~s~The plane is packed with explosives! Be careful firing weapons onboard.
+DES9_AA	F08B8ECB	Oh fuck, my guns!
+DES9_AB	6982DF71	Oh man, my guns!
+DES9_BA	DBA6DD08	Ah, what's Toreno up to now?
+DES9_BB	42AF8CB2	I'm feeling a little exposed here!

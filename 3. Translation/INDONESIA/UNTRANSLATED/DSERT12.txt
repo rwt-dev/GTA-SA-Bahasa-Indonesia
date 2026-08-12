@@ -1,0 +1,30 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+D12@00	95923CA5	Yo.
+D12@01	E2950C33	CJ. I've nosed too deep this time!
+D12@02	7B9C5D89	I've told you about that stuff, Truthman!
+D12@03	0C9B6D1F	Lay off the 'caine, dude!
+D12@04	92FFF8BC	No. I didn't mean that!
+D12@05	E5F8C82A	The grey government want me out of the way!
+D12@06	7CF19990	Yo, speak up.
+D12@07	0BF6A906	I'm in Bayside,
+D12@08	9B49B497	Whole town is crawling with dudes in black suits.
+D12@09	EC4E8401	I need your help, CJ!
+D12@10	8C890DE4	I've done some mushrooms, but it hasn't calmed me down at all.
+D12@11	FB8E3D72	CJ! They're after me!
+D12@12	62876CC8	Yo, calm down, I'm on my way.
+D12@13	15805C5E	Carl.
+D12@14	8BE4C9FD	Yo, we gotta rescue The Truth. Get back in!
+D12@15	FCE3F96B	There's been a change of plan.
+D12@16	65EAA8D1	Get back in!
+DES12_1	F174B0B4	Federal agents are chasing The Truth for wandering around Area 51!
+DES12_2	687DE10E	Escort The Truth taking out anyone trying to kill him.
+DES12_3	1F7AD198	Heli Health
+DES12_4	811E443B	Truth Health
+DES12_5	F61974AD	Escort The Truth's car to safety
+DES12_6	6F102517	The Truth died!
+DES12_7	18171581	The Truth's car was destroyed how is he gonna get away now?

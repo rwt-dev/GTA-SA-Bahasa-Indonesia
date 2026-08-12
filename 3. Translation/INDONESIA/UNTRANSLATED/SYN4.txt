@@ -1,0 +1,81 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+MCES11A	6507C29C	Eh Cesar!
+MCES11B	FC0E9326	Hey, dude, whassup?
+MCES11C	8B09A3B0	I need you to meet me at Pier 69.
+MCES11D	156D3613	We're going to take down the Loco Syndicate.
+MCES11E	626A0685	OK, holmes. You need some backup?
+MCES11F	FB63573F	No, man, I got it covered!
+SYN4_02	B3D40DB4	~r~Jizzy's ~s~escaping with the phone, hunt him down!
+SYN4_04	5AB7A881	~s~Sneak down to ~y~Jizzy~s~ silently, you need to get that number.
+SYN4_05	2DB09817	~r~Jizzy's ~s~escaping, Hunt him down!
+SYN4_06	B4B9C9AD	~r~You killed Jizzy before he made the call.
+SYN4_08	5301E4AA	~r~You scared Jizzy before he made the call.
+SYN4_11	33C66D4F	Phone collected!
+SYN4_12	AACF3CF5	~s~Use the ~y~Skylight ~s~to get into the club!
+SYN4_17	DAA5C87A	~r~You were spotted.
+SYN4_18	4A1AD5EB	The guard has raised the alarm, be extra careful!
+SYN4_20	6FEC0E1A	~s~Go pay Jizzy a visit at the ~y~Pleasure Domes club~s~!
+SYN4_29	1630B6BE	~r~You let Jizzy escape with the phone.
+SYN4_32	98F95E77	~r~You blew up the phone.
+SYN4_33	EFFE6EE1	~s~Now collect the ~g~phone~s~.
+SYN4_99	F5C46F75	~s~Sneak up to ~y~Jizzy~s~, you need to get that number.
+SYN4_AA	4CFC6585	Hey, I thought we was friends!
+SYN4_AB	D5F5343F	You're blowing your chance to be a playa!
+SYN4_AC	A2F204A9	We can talk about this, homie!
+SYN4_AD	3C96910A	You're wrecking my ride!
+SYN4_AE	4B91A19C	CJ, brother, you're gonna have to reconsider your position!
+SYN4_AF	D298F026	I can fix anything for you in this town, anything!
+SYN4_AG	A59FC0B0	CJ, you're a fool, A FOOL!
+SYN4_AH	3520DD21	I won't forget this, CJ, you hear me?
+SYN4_AJ	DB2EBC0D	You realize how much this paint job cost?
+SYN4_AK	AC298C9B	Back off, fool!
+SYN4_AL	324D1938	I got money - always!
+SYN4_BA	67D13646	Sorry, man, private function.
+SYN4_BB	FED867FC	Jizzy doesn't want to be disturbed.
+SYN4_BC	89DF576A	You ain't getting in!
+SYN4A00	4B62E2E2	Damn, where'd I put it?
+SYN4A01	3C65D274	Where the hell did I put it? Shit!
+SYN4A02	A56C83CE	Hey holmes, you OK?
+SYN4A03	D26BB358	Yeah. Woozie left a message,
+SYN4A04	4C0F26FB	say I gotta go get Jizzy's phone after he made the call.
+SYN4A05	3B08166D	Then I can ambush the meet
+SYN4A06	A20147D7	and take down those Balla pushers from Los Santos.
+SYN4A07	D5067741	Hey, homie, you want me to roll with you?
+SYN4A08	45B96AD0	No, this is a one-man job.
+SYN4A09	32BE5A46	I gotta stay real low key,
+SYN4A10	5279D3A3	I was thinking about welding some shit together,
+SYN4A11	257EE335	and making me a silencer!
+SYN4A12	BC77B28F	You're fucking crazy, holmes!
+SYN4A13	CB708219	You gotta get out of this ghetto mentality!
+SYN4A14	551417BA	So what you thinking?
+SYN4A15	2213272C	Here, take mine.
+SYN4A16	BB1A7696	Where'd you get that?
+SYN4A17	CC1D4600	Same place I buy my pants, holmes. This is America!
+SYN4A18	5CA25B91	Let me show you. Check this out, holmes.
+SYN4B00	49245CBB	Gimme some room. Gimme some room, bitch!
+SYN4B01	3E236C2D	It's that time of the week again -
+SYN4B02	A72A3D97	your provider is about to make that special call.
+SYN4B03	D02D0D01	If I think for a moment that one of you hos is hustling me...
+SYN4B04	4E4998A2	You better make a bigger cut this week Jiz. We're running low, honey!
+SYN4B05	394EA834	- Shut up bitch, I'm handling business!~n~- Don't you even raise your voice at me, asshole!
+SYN4B06	A047F98E	Don't you even raise your voice at me, asshole!
+SYN4B07	D740C918	Now shut up, bitch!
+SYN4B08	47FFD489	Hey, Jizzy, I need to holler at you.
+SYN4B09	30F8E41F	Well talk, then, friend. I mean, that's all we ever do.
+SYN4B10	503F6DFA	A kind word here, a wise saying there.
+SYN4B11	27385D6C	Shit, I'm a walking book of proverbs.
+SYN4B12	BE310CD6	No, you fucked up.
+SYN4B13	C9363C40	C... C'mon, man. Hey, I get it wrong, you know?
+SYN4B14	5752A9E3	I'm Imperfect - you know, like... hey.
+SYN4B15	20559975	Not a kind man. Not a wise man, you know. Not a smart man,
+SYN4B16	B95CC8CF	but Dear Lord, I tried!
+SYN4B17	CE5BF859	No. You fucked up when you trusted me, playa.
+SYN4B18	5EE4E5C8	You an ass-selling, yay pushing, piece of shit trash.
+SYN4B19	29E3D55E	Oh, lord! Whatchoo all waiting on, huh? Somebody cap this nigga, man!
+SYN4B20	7B123E39	Your funky ass...
+SYN4B21	0C150EAF	C'mon, baby... I... I... But... But...

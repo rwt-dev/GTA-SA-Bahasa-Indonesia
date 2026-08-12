@@ -1,0 +1,317 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	FED2A913	To use the night vision goggles select them from your inventory and press ~m~~widget_attack~.
+	4C97C2F7	To fire press ~m~~widget_vc_shoot~.
+	D59E934D	To look around use ~m~~widget_explicit_move_x~. To fire press ~m~~widget_vc_shoot~.
+EPIL@00	750A248A	Enchiladas! Everybody dig in.
+EPIL@01	020D141C	Yeah, I usen't to like Mexican food, but I love this shit now.
+EPIL@02	9B0445A6	Yeah, we know about that.
+EPIL@03	EC037530	Eh, forget you, holmes. We got the best food.
+EPIL@04	7267E093	It tastes spicy!
+EPIL@05	0560D005	Now that everything is cool,
+EPIL@06	9C6981BF	we gotta stay on top of our game.
+EPIL@07	EB6EB129	Keep everything in check, but subtle.
+EPIL@08	7BD1ACB8	We got problems in Venturas, problems in San Fierro.
+EPIL@09	0CD69C2E	Shit's never ending.
+EPIL@10	6C1115CB	For sure. I mean, the Families is back on their feet.
+EPIL@11	1B16255D	But we gotta keep shit tight
+EPIL@12	821F74E7	cuz a lot of people have got their eyes on us.
+EPIL@13	F5184471	Come in.
+EPIL@14	6B7CD1D2	I come in peace with Mr Dogg here who has an announcement.
+EPIL@15	1C7BE144	My, I mean OUR first gold record.
+EPIL@16	8572B0FE	And I've decided to get breast implants.
+EPIL@17	F2758068	Shut up, will ya?
+EPIL@18	62CA9DF9	Anyway, what's next?
+EPIL@19	15CDAD6F	We should hit the casinos, roll some dice with Woozie.
+EPIL@20	473C4608	Nah, we gotta take care of shit here first.
+EPIL@21	303B769E	- We're going on tour, fan!~n~- Has anyone got a tissue? My nose is... it just won't stop running - anybody?
+EPIL@22	A9322724	Has anyone got a tissue? My nose is... it just won't stop running - anybody?
+EPIL@23	DE3517B2	Yeah, I have, over here...
+EPIL@24	40518211	Carl, where are you off to now?
+EPIL@25	3756B287	Fittin' to hit the block, see what's happening.
+EPIL@26	AE5FE33D	That's right, baby.
+EPIL@27	D958D3AB	(Cheering)
+EPIL@28	49E7CE3A	You know what I'm talking about. Yeah, they heard about it.
+EPIL@29	3EE0FEAC	(Jeering)
+EPIL@30	5E277749	Uh, I'll pass.
+RM4_1	5DEF1844	~s~Get in the car with ~b~Sweet~s~.
+RM4_10	57355A3D	~r~The SWAT Tank has been destroyed! How are you going to get into Big Smoke's Crack Fortress now?
+RM4_11	20326AAB	~r~Sweet died!
+RM4_12	B93B3B11	~r~You wrecked the car!
+RM4_13	CE3C0B87	~s~There is an entrance into the ~y~first floor ~s~towards the back of this area.
+RM4_14	50589E24	~s~The only way past that reinforced entrance is to knock it down.
+RM4_15	275FAEB2	~s~Smash through the ~y~wall ~s~to gain entry!
+RM4_16	BE56FF08	~s~Smoke is on the Fourth floor in his ~y~Penthouse Suite~s~. You will have to work your way through three floors to get there.
+RM4_17	C951CF9E	Floor 1: Security Area
+RM4_18	59EED20F	Floor 2: Drug Lab
+RM4_19	2EE9E299	Floor 3: Ballas Lounge
+RM4_2	C4E649FE	~s~Drive to ~y~Big Smoke's Crack Fortress~s~.
+RM4_20	7C1809FE	Floor 4: Smoke's Suite
+RM4_21	0B1F3968	~s~Make your way to ~y~Floor 4~s~.
+RM4_22	921668D2	~s~Make your way to ~y~Floor 2~s~.
+RM4_23	E5115844	~s~Make your way to ~y~Floor 3~s~.
+RM4_24	7B75CDE7	~s~Go get ~y~Big Smoke~s~.
+RM4_25	0C72FD71	Eat Grenade, CJ!
+RM4_26	957BACCB	Studio lights off!
+RM4_27	E27C9C5D	Ahh, I'm blinded!
+RM4_28	72C381CC	Smoke is wearing a bulletproof vest. To maximize the damage you inflict on him aim at other parts of his body.
+RM4_29	05C4B15A	Don't just stand there Get him boys!
+RM4_3	B3E17968	Yo! Quit foolin' around and find a way in there!
+RM4_30	650338BF	Good shot but let's see if you're that good in the dark!
+RM4_31	12040829	~s~Smoke has switched the lights off go get the ~g~thermal goggles ~s~by the lower window.
+RM4_32	8B0D5993	To use the night vision goggles select them from your inventory and tap ~m~~widget_attack~.
+RM4_33	FC0A6905	~s~Use the night vision goggles you have just picked up from Big Smoke to help you see in the dark and ~y~escape ~s~the building as quick as possible.
+RM4_34	626EFCA6	Time
+RM4_35	1569CC30	~s~This floor is on fire use a ~g~fire extinguisher ~s~to help you get out!
+RM4_36	8C609D8A	~s~Use the thermal vision to spot ~r~Smoke ~s~and his goons more easily.
+RM4_37	FB67AD1C	Burn, CJ!
+RM4_38	6BD8B08D	~s~Tenpenny has caused an explosion, the lighting in the building is off and the whole place is beginning to burn down. You need to get out of here quick!
+RM4_39	1CDF801B	Smoke's Health
+RM4_4	2D85ECCB	~s~Security is tight in the Crack Fortress. There is only one way in but the door is locked down because of the riots.
+RM4_40	2A42AE78	Night vision can brighten up fires, so you may have to switch between night vision and normal vision to help you see fires more clearly.
+RM4_41	5D459EEE	~s~Follow Tenpenny and make sure ~b~Sweet ~s~is safe, stay close to the firetruck and do not lose Tenpenny.
+RM4_42	C44CCF54	~s~Do not attempt to damage the firetruck or you may injure ~b~Sweet~s~.
+RM4_43	B34BFFC2	~s~The cop is stamping on ~s~Sweet's fingers get your car close to him in case he loses his grip.
+RM4_44	2D2F6A61	~b~Sweet ~s~is about to lose his grip get your car directly underneath the end of the ladder and catch ~s~Sweet ~s~before he loses his grip!
+RM4_45	5A285AF7	~r~Sweet died! You are supposed to catch him, next time get your car underneath Sweet when he begins to lose grip!
+RM4_46	C3210B4D	~r~You wrecked your car!
+RM4_47	B4263BDB	Sweet's Grip
+RM4_48	2499264A	~s~Get back in the ~b~car~s~!
+RM4_49	539E16DC	~s~Chase the firetruck!
+RM4_5	5A82DC5D	~s~A heavy vehicle like the SWAT Tank will be able to smash down the entrance easily.
+RM4_50	33599F39	~r~You lost Sweet! Next time stay closer!
+RM4_52	DD57FE15	Car
+RM4_53	AA50CE83	~r~You wrecked your car
+RM4_54	34345B20	To look around swipe across the center of the screen. To fire tap ~m~~widget_vc_shoot~.
+RM4_6	C38B8DE7	~s~Go get the ~b~SWAT Tank~s~.
+RM4_7	B48CBD71	~s~Get back in the ~b~car~s~!
+RM4_8	2433A0E0	~s~Use the SWAT Tank to ram right through the entrance of ~y~Big Smoke's Crack Fortress~s~.
+RM4_9	53349076	You need to ram that wall right through, get back in the ~b~SWAT Tank~s~!
+ROT4_AA	15540094	You sure he in East Los Santos?
+ROT4_AB	8C5D512E	Yeah, right on the edge of Los Flores - some old apartments and a warehouse.
+ROT4_AC	FB5A61B8	He as good as dead, then!
+ROT4_BA	3E795357	I can't believe you bought that same bucket ass car, man!
+ROT4_BB	A77002ED	Hey, if it ain't broke, don't fix it.
+ROT4_BC	D077327B	So this is it, huh?
+ROT4_BD	4E13A7D8	Yeah.
+ROT4_BE	3914974E	Johnson boys sorting shit out.
+ROT4_BF	A01DC6F4	Yeah.
+ROT4_BG	D71AF662	Nervous?
+ROT4_BH	47A5EBF3	Yeah.
+ROT4_BJ	A9AB8ADF	Me too, me too.
+ROT4_CA	27626216	Yo, CJ, you lost your nerve?
+ROT4_CB	BE6B33AC	What's the problem, CJ, you backing out?
+ROT4_CC	C96C033A	Don't back down now, CJ, get in there and face Smoke!
+ROT4_DA	6823F4D1	You ain't getting away with this!
+ROT4_DB	F12AA56B	Sweet, no!
+ROT4_EA	7138C590	Hang on Sweet!
+ROT4_EB	E831942A	Just keep hanging on, bro!
+ROT4_EC	9F36A4BC	Almost got you!
+ROT4_ED	0152311F	Nearly there!
+ROT4_FA	5A159653	I ain't losin' this fool!
+ROT4_FB	C31CC7E9	I ain't letting this bastard go!
+ROT4_FC	B41BF77F	I can't hang on much longer!
+ROT4_FD	2A7F62DC	I'm gonna let go!
+ROT4_GA	430EA712	Fuck that was close!
+ROT4_GB	DA07F6A8	Oh man, that was a close call!
+ROT4_HA	C496BBDD	Tenpenny, you motherfucking piece of shit!
+ROT4_HB	5D9FEA67	I ain't letting you get away with all you've done!
+ROT4_HC	2A98DAF1	I'm gonna piss on your corpse, Tenpenny!
+ROT4_JA	F6A0D95F	Get out there and finish the bastard!
+ROT4_JB	6FA988E5	This is a requisitioned police vehicle!
+ROT4_JC	18AEB873	You're headed for a fall!
+ROT4_JD	86CA2DD0	You ain't long for this life!
+ROT4_KA	EFBBE81E	Bleed motherfucker!
+ROT4_KB	76B2B9A4	Let go, you dumb bastard!
+ROT4_KC	01B58932	Give in, it's over!
+ROT4_KD	9FD11C91	Fuck you, pig!
+ROT4_KE	E8D62C07	Argh! My fingers!
+ROT4_KF	71DF7DBD	Get offa me, you psycho!
+ROT4_KG	06D84D2B	Sick bastard!
+ROT4_KH	966750BA	CJ, shoot this motherfucker!
+ROT4_KJ	78693196	CJ, do something!
+ROT4_LA	A0FA7ED9	Oh shiiiiit!
+ROT4_LB	39F32F63	Fuck, NOOOO!
+ROT4_MA	B9E14F98	Now, Sweet, let go!
+ROT4_MB	20E81E22	Oh shiiiiit!
+ROT4_MC	57EF2EB4	Gotcha!
+ROT4_MD	C98BBB17	Motherfucker!
+ROT4_ME	BE8C8B81	Take the wheel, it's payback time!
+ROT4_NA	92CC1C5B	Rioters on the bridge up ahead!
+ROT4_NB	0BC54DE1	They're dropping shit from that bridge!
+ROT4_NC	7CC27D77	Rioters up ahead!
+ROT4_ND	E2A6E8D4	Ballas up ahead!
+ROT4_NE	95A1D842	Vagos rioters coming up!
+ROT4_NF	0CA889F8	Varrios rioters!
+ROT4_NG	7BAFB96E	Barricade!
+ROT4_NH	EB10A4FF	Look out, barricade!
+ROT4_NJ	051EC5D3	Oh shit, on coming traffic!
+ROT4_NK	7219F545	Shoot that bastard!
+ROT4_NL	EC7D60E6	Take that pig bastard down!
+ROT4_NM	9B7A5070	Oh fuck, oil!
+ROT4_NN	027301CA	Shit, water all over the road!
+ROT4_NO	7574315C	OIL!
+ROT4_NP	F87C3CA9	That thing's dropping water!
+ROT4_NQ	8F7B0C3F	Firetruck's dropping oil!
+ROT4_NR	16725D85	Cops on our tail!
+ROT4_NS	61756D13	Cops up ahead!
+ROT4_NT	FF11F8B0	National Guard!
+ROT4_NU	8816C826	National Guard road block!
+ROT4_OA	8BD72D1A	It's over, Tenpenny, OVER!
+ROT4_OB	12DE7CA0	Oh no, this is just the beginning!
+ROT4_OC	65D94C36	I'm buying myself a new life, asshole!
+ROT4_OD	FBBDD995	I'm a stop you motherfucker!
+ROT4_PA	468D2384	Motherfucker , SWAT tank!
+ROT4_PB	DF84723E	Shoot out the tires!
+ROT4_PC	A88342A8	That's my dog!
+ROT4_QA	5F9612C5	Those firetrucks are indestructible!
+ROT4_QB	C69F437F	We ain't gonna dent it!
+ROT4_QC	B19873E9	He's trying to ram us!
+ROT4_QD	2FFCE64A	Brace yourself!
+ROT4_QE	58FBD6DC	He's trying to run us off the road!
+ROT4_RA	74BB4106	He's losing control!
+ROT4_RB	EDB210BC	He's lost control!
+ROT4_RC	9AB5202A	He's losing the truck!
+ROT4_RD	04D1B589	We got the motherfucker!
+ROT4_RE	73D6851F	He lost control!
+ROT4_SA	6DA07047	Hey, pigs ain't supposed to fly!
+ROT4_SB	F4A921FD	Down in flames! DOWN IN FLAMES!
+ROT4_TA	22E1E680	Some rioters after us on bikes!
+ROT4_TB	BBE8B73A	Crazy bikers on a rampage!
+ROT4_TC	CCEF87AC	Look out, CJ!
+ROT4_TD	528B120F	Up ahead, Carl, up ahead!
+ROT4_TE	258C2299	Eyes front, CJ!
+ROT4_TF	BC857323	Watch our six!
+ROT4_TG	CB8243B5	Concentrate on keeping all these other lunatics off our case, CJ.
+ROT4_TH	5B3D5E24	I'm on Tenpenny, he ain't getting away!
+ROT4_TJ	B5333F08	Where did all these assholes come from?
+ROT4_TK	C2340F9E	This city's gone nuts!
+ROT4_TL	5C509A3D	Rioters out to cause trouble for anybody!
+ROT4_TM	2B57AAAB	I'll keep up with Tenpenny, don't you worry!
+ROT4_UA	3BFAD7C1	You wearing body armor, Smoke?
+ROT4_UB	A2F3867B	Man, I'm disappointed in you - I thought you was gangsta!
+ROT4_UC	D5F4B6ED	Hey, I'm a motherfucking celebrity.
+ROT4_UD	4B90234E	All kinds of crazy cats out there want a piece of me!
+ROT4_ZA	BC62CB0E	Shoot 'em! Help me!
+ROT4_ZB	256B9AB4	Somebody save the Smoke!
+ROT4A00	12CA87F3	Hey, Sweet!
+ROT4A01	65CDB765	Wassup?
+ROT4A02	FCC4E6DF	It's time for Smoke.
+ROT4A03	8BC3D649	Alright let's roll.
+ROT4A04	15A743EA	Johnson brothers fittin' to take that fat fool down!
+ROT4A05	62A0737C	take that fat fool down, Grove style.
+ROT4B00	108C39AA	Listen.
+ROT4B01	678B093C	Look, I know you down for this, but I gotta go in there alone.
+ROT4B02	FE825886	Smoke played me.
+ROT4B03	89856810	Tenpenny played me.
+ROT4B04	17E1FDB3	They played us all.
+ROT4B05	60E6CD25	Yeah, but you're right - I was a buster when my family needed me the most.
+ROT4B06	F9EF9C9F	Hey, I let Brian die, man.
+ROT4B07	8EE8AC09	This one's for him, for Moms... and for you, bro.
+ROT4B08	1E57B198	For Grove Street, baby.
+ROT4B09	6950810E	Yeah, for the Grove, baby.
+ROT4B10	099708EB	Hey - if you need me, you know I'll be.
+ROT4B11	7E90387D	For sure. You've always been there for me, man.
+ROT4B12	E79969C7	Yeah.
+ROT4B21	55BD6BBE	What?
+ROT4C00	114E539D	Hey, Smoke!
+ROT4C01	6649630B	Hey CJ, I was wondering when you'd show up.
+ROT4C02	FF4032B1	How'd you know it was me?
+ROT4C03	88470227	Knew it was my old dog CJ.
+ROT4C04	16239784	Knew you was coming and I don't give a shit.
+ROT4C05	6124A712	I'm here to take care of your fat ass,
+ROT4C06	F82DF6A8	then I'm gonna take care of your friends in the police department.
+ROT4C07	8F2AC63E	Where they at?
+ROT4C08	1F95DBAF	Man, that's some good shit...
+ROT4C09	6892EB39	Fuck Tenpenny and fuck his Polish lap dog.
+ROT4C10	085562DC	and fuck the police, man. All that's old shit.
+ROT4C11	7F52524A	Look at you, you got the whole world. I ain't got no regrets, man.
+ROT4C12	E65B03F0	I don't give a fuck. Fuck the whole world.
+ROT4C13	915C3366	I made it, CJ! I'm a success.
+ROT4C14	0F38A6C5	I can't be touched!
+ROT4C15	783F9653	What happened to you, man?
+ROT4C16	E136C7E9	Man, what the fuck do you care?
+ROT4C17	9631F77F	Guess we better do this shit then...
+ROT4C18	068EEAEE	Man, fuck this shit.
+ROT4D00	14014518	Hey, Smoke, what made you flip out like that, man?
+ROT4D01	6306758E	Was it the drugs, or what?
+ROT4D02	FA0F2434	I got caught up in the money, the power...
+ROT4D03	8D0814A2	I don't give a shit. Oh fuck, man...
+ROT4D04	136C8101	Why you just didn't quit, man?
+ROT4D05	646BB197	We was like family, homie.
+ROT4D06	FD62E02D	I had no choice... I had to do it...
+ROT4D07	8A65D0BB	I just see the opportunity.
+ROT4D08	1ADACD2A	When I'm gone, everyone gonna remember my name...
+ROT4D09	6DDDFDBC	...Big Smoke!
+ROT4D10	0D1A7459	Oh, damn, man...
+ROT4D11	7A1D44CF	Carl Johnson. My man.
+ROT4D12	E3141575	I need you to do me another favor.
+ROT4D13	941325E3	You killed Pulaski, and now this fat fuck - there's no stopping you!
+ROT4D14	0A77B040	Drop the gun.
+ROT4D15	7D7080D6	You ain't leaving here alive, man.
+ROT4D16	E479D16C	Where's your brother at, huh?
+ROT4D17	937EE1FA	Why you just didn't shoot me in the back?
+ROT4D18	03C1FC6B	Feeling exposed, huh?
+ROT4D19	74C6CCFD	Shut your dumb ass up and load the bag.
+ROT4D20	2637279A	So what it's like, Tenpenny, huh?
+ROT4D21	5130170C	All alone, nobody got your back?
+ROT4D22	C83946B6	Why you think I'm alone?
+ROT4D23	BF3E7620	I got a couple of rookies outside.
+ROT4D24	215AE383	But I gotta open their eyes slowly, you know -
+ROT4D25	565DD315	- a little truth here, a little truth there...
+ROT4D26	CF5482AF	A'ight, fuck it, that's enough.
+ROT4D27	B853B239	Chuck it over, I've got a firetruck to catch.
+ROT4D28	28ECAFA8	You're crazy man, you've lost it... you're gone.
+ROT4D29	5FEB9F3E	Half the city is looking for cops to kill, Carl,
+ROT4D30	3F2C16DB	and I ain't about to get dragged out of a patrol car
+ROT4D31	482B264D	and get beaten to death by some angry mob. Not tonight.
+ROT4D32	D12277F7	What you catching, a plane?
+ROT4D33	A6254761	Ding ding ding ding ding! Good answer, Carl!
+ROT4D34	3841D2C2	You know, you're gonna thank me, one day
+ROT4D35	4F46E254	for opening your fucking eyes.
+ROT4D36	D64FB3EE	Oh! I almost forgot, Carl!
+ROT4D37	A1488378	Time to die!
+ROT4D38	31F79EE9	Uh, Sweet!
+ROT4D39	46F0AE7F	What a waste.
+ROT4D40	706D801C	C'mon, let's go, I ain't got time to fuck with you!
+ROT4D41	076AB08A	Suck, huh?
+ROT4D42	9E63E130	What? Motherf-
+ROT4D43	E964D1A6	It ain't over, Carl! It ain't over!
+ROT4E00	15C32F2F	Come on, assholes. I'll take you all.
+ROT4E01	62C41FB9	You're mine! Mine! I run this town!
+ROT4E02	FBCD4E03	Hey, over here! Hey! Officer down!
+ROT4E03	8CCA7E95	Come on! HEY!
+ROT4E04	12AEEB36	Assholes! You never understood what I did!
+ROT4E05	65A9DBA0	I bought order to the fucking chaos!
+ROT4E06	FCA08A1A	Fifty of me and this town would be okay.
+ROT4E07	8BA7BA8C	I took the trash out!
+ROT4E08	1B18A71D	I DID!
+ROT4E09	6C1F978B	And I'd do it all again...
+ROT4E10	0CD81E6E	Don't... don't do it man, he's gone.
+ROT4E11	7BDF2EF8	I just wanna be sure it's over, man. That's all.
+ROT4E12	E2D67F42	That's all.
+ROT4E13	95D14FD4	It's cool, don't need to put a bullet in him.
+ROT4E14	0BB5DA77	don't need to put a bullet in him.
+ROT4E15	7CB2EAE1	He killed hisself in a traffic accident.
+ROT4E16	E5BBBB5B	No one to blame.
+ROT4E17	92BC8BCD	Let's roll.
+ROT4E18	0203965C	I mean, far out, man. You know, I mean, you beat the system!
+ROT4E19	7504A6CA	I tried for thirty years to cross over
+ROT4E20	27F54DAD	but you've managed it, man.
+ROT4E21	50F27D3B	I mean, man, you're an icon, man!
+ROT4E22	C9FB2C81	Oh - thanks, man.
+ROT4E23	BEFC1C17	I'm just glad it's finally over.
+ROT4E24	209889B4	What's up with Smoke?
+ROT4E25	579FB922	You know what's up with Smoke.
+ROT4E26	CE96E898	He always saw things a little different than us.
+ROT4E27	B991D80E	Smoke? Smoke was always on his own, always out for self.
+ROT4E28	292EC59F	That is the surest path to hell, man.
+ROT4E29	5E29F509	Well - that or fifteen microdots and an ounce of mescaline.
+ROT4E30	3EEE7CEC	Let's go get something to eat.
+ROT4E31	49E94C7A	See you around.
+ROT4E32	D0E01DC0	Officer.
+ROT4E33	A7E72D56	Sounds good to me.

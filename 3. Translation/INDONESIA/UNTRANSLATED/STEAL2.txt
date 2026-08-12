@@ -1,0 +1,83 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	9830273F	Press ~m~~widget_nitro~ to trigger a nitro.
+STE2_01	C4F8211D	~s~Go and get the cars from the ~y~car showroom~s~.
+STE2_02	5DF170A7	~s~Stay close to ~b~Cesar~s~ as you return to the garage.
+STE2_03	2AF64031	Tap ~m~~widget_nitro~ to trigger a nitro.
+STE2_04	B492D592	~s~Follow ~b~Cesar~s~ into the alleyway.
+STE2_05	C395E504	~s~Drive back to the ~y~garage~s~.
+STE2_06	5A9CB4BE	~r~You lost Cesar!
+STE2_07	2D9B8428	~r~Cesar was killed.
+STE2_08	BD2499B9	~r~The target car was destroyed.
+STE2_09	CA23A92F	~r~The police recovered one of the cars!
+STE2_10	AAE420CA	~s~You have left ~b~Cesar~s~ behind.
+STE2_11	DDE3105C	~s~Get back in the ~b~car~s~.
+STL2@00	A99597B7	Hey Carl, there's two cars on the list, ese,
+STL2@01	DE92A721	and they're in the showroom across town,
+STL2@02	479BF69B	let's go get 'em!
+STL2@03	309CC60D	I've always admired your direct approach, hombre.
+STL2_AA	AFC97AE7	OK, let's go get those wheels!
+STL2_BA	84E42924	I like this place, you know.
+STL2_BB	1DED789E	Where?
+STL2_BC	6AEA4808	San Fierro, man.
+STL2_BD	F48EDDAB	My home will always be the Varrios and El Corona,
+STL2_BE	8389ED3D	but this city, it has something gentle about it.
+STL2_BF	1A80BC87	Yeah, I know what you mean.
+STL2_BG	6D878C11	Kendl seems to like it too, you know?
+STL2_BH	FD389180	Oh yeah, she's really getting her head into this business thing.
+STL2_BJ	1336F0AC	That's good, she's always been the brains in the family.
+STL2_BK	6431C03A	She should get out the ghetto and make something of herself.
+STL2_BL	FA555599	I think she's aiming to make something out of ALL of us, eh!
+STL2_BM	8D52650F	Yeah, she's the moms of the family now...
+STL2_CA	9DFF1865	Hey, who's this 'Truth' guy, holmes? I don't think he's wrapped too tight!
+STL2_CB	04F649DF	He just sees everything from a different perspective, that's all.
+STL2_CC	73F17949	At first I thought he was just another acid casualty fruit cake.
+STL2_CD	ED95ECEA	But some of the things he say...
+STL2_CE	9A92DC7C	I don't know, man, it ain't all bullshit....
+STL2_CF	039B8DC6	Hey, you gonna become an alien hunter, holmes?
+STL2_CG	749CBD50	I'll take a rain check on that one.
+STL2_DA	D2BE8EA2	This is the place!
+STL2_DB	4BB7DF18	Here we go, holmes.
+STL2_DC	3CB0EF8E	This is it, CJ!
+STL2_DD	A2D47A2D	The cars are upstairs!
+STL2_DE	D5D34ABB	The cars are on the second floor.
+STL2_DF	4CDA1B01	They're in the second floor showroom.
+STL2_DH	AB623606	What? How we gonna get 'em down?
+STL2_DJ	456C572A	Second floor? Shit!
+STL2_DK	326B67BC	Aw great! Why is nothing ever easy?
+STL2_EA	CBA5BFE3	Can I help you two, eerr, gentlemen?
+STL2_EB	52ACEE59	Yeah, you can help us by going to help some other motherfucker.
+STL2_EC	25ABDECF	Y- yeah, that sounds like a good idea!
+STL2_ED	BBCF4B6C	Alright, CJ, it's time to roll!
+STL2_EE	CCC87BFA	It's follow the leader, you better keep up!
+STL2_EF	55C12A40	Aw, you a maniac, ese!
+STL2_FA	E088EC20	Hey, CJ, is this walkie talkie working?
+STL2_FB	7981BD9A	Yeah, reading you loud and clear!
+STL2_FC	0E868D0C	C'mon, CJ, see if you can keep up with Cesar Vialpando!
+STL2_FD	90E218AF	Beat the tram up the hill!
+STL2_FE	E7E52839	Piece of chocolate cake!
+STL2_FF	7EEC7983	This tram driver must be shitting himself, holmes!
+STL2_FG	09EB4915	Hello cops, what took you, eh?
+STL2_FH	99545484	Hey, CJ, watch this ... NITRO!
+STL2_FJ	775A35A8	Follow me down the hill, holmes!
+STL2_FK	005D053E	Bike in the road ... watch out!
+STL2_FL	9E39909D	OK, Cesar, that's enough fun.
+STL2_FM	E93EA00B	Let's get these cars back to the garage!
+STL2_FN	7037F1B1	OK, CJ, hey, I know a quick route!
+STL2_FO	0730C127	Hello. Cops, back again you idiotas?
+STL2_FP	8A38CCD2	Get out of the fucking road!
+STL2_FQ	FD3FFC44	Holy SHIIIIIIIT!
+STL2_FR	6436ADFE	Fuck, holmes, did you see that?
+STL2_GA	F993DD61	Can we think about getting back
+STL2_GB	609A8CDB	before I end up in a carwreck barbeque?
+STL2_HA	7E0BC1AE	Sure thing, holmes.
+STL2_HB	E7029014	I think we lost 'em.
+STL2_HC	9005A082	There's a shortcut this way!
+STL2_HD	0E613521	Uh-oh, more cops!
+STL2_HE	796605B7	BACK UP, HOLMES, BACK UP! BACK UP!
+STL2_HF	E06F540D	OK, we're good.
+STL2_HG	9768649B	See you back at the garage, CJ!

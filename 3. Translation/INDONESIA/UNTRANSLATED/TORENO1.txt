@@ -1,0 +1,78 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+DES1@00	33634B74	Carl, darling, welcome.
+DES1@01	44647BE2	Some fucking welcome, man.
+DES1@02	DD6D2A58	What you know about my family?
+DES1@03	AA6A1ACE	Now first we need to see what you're made of.
+DES1@04	340E8F6D	What do I look like I'm made of? Pudding?
+DES1@05	4309BFFB	No - anger, and hate. And that's what I like about you.
+DES1@06	DA00EE41	There's a truck in the garage.
+DES1@07	AD07DED7	Whaddya say we take it for a spin.
+DES1_10	3D029E78	~s~Get in the ~b~monster truck~s~.
+DES1_11	4A05AEEE	~r~How are you going to race without a truck!
+DES1_25	66453934	~s~You have ~1~ seconds ~n~ to get back in the ~b~truck~s~.
+DES1_26	FF4C688E	~s~You have ~1~ second ~n~ to get back in the ~b~truck~s~.
+DES1_27	884B5818	~r~You've been out of the truck for too long!
+DES1_28	18F44589	~r~You're out of time!
+DES1_32	E13A9DD6	~1~:0~1~ - Let's see how your time compares...
+DES1_33	963DAD40	~1~:~1~ - Let's see how your time compares...
+DES1_34	085938E3	Monster
+DES1_43	D97C3B87	~r~You wrecked the truck!
+DES1_44	4718AE24	~s~Get to the next ~r~check-point~s~.
+DES1_45	301F9EB2	BEDDOES
+DES1_46	A916CF08	MCMAHON
+DES1_47	DE11FF9E	BOLT
+DES1_48	4EAEE20F	TAYLOR
+DES1_49	39A9D299	WONG
+DES1_50	596E5B7C	CJ
+DES1_51	2E696BEA	~1~.
+DES1_52	B7603A50	RANK
+DES1_53	C0670AC6	NAME
+DES1_54	5E039F65	TIME
+DES1_58	57B5D34E	~s~Get to the first ~r~check-point~s~.
+DES1_62	9C4D6993	~s~You need to get a place in the top five.
+DES1_63	EB4A5905	~1~
+DES1_64	752ECCA6	/~1~
+DES1_65	0229FC30	~1~:~1~
+DES1_66	9B20AD8A	~1~:0~1~
+DES1_67	EC279D1C	~1~/~1~
+DES1_68	7C98808D	~r~You did not make it into the top five.
+DES1_69	0B9FB01B	~s~You need to get a time better than ~1~:~1~.
+DES1_70	6B5839FE	~s~You need to get a time better than ~1~:0~1~.
+DES1_AA	353FA624	Alright, Carl, let's see a little of that initiative!
+DES1_AB	AC36F79E	What the- you in here too?
+DES1_AC	DB31C708	Doesn't matter where I am,
+DES1_AD	455552AB	just that I've been watching you for a while.
+DES1_AE	3252623D	You a stalker or some shit?
+DES1_AF	AB5B3387	Oooh, when the mood hits me.
+DES1_AG	DC5C0311	Now let's just pay attention to the job at hand, shall we?
+DES1_AH	4CE31E80	Why? Why am I doing this?
+DES1_AJ	A2ED7FAC	Because I can help you and your brother.
+DES1_AK	D5EA4F3A	What? Why? How you know about my brother?
+DES1_AL	4B8EDA99	'Hu-hu-how do you know my brother?' You're beginning to sound like a broken record, Carl.
+DES1_AM	3C89EA0F	Look, I'm gonna leave you in peace to just get the job done the best you can
+DES1_AN	A580BBB5	and if you make the grade, maybe, just maybe,
+DES1_AO	D2878B23	How can I help you?
+DES1_AP	5F8F86D6	Hello?
+DES1_AQ	2888B640	Hey, asshole!.... Shit....
+DES1_AR	B181E7FA	We can help each other.
+DES1_BA	1E12F5E7	Here's the deal, this is all about speed and commitment.
+DES1_BB	871BA45D	You got a GPS in the cab. Get to each set of map coordinates as quick as you can.
+DES1_BC	F01C94CB	Make it to all the coordinates then get the truck back here.
+DES1_BD	6E780168	Lose the truck and you fail.
+DES1_BE	197F31FE	First, what's a GPS? Second, fail what?
+DES1_BF	80766044	Sorry, need-to-know basis only!
+DES1_BG	F77150D2	Oh, one more thing, this baby's got four-wheel steering.
+DES1_BH	67CE4D43	Good luck!
+DES1_BJ	89C02C6F	And third, who the fuck are you?
+DES1_CA	0709C4A6	OK, the boss was right about you!
+DES1_CB	9E00951C	Not bad at all, I'm semi-hard.
+DES1_CC	E907A58A	Boy, by the skin of your teeth.
+DES1_CD	77633029	The boss will be in touch.
+DES1_CE	006400BF	Sorry pal, you're not what the boss is looking for.
+DES1_CF	996D5105	Luck.
+DES1_CG	EE6A6193	Pretty good for a ghetto boy...

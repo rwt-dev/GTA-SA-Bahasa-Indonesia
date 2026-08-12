@@ -1,0 +1,97 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	E8F24EED	Press and hold the lower right corner of the screen to sprint.
+SMK2_1	6343179E	~s~Get into Big Smoke's ~b~car.
+SMK2_10	310DCDF8	~s~Catch the ~r~gang member ~s~before he reaches his destination!
+SMK2_11	460AFD6E	~r~He got away!
+SMK2_12	DF03ACD4	~r~Big Smoke's car was destroyed!
+SMK2_15	41673977	~s~Drive Big Smoke to the ~y~meet.
+SMK2_16	D86E68CD	~s~Get a weapon, then get back into Big Smoke's ~b~car~s~.
+SMK2_17	AF69585B	~s~Chase down the ~r~gang member~s~.
+SMK2_2	FA4A4624	~s~Drive Big Smoke to the ~y~meet.~N~~s~If you need a weapon, go to Emmet's house.
+SMK2_3	8D4D76B2	~s~Get back into Big Smoke's ~b~car.
+SMK2_4	1329E311	~s~Chase down the Los Santos Vagos ~r~gang member.
+SMK2_7	8A20B2AB	~r~Big Smoke died!
+SMK2_8	1A9FAF3A	~s~The ~r~gang member ~s~is escaping in a car!~N~Get a vehicle and chase him down.
+SMK2_9	6D989FAC	~s~The ~r~gang member ~s~is escaping in a car!~N~Catch him before he gets away.
+SMK2_H1	B8F73FD1	Press and hold ~m~~widget_sprint~ to sprint.
+SMK2_H2	21FE6E6B	You can only use the Super Sprint for a short time before becoming tired.
+SMO2_AA	CCB05364	Why you let me drive all the time, Smoke?
+SMO2_AB	55B902DE	Cat like me likes to scope the streets once in a while, ya know what I'm sayin'?
+SMO2_BA	E79D00A7	What you want me to roll with you for anyway?
+SMO2_BB	7E94511D	No reason. I just wanted to get in the car pool lane.
+SMO2_BC	0993618B	Oh yeah?
+SMO2_BD	97F7F428	Yeah man, just cool out homie, just chill.
+SMO2_BE	E0F0C4BE	Your cousin's coming here? From Mexico?
+SMO2_BF	79F99504	Yeah, me an' her go way back, way back.
+SMO2_BG	0EFEA592	Ah Smoke, you full a shit.
+SMO2_BH	9E41B803	Don't be prejudiced again in my presence, Carl.
+SMO2_BJ	704FD92F	Everybody is my cousin.
+SMO2_BK	0748E9B9	Brothers from different mothers, sisters from different fathers.
+SMO2_BL	992C7C1A	And all that kind of shit.
+SMO2_CA	FE8631E6	Man, I'm done!
+SMO2_CB	678F605C	I ain't built for this shit!
+SMO2_CC	108850CA	CJ, this one's all yours, baby.
+SMO2_DA	B1C7A721	CJ, what you hangin' around for?
+SMO2_DB	28CEF69B	Get after him, CJ!
+SMO2_DC	5FC9C60D	CJ, do something useful. Catch that guy.
+SMO2_EA	A8DC9660	CJ, get in!
+SMO2_FA	83F1C5A3	Come on CJ!
+SMO2_FB	1AF89419	Man, what's happened to the world, man?
+SMO2_FC	6DFFA48F	Man, people have no dignity no more!
+SMO2_FD	F39B312C	This guy is really getting on my fucking nerves.
+SMO2_GA	9AEAF4E2	Let's go home, I gotta eat, man.
+SMO2_GB	03E3A558	Okay. Say, Smoke, what's going on with Tenpenny?
+SMO2_GC	74E495CE	Who?
+SMO2_GD	EA80006D	Tenpenny.
+SMO2_GE	9D8730FB	Man, I ain't never heard of him.
+SMO2_GF	048E6141	Yes you have. I saw him leaving your apartment.
+SMO2_GG	738951D7	Oh, Is that his name?
+SMO2_GH	E3364C46	Yeah. You know it is.
+SMO2_GJ	0D382D6A	Man, that ain't nothin'. He a busta,
+SMO2_GK	7A3F1DFC	likes to give people a hard time, you know that Carl. But you know me.
+SMO2_GL	E45B885F	It takes more than a fool like him to bug me out.
+SMO2_HA	1D72E82D	Hey Carl, I'll see you later, alright?
+SMO2_HB	847BB997	And, look here, don't let that Pentenbury or whatever his name is, give you no bullshit.
+SMO2_HC	F37C8901	I'm trying, man.
+SMO2_HD	6D181CA2	Well try harder. Look at me, man.
+SMO2_HE	1A1F2C34	You a great man, Carl. A great man!
+SMO2A00	CB2ED403	BOO!
+SMO2A01	BC29E495	Those nosey motherfuckers won't leave me alone!
+SMO2A02	2520B52F	Think I'm Mr Big, or something.
+SMO2A03	522785B9	But I don't tell them shit.
+SMO2A04	CC43101A	For me, it's all about my homeboy, Carl.
+SMO2A05	BB44208C	Yeah, whatever you say.
+SMO2A06	224D7136	Yo, the gang's real important, CJ, you know that!
+SMO2A07	554A41A0	You down to represent, baby?
+SMO2A08	C5F55C31	Yeah.
+SMO2A09	B2F26CA7	Look, my cousin is coming into town from Mexico,
+SMO2A10	D235E542	I gots to go scoop her up.
+SMO2A11	A532D5D4	Alright then, c'mon.
+SMO2A12	3C3B846E	Asshole.
+SMO2A13	4B3CB4F8	Fuck they doing over here, anyway? Punk-ass police.
+SMO2A14	D558215B	Yo Carl, see you around...
+SMO2B00	C9686A5A	OK, my cousin Mary's in there,
+SMO2B01	BE6F5ACC	sweet sticky bud fresh off the plantation.
+SMO2B02	27660B76	Here, pull up here, let me do the talking.
+SMO2B03	50613BE0	Hey - excuso me, Jose, yo soy El Grando Smokio,
+SMO2B04	CE05AE43	and I want that grass? Comprende?
+SMO2B05	B9029ED5	Eh, fuck you cabron
+SMO2B06	200BCF6F	Now that ain't nice. Coughio up el weedo,
+SMO2B07	570CFFF9	before I blow your brains out all over the patio.
+SMO2B08	C7B3E268	Chinga a tu madre, pendejo.
+SMO2B09	B0B4D2FE	This was just the point man!
+SMO2B10	D0735B1B	That other motherfucker'll lead us straight to the weed!
+SMO2B11	A7746B8D	We gotta stick with him!
+SMO2B12	3E7D3A37	Man, I shoulda known.
+SMO2B13	497A0AA1	What?
+SMO2B14	D71E9F02	Oh, what's up with this shit, man? Fuck this, man, fuck this.
+SMO2B15	A019AF94	Man, let me get the heater on this...
+SMO2B16	3910FE2E	Get him, Smoke.
+SMO2B17	4E17CEB8	Yeah, yeah, you go get that shit, nigga...
+SMO2B18	DEA8D329	Damn!
+SMO2B19	A9AFE3BF	Yeah, motherfucker, Big Smoke! Remember that name!

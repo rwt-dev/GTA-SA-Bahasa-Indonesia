@@ -1,0 +1,75 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+CAS5_00	F54D44F6	~s~Cari kendaraan dan pergi jemput Johnny Sindacco dari ~y~rumah sakit~s~.
+CAS5_01	824A7460	~s~Kamu butuh kendaraan untuk menjemput Johnny.
+CAS5_03	6C44154C	~s~Pasti Mafia yang telah membawa Johnny, cari ~r~ambulans~s~ yang membawa Johnny.
+CAS5_04	F22080EF	~s~Tabrak ~r~ambulans~s~ itu dan lihat bagaimana reaksi pengemudinya.
+CAS5_05	8527B079	~s~Johnny pasti ada di salah satu ~r~ambulans~s~ lainnya, yang ini membawa pasien sungguhan.
+CAS5_06	1C2EE1C3	~s~Johnny pasti ada di ~r~ambulans~s~ yang lain, yang ini membawa pasien sungguhan.
+CAS5_07	6B29D155	~s~Kamu baru saja membunuh petugas medis yang tidak bersalah, Johnny pasti ada di salah satu ~r~ambulans~s~ lainnya.
+CAS5_08	FB96CCC4	~s~Kamu baru saja membunuh petugas medis yang tidak bersalah, Johnny pasti ada di ~r~ambulans~s~ yang lain.
+CAS5_09	8C91FC52	~s~Kelihatannya ini ~r~ambulans~s~ yang membawa Johnny, hancurkan sedikit dan tunjukkan pada Mafia kalau kamu tidak main-main.
+CAS5_10	EC5675B7	~s~Kamu telah memperingatkan Mafia akan keberadaanmu, hancurkan ~r~ambulans~s~ itu sedikit dan tunjukkan pada mereka kalau kamu tidak main-main.
+CAS5_11	9B514521	~s~Cepat masuk ke ~b~ambulans~s~ sebelum bantuan datang.
+CAS5_12	0258149B	~s~Cepat masuk ke ~b~ambulans~s~ pengemudinya mungkin sempat memanggil bantuan sebelum dia terbunuh.
+CAS5_13	755F240D	~s~Bawa Johnny kembali ke ~y~pabrik daging~s~.
+CAS5_14	EB3BB1AE	~s~Bawa Johnny kembali ke ~y~pabrik daging~s~.
+CAS5_15	9C3C8138	~s~Masuklah kembali ke dalam ~b~ambulans~s~.
+CAS5_16	0535D082	~s~Kelihatannya tim bantuan telah datang, bawa Johnny kembali ke ~y~pabrik daging~s~.
+CAS5_17	7232E014	~r~Johnny Sindacco telah terbunuh.
+CAS5_30	DE601735	~s~Mafia telah diberi tahu oleh panggilan darurat dari ambulans yang baru saja kamu tabrak.
+CAS5_31	A96727A3	~s~Cari ~r~ambulans~s~ asli yang dipakai Mafia sebelum mereka meloloskan diri!
+CAS5_32	306E7619	~r~Mafia telah meloloskan diri bersama Johnny.
+CAS5_AA	E46B4DEB	Jadi di sinilah aku, mencoba menyelamatkan orang yang pernah kubuat ketakutan setengah mati.
+CAS5_AB	7D621C51	Kalau dia sampai sadar selama perjalanan ini, aku dalam masalah besar...
+CAS5_BA	CF461E28	Halo, Pak, ada yang bisa saya bantu?
+CAS5_BB	564F4F92	Ya, aku di sini untuk menjemput Tuan Sindacco.
+CAS5_BC	21487F04	Tuan Sindacco? Pasti ada kesalahpahaman.
+CAS5_BD	BF2CEAA7	Baru saja ada ambulans yang menjemputnya.
+CAS5_BE	C82BDA31	Oh, OKE. Terima kasih atas bantuannya.
+CAS5_CA	D65D2F69	Hei ibu, ibukah itu?
+CAS5_CB	4F547ED3	Aku melihat cahaya!
+CAS5_CC	38534E45	Uggh, tidak... tidak akan pernah lagi berbicara seperti itu.
+CAS5_CD	A637DBE6	Persetan denganmu, persetan! Persetan denganmu!
+CAS5_CE	D130EB70	Oh Tuhan, di mana aku?
+CAS5_CF	4839BACA	Suster, hei suster!
+CAS5_CG	3F3E8A5C	Aku perlu mengosongkan kantong kencingku!
+CAS5_DA	991CB9AE	Hei, Johnny, bagaimana perasaanmu?
+CAS5_DB	0015E814	Aku tidak mengira dia bakal dipulangkan sampai besok!
+CAS5_EA	800788EF	Baiklah, siapa yang berani mengusik urusan Forelli?
+CAS5_EB	190ED955	Ya, siapa yang cari mati?
+CAS5A00	E3F5CA8C	Oi, Rosie, bersemangatlah, Carl ada di sini.
+CAS5A01	94F2FA1A	Halo.
+CAS5A02	0DFBABA0	Eh, ada wanita-wanita seksi di dekat kolam renang itu, Pabsy.
+CAS5A03	7AFC9B36	Hentikan omong kosongmu, bodoh, ada apa denganmu?
+CAS5A04	E4980E95	Jadi kamu mau memberi tahu dia, atau aku yang bilang?
+CAS5A05	939F3E03	Aku benar-benar dalam masalah besar.
+CAS5A06	0A966FB9	Katakan saja, Rosie - ceritakan.
+CAS5A07	7D915F2F	Aku telah membuang semuanya.
+CAS5A08	ED2E42BE	OKE, aku dulu punya kekuasaan, uang, wanita...
+CAS5A09	9A297228	Tapi aku tidak bisa lepas dari kokain, jadi aku masuk rehabilitasi.
+CAS5A10	FAEEFBCD	Dan semuanya jadi berantakan, tapi lalu kenapa?
+CAS5A11	8DE9CB5B	Jadi saat aku keluar aku mulai mewakili mafia Liberty City, lagi
+CAS5A12	14E09AE1	dan begitulah aku berakhir di sini.
+CAS5A13	63E7AA77	Tapi, tidak ada satu keluarga mafia pun yang percaya keluarga lain untuk mengelola kasino,
+CAS5A14	FD833FD4	jadi aku diajukan sebagai pihak netral.
+CAS5A15	8A840F42	Jadi sekarang aku menghabiskan hariku menunggu salah satu keluarga menembakku
+CAS5A16	138D5EF8	dan menyalahkan keluarga lainnya.
+CAS5A17	648A6E6E	Satu-satunya temanku adalah seekor burung bernama Tony.
+CAS5A18	F43573FF	Aku tidak pernah mengkhianati siapa pun dalam hidupku yang tidak pantas mendapatkannya.
+CAS5A19	83324369	Sial - coba kubayangkan ini. Kamu harus menjelaskan situasi ini padaku dengan singkat.
+CAS5A20	D1C3A80E	OKE, OKE - keluarga Sindacco sedang siap berperang.
+CAS5A21	A6C49898	OKE? Maksudku, sesuatu yang mengerikan telah terjadi pada Johnny.
+CAS5A22	3FCDC922	Maksudku, dia koma karena trauma di rumah sakit di seberang kota.
+CAS5A23	48CAF9B4	Nah sekarang keluarga Forelli - mereka akan memanfaatkan kesempatan ini untuk membunuhnya.
+CAS5A24	D6AE6C17	Nah kalau sampai ada pembunuhan antarkeluarga yang berhasil di wilayahku,
+CAS5A25	A1A95C81	aku yang akan kena kapak, peluru, parang, apa pun itu...
+CAS5A26	38A00D3B	Aku akan bergegas ke rumah sakit, dan memindahkan tubuhnya atau semacamnya.
+CAS5A27	4FA73DAD	Nah begitu dong sayangku, segalanya tidak begitu buruk, kan?
+CAS5A28	DF18203C	Beres sudah.
+CAS5A29	A81F10AA	Ada apa ini.
+CAS5A30	C8D8994F	OKE, OKE, tenang.

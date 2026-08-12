@@ -1,0 +1,74 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	E59258D3	Gulir ~m~~widget_explicit_camera_zoom_in~ untuk mengubah mode kamera.
+	E65F92FD	Tekan ~m~~widget_camera~ untuk mengubah mode kamera.
+CAS11AA	29403C96	Baiklah, kalian berdua sebaiknya keluar dari Las Venturas, cepat!
+CAS11AB	B0496D2C	Aku akan memberi kabar nanti.
+CAS11AC	C74E5DBA	Bagaimana dengan bantuanmu, kawan, apa kamu akan baik-baik saja tanpa kami?
+CAS11AD	592AC819	Tentu saja dia akan baik-baik saja, dasar idiot, ayo cepat!
+CAS11BA	026D6F55	Ini penerbangan pribadi CJ101 mendekati Liberty, ganti.
+CAS11BB	9B643EEF	Penerbangan CJ101, kamu sudah ada di radar kami.
+CAS11BC	EC630E79	Tetap pada arah saat ini dan tunggu instruksi pendekatan akhir...
+CAS11CA	1B765E14	Selamat datang di Liberty City, CJ101...
+CAS11DA	5437C8D3	Acara pribadi, khusus yang diundang!
+CAS11DB	CD3E9969	Oh ya? Tuan Leone berpendapat sebaliknya!
+CAS11EA	4D2CF992	Salvatore menyampaikan salamnya!
+CAS11EB	D425A828	Keluarga Forelli sudah tamat di kota ini!
+CAS11EC	A32298BE	Aku di sini untuk menumpahkan saus pasta!
+CAS11ED	3D460D1D	Marco Forelli, aku datang untukmu!
+CAS11EE	4A413D8B	Marco, aku datang menjemputmu!
+CAS11EF	D3486C31	Mafia bajingan!
+CAS11EG	A44F5CA7	Aku adalah mimpi buruk terburukmu!
+CAS11FA	6601AA51	Penerbangan CJ101, kamu diizinkan untuk lepas landas!
+CAS11GA	7F1A9B10	Ini penerbangan CJ101 meninggalkan Liberty City,
+CAS11GB	E613CAAA	meminta pendekatan akhir ke Bandara Internasional Las Venturas, ganti.
+CAS11GC	9114FA3C	Penerbangan CJ101, kamu diizinkan mendarat di landasan 3.
+CAS11HA	F88287DF	Sialan, siapa yang menerbangkan pesawat itu?
+CAS11HB	618BD665	Orang itu benar-benar gila!
+CAS11HC	168CE6F3	Dia akan menabrak kita!
+CAS11HD	88E87350	Ya Tuhan, dia bakal kehilangan kendali!
+CAS11HE	FFEF43C6	Siapkan tim darurat!
+CAS11HF	66E6127C	Siapkan tim pemadam kebakaran untuk pendaratan darurat!
+CM10_1	67938193	~s~Pergilah ke ~y~bandara~s~.
+CM10_10	4FB861D3	~s~Pesawat ~b~jet ~s~ada di ujung landasan pacu, masuklah dan terbang ke Liberty City.
+CM10_11	38BF5145	~r~Maccer tewas!
+CM10_12	A1B600FF	~r~Paul tewas!
+CM10_13	D6B13069	~r~Rosenberg tewas!
+CM10_14	48D5A5CA	~r~Mobil telah hancur!
+CM10_17	D1DCF470	~r~Kamu telah menghancurkan pesawat jet!
+CM10_18	4163E9E1	~s~Terbanglah ke ~y~Liberty City~s~.
+CM10_19	3664D977	~s~Terbanglah kembali ke ~y~Bandara Las Venturas~s~.
+CM10_2	FE9AD029	~s~Bunuh ~r~Forelli~s~ dan seluruh pengawalnya.
+CM10_99	FEBD537F	Ketuk ~m~~widget_camera~ untuk mengubah mode kamera.
+CS11A00	C17BDA66	Rasakan saja berat senjatanya, manis.
+CS11A01	B67CEAF0	Aku bisa merasakan 'berat' senjata seseorang!
+CS11A02	2F75BB4A	Hei, kamu yang patut disalahkan soal yang satu itu!
+CS11A03	58728BDC	Bisa aku pergi sekarang, atau gimana?
+CS11A04	C6161E7F	(kikuk/tertawa kecil)
+CS11A05	B1112EE9	Ooh, kamu bajingan! Tepat di kantong kemaluan!
+CS11A06	28187F53	Mungkin kamu akan sembuh dari kondisi antisosialmu itu, kawan.
+CS11A07	5F1F4FC5	Carl, kawanku!
+CS11A08	CFA05254	Sepertinya sampah ini benar.
+CS11A09	B8A762C2	Kamu benar-benar menghabisi para pecundang Forelli itu.
+CS11A10	D860EB27	Sekarang, saatnya keluarga Forelli mengetahui
+CS11A11	AF67DBB1	apa akibatnya jika berani mengusik Salvatore Leone!
+CS11A12	366E8A0B	Bagaimana kalau kamu menyerang St. Mark's Bistro?
+CS11A13	4169BA9D	Penyerangan di Liberty City? Keren, tapi aku butuh bantuan.
+CAS11A14	DF0D2F3E	Bawa siapa saja yang kamu mau.
+CS11A15	A80A1FA8	Biasanya aku memakai dua orang ini.
+CS11A16	31034E12	Heh-hei! Ingat kan semua pekerjaan yang kita lakukan bersama, huh?
+CS11A17	46047E84	Huh? Kamu dan aku, Carl, ingat kan, huh?
+CS11A18	D6BB6315	Kamu tahu, kamu dulu sering memanggilku 'Pembunuh' Ken? Ken si Pembunuh? Pembunuh?
+CS11A19	A1BC5383	Ken yang Dingin dan Tegang, itulah aku...
+CS11A20	F34DB8E4	Dan dia juga, kurasa...
+CS11A21	844A8872	Ah persetanlah, lagipula dia membuatku muak.
+CS11A22	1D43D9C8	Jika dia kelihatan ingin kabur, bunuh dia.
+CS11A23	6A44E95E	Baiklah, kawan-kawan, mari kita pergi.
+CS11A24	F4207CFD	Sampai jumpa, terima kasih sudah menerimaku, kawan.
+CS11A25	83274C6B	Ini benar-benar luar biasa - mantap betul.
+CS11A26	1A2E1DD1	Tuan Leone.
+CS11A27	6D292D47	Ayo dong, Sally sayang, aku bosan! Bisakah kita ke kamarmu?

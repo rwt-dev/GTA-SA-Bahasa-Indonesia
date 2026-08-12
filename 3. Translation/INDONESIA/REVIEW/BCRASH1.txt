@@ -1,0 +1,86 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	1C0C92C1	Tekan ~m~~widget_enter_targeting~ untuk melihat melalui jendela bidik kamera.
+BCR1@00	BB8AB4E3	Bangun, nak.
+BCR1@01	CC8D8475	Carl. Hei Carl.
+BCR1@02	5584D5CF	Ada apa ini?
+BCR1@03	2283E559	Kepalamu terbungkus karung, nak. Bagaimana perasaanmu soal itu?
+BCR1@04	BCE770FA	Setan, lepaskan! Tolonglah, aku tidak bisa bernapas! Tolong!
+BCR1@05	CBE0406C	Oh, baiklah. Tapi cuma karena kamu bilang tolong.
+BCR1@06	52E911D6	Dasar kamu bajingan gila!
+BCR1@07	25EE2140	Menakut-nakuti mereka yang menakut-nakuti orang lain, Carl. Itu pekerjaanku.
+BCR1@08	B5513CD1	Hei, kita sedang di mana ini?
+BCR1@09	C2560C47	Di tengah tempat antah-berantah. Udara yang segar dan bersih.
+BCR1@10	A29185A2	Smoke bajingan! Oh, Sweet!
+BCR1@11	D596B534	Sweet masih hidup.
+BCR1@12	4C9FE48E	Masih hidup dan di dalam. Dia ada di rumah sakit penjara dirawat karena luka tembak, menunggu persidangan.
+BCR1@13	3B98D418	Ya, anehnya, belum ada yang menangkapmu.
+BCR1@14	A5FC41BB	Kami sudah melakukan kebaikan besar untukmu.
+BCR1@15	D2FB712D	Oh ya, kamu harusnya bersyukur, Carl. Kakakmu yang idiot itu masih hidup.
+BCR1@16	4BF22097	Adik perempuanmu yang sampah jalanan dan sebentar lagi bakal jadi pelacur itu juga masih hidup.
+BCR1@17	3CF51001	Dan, dia cuma mengisap kontol satu pria brengsek.
+BCR1@18	AC4A0D90	Semuanya berjalan cukup baik untukmu, Carl.
+BCR1@19	DB4D3D06	Jadi bersikap baiklah, nigga.
+BCR1@20	89BCD661	Kami ingin kamu melakukan bantuan kecil untuk kami, Carl.
+BCR1@21	FEBBE6F7	Ya, hutang nyawa dibayar nyawa, dan semacamnya.
+BCR1@22	67B2B74D	Aku tidak percaya si Smoke bangsat itu mengkhianatiku.
+BCR1@23	10B587DB	Smoke? Smoke melakukan persis apa yang diperintahkan padanya.
+BCR1@24	8ED11278	Dia sudah mempelajari pelajaran itu sejak lama.
+BCR1@25	F9D622EE	Kawan sejati selamanya? Kesetiaan jalanan? Itu semua omong kosong, Carl.
+BCR1@26	60DF7354	Tidakkah kamu mempelajarinya saat mereka mengusirmu dari kota,
+BCR1@27	17D843C2	cuma karena kamu seorang pengecut?
+BCR1@28	87675E53	cuma karena kamu membiarkan Brian mati? Huh?
+BCR1@29	F0606EC5	Eddie, aku tidak bisa menghadapi orang ini. Dia idiot!
+BCR1@30	90A7E720	Biar kuberesi bajingan ini, aku...
+BCR1@31	E7A0D7B6	Tidak tidak tidak tidak tidak tidak, petugas..
+BCR1@32	7EA9860C	Sekali ini saja, biarkan bocah ini melakukan sesuatu yang berguna dalam hidupnya yang tak berguna.
+BCR1@33	09AEB69A	Dia akan membantu kita melawan kejahatan. Benar kan, Carl?
+BCR1@34	97CA2339	Ya. Dengan cara apa pun yang diperlukan.
+BCR1@35	E0CD13AF	Sekarang kamu menjauhlah dari Smoke,
+BCR1@36	79C44215	dan menjauhlah dari kami.
+BCR1@37	0EC37283	Kalau tidak, Sweet akan mendapati dirinya berada di wilayah Ballas
+BCR1@38	9E7C6F12	dan diperkosa sampai jadi feminin.
+BCR1@39	E97B5F84	Hei Hernandez, kamu mau kencing seharian?
+BCR1@40	DFE671E7	Entah kenapa, kita punya sedikit masalah dengan mantan teman kita,
+BCR1@41	A8E14171	dia sepertinya tidak setuju dengan beberapa metode kita.
+BCR1@42	31E810CB	Ya, kamu tidak akan pernah menemukan orang bermuka dua seperti bajingan ular ini.
+BCR1@43	46EF205D	Begitu dia tertangkap basah sedang berbuat curang,
+BCR1@44	D88BB5FE	dia akan membocorkan rahasia apa pun yang diinginkan oleh Divisi Pengawasan Internal (Internal Affairs).
+BCR1@45	AF8C8568	Begini, mereka menyembunyikannya di suatu tempat di Gunung Chiliad,
+BCR1@46	3685D4D2	sehingga mereka bisa memanipulasi kesaksiannya sesuka mereka.
+BCR1@47	4182E444	Aku ingin kamu mengunjunginya sebentar, Carl. Dan hancurkan semua barang buktinya sebelum dia bersaksi.
+BCR1@48	D13DF9D5	Selesaikan masalah ini, Carl, agar Petugas Tenpenny bisa tidur nyenyak di malam hari.
+BCR1@49	A63AC943	Kami butuh bukti bahwa dia tidak akan bicara.
+BCR1@94	6D25CBB3	Nah, siapa yang bisa melakukan itu?
+BCR1@95	1A22FB25	Lepaskan tanganmu dariku, brengsek.
+BCR1@96	832BAA9F	Sini kamu.
+BCR1@97	F42C9A09	Sialan. Santai dong!
+BCR1@98	64938798	Suaranya mirip istrimu.
+BCR1@99	1394B70E	Benar kan Ed?
+BCR1_01	DBF76038	~s~Kamu akan membutuhkan ~g~kamera~s~.
+BCR1_02	42FE3182	~s~Pergilah naik ke gunung, cari ~r~pengkhianat~s~ itu.
+BCR1_03	35F90114	~s~Bunuh ~y~saksi~s~! ~s~Bawakan buktinya.
+BCR1_04	AB9D94B7	~s~Dia ada di dalam, paksa dia keluar!
+BCR1_05	DC9AA421	~s~Waspadalah terhadap Marshals AS.
+BCR1_06	4593F59B	~s~Dan jangan biarkan dia kabur!
+BCR1_07	3294C50D	~s~~r~Pengkhianat ~s~itu mencoba melarikan diri!
+BCR1_08	A22BD89C	~s~~r~Pengkhianat ~s~itu melarikan diri dengan berjalan kaki!
+BCR1_09	D52CE80A	~r~Dia tidak bisa diidentifikasi!
+BCR1_10	B5EB61EF	~s~Potret ~r~mayatnya~s~.
+BCR1_11	C2EC5179	~s~Kamu butuh ~g~kamera, ~s~pergi dan ambillah satu.
+BCR1_12	5BE500C3	~r~Kamu membiarkannya kabur!
+BCR1_13	2CE23055	~s~Kejar ~r~dia ~s~dan bunuh!
+BCR1_14	B286A5F6	~s~Cari kendaraan!
+BCR1_15	C5819560	~s~Habisi ~r~dia~s~!
+BCR1_16	5C88C4DA	~r~Burung-burung bangkai telah memakan tubuhnya!
+BCR1_17	2B8FF44C	~s~Bawa kamera itu ke ~y~lokasi penyerahan~s~.
+BCR1_18	BB30E9DD	~s~Pergilah naik ke ~y~gunung~s~ untuk menemukan pengkhianat itu!
+BCR1_19	CC37D94B	~s~Hati-hati dengan agen feds!
+BCR1_20	9EC6322C	~s~Ingat, kamu butuh foto tubuhnya yang utuh!
+BCR1_21	E9C102BA	Saat menggunakan kamera, gunakan ~m~~widget_zoom_in~ untuk memperbesar, atau gunakan ~m~~widget_zoom_out~ untuk memperkecil.
+BCR1_22	70C85300	Ketuk ~m~~widget_enter_targeting~ untuk melihat melalui jendela bidik kamera.
+BCR1_23	07CF6396	Kamu dapat melihat foto Galeri milikmu di direktori GTA San Andreas User Files.

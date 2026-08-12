@@ -1,0 +1,145 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	E71E892D	Press ~m~~widget_auto_hydraulics~ to control the truck's forks.
+	1C330B90	Press ~m~~widget_horn~ to make Ryder throw a box.
+RY2_02	102B64CE	Drive down to the compound at ~y~Ocean Docks.
+RY2_03	672C5458	~s~Get in the ~b~van~s~ with Ryder.
+RY2_19	9EE28C07	Ryder
+RY2_21	BB1457F6	Boxes
+RY2_22	221D064C	~r~Ryder is history.
+RY2_23	551A36DA	~s~Open the front ~r~gate~s~.
+RY2_24	CB7EA379	~s~Shoot the ~r~switch~s~ on the wall beside the front gate.
+RY2_25	BC7993EF	~r~The van has been destroyed.
+RY2_40	9A49C0E6	~r~Forklift truck is history.
+RY2_42	7447A1CA	Shoot the ~r~switch~w~ on the wall beside the front gate to open it.
+RY2_43	0340915C	Shoot the ~r~switch~w~ on the warehouse wall to open door.
+RY2_53	1A5BA01D	~s~You need to let Ryder in, shoot the ~r~switch~s~ at the front gate.
+RY2_55	F3380528	~s~Get in the ~b~forklift~s~ truck.
+RY2_56	6A315492	~s~Pick up a box with the forklift truck.
+RY2_57	1D366404	~s~Drop the box behind the van, beside Ryder.
+RY2_58	8D897995	~r~Too many boxes were destroyed!
+RY2_59	FA8E4903	~s~Open the front gate by shooting the ~r~switch~s~ on the other side of the wall.
+RY2_60	A87FA264	~s~Open the warehouse door by shooting the ~r~switch~s~ on the wall.
+RY2_61	DF7892F2	~s~Shoot the ~r~switch~s~ to open the front gate.
+RY2_62	4671C348	~s~Shoot ~r~switch~s~ to open warehouse door.
+RY2_63	3176F3DE	~s~Lift boxes with the forklift and drop them ~y~behind the van~s~.
+RY2_64	AF12667D	Press and hold ~m~~widget_attack~ when in the forklift truck to pick up and drop boxes.
+RY2_65	D81556EB	~s~Drop the box.
+RY2_66	411C0751	~s~Head to the lock up in ~y~Willowfield~s~.
+RY2_67	361B37C7	~s~Get in the ~b~van~s~.
+RY2_68	A6A42A56	Tap ~m~~widget_auto_hydraulics~ to control the truck's forks.
+RY2_69	D1A31AC0	Position the forks below the box then raise the forks to lift the box.
+RY2_70	B1649325	~s~Use the forklift truck to load boxes onto the ~b~van~s~.
+RY2_71	C663A3B3	Press and hold ~m~~widget_look_left~ and ~m~~widget_look_right~ to look left and right.
+RY2_72	5F6AF209	Tap ~m~~widget_horn~ to make Ryder throw a box.
+RY2_73	286DC29F	~s~You can only ditch 3 boxes, you need to keep the rest!
+RYD2_AA	8550294C	You think you can roll this van without killing us both?
+RYD2_AB	1C5978F6	Just shut up and get in.
+RYD2_BA	AE7D7A8F	Hey, CJ, you ain't punking out on us again, are you?
+RYD2_BB	37742B35	C'mon CJ, we ain't got all day!
+RYD2_BC	40731BA3	Get in and drive, motherfucker!
+RYD2_CA	B7664BCE	Hey, Ryder, where we going?
+RYD2_CB	2E6F1A74	Ocean Docks.
+RYD2_CC	59682AE2	How we get this van? It wasn't outside when I came through.
+RYD2_CD	C70CBF41	My homie LB, he's like a clockwork ninja! Real dependable.
+RYD2_CE	B00B8FD7	Unlike some of you motherfuckers...
+RYD2_CF	2902DE6D	Give it a rest, man.
+RYD2_CG	5E05EEFB	I lost my little brother and now I lost my Moms.
+RYD2_CH	CEBAF36A	Don't matter how much shit this city throws at you, CJ, you gotta stick by yo'homies!
+RYD2_CJ	20B49246	Yeah, I guess...
+RYD2_DA	F827DD09	This is the spot - National Guard Depot.
+RYD2_DB	612E8CB3	Man, this shit look real serious.
+RYD2_DC	1629BC25	Are we up for this?
+RYD2_DD	884D2986	It's National Guard, fool! Weekend soldiers!
+RYD2_DE	FF4A1910	Ain't no match for Grove Street OGs!
+RYD2_DF	664348AA	Now get in there and open the damn gate!
+RYD2_EA	E13CEC48	Go open the motherfucking gate, CJ!
+RYD2_EB	7835BDF2	Get over that wall and open the damned gate!
+RYD2_FA	CA11BF8B	Man, just shoot the switch next to the damn gate!
+RYD2_GA	D30A8ECA	Nice job, CJ, thought that was a suicide mission for sure!
+RYD2_GB	4A03DF70	Now open the warehouse and keep these motherfuckers busy!
+RYD2_HA	54929205	OK, we're in, move it, Ryder!
+RYD2_HB	CD9BC3BF	Yeah, open for business. Back that van up in here.
+RYD2_JA	66A4F087	Get out the damned way, CJ!
+RYD2_JB	FFADA13D	Quit trying to kill yourself under the van!
+RYD2_JC	88AA91AB	You want me to run you down, just say so!
+RYD2_KA	7FBFC1C6	OK, homie, let's load this shit up!
+RYD2_KB	E6B6907C	I'll watch our backs while you use the forklift to collect the crates.
+RYD2_KC	91B1A0EA	Drop 'em at the back of the van and I'll load 'em up.
+RYD2_LA	30FE5701	C'mon, CJ, we don't have all day!
+RYD2_LB	A9F706BB	Get a move on, CJ!
+RYD2_LC	DEF0362D	Shit's getting hot, get a move on!
+RYD2_LD	4094A38E	Giddy up, CJ!
+RYD2_LE	37939318	What you playing at, CJ?
+RYD2_LF	AE9AC2A2	Hey, quit smashing the crates!
+RYD2_LG	D99DF234	We need those crates, CJ!
+RYD2_LH	4922EFA5	There's more outside!
+RYD2_LJ	A72C8E89	They got more crates outside, CJ!
+RYD2_MA	29E56640	Shit, CJ! Shit!
+RYD2_MB	B0EC37FA	CJ, help me, motherfucker!
+RYD2_MC	C7EB076C	There's too many damned weekend soldiers!
+RYD2_MD	598F92CF	They're crawling out the woodwork!
+RYD2_ME	2E88A259	Punk-ass National Guard!
+RYD2_MF	B781F3E3	Gimme a hand, CJ, I'm swamped!
+RYD2_NA	02C83583	OK, CJ, let's roll!
+RYD2_NB	9BC16439	CJ, get up front and drive us outta here!
+RYD2_NC	ECC654AF	You got the con, CJ, take us out!
+RYD2_ND	72A2C10C	C'mon, CJ, we got enough!
+RYD2_OA	1BD304C2	They got a storage garage up in Willowfield! GO!
+RYD2_OB	82DA5578	LB's got us a spot in Willowfield - hit the gas!
+RYD2_PA	D6890A5C	Damn, man, these idiots just don't give up!
+RYD2_PB	4F805BE6	What's happening back there?
+RYD2_PC	38876B70	These part time soldiers got a chip on their shoulders!
+RYD2_PD	A6E3FED3	Nice rhymes, man.
+RYD2_PE	D1E4CE45	Hey, we're real heavy, toss some crates!
+RYD2_PF	48ED9FFF	A'ight, check it out.
+RYD2_PG	3FEAAF69	Sound the horn, I'll throw a crate at 'em.
+RYD2_QA	CF923B1D	Where you going? Buster! BUSTER!
+RYD2_QB	569B6AA7	Man, I knew you was a buster all along!
+RYD2_QC	219C5A31	You ain't changed, CJ. Buster! Still a busta!
+RYD2_RA	E4BF68DE	I ain't throwing no more, we gotta keep some!
+RYD2_RB	7DB63964	Sorry, CJ, but we gotta keep some of these crates!
+RYD2_SA	FDA4599F	I ain't rolling with you no more, man, 'til you off that water, homie.
+RYD2_SB	64AD0825	It mess with your mind.
+RYD2_SC	13AA38B3	Whatever you say, fool. You don't know what's going on.
+RYD2_SD	8DCEAD10	And what that mean?
+RYD2_SE	FAC99D86	I ain't listening to no more of your bullshit.
+RYD2_SF	63C0CC3C	We got the guns. You ain't no gangster, homie.
+RYD2_SG	14C7FCAA	You want it smooth? You don't want no trouble. I keep it real.
+RYD2_SH	8478E13B	You wouldn't know real if it came and hit you in your cheeks, homie,
+RYD2_SJ	6A768017	which it could do, if it gave you a hit first.
+RYD2_SK	1D71B081	I ain't listening to you, Carl.
+RYD2_TA	B2E5CF58	That shit was tight!
+RYD2_TB	2BEC9EE2	Tight? Man, that shit was shit.
+RYD2_TC	5CEBAE74	Man, you say you down for the homies, but all you do is complain.
+RYD2_TD	C28F3BD7	Here, man, take your cut and get the fuck out of here!
+RYD2_UA	ABFEFE19	Drop it here, CJ!
+RYD2_UB	32F7AFA3	Right there, man!
+RYD2_UC	45F09F35	Just put it down here, CJ!
+RYD2_VA	80D3ADDA	Hey, stop where you are!
+RYD2_VB	19DAFC60	We've got an intruder, sound the alarm!
+RYD2_VC	6EDDCCF6	You here for the shipment?
+RYD2_VD	F0B95955	Just back her up and I'll open the door.
+RYD2_VE	87BE69C3	Hey, this shipment ain't going out until tomorrow!
+RYD2_VF	1EB73879	You're a phony!
+RYD2_VG	69B008EF	SOUND THE ALARM!
+RYD2A00	82CEAE2B	Hey, Ryder! This nigga's loaded... Ryder!
+RYD2A01	F5C99EBD	Yeeaahh, CJ... Hey, CJ, tell me why I didn't finish high school.
+RYD2A02	6CC0CF07	Because you been dealing drugs, man, since the age of ten!
+RYD2A03	1BC7FF91	No, that ain't it.
+RYD2A04	85A36A32	Because you went and put hands on that teacher for wearing Ballas colors!
+RYD2A05	F2A45AA4	No, that ain't it either.
+RYD2A06	6BAD0B1E	It's 'cause I'm too intelligent for this shit, man.
+RYD2A07	1CAA3B88	I am the real deal, fool. Oh yeah. A genius.
+RYD2A08	8C152619	Oh, oh yeah...
+RYD2A09	FB12168F	Who has more straps than anybody? Who has all the straps, huh?
+RYD2A10	9BD59F6A	A man with a lot of guns? Shit, I give up!
+RYD2A11	ECD2AFFC	The army, my nigga, the army! Let's go.
+RYD2A12	75DBFE46	Yeah... Yeah!
+RYD2A13	02DCCED0	- Go hit the wet, nigga. Go hit the wet!~n~- Get that outta my face, man, you know I don't fuck with that, man. C'mon!
+RYD2A14	9CB85B73	Get that outta my face, man, you know I don't fuck with that, man. C'mon!
+RYD2A15	EBBF6BE5	Aw, c'mon, man! Buster.

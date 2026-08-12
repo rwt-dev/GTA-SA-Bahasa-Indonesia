@@ -1,0 +1,203 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	AE87D487	~s~Press ~m~~widget_attack~ when falling to open the parachute.
+	D1B8DE1E	Select the night-vision goggles and press ~m~~widget_explicit_NVG~ to activate.
+	D535A2AC	Press ~m~~widget_mission_start~ to use swipecard.
+HE8_AA	87E3B7E5	Carl, can you hear me OK?
+HE8_AB	1EEAE65F	Loud and clear!
+HE8_AC	69EDD6C9	OK, we're en route in the armored truck.
+HE8_AD	F789436A	OK, I'm gonna get a move on!
+HE8_BA	ACCEE426	OK, this is it. Play it cool, Carl, play it cool.
+HE8_BB	35C7B59C	Hey, I'm cool!
+HE8_BC	42C0850A	Are you sure? You sound kind of edgy to me!
+HE8_BD	DCA410A9	I'm cool, OK?
+HE8_BE	ABA3203F	OK, OK!
+HE8_BF	32AA7185	Now, make your way to the staff door.
+HE8_CA	B5D5D567	Ain't seen you 'round here before. You new?
+HE8_CB	2CDC84DD	Yeah, I'm, eerr standing in for Jerry, he's ill.
+HE8_CC	5BDBB44B	Who's Jerry?
+HE8_CD	C5BF21E8	Shut up.
+HE8_CE	B2B8117E	What?
+HE8_CF	2BB140C4	I... I think I got Jerry's cough
+HE8_DA	FA9443A0	OK, we're in!
+HE8_DB	639D121A	Great. Next stop, the backup generator room.
+HE8_DC	149A228C	It should be just down the stairs then straight ahead.
+HE8_DD	8AFEB72F	It's down one level.
+HE8_EA	E38F72E1	All right, I'm in the Generator Room.
+HE8_EB	7A86235B	OK, the ventilation grills are on the back wall.
+HE8_EC	0D8113CD	Throw the gas down one of these.
+HE8_ED	93E5866E	You got it.
+HE8_FA	C8A22122	(Coughing/choking and thumps as they hit the floor)
+HE8_FB	51AB7098	We won't know if that worked until we get down there!
+HE8_FC	26AC400E	Yeah, well, don't worry about it.
+HE8_FD	B8C8D5AD	Right now we got a schedule to stick to!
+HE8_FE	CFCFE53B	Head to the security door and use Millie's swipe card!
+HE8_GA	D1B91063	Alright, I'm through!
+HE8_GB	48B041D9	OK good, I've hacked their emergency lighting protocols.
+HE8_GC	3FB7714F	I'm going to blow the charges you placed at the dam.
+HE8_GD	A1D3E4EC	Here goes nothing...
+HE8_GE	D6D4D47A	Wow! I didn't think that was going to work!
+HE8_GF	4FDD85C0	I can't see jack!
+HE8_GG	38DAB556	You sure these things are gonna work?
+HE8_GH	A865A8C7	Carl, please! Just flick the switch.
+HE8_GJ	466BC9EB	Alright!
+HE8_HA	56210CAC	We're at the service bay. Somebody get this damn door open!
+HE8_HB	CF285D16	Head down to the service bay!
+HE8_JA	64176E2E	OK, we've got the power down, which means the gate's unlocked.
+HE8_JB	FD1E3F94	But now you're going to have to raise it yourself.
+HE8_JC	8A190F02	It's OK, I got an idea for that.
+HE8_KA	7D0C5F6F	Well done, Carl.
+HE8_KB	E4050ED5	Now it's time for us to do our part!
+HE8_KC	93023E43	Try to stay close!
+HE8_KD	0D66ABE0	OK team, I've gone over the layout to this place so I know it back to front.
+HE8_KE	7A619B76	Everybody follow me!
+HE8_KF	E368CACC	Damn! The devious bastards have changed the layout!
+HE8_KG	946FFA5A	Don't worry, I'll take the lead, boss.
+HE8_KH	04D0E7CB	Good idea, everybody follow him!
+HE8_LA	324DC9A8	Not far now, keep alert.
+HE8_LB	AB449812	Hey, I was just about to say that!
+HE8_LC	DC43A884	Sorry boss!
+HE8_LD	42273D27	Not far now, everybody!
+HE8_LE	35200DB1	Stay alert!
+HE8_LF	AC295C0B	Oh yeah, stay alert!
+HE8_MA	2B56F8E9	OK, we'll set the charges while you watch the door!
+HE8_MB	B25FA953	OK, boss!
+HE8_MC	C55899C5	Hey, I'm on it!
+HE8_NA	007BAB2A	Hurry it up gentlemen, they know something's wrong.
+HE8_NB	9972FA90	Someone else is in the system!
+HE8_NC	EE75CA06	Hey what's the problem?
+HE8_ND	70115FA5	Somebody's trying to bring the emergency generators back up!
+HE8_NE	07166F33	I'll head back up to the generator room and shut them down for good!
+HE8_OA	19609A6B	Wait a second, it's Berkley! It's him, I know it!
+HE8_OB	8069CBD1	What?
+HE8_OC	F76EFB47	Carl, I know the tactics of my arch rival!
+HE8_OD	690A6EE4	BERKLEY YOU BASTARD!
+HE8_OE	1E0D5E72	Quit shouting in my ear!
+HE8_OF	87040FC8	Sorry.
+HE8_OG	F0033F5E	So Berkley thinks he can out-hack the master, eh?
+HE8_OH	60BC22CF	I'm gonna use his own hydra and bounce it right back down his pipe!
+HE8_OJ	8EB243E3	Aw, whatever, man, just deal with that fool!
+HE8_OK	F9B57375	OK - I'll head back up to the generator room and shut them down for good!
+HE8_PA	D43A94F5	Ha, Berkley! How do you like a taste of your own hexadecimal!
+HE8_PB	4D33C54F	You got him?
+HE8_PC	3A34F5D9	Carl, this is a battle between two coding behemoths.
+HE8_PD	A450607A	Like two giant nuclear monsters trampling a city underfoot,
+HE8_PE	D35750EC	we struggle for dominion over the tiny, puny earth.
+HE8_PF	4A5E0156	How on Earth did Berkley know you were going to be doing any of this?
+HE8_PG	3D5931C0	Well, I s-, um...No comment.
+HE8_PH	ADE62C51	Holla at me, Zero.
+HE8_PJ	43E84D7D	NO COMMENT!
+HE8_QA	CD21A5B4	Everybody take cover!
+HE8_QB	5428F40E	Fire in the hole!
+HE8_QC	232FC498	Oh shit! Where do I go? Where do I go?
+HE8_RA	E60CF677	OK people, load up the cash!
+HE8_RB	7F05A7CD	Carl, you've got Mafia gorillas coming down to the vault and-
+HE8_RC	0802975B	CURSE YOU BERKLEY, CURSE YOU!
+HE8_RD	966602F8	OK, then, we about to have some company!
+HE8_RE	E161326E	I'm with you, CJ!
+HE8_SA	FF17C736	Woozie, how's it going?
+HE8_SB	661E968C	We're nearly good, CJ!
+HE8_TA	B05651F1	OK team, just how we practiced, two by two.
+HE8_TB	295F004B	Ow, fuck!
+HE8_TC	5E5830DD	Scratch that! Everybody follow Carl!
+HE8_TD	C03CA57E	Everybody follow Carl!
+HE8_TE	B73B95E8	We got trouble!
+HE8_TF	2E32C452	Up ahead , ice them!
+HE8_TG	5935F4C4	They're up front, take 'em down!
+HE8_TH	C98AE955	Watch our right!
+HE8_TJ	27848879	Shit heads to the right!
+HE8_TK	5083B8EF	Security on our left!
+HE8_TL	CEE72D4C	CJ! Wait up!
+HE8_TM	B9E01DDA	CJ! Cover us!
+HE8_UA	A94D60B0	I've unloaded the police bikes.
+HE8_UB	3044310A	Everybody in! You two, change into your police uniforms!
+HE8_UC	4743019C	Hey, Zero, what about Berkley?
+HE8_UD	D927943F	Oh, don't worry about Berkley, he has been made to bleed from his I/O port.
+HE8_UE	AE20A4A9	See you at the meet, Carl!
+HE8_UF	3729F513	Good luck!
+HE8_UG	402EC585	You too!
+HE8_VA	82603373	OK, CJ, you're on your own now!
+HE8_VB	1B6962C9	Time to show these motherfuckers what's happening!
+HE8_VC	6C6E525F	Carl, would you like me to talk you through to the roof?
+HE8_VD	F20AC7FC	Anything that helps, man!
+HE8_WA	9B7B0232	Oh, what happened?
+HE8_WB	02725388	Damn you Berkley, damn you!
+HE8_WC	7575631E	Ah c'mon, man, talk to me!
+HE8_WD	EB11F6BD	Oh shit, uh, OK, OK, you gotta get back to the gaming floor.
+HE8_WE	9C16C62B	Now head through the casino to the elevators on the far side.
+HE8_WF	051F9791	Take the elevator all the way to the roof.
+HE8_XA	1CE31EFD	We got you now, asshole!
+HE8_XB	85EA4F47	We got him cornered now!
+HE8_XC	F2ED7FD1	Where you gonna run to now?
+HE8_YA	05F82FBC	Holy crap he jumped!
+HE8_YB	9CF17E06	Holy fuck, he's jumped!
+HE8_YC	EBF64E90	What the fuck is he doing?
+HE8_ZA	2ED57C7F	Zero, where you hiding?
+HE8_ZB	B7DC2DC5	I didn't mean to tell Berkley, it just kinda came out...is all.
+HE8_ZC	C0DB1D53	Hey, it doesn't matter, we pulled it off, Caligula's has been emptied!
+HE8_ZD	5EBF88F0	Yeah, I'll drink to that!
+HE8_ZE	29B8B866	Hey, who are you?
+HE8_ZF	B0B1E9DC	There's the intruder!
+HE8_ZG	C7B6D94A	There he is, get him!
+HE8_ZH	5709C4DB	That's our man!
+HE8_ZJ	B907A5F7	Stop him, now!
+HM9_10	0712A31D	~s~Get to the ~y~service elevator~s~ - remember, you are the decoy!
+HM9_12	E91CC231	~s~Find the ~y~swipecard door ~s~and open it.
+HM9_13	9E1BF2A7	~r~You idiot you have destroyed the forklift, the only way to open the roller door!
+HM9_14	007F6704	~s~Open the ~y~roller door~s~.
+HM9_15	77785792	~r~The van is gone, there is no way to transport the money.
+HM9_1A	2010E2B7	TIME
+HM9_1B	B919B30D	~r~You ran out of time.
+HM9_1C	CE1E839B	~s~You have ~1~ minutes to get the money and back!
+HM9_1D	507A1638	~s~You have ~1~ minutes to get the team inside!
+HM9_1E	277D26AE	~s~Follow the ~b~team ~s~down to the vault.
+HM9_1F	BE747714	~s~Go back and kill any remaining ~r~security~s~.
+HM9_1G	C9734782	~s~Remember to stay close to the team
+HM9_1H	59CC5A13	~s~Parachute off and escape in the ~b~helicopter~s~.
+HM9_1J	B7C23B3F	~s~Escape to the ~y~safe house~s~.
+HM9_2	E66E558E	~s~Find and open the ~y~swipecard door~s~!
+HM9_21	5B38C048	~s~Clear the corridors of ~r~security ~s~so the team can reach the vault.
+HM9_22	C23191F2	~s~Destroy the back up ~g~generators~s~!
+HM9_23	B536A164	~s~Get back in the ~b~Forklift~s~!
+HM9_24	2B5234C7	~s~Double tap the center of the screen when falling to open the parachute.
+HM9_25	5C550451	~s~Follow the rooftops and collect the ~g~parachute~s~.
+HM9_26	C55C55EB	~s~Go up the elevator and get to the roof!
+HM9_28	22E478EC	~s~Enter the ~y~Mafia Casino~s~!
+HM9_29	55E3487A	Tap ~m~~widget_mission_start~ to use swipecard.
+HM9_34	32490586	~s~Find the ~y~vent ~s~to gas the guards.
+HM9_35	454E3510	~s~Chuck the gas canister into the ~y~Vent~s~.
+HM9_36	DC4764AA	Gas the guards first!
+HM9_37	AB40543C	~r~The guards saw you and raised the alarm.
+HM9_40	7A655758	~s~Head downstairs and check on the ~b~team~s~!
+HM9_44	7D089341	The team is under attack, you're supposed to be protecting them!
+HM9_45	0A0FA3D7	~s~Get onto the ~y~roof~s~!
+HM9_48	74BEDF6A	~r~You idiot you wasted all the grenades!
+HM9_49	03B9EFFC	Select the night-vision goggles and tap ~m~~widget_explicit_NVG~ to activate.
+HM9_5	780AC02D	~s~Use the forklift to open the ~y~roller door~s~.
+HM9_51	1479568F	~s~You'll need something big to lift this door up.
+HM9_52	8D700735	~r~You blew your disguise, scrub the mission!
+HM9_53	FA7737A3	Push ~m~~widget_auto_hydraulics~ to lift the door.
+HM9_54	6413A200	Avoid attracting attention in the casino or you'll blow your cover
+HM9_55	13149296	You know the rules no guns allowed in the casino
+HM9_56	8A1DC32C	~s~The team needs you at the ~y~Safe~s~.
+HM9_57	FD1AF3BA	~s~Kill the ~r~Mafia ~s~whilst the team gets the cash.
+HM9_58	6DA5EE2B	~s~Enter the ~y~Safe~s~.
+HM9_60	485335DA	~r~You destroyed the police bike!
+HM9_61	3F54054C	~s~Go to the ~y~van~s~.
+HM9_62	A65D54F6	~r~Woozie has been killed
+HM9_63	D15A6460	~r~Zero has been killed
+HM9_8	06BBBC90	~s~Lead the ~b~team ~s~safely back to the van.
+HM9_9	71BC8C06	~r~You failed to protect the guys!
+HM9_99	B61791B1	~s~Holster your weapon until you are past the staff door!
+HM9_A	2F627508	~s~Wait for the ~b~team ~s~to arrive.
+HM9_PK	BC23514F	~s~Pick up the ~g~satchel charge~s~!
+HM9_X	4B09DDC8	~s~Parachute off and escape to the ~y~safe house~s~.
+HST8A00	EFA6392B	We all good?
+HST8A01	98A109BD	Yeah we're good.
+HST8A02	01A85807	Alright, I'll see you at the backdoor. Let's roll!
+WUZX_AK	CB34110A	You better take me home, CJ!
+WUZX_BR	8472EA09	Hey, CJ, calm down!

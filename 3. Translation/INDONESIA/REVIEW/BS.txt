@@ -1,0 +1,58 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	DE3EA85F	Lakukan Wheelie di sepanjang jalur kerucut. Melesatlah ke kecepatan maksimum, lalu ketuk dua kali dan tahan tombol gas.
+	C6C6AEBE	~s~Lakukan Stoppie di sepanjang jalur kerucut. Melesatlah ke kecepatan maksimum, tekan kontrol arah ke atas, lalu tekan dan tahan ~m~~widget_brake~.
+	3259E4FB	Lakukan Wheelie di sepanjang jalur kerucut. Melesatlah ke kecepatan maksimum, lalu tekan dan tahan ke arah bawah di sudut kiri bawah layar.
+	64DCA838	Sambil menahan ~m~~widget_handbrake~, kemudikan ke kiri atau kanan.
+	86FAB6B9	Gunakan motor untuk melakukan burnout donut. Tekan dan tahan ~m~~widget_brake~ serta ~m~~widget_accelerate~, lalu kemudikan ke kiri atau kanan.
+	A93998C9	Lakukan Wheelie di sepanjang jalur kerucut. Melesatlah ke kecepatan maksimum, lalu tekan ~m~~widget_ped_move_down~.
+BS_A	BDA41021	Putaran 360
+BS_A_1	FDD5F982	Gunakan motor untuk melakukan burnout donut. Tekan dan tahan ~m~~widget_handbrake~ untuk memulai burnout.
+BS_B	24AD419B	Putaran 180
+BS_B_1	FF9347DB	~s~Untuk melakukan 180, melesatlah ke kecepatan maksimum, tekan dan tahan ~m~~widget_handbrake~ untuk melakukan *slide* memutari kerucut lalu kembali.
+BS_C	53AA710D	Wheelie (Angkat Roda Depan)
+BS_D	CDCEE4AE	Stoppie (Angkat Roda Belakang)
+BS_D_1	FB1E3B69	~s~Lakukan Stoppie di sepanjang jalur kerucut. Melesatlah ke kecepatan maksimum, tekan dan tahan ~m~~widget_ped_move_up~ ke atas, lalu tekan dan tahan ~m~~widget_brake~.
+BS_E	BAC9D438	Melompat & Berhenti
+BS_E_1	FADC515E	~s~Lompati papan rintangan dan berhentilah di area yang ditentukan.
+BS_F	23C08582	Melompat & Stoppie
+BS_F_1	F89AEF07	~s~Lompati papan rintangan, mendaratlah dengan posisi stoppie, dan meluncurlah ke dalam area yang ditentukan.
+BS_X_1	EE22617D	~s~Jalan ke arah ~y~televisi ~s~untuk memulai pelajaran.
+BS_X_3	002C0051	Navigasi
+BS_X_4	9E4895F2	Keluar
+BS_X_5	E94FA564	Mulai
+BS_X03	E2497739	~<~~>~
+BS_Y_1	EFE00B4A	Arah Akhir
+BS_Y_10	B03F7829	EMAS
+BS_Y_11	C73848BF	PERAK
+BS_Y_12	5E311905	PERUNGGU
+BS_Y_13	29362993	Waktu Putaran 1: ~1~.~1~ detik
+BS_Y_14	B752BC30	Waktu Putaran 1: ~1~.0~1~ detik
+BS_Y_15	C0558CA6	Waktu Putaran 2: ~1~.~1~ detik
+BS_Y_16	595CDD1C	Waktu Putaran 2: ~1~.0~1~ detik
+BS_Y_17	2E5BED8A	Waktu Putaran 3: ~1~.~1~ detik
+BS_Y_18	BEE4F01B	Waktu Putaran 3: ~1~.0~1~ detik
+BS_Y_19	C9E3C08D	Waktu Putaran 4: ~1~.~1~ detik
+BS_Y_2	76E95AF0	Posisi Akhir
+BS_Y_20	9B122BEA	Waktu Putaran 4: ~1~.0~1~ detik
+BS_Y_21	EC151B7C	Waktu Putaran 5: ~1~.~1~ detik
+BS_Y_22	751C4AC6	Waktu Putaran 5: ~1~.0~1~ detik
+BS_Y_3	01EE6A66	Penalti Kerusakan
+BS_Y_5	E88DCF53	Skor Keseluruhan
+BS_Y_6	71849EE9	~1~%
+BS_Y_7	0683AE7F	------------------------------
+BS_Y_8	963CB3EE	REKOR SKOR BARU!
+BS_Y_9	E13B8378	SERTIFIKAT BARU DIDAPATKAN!
+BS_Z_3	03A8D43F	Raih 70% atau lebih tinggi untuk lulus.
+BS_Z_4	9DCC419C	TANPA PENGHARGAAN
+BS_Z_5	EACB710A	Lanjutkan
+BS_Z_6	73C220B0	Keluar
+BS_Z_7	04C51026	Kamu telah menyelesaikan Sekolah Sepeda Motor.~n~~w~Keahlian Sepeda Motor +
+BS_Z_8	947A0DB7	Hasil
+BS_Z_9	E37D3D21	TES BARU TERSEDIA!
+MEC_B1	10382334	Selamat datang di Sekolah Sepeda Motor Tingkat Lanjut
+MEC_B2	8931728E	Untuk lulus kamu harus meraih skor PERUNGGU atau lebih tinggi di seluruh 6 tes.

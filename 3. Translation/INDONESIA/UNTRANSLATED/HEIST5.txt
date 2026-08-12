@@ -1,0 +1,52 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	B25928C7	Use the camera movement controls to move the crosshair. Press ~m~~widget_attack~ to fire. Press ~m~~widget_mission_cancel~ to quit.
+	2B50797D	Press ~m~~widget_mission_start~ to use the gun.
+	C01B0C94	You have to drop the jetpack to use the gun.
+HE5_AA	75896F38	Heeey, CJ, you never cease to amaze me!
+HE5_AB	EC803E82	Heh heh, good lookin, where's Woozie?
+HE5_AC	9B870E14	I don't know. He insisted on driving here himself. He could be anywhere.
+HE5_AD	05E39BB7	Ha ha, yeah I guess. Alright, dude, I'm outta here. I'll see y'all later.
+HE5_BA	5EA43CFB	This is a restricted area!
+HE5_BB	C7AD6D41	Please leave now!
+HE5_BC	B0AA5DD7	I'm not warning you again!
+HE5_BD	2ECEC874	I WILL open fire!
+HM5_1	767DFD50	~s~Steal the helicopter from the ~y~military fuel dump,~s~ the gates will open for a military vehicle.
+HM5_10	4DC41CA5	~s~Pick up the ~b~bank van~s~.
+HM5_11	3AC32C33	VAN HEALTH
+HM5_12	A3CA7D89	~s~The van has to be on its wheels!
+HM5_13	D4CD4D1F	~s~Land the helicopter in the ~y~indicated zone~s~.
+HM5_14	4AA9D8BC	~r~The van is stuck in an area the winch cannot get to!
+HM5_16	A4A7B990	~r~The Triad gang member died!
+HM5_19	3418A401	~s~Steal the ~b~helicopter~s~.
+HM5_2	EF74ACEA	~s~Take the bank van to the ~y~Aircraft Graveyard~s~ in the desert.
+HM5_20	66E94F66	Tap ~m~~widget_mission_start~ to use the gun.
+HM5_21	11EE7FF0	Use the camera movement controls to move the crosshair. Tap ~m~~widget_attack~ to fire. Tap ~m~~widget_mission_cancel~ to quit.
+HM5_3	98739C7C	~r~You destroyed the 'copter!
+HM5_6	E81968F3	~s~They have sent two ~r~gunships~s~ to intercept you, use the ~y~gun emplacement~s~ to destroy them.
+HM5_7	9F1E5865	~s~The gunships have been destroyed, get to the ~b~chopper~s~ and get out of there.
+HM5_8	0FA145F4	~s~Go to the depot and pick up the ~b~bank van~s~ using the helicopters winch.
+HM5_9	78A67562	~r~You destroyed the van.
+HST6A00	0F794E18	OK, we got the bikes. And Woozie's taken care of the uniforms.
+HST6A01	787E7E8E	Now, we just gotta get an armored van
+HST6A02	E1772F34	and re-spray it with the Caligula's Casino logo.
+HST6A03	96701FA2	Why don't we steal one while it's on its rounds?
+HST6A04	08148A01	That way we can make some money too.
+HST6A05	7F13BA97	No, I don't want to get the crew caught up in some street level jacking - it could get ugly.
+HST6A06	E61AEB2D	I... I have an idea? Um...
+HST6A07	911DDBBB	Have you ever seen those helicopters they use to lift heavy loads?
+HST6A08	01A2C62A	they use to airlift heavy loads?
+HST6A09	76A5F6BC	Yeah, they call 'em 'sky cranes'.
+HST6A10	16627F59	We could lift the whole truck and take them to someplace safe.
+HST6A11	61654FCF	Then we need to steal a sky crane.
+HST6A12	F86C1E75	Unfortunately I'm not a pilot.
+HST6A13	8F6B2EE3	No, me neither.
+HST6A14	110FBB40	Hey, don't look at me.
+HST6A15	66088BD6	Or me.
+HST6A16	FF01DA6C	Shit. I'll fly it, then. We can respray it at the airstrip.
+HST6A17	8806EAFA	Yeah, Carl. It'll be just like fighting Berkley, only bigger!
+HST6A18	18B9F76B	Yeah, thanks for that.

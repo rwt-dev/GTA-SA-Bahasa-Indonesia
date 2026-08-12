@@ -1,0 +1,248 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	949B79D5	To look around the car use the camera movement controls. To fire press ~m~~widget_attack~.
+FIN1_AA	4D122445	This is the Los Santos Police Department; Stay where you all are!
+FIN1_AB	D41B75FF	stay where you all are!
+FIN1_AC	A31C4569	Freeze or we will open fire!
+FIN1_AD	3D78D0CA	Go! Go! Go!
+FIN1_AE	4A7FE05C	Get into positions!
+FIN1_AF	D376B1E6	Fall back!
+FIN1_AG	A4718170	Defensive positions!
+FIN1_AH	34CE9CE1	Await backup!
+FIN1_AI	43C9AC77	These fucking gang bangers!
+FIN1_AJ	DAC0FDCD	Drop these ghetto bunnies!
+FIN1_AK	ADC7CD5B	We're gonna hump your cold bodies!
+FIN1_AL	33A358F8	Take him out!
+FIN1_AM	44A4686E	Neutralize that tango!
+FIN1_AN	DDAD39D4	Drop that guy!
+FIN1_AO	AAAA0942	Tango down!
+FIN1_AP	27A204B7	Scratch one asshole!
+FIN1_AQ	50A53421	One for a bag!
+FIN1_AR	C9AC659B	Breach that door!
+FIN1_AS	BEAB550D	Go Go Go!
+FIN1_AT	20CFC0AE	Clear to the left!
+FIN1_AU	57C8F038	Tango on the right!
+FIN1_AV	CEC1A182	Clear to the right!
+FIN1_AX	29798C85	Tango on the left!
+FIN1_AY	5E7EBC13	Room clear!
+FIN1_AZ	C777EDA9	Clear!
+FIN1_BA	663F7786	Shoot out the lock!
+FIN1_BB	FF36263C	Where's that shotgun?
+FIN1_BC	883116AA	I'm taking fire, cover me!
+FIN1_BD	16558309	Get some suppressing fire in there!
+FIN1_BE	6152B39F	Gimme some fucking covering fire!
+FIN1_BF	F85BE225	Get those damn shields in here!
+FIN1_BG	8F5CD2B3	Where are those shields?
+FIN1_BH	1FE3CF22	Shut up and get in!
+FIN1_BI	68E4FFB4	Mind your head.
+FIN1_BJ	F1EDAE0E	Take your last look at freedom, boys!
+FIN1_BK	86EA9E98	Surprise, homeboy!
+FIN1_BL	188E0B3B	Heads up, brother!
+FIN1_BM	6F893BAD	You can't hide for ever!
+FIN1_BN	F6806A17	Might as well come out!
+FIN1_BO	81875A81	Buzzard 1, light up the roof!
+FIN1_BP	0C8F5774	Buzzard 1, tangos on the roof!
+FIN1_BQ	7B8867E2	We got tangos on the roof, where's that chopper?
+FIN1_BR	E2813658	Roger, I got 'em!
+FIN1_BS	958606CE	Wilco, team leader, I have a visual!
+FIN1_BT	0BE2936D	This is Buzzard 1, I eyeball 'em!
+FIN1_BU	7CE5A3FB	Light up these tangos!
+FIN1_BV	E5ECF241	Put some light down there!
+FIN1_BW	92EBC2D7	Damn!
+FIN1_BX	0254DF46	We lost the searchlight!
+FIN1_BY	7553EFD0	This is Buzzard 1, we are taking ground fire!
+FIN1_BZ	EC5ABE6A	Put Charlie Team down on the roof, now!
+FIN1_CA	7F2446C7	We need to get Charlie Team down there!
+FIN1_CB	E62D177D	Four bangers in blue 4door heading back into South Central.
+FIN1_CC	912A27EB	Block him!
+FIN1_CD	0F4EB248	Cut him up!
+FIN1_CE	784982DE	Get in front!
+FIN1_CF	E140D364	We got 'em like fish in a barrel!
+FIN1_CG	9647E3F2	Hit that vehicle with everything you got!
+FIN1_CH	06F8FE63	Mike-mike those mothers!
+FIN1_CI	71FFCEF5	All units Rock'n'roll!
+FIN1_CJ	E8F69F4F	Holy shit! Echo unit is down!
+FIN1_CK	9FF1AFD9	Unit down, repeat, unit down!
+FIN1_CL	01953A7A	Mayday, mayday! Buzzard 1 is going down!
+FIN1_CM	76920AEC	This is Buzzard 1, we're coming in hot!
+FIN1_CN	EF9B5B56	Buzzard 1 is leaving the party, adios, boys!
+FIN1_CO	989C6BC0	Blue 4-door in East Los Santos headed for Ganton!
+FIN1_DA	3065D000	You saved me, have some sugar!
+FIN1_DB	A96C81BA	My hero deserves his honey!
+FIN1_DC	DE6BB12C	Oh baby, you're hurt!
+FIN1_EA	297EE141	This is the LSPD do not, HEY! WHAT THE FUCK? TOO LOW, YOU'LL KILL US ALL!
+FIN1_EB	B077B0FB	LSPD, stop right, ARE YOU INSANE, YOU'LL KILL US ALL!
+FIN1_FA	0253B282	What the holy f-AAAARGGH!
+FIN1_FB	9B5AE338	GOD NO, AAIIEEEGHH!
+FIN1_FC	EC5DD3AE	OH CHRIST, AARRGGHH!
+FIN1_FD	7239460D	Woo-Woo-WOO-AAIIEEGGH!
+FIN1_GA	1B4883C3	Say, CJ, you gonna crash the car again?
+FIN1_GB	8241D279	Fuck you, Ryder.
+FIN1_GC	F546E2EF	Ryder, give CJ a break, man. He's practically turned the Grove around by himself.
+FIN1_GD	6B22774C	Man, I was just telling a joke on the little nigga.
+FIN1_GE	1C2547DA	Everything you do is a joke, Ryder.
+FIN1_GF	852C1660	That's right, that's my brother!
+FIN1_GG	F22B26F6	That ain't true!
+FIN1_GH	62943B67	Tell 'em, Smoke - back me up! It ain't true!
+FIN1_GI	15930BF1	Ryder... just chill the fuck out, man!
+FIN1_GJ	8C9A5A4B	Remember, we're reuniting the Families, so no bullshit.
+FIN1_GK	FB9D6ADD	Stay cool.
+FIN1_GL	65F9FF7E	You know me, Sweet, cool as a Shaolin monk!
+FIN1_GM	12FECFE8	Especially you, Ryder.
+FIN1_GN	8BF79E52	What you mean? I resent your implication, and shit.
+FIN1_GO	FCF0AEC4	Sweet's just sayin' you a natural killer, baby.
+FIN1_GP	71F8A331	You gotta check yourself and stay cool.
+FIN1_GQ	06FF93A7	Yeah, well put it like this - I understand what he's trying to say,
+FIN1_GR	9FF6C21D	but I'm always cool, fool!
+FIN1_GS	E8F1F28B	Hey we all down with that, baby.
+FIN1_GT	76956728	OK, we're nearly there. Y'all cool?
+FIN1_GU	019257BE	All you dogs cool?
+FIN1_GV	989B0604	Ice cold, baby.
+FIN1_GW	EF9C3692	For sure, homie.
+FIN1_HA	9CD09F0C	OK, it's strictly one rep per set - you guys are gonna have to wait here.
+FIN1_HB	05D9CEB6	We'll be there just in case, bro.
+FIN1_HC	72DEFE20	Thanks, homie, but I'm down with these boys.
+FIN1_HD	ECBA6B83	I don't like this, man. Look at all them other family hoods! They used to be Grove Streets.
+FIN1_HE	9BBD5B15	Relax. We straight, they straight. How about you, Smoke?
+FIN1_HF	02B40AAF	How about you, Smoke?
+FIN1_HG	75B33A39	Hey, I'm feelin' a little exposed, but I'm good.
+FIN1_HH	E50C27A8	This is the Los Santos Police Department; Everybody stay where you are!
+FIN1_HI	920B173E	Oh shit!
+FIN1_HJ	0B024684	Man, what you doin'?
+FIN1_HK	7C057612	Carl, get back in, man we outta here baby!
+FIN1_HL	E261E3B1	I ain't leavin' my brother, I ain't no buster!
+FIN1_HM	9566D327	Man, it's every motherfucker for himself!
+FIN1_JA	AEE6FD8E	Shit, eh man, you alright?
+FIN1_JB	37EFAC34	Nah, I real fucked up, man
+FIN1_JC	40E89CA2	Where the OG's at - I gotta get my brother, Sweet.
+FIN1_JD	DE8C0901	They were meeting in the back of the motel someplace...
+FIN1_JE	A98B3997	Alright, man. Hang in there.
+FIN1_JF	3082682D	Families! Cops comin' in from behind!
+FIN1_JG	478558BB	Fuck you cops! Fuck all y'all!
+FIN1_JH	D73A452A	What took you? Where's Smoke and Ryder?
+FIN1_JI	A03D75BC	They shook on us!
+FIN1_JJ	39342406	What!?
+FIN1_JK	4E331490	Fuck it, let's get out of here!
+FIN1_JL	D0578133	CJ, that chopper's all over us! Hit it!
+FIN1_JM	A750B1A5	CJ, dump on that helicopter!
+FIN1_JN	3E59E01F	C'mon, CJ, let's go!
+FIN1_JO	495ED089	Li'l bro, let's hit it!
+FIN1_KA	B7FDCCCF	Ah shit, what now?
+FIN1_KB	2EF49D75	It's Smoke and Ryder!
+FIN1_KC	59F3ADE3	Get in!
+FIN1_KD	C7973840	Nice to see you guys again!
+FIN1_KE	B09008D6	Hit the gas!
+FIN1_KF	2999596C	Eh man, I'm running low.
+FIN1_KG	5E9E69FA	I got a 'K here!
+FIN1_KH	CE21746B	This fucking antique?
+FIN1_KI	B92644FD	Yeah, well... Emmet ain't the Pentagon!
+FIN1_KJ	202F1547	You got it off Emmet? Shit...
+FIN1_KK	572825D1	Holy shit! Look at that!
+FIN1_KL	C94CB072	Damn! That was close!
+FIN1_KM	BE4B80E4	Man, they's got smoked! Did you see that?
+FIN1_KN	2742D15E	Did you see that?
+FIN1_KO	5045E1C8	Man, it's getting intense! It's getting worse out here!
+FIN1_KP	DD4DEC3D	It's like World War VIII!
+FIN1_KQ	AA4ADCAB	We really in the middle of this shit tonight!
+FIN1_KR	33438D11	I wish I'd have stayed home and watched the fucking game!
+FIN1_KS	4444BD87	Hey, CJ, watch to the left!
+FIN1_KT	DA202824	Your left or my left?
+FIN1_KU	AD2718B2	Hell, I don't know, just shoot everybody, motherfucker!
+FIN1_KV	342E4908	My side! MY SIDE!
+FIN1_KW	4329799E	CJ! To our right!
+FIN1_KX	D396640F	CJ, watch our right!
+FIN1_KY	A4915499	Cover the right, Carl!
+FIN1_LA	F8BC5A08	Eyes front, CJ!
+FIN1_LB	61B50BB2	We got trouble up front!
+FIN1_LC	16B23B24	They in front of us!
+FIN1_LD	88D6AE87	Trouble up ahead!
+FIN1_LE	FFD19E11	Waste of good donuts.
+FIN1_LF	66D8CFAB	Let's roll
+FIN1_LG	11DFFF3D	All hell's breaking loose tonight!
+FIN1_LH	8160E2AC	Guess we better lend a hand...
+FIN1_LI	F667D23A	Smoke, what the FUCK are you doin'?
+FIN1_LJ	6F6E8380	I like things clean!
+FIN1_LK	1869B316	Oh, man, my window's broke!
+FIN1_LL	860D26B5	Put up your windows!
+FIN1_LM	F10A1623	Smoke, what are you thinking, man?
+FIN1_LN	68034799	Aw man, my damn window down!
+FIN1_LO	1F04770F	I got suds in my eyes!
+FIN1_LP	920C7AFA	Dammit, Smoke, I got soap in my eyes!
+FIN1_LQ	E50B4A6C	Hey, ain't we been here before?
+FIN1_LR	7C021BD6	We're going around in circles!
+FIN1_LS	0B052B40	Smoke, stop going in circles!
+FIN1_LT	9561BEE3	Hey, I'm taking what options I have, a'ight?
+FIN1_LU	E2668E75	This ain't no Sunday cruise, CJ!
+FIN1_LV	7B6FDFCF	Maybe if you have a nice word with these officers they'll let us on our way!
+FIN1_LW	0C68EF59	Hey, man, some idiot's hanging off the back of the car!
+FIN1_LX	9CD7F2C8	Somebody shoot him!
+FIN1_MA	E1A76B49	OH SHIT! Roadblock up ahead!
+FIN1_MB	78AE3AF3	The K's jammed!
+FIN1_MC	0FA90A65	Cheap Emmet shit!
+FIN1_MD	91CD9FC6	Fuck it, I'm going through!
+FIN1_ME	E6CAAF50	CJ, we got the ghetto bird up ahead!
+FIN1_MF	7FC3FEEA	Eh, I told you my clip is empty!
+FIN1_MG	08C4CE7C	What's that motherfucker doing?
+FIN1_MH	987BD3ED	Back up, Smoke, Back up!
+FIN1_MI	EF7CE37B	Hell no, I'm going through!
+FIN1_MJ	7675B2C1	Oh, man, where'd I put my water?
+FIN1_MK	01728257	Smoke, you're insane!
+FIN1_ML	9F1617F4	Oooooooh SHIIIIIIIT!
+FIN1_MM	E8112762	Oh man, that's nasty!
+FIN1_MN	711876D8	Agh! I got a bit of a ear in my lap!
+FIN1_MO	061F464E	CJ! Get it off me! Get it off me!
+FIN1_MP	8B174BBB	Ah man, I ain't touchin' not shit in your lap!
+FIN1_MQ	FC107B2D	Hey, I can't see jack through all this fucking blood!
+FIN1_MR	65192A97	Slow down, Smoke, SLOW DOWN!
+FIN1_MS	121E1A01	Oh shit, the brakes is out!
+FIN1_MT	8C7A8FA2	Oh man we gonna diiie!
+FIN1_MU	FB7DBF34	Shit! That's gonna be a hell of a story to tell when we passin' the blunt!
+FIN1_MV	6274EE8E	Man, that was some serious shit! Woo!
+FIN1_MW	1573DE18	Fuck this! We gotta get outta here!
+FIN1_MX	85CCC389	Ryder's right, everybody split up, and we'll meet up later.
+FIN1_ZA	E424EFDF	Oh shit! All I got in my rearview is bad guys!
+FIN1_ZB	7D2DBE65	Carl, behind us! Behind us!
+FIN1_ZC	0A2A8EF3	CJ, cover the rear!
+FIN1_ZD	944E1B50	Carl, they all over our ass, baby!
+FIN1A00	4A8CA322	Wassup, y'all!
+FIN1A01	3D8B93B4	Wassup CJ!
+FIN1A02	A482C20E	Turn that TV off right quick. Listen up, fellas,
+FIN1A03	D385F298	like we were saying. No more base in the streets.
+FIN1A04	4DE1673B	Finally.
+FIN1A05	3AE657AD	Peep this - we're gonna unite the Families once more.
+FIN1A06	A3EF0617	Because the Ballas have been pumping our guys full of base for too long,
+FIN1A07	D4E83681	while we argue amongst ourselves.
+FIN1A08	44572B10	So all the Families sets are gonna meet down at the Jefferson Motel.
+FIN1A09	33501B86	I say it's time we went down there and made it official.
+FIN1A10	53979263	Keep that shit off our streets!
+FIN1A11	2490A2F5	I vote I'm our representative on this one.
+FIN1A12	BD99F34F	Hey, it's all good.
+FIN1A13	CA9EC3D9	If Sweet thinks he can handle it, I'm down with him, man.
+FIN1A14	54FA567A	A'ight - let's roll, homies.
+FIN1A15	23FD66EC	Damn, that bitch is bad!
+FIN1A16	BAF43756	Oh, yeah!
+FIN1A17	CDF307C0	Wassup, playa!
+FIN1A18	5D4C1A51	That's right.
+FIN1A19	2A4B2AC7	Let's do this.
+FIN1A20	78BAC1A0	Yeah, let's go, man.
+LAF1_1	A41F2C55	~s~Get in the ~b~car ~s~and drive the crew to the meet at the motel.
+LAF1_17	A3181F58	~s~Go inside the ~y~motel ~w~and get Sweet out of there safely!
+LAF1_2	3D167DEF	~s~Get back in the ~b~car~s~!
+LAF1_20	1651D938	Sweet
+LAF1_21	6156E9AE	Take all the nearby SWAT out. Then it will be safe to escape with ~b~Sweet~s~.
+LAF1_3	4A114D79	~s~Drive the crew to the meet at the ~y~motel~s~.
+LAF1_38	0191604B	Car
+LAF1_4	D475D8DA	~r~You wrecked the car!
+LAF1_5	A372E84C	~s~Protect ~b~Sweet ~s~and destroy the ~r~SWAT helicopter~s~.
+LAF1_50	59104FFF	To look around the car use the camera movement controls. To fire tap ~m~~widget_attack~.
+LAF1_6	3A7BB9F6	~s~Make your way through the motel and find ~b~Sweet~s~.
+LAF1_69	0BE1A498	~s~Follow ~b~Sweet~s~.
+LAF1_7	4D7C8960	You can purchase drinks at ~h~vending machines ~w~this will replenish your health.
+LAF1_70	6B262D7D	~r~Sweet died!
+LAF1_71	1C211DEB	~r~Your homies died!
+LAF1_72	85284C51	~r~The car is wrecked
+LAF1_95	85CFF47C	~s~Take out the swat shooters and the helicopter!

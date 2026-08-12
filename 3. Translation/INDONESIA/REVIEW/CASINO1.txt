@@ -1,0 +1,120 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+CAS1_01	0D28E337	~s~Kembalilah ke dalam ~b~mobil~s~.
+CAS1_02	9421B28D	~s~Takut-takuti dia agar mau bicara.
+CAS1_03	E326821B	~s~Bawa dia kembali ke ~y~kasino~s~.
+CAS1_04	7D4217B8	~r~Kamu membunuhnya!
+CAS1_05	0A45272E	Pengukur Ketakutan
+CAS1_06	934C7694	Kecepatan tinggi pasti akan menakutinya.
+CAS1_07	E44B4602	Cobalah berbelok tajam dengan rem tangan.
+CAS1_08	74F45B93	Aksi gila akan membuatnya ketakutan.
+CAS1_09	03F36B05	Mengarungi jalan di jalur yang salah akan membuatnya gelisah.
+CAS1_10	6334E2E0	~s~Tetap menjauh dari jalan bebas hambatan!
+CAS1_11	1433D276	~s~Takut-takuti dia, tapi ingat tabrakan dari depan akan membunuhnya.
+CAS1_12	8D3A83CC	~s~Dan jauhi jalan raya utama, kamu tidak butuh perhatian polisi.
+CAS1_AA	6B09DABC	Kamu, ka-ka-kamu gila! Kamu gila! Kamu bakal mati! Kamu bakal mati!
+CAS1_AB	F2008B06	Kamu tidak dalam posisi untuk mengancam.
+CAS1_AC	8507BB90	Siapa kamu?
+CAS1_AD	1B632E33	Persetan denganmu, kamu tahu siapa aku!
+CAS1_AE	6C641EA5	Terserah kamu saja.
+CAS1_BA	4024897F	Kamu berurusan dengan orang yang salah!
+CAS1_BB	D92DD8C5	Kamu bakal mati, kamu dengar aku? MATI! M-A-T-I kawan!
+CAS1_BC	AE2AE853	Kamu sudah menandatangani surat kematianmu sendiri! Ha ha ha!
+CAS1_BD	304E7DF0	Kamu pikir ini menakutiku, huh?
+CAS1_BE	47494D66	Butuh lebih dari sekadar jalan-jalan untuk membuatku berkicau, kawan!
+CAS1_CA	593FB83E	Hei, d-dengar, uh, k-kita bisa buat kesepakatan, oke?
+CAS1_CB	C036E984	OKE, aku tahu kamu serius!
+CAS1_CC	B731D912	Hei dengar kawan, ini sudah tidak lucu lagi.
+CAS1_CD	29554CB1	Hei! Hentikan kegilaan ini SEKARANG JUGA!
+CAS1_CE	5E527C27	Ya Tuhan, kamu benar-benar gila!
+CAS1_DA	167E2EF9	Aargh! Oh, aku tidak ingin mati, ayolah aku tidak ingin mati!
+CAS1_DB	8F777F43	TAIK KAMU! BANGSAT KAMU-HUUU-huuuuu!
+CAS1_DC	F8704FD5	Ya Tuhan, aku baru saja berak di celana!
+CAS1_DD	6614DA76	Bunda Maria, aku sudah tidak tahan lagi, oh Tuhan...
+CAS1_DE	1113EAE0	Baiklah, baiklah! Maksudmu sudah jelas, tolong jangan lagi! JANGAN LAGI!
+CAS1_EA	0F651FB8	Duh kawan, ini terlalu kencaaaaang!
+CAS1_EB	966C4E02	Oh! Pelan-pelan, pelan-pelan demi Tuhan!
+CAS1_EC	E16B7E94	Oh, ini terlalu cepat! TERLALU KENCAAAAAANG!
+CAS1_ED	7F0FEB37	Wuuuuuuua! Sialan!
+CAS1_EE	0808DBA1	Waaaa, aduh jangan!
+CAS1_EF	91018A1B	Aduh Kristus! Ouuuuuuuuu!
+CAS1_EG	E606BA8D	Ya Tuhan, ya-Tuhan!
+CAS1_EH	76B9A71C	Hei, apa yang kamu lakukan?
+CAS1_EI	01BE978A	Hei, kamu pikir kamu pintar, tapi tidak, kamu tidak pintar!
+CAS1_EJ	98B7C630	Ha, omong kosong ini tidak menakutiku, bajingan!
+CAS1_EK	EFB0F6A6	Mau ngapain lagi kamu sekarang?
+CAS1_EL	71D46305	Siapa pun, tolong, TOLONG!
+CAS1_EM	06D35393	Hei, awas pejalan kaki, kawan!
+CAS1_EN	9FDA0229	Demi Tuhan itu dekat sekali!
+CAS1_EO	E8DD32BF	Kamu mau mencoba membunuh kita berdua, huh?
+CAS1_EP	65D53F4A	Bunda Maria, beruntung sekali!
+CAS1_EQ	12D20FDC	Kamu bakal membunuh kita berdua! Oh Tuhan, aku masih hidup!
+CAS1_ES	FCDC6EF0	Terima kasih! Terima kasih Tuhan! Terima kasih Tuhan!
+CAS1_ET	62B8FB53	Tuhan! TUHAN!
+CAS1_EU	15BFCBC5	Kamu sengaja MENCOBA menabrak hal-hal itu?! Kamu gila!
+CAS1_EV	8CB69A7F	Oh... tuhan.... sialan kamu...
+CAS1_EW	FBB1AAE9	Aarrgghh!
+CAS1_EX	6B0EB778	Oh ibu, jemput aku! Ohhhh.
+CAS1_EY	1C0987EE	Sialan! Kakiku! Kakiku terbakar!
+CAS1_EZ	8500D654	Sial! Buah zakarku! Buah zakarku!
+CAS1_FA	24484C7B	Oh ibu! Aku terbakar!
+CAS1_FB	BD411DC1	KEBAKARAN! KEBAKARAN!
+CAS1_GA	3D537D3A	Keluarga mafia akan membuatmu membayar semua ini!
+CAS1_GB	A45A2C80	Keluarga yang mana?
+CAS1_GC	D35D1C16	Keluarga Sindacco, dasar idiot!
+CAS1_GD	4D3989B5	Cuma itu yang ingin kudengar!
+CAS1_GE	3A3EB923	Apa-apaan-? Oh sial...
+CAS1_HA	BACB61F5	Oh Tuhan, terima kasih Tuhan...
+CAS1_HB	23C2304F	Sekalipun aku berjalan dalam lembah kekelaman...
+CAS1_HC	54C500D9	Ibu... ibu...
+CAS1_HD	CAA1957A	(merengek/menangis ketakutan)
+CAS1_HE	BDA6A5EC	Aku telah menjalani hidup yang penuh dosa, aku minta maaf, sangat menyesal...
+CAS1_JA	88FD0377	CJ, ha, kurasa dia kencing/berak di celana.
+CAS1_JB	11F452CD	Kurasa dia mau bicara sekarang!
+CAS1A00	6C975DDB	Idiot! Kamu sadar berapa harga mesin-mesin itu?
+CAS1A01	1B906D4D	Kita seharusnya buka dalam -
+CAS1A02	82993CF7	Suara apa itu tadi?
+CAS1A03	F59E0C61	Halo? HALO? Ada apa dengan kalian semua?
+CAS1A04	6BFA99C2	Bos, CJ di sini.
+CAS1A05	1CFDA954	Carl, senang kamu bisa datang.
+CAS1A06	85F4F8EE	Jadi ini yang sedang kamu kerjakan.
+CAS1A07	F2F3C878	Ya, ini benar-benar mimpi buruk.
+CAS1A08	624CD5E9	Kalau kamu ingin kena sakit maag, cobalah membuka kasino Triad di kota yang dikuasai Mafia!
+CAS1A09	154BE57F	Mafia mencoba memerasmu?
+CAS1A10	758C6C9A	Ya - perusahaan-perusahaan besar mulai masuk dan semua orang merasa tertekan.
+CAS1A11	028B5C0C	Mesin slotku dihancurkan, para pekerja ditakut-takuti...
+CAS1A12	9B820DB6	Jadi siapa di balik semua ini?
+CAS1A13	EC853D20	Ada tiga keluarga mafia yang beroperasi di sini,
+CAS1A14	72E1A883	dan masing-masing punya saham di Kasino Caligula
+CAS1A15	05E69815	dan ada pengacara gila yang mengelolanya untuk mereka.
+CAS1A16	9CEFC9AF	Bisa saja salah satu dari mereka, atau semuanya.
+CAS1A17	EBE8F939	Tidak bisakah kamu beri mereka sedikit uang suap?
+CAS1A18	7B57E4A8	Tidak. Selain pejabat berwenang yang biasa harus disuap,
+CAS1A19	0C50D43E	masing-masing dari mereka minta bagian keuntungan
+CAS1A20	5EA13F59	dan aku tidak akan menyerahkan semua keuntungan kita kepada orang-orang Italia itu!
+CAS1A21	29A60FCF	Keuntungan kita?
+CAS1A22	B0AF5E75	Benar, kamu tidak salah dengar. Aku ingin menawarkan saham di kasino kita,
+CAS1A23	C7A86EE3	sebagai imbalan bantuan untuk mendirikannya.
+CAS1A24	59CCFB40	Bagaimana kedengarannya, mitra?
+CAS1A25	2ECBCBD6	Kedengarannya kita punya kesepakatan!
+CAS1A26	B7C29A6C	Bos! Anak-anak menemukan beberapa preman mencoba menghancurkan salah satu pengiriman barang.
+CAS1A27	C0C5AAFA	Kami berhasil menangkap salah satu dari mereka!
+CAS1A28	507AB76B	Singkirkan dia.
+CAS1A29	277D87FD	Siapa pun di balik ini - kita perlu memberi tahu mereka
+CAS1A30	47BA0E18	bahwa mereka berurusan dengan orang gila sejati.
+CAS1A31	30BD3E8E	Ikat dia di kap depan mobil, biarkan dia ketakutan dan berkeringat dingin
+CAS1A32	A9B46F34	dan aku akan keluar ke sana sebentar lagi.
+CAS1A33	DEB35FA2	Mari kita lihat apakah kita bisa membuat orang ini buka suara.
+CAS1A34	40D7CA01	Hei, tunggu - tahan dulu, sebentar, kemari.
+CAS1A35	37D0FA97	Itu baru Carl-ku!
+CAS1B00	6ED1E382	Hei, hei, siapa kamu? Lepaskan ikatanku, huh?
+CAS1B01	19D6D314	Aku sudah di sini lama sekali, aku sampai tidak bisa merasakan tanganku lagi!
+CAS1B02	80DF82AE	Kamu tahu apa? Kurasa kita akan jalan-jalan sebentar.
+CAS1B03	F7D8B238	Kamu bodoh atau bagaimana? Aku tidak bercanda di sini - lepaskan aku, bajingan.
+CAS1B04	69BC279B	Tidak, kurasa aku akan membiarkanmu tetap di situ.
+CAS1B05	1EBB170D	Kamu tahu siapa aku di otak udangmu itu, huh?
+CAS1B06	87B246B7	Tidak, tapi kurasa aku akan segera mengetahuinya.

@@ -1,0 +1,143 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+R2_01	C854FB27	~s~Recruit a couple of Grove street Families gang members.
+R2_02	515DAA9D	~s~Go and meet up with the ~b~veteranos~s~.
+R2_03	265A9A0B	~s~Help ~b~Cesar~s~ and the OG's clear out the neighborhood.
+R2_04	B83E0FA8	~s~Head to the ~y~alleyway~s~!
+R2_05	CF393F3E	~S~Stay close to ~b~Cesar~s~ and clear out the alleyway.
+R2_06	56306E84	~S~Defend ~b~Cesar~s~.
+R2_07	21375E12	~S~Finish off the last ~r~Vagos~s~.
+R2_08	B1884383	~r~Cesar has been killed!
+R2_09	C68F7315	~r~Sunny has been killed!
+R2_10	A648FAF0	~r~Gal has been killed!
+R2_11	D14FCA66	~r~Hazer has been killed!
+R2_12	48469BDC	~s~You have left ~b~Cesar~s~ behind.
+R2_13	3F41AB4A	~s~Go and meet up with the veteranos at ~y~Unity Station~s~.
+ROT2@00	3663B218	Yeah, so get the place locked down.
+ROT2@01	4164828E	No one's gonna ruin the hood. You hear me? No one! Alright, see you.
+ROT2@02	D86DD334	Whattup?
+ROT2@03	AF6AE3A2	We almost got the hood under control, man.
+ROT2@04	310E7601	CJ, this is some serious shit, man.
+ROT2@05	46094697	Hey, man, I know, man.
+ROT2@06	DF00172D	I went through a lot of shit for this family since you been gone, so I know...
+ROT2@07	A80727BB	What? For yourself.
+ROT2@08	38B83A2A	Not for the family. Don't get shit confused, nigga.
+ROT2@09	4FBF0ABC	Man, when you gonna give me a break?
+ROT2@10	2F788359	When you stop acting like you the man.
+ROT2@11	587FB3CF	You keep yapping on what you done did, let me tell you what I done did.
+ROT2@12	C176E275	let me tell you what I done did.
+ROT2@13	B671D2E3	When Kendl needed shoes. I went out and got the money.
+ROT2@14	28154740	When Moms needed an operation, I robbed people for the bread.
+ROT2@15	5F1277D6	While you were off in Liberty City thinking about your own shit.
+ROT2@16	C61B266C	For five years, come on man.
+ROT2@17	B11C16FA	Now you do something, you want a fucking parade?
+ROT2@18	21A30B6B	Nigga, please.
+ROT2@19	56A43BFD	That ain't fair, man.
+ROT2@20	0455D09A	Carl, man, I need your help.
+ROT2@21	7352E00C	Man, I'm kinda busy right now. Family shit.
+ROT2@22	EA5BB1B6	I helped you guys, hombre.
+ROT2@23	9D5C8120	It's time you helped me and my homies.
+ROT2@24	03381483	My hood's screwed up too.
+ROT2@25	743F2415	We got this shitty neighborhood on lockdown now.
+ROT2@26	ED3675AF	Alright, what you need?
+ROT2@27	9A314539	It's time to get my old gang back together,
+ROT2@28	0A8E58A8	push out those yay-slanging punks, eh.
+ROT2@29	7D89683E	I know, but I got a lot going on right here in my own hood, man.
+ROT2@30	1D4EE1DB	And I made my brother a promise.
+ROT2@31	6A49D14D	All your brother wants you to do is pay back your debts, CJ.
+ROT2@32	F34080F7	Alright, I hear you. I got your back - c'mon, let's roll.
+ROT2@33	8447B061	Orale! The Varrio's coming back!
+ROT2_AA	303F5F48	OK, so what's the plan?
+ROT2_AB	A9360EF2	We're going to meet three of my veterano's over at Unity Station.
+ROT2_AC	DE313E64	over at Unity Station.
+ROT2_AD	4055ABC7	Three, is that all?
+ROT2_AE	37529B51	A'ight, I'm a get a couple of Family boys to come through too.
+ROT2_BA	1B120C8B	Shit's real serious, man, look at the streets, eh.
+ROT2_BB	821B5D31	Yeah, we better watch ourselves, man.
+ROT2_BC	F51C6DA7	Don't want to get caught on Ballas turf while this shit's going down.
+ROT2_BD	6B78F804	Man, Tenpenny brought the Central to its knees.
+ROT2_CA	02093DCA	While we here, I, eerr, I have a question to ask you.
+ROT2_CB	9B006C70	Yeah? What?
+ROT2_CC	EC075CE6	Well it's... it's personal.
+ROT2_CD	7263C945	Come on, man, we're brothers, you and me.
+ROT2_CE	0564F9D3	You can ask me anything.
+ROT2_CF	9C6DA869	OK, here goes.
+ROT2_CG	EB6A98FF	I want to ask Kendl the question.
+ROT2_CH	7BD5856E	What's the problem?
+ROT2_CJ	95DBE442	Call her, dude, here, use my phone.
+ROT2_CK	E2DCD4D4	Noo, holmes, THE question!
+ROT2_CL	7CB84177	What? Oh shit, you mean POP THE question.
+ROT2_CM	0BBF71E1	Well, I'm OK with that, you know, I appreciate you asking my permission and shit, but -
+ROT2_CN	92B6205B	Nah. I know you're cool.
+ROT2_CO	E5B110CD	It's Sweet that is the problem, could you talk to him?
+ROT2_CP	68B91D38	Sure thing, Cesar, I'll talk to him.
+ROT2_CQ	1FBE2DAE	Thank you, CJ, that means a lot to me.
+ROT2_DA	4D48AB0D	Those Vagos, man, I'm gonna cut those cacos.
+ROT2_DB	D441FAB7	Raspalo hasta el hueso!
+ROT2_DC	A346CA21	Hey, carnales, what's cracking, holmes?
+ROT2_DD	3D225F82	Cesar! And you must be CJ.
+ROT2_DE	4A256F14	Cesar says you cool, so we cool, holmes.
+ROT2_DF	D32C3EAE	OK. We will have to work our way through this neighborhood to get to my house.
+ROT2_DH	349413A9	We will approach from the rear alleyway, OK?
+ROT2_DJ	DA9A7285	If we stick together those Vagos pendejos won't stand a chance!
+ROT2_DK	AD9D4213	Watch each others' backs, amigos.
+ROT2_DL	33F9D7B0	Hasta la muerte!
+ROT2_DM	44FEE726	HASTA LA MUERTE!
+ROT2_EA	54539A4C	That's the last of them, let's move out!
+ROT2_EB	CD5ACBF6	Everybody OK? Let's hit 'em!
+ROT2_EC	BA5DFB60	Vagos fools didn't stand a chance!
+ROT2_ED	24396EC3	Quickly, go! GO!
+ROT2_EE	533E5E55	Follow me!
+ROT2_EF	CA370FEF	Keep close!
+ROT2_EG	BD303F79	Keep together!
+ROT2_EH	2D8F22E8	Stay close.
+ROT2_EJ	C38143C4	Keep it tight!
+ROT2_EK	B4867352	Vagos boys!
+ROT2_EL	2AE2E6F1	LSV's!
+ROT2_EM	5DE5D667	Northside Vagos assholes!
+ROT2_EN	C4EC87DD	Up ahead!
+ROT2_EO	B3EBB74B	Nearly there!
+ROT2_EP	3EE3BABE	Careful, we are close!
+ROT2_EQ	49E48A28	Behind us!
+ROT2_ER	D0EDDB92	Watch our backs!
+ROT2_ES	A7EAEB04	Watch your backs!
+ROT2_ET	398E7EA7	On the rooftops!
+ROT2_EU	4E894E31	They're on the roofs!
+ROT2_EV	D7801F8B	Watch that alleyway!
+ROT2_EW	A0872F1D	They're coming over the walls!
+ROT2_EX	3038328C	Vagos to our left!
+ROT2_EY	473F021A	Northside on our right!
+ROT2_FA	7F7EC98F	That was the easy bit, eh.
+ROT2_FB	E6779835	Now we go into the viper's nest.
+ROT2_FC	9170A8A3	This is where it gets tough.
+ROT2_FD	0F143D00	Luckily we have a little surprise up our sleeves, eh, Sunny!
+ROT2_FE	78130D96	That's a rocket launcher man! We'll bring the National Guard down on us!
+ROT2_FG	961D6CBA	Look around you, CJ, the whole city is a war zone!
+ROT2_FH	06A2712B	C'mon, I want to take my house back!
+ROT2_GA	6665F8CE	Hazer!
+ROT2_GB	FF6CA974	Shit, Hazer...
+ROT2_GC	886B99E2	He is pretty bad, Cesar...
+ROT2_GD	160F0C41	Heads up! More Vagos!
+ROT2_HA	E1FDE401	Behind us!
+ROT2_HB	78F4B5BB	More Vagos Behind us!
+ROT2_HC	0FF3852D	Northsiders behind us!
+ROT2_JA	D3CB8683	Let's fucking finish this!
+ROT2_JB	4AC2D739	I'm with you man, let's take these punks!
+ROT2_KA	CAD0B7C2	This is a Vagos neighborhood now!
+ROT2_KB	53D9E678	Vagos rule this varrio now - Aztecas are no more!
+ROT2_KC	24DED6EE	Find a new home, assholes, Vagos own this 'hood!
+ROT2_LA	85912105	Torch those Aztecas!
+ROT2_LB	1C9870BF	Burn them!
+ROT2_LC	6B9F4029	Burn, Aztecas, burn!
+ROT2_MA	9C8A1044	Alright, that's the last of 'em.
+ROT2_MB	058341FE	How is Hazer?
+ROT2_MC	72847168	We need to get him to a hospital.
+ROT2_MD	ECE0E4CB	Hey, I'll take him.
+ROT2_ME	9BE7D45D	CJ, you have done more than enough.
+ROT2_MF	02EE85E7	You should get back to Grove.
+ROT2_MG	75E9B571	Alright ese, I'll see you after all this is settled down.
+ROT2_MH	E556A8E0	Thank you, CJ and good luck, my friend.

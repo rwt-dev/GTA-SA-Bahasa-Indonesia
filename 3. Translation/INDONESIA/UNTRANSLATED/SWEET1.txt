@@ -1,0 +1,87 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	7414C1D3	Stand in front of the wall and press and hold ~m~~widget_sprint~ to climb.
+	A51349B1	Stand in front of the fence and press and hold ~m~~widget_sprint~ to climb the fence.
+	2F6ACA5F	Stand in front of the wall and double tap the lower right corner of the screen to climb.
+	8BBB0E32	Stand in front of the fence and double tap the lower right corner of the screen to climb the fence.
+HOOD3_A	3F79C880	~s~Drive with Sweet to ~y~Idlewood~s~.
+HOOD3_B	A670993A	~s~Drive to ~y~East Los Santos~s~.
+JUMPH1	7CB15C8A	Stand in front of the fence and double tap ~m~~widget_sprint~ to climb the fence.
+JUMPH2	E5B80D30	Double tap ~m~~widget_sprint~ to climb onto the wall.
+SWE1_A	FB8F20EB	~s~Get in ~b~Sweet's car~s~.
+SWE1_AA	36F8C5D6	Hey wait up.
+SWE1_AB	AFF1946C	Thought you'd hang with your brother huh?
+SWE1_AC	D8F6A4FA	Aw, ease up little man, c'mon, it's been difficult.
+SWE1_AD	46923159	You wanna drive?
+SWE1_AE	319501CF	Yeah, for sure.
+SWE1_AF	A89C5075	This ain't Liberty, homie, watch the road!
+SWE1_AG	DF9B60E3	Easy on the gas, partner.
+SWE1_AH	4F247D72	The steering wheel ain't thee for no decoration, man!
+SWE1_AJ	A12A1C5E	Trays are gonna see us coming from a mile off!
+SWE1_AK	D62D2CC8	Dude, you drive like a base head!
+SWE1_AL	4849B96B	Hey, everybody, look at Mr. Wheeler over here!
+SWE1_AM	3F4E89FD	My ride, dude! You drivin' like a bitch!
+SWE1_AN	A647D847	Hey, I just got this shit out of the paint shop, man!
+SWE1_AO	D140E8D1	You back for five minutes and you've wrecked my car!
+SWE1_AP	5C48E524	I'm gonna tag this block - follow me in the car.
+SWE1_AQ	2B4FD5B2	I'll get this one, follow me in the car.
+SWE1_AR	B2468408	Watch for those rollers as I tag this up.
+SWE1_AS	C541B49E	C'mon, let's cruise into Ballas territory.
+SWE1_AT	5B25213D	Let's check out the Ballas' turf.
+SWE1_AU	2C2211AB	CJ, check out Ballas' turf with me.
+SWE1_AV	B52B4011	You hit this up here, and I'll go up and do another hood.
+SWE1_AW	C22C7087	Hit this up, and I'll go hit up another block.
+SWE1_AX	52936D16	While you're doing this, I'll be doing another block.
+SWE1_B	62867151	~s~Go back to ~y~Sweet's house~s~.
+SWE1_BA	1DD59615	What the fuck?
+SWE1_BB	84DCC7AF	Hey, that's our tag!
+SWE1_BC	F3DBF739	You some kind of mental case, fool?
+SWE1_BD	6DBF629A	Cap that mother!
+SWE1_BE	1AB8520C	Get that fool!
+SWE1_BF	83B103B6	Chase him down!
+SWE1_BH	64092EB1	CARL, QUICK, GET IN!
+SWE1_BJ	8A074F9D	CARL, GET IN THE WHIP!
+SWE1_BN	8D6A8B84	Like riding a bike, ain't it, boy?
+SWE1_BO	FA6DBB12	Yeah, it all comes back.
+SWE1_BP	7765B6E7	How you doin' on the feddy?
+SWE1_BQ	00628671	I'm kinda short, you know.
+SWE1_BR	996BD7CB	C.R.A.S.H.took what I came with.
+SWE1_BS	EE6CE75D	Already? Shit, them boys on their game!
+SWE1_BT	700872FE	Here, get yourself a beer or something.
+SWE1_BU	070F4268	I'll catch up with you.
+SWE1_BX	79BE3ED5	C.R.A.S.H. took all my paper, man, left me with nothing but small change...
+SWE1_CA	04CEA754	There's another two Balla tags in the hood.
+SWE1_CB	9DC7F6EE	You go get 'em and I'll keep the engine running.
+SWE1_D	8BE5D464	Look at the tag and hold ~m~~widget_attack~ to spray it.
+SWE1_F	65EBB548	Keep ~m~~widget_attack~ pressed until the tag is completely sprayed over.
+SWE1_G	12EC85DE	Spraying over a rival tag will gain you respect from your gang. There are many tags scattered around Los Santos to find.
+SWE1_H	8253984F	These are Ballas gang members, dressed in purple. They are your sworn enemy.
+SWE1_I	F554A8D9	Press and hold ~m~~widget_attack~ to spray the gang member in the face.
+SWE1_M	F2396CC0	~s~Find and spray over the ~g~tags~s~.
+SWE1_P	913F0019	~r~Sweet is dead!
+SWE1_Q	E638308F	~r~You destroyed Sweet's ride!
+SWE1_S	083651A3	~s~Get back in ~b~Sweet's car!
+SWE1_X	9FE4882B	~s~Spray over the remaining ~g~tags~s~ in this area.
+SWE1_Z	71EAE907	~s~Go to the ~y~blip~s~ to find the next tag.
+SWE1_Z1	CFCB7F70	Enemy gang territories can be dangerous. Hang around for too long and you will attract attention.
+SWE1A00	316642B1	Look who's here, it's running man. What, you think you back on the set?
+SWE1A01	46617227	I told you that, bro.
+SWE1A02	DF68239D	Your word don't mean shit around here.
+SWE1A03	A86F130B	C'mon, man, gimme a break.
+SWE1A04	360B86A8	We gotta go hit up the hood.
+SWE1A05	410CB63E	Let them know you're back on the set.
+SWE1A06	D805E784	The Johnson brothers are rolling again.
+SWE1A07	AF02D712	Take this paint and go hit shit up.
+SWE1A08	3FBDCA83	Start with our own set first.
+SWE1A09	48BAFA15	Later on, we'll spread out and take the whole hood back.
+SWE1A10	287D73F0	You already spreading out, fat man. Now let's play.
+SWE1A11	5F7A4366	- C'mon, fat boy. C'mon, fat boy. Fat boy - look at you, look at...~n~- Yeah, yeah, watch out. Fool... Watch this, watch this...
+SWE1A12	C67312DC	Yeah, yeah, watch out. Fool... Watch this, watch this...
+SWE1A13	B174224A	Ah ha ha ha! Bam!
+SWE1A14	2F10B7E9	Hey, CJ.
+SWE1A15	5817877F	Let's see what you got, pork chop!
+SWE1SPF	F25F8A01	~r~You need a spraycan!

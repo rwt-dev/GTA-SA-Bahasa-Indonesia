@@ -1,0 +1,73 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+AIR1_01	4B8459C3	~s~Go to the ~y~small town~s~ in the desert.
+AIR1_02	D28D0879	~s~Go to the top of the ~y~mountain~s~ and set off a smoke flare.
+AIR1_03	A58A38EF	~s~Exit your vehicle and fire the ~y~smoke flare~s~.
+AIR1_04	3BEEAD4C	~s~Fire the ~y~smoke flare~s~.
+AIR1_06	D5E0CC60	~s~Protect the ~b~contraband helicopter~s~ from the ~r~spooks~s~.
+AIR1_07	A2E7FCF6	Heli
+AIR1_08	3258E167	~r~The contraband helicopter is history.
+AIR1_09	455FD1F1	~s~Get the ~g~contraband~s~.
+AIR1_10	25985814	~s~Deliver the contraband to the ~y~hideout~s~.
+AIR1_11	529F6882	~s~Lose the ~r~feds~s~.
+AIR1_12	CB963938	Heat
+AIR1_13	BC9109AE	~s~Go to ~y~El Castillo del Diablo~s~ in the desert.
+AIR1_14	22F59C0D	~s~Set off the ~r~smoke flare~s~.
+AIR1_15	55F2AC9B	~s~Pick up the ~g~rockets~s~.
+AIR1_16	CCFBFD21	~s~Take a suitable vehicle and go to the top of the ~y~mountain~s~.
+AIR1_17	BBFCCDB7	Heli
+DES3@00	996A83FF	Roger that, Big Monkey, I got a 13-6 fat vulture.
+DES3@01	EE6DB369	Need to acquire a drowning baby. Over.
+DES3@02	7764E2D3	In 15 by the fat moon.
+DES3@03	0063D245	Break your heart. Over and out.
+DES3@04	9E0747E6	Carl. I need you to do me a favor...
+DES3@05	E9007770	Yeah, I'll do you a proper injury, man.
+DES3@06	700926CA	What you knowin' about my brother?
+DES3@07	070E165C	Relax. He's in prison up state, D Wing. Cell 13.
+DES3@08	97B10BCD	To the left I got a child killer, who wants to rip his throat out.
+DES3@09	E0B63B5B	To the right of him I got a white supremacist, who wants to eat his heart, to be precise.
+DES3@10	8071B2BE	Now don't worry. Tenpenny and Pulaski are really relatively benign.
+DES3@11	F7768228	Unless of course you're a family member of Officer Pendelbury
+DES3@12	6E7FD392	whom they shot when he threatened to expose them.
+DES3@13	1978E304	Damn. Hey, man, how you know all this stuff, man,
+DES3@14	871C76A7	and why don't you stop it?
+DES3@15	F01B4631	You just don't understand, do you, kid.
+DES3@16	6912178B	Its all white knights and heroes. We have to make decisions, kid.
+DES3@17	1E15271D	You know, I try to set bad people on other bad people.
+DES3@18	8EAA3A8C	And sometimes, I let good guys die.
+DES3@19	F9AD0A1A	He's your brother, but to me, he's just collateral.
+DES3@20	AB5CE17D	It's a very delicate decision.
+DES3@21	DC5BD1EB	Over here, you got all the scumbags inside the country,
+DES3@22	45528051	and over here, you got all the scumbags outside the country.
+DES3@23	3255B0C7	And me and my colleagues. We're the fucking pivot.
+DES3@24	AC312564	Keep the government in work. Which reminds me...
+DES3@25	DB3615F2	I need you to head over HERE in the buggy outside.
+DES3@26	423F4448	Okay, okay, let off a flare. We got some precious cargo needs collecting.
+DES3@27	353874DE	Hey, hold up. What about my brother?
+DES3@28	A587694F	and all that shit you was talking about?
+DES3@29	D28059D9	Don't worry, Sweet's just fine.
+DES3@30	B247D03C	He gets touched, a prison guard goes home
+DES3@31	C540E0AA	and finds that his wife and kids have been murdered. Everything's under control.
+DES3@32	5C49B110	We'll talk later. Now, come on, get outta here.
+DES3@33	2B4E8186	But you do know all about that, right?
+DES3_AA	9F366EAF	Jesus, what took you?
+DES3_AB	063F3F15	Toreno! Where you at?!
+DES3_AC	71380F83	Miles away. No time for niceties, kid.
+DES3_AD	EF5C9A20	Choose a vehicle, grab the equipment I've provided,
+DES3_AE	985BAAB6	get to that drop zone, and wait for that package.
+DES3_BA	B41B3D6C	That's our cargo arriving now!
+DES3_BB	2D126CD6	Jesus! Will you stop doing that?
+DES3_BC	5A155C40	Hold up.
+DES3_BD	C471C9E3	Shit, pilot says he's got trouble,
+DES3_BE	B376F975	two agency choppers coming in on an intercept.
+DES3_BF	2A7FA8CF	Can you see them?
+DES3_BG	5D789859	Yeah.
+DES3_BH	CDC785C8	Shoot 'em down. Protect the cargo at all costs!
+DES3_CA	AD000C2D	OK, get the package back to Las Brujas.
+DES3_CB	34095D97	Where are you?
+DES3_CC	430E6D01	You givin' me the heebie jeebies, man!
+DES3_CD	DD6AF8A2	Carl, I will ALWAYS be watching...or listening...or both.

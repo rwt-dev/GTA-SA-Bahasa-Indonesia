@@ -1,0 +1,73 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	AA036E68	~s~When close to a ~y~generator~s~ press ~m~~widget_vehicle_bomb~ to plant the charges. You need one on each ~y~generator~s~.
+	6BA027EF	When you reach the corona press ~m~~widget_enter_car~ to jump from the plane.
+	DD75421C	~s~Press ~m~~widget_enter_car~ to jump from the plane.
+	CE6FAB6C	Press ~m~~widget_vehicle_bomb~ to plant explosives.
+HE2_AA	E85E5781	Hey, I found him, he's over here!
+HE2_AB	7157063B	He's in there somewhere, start looking!
+HE2_AC	065036AD	The cops are on the way, this thrill seeker ain't gonna escape!
+HE2_AD	9834A30E	We got a light saying there's been a break in!
+HE2_AE	EF339398	That's the guy, arrest him!
+HE2_AF	763AC222	We need more men in here!
+HE2_AG	013DF2B4	Stop him, for chrisakes!
+HE2_AH	9182EF25	Always get the nut jobs on my shift!
+HE2_AJ	7F8C8E09	Must be seeing things. I thought that coffee tasted a bit odd!
+HE2_AK	088BBE9F	Finally, some action around here!
+HE2_AL	96EF2B3C	Where the hell did he go?
+HE2_BA	C3730442	Any sign of him yet?
+HE2_BB	5A7A55F8	Not yet, but we've locked the quay entrance and the cops are on the way.
+HE2_CA	DA683503	What the f-Aw shit, somebody done locked the hatch!
+HE2_CB	436164B9	Aw shit! The hatch locked behind me!
+HE2_DA	9529A3C4	Shit, they must have took a wrong turn someplace!
+HE2_DB	0C20F27E	We've got him trapped, there's no way off that ledge!
+HEI2_1	902B668C	~s~Find the ~y~entrance ~s~to the generator room.
+HEI2_10	C247D4C1	~s~ Go to the ~y~airport~s~ you're going to need a plane to parachute onto the dam quay.
+HEI2_15	B22D204E	~s~GO!
+HEI2_2	09223736	~s~When close to a ~y~generator~s~ tap ~m~~widget_vehicle_bomb~ to plant the charges. You need one on each ~y~generator~s~.
+HEI2_20	E96A8702	~s~This is all about stealth, if you get spotted or make too much noise the whole building will be alerted.
+HEI2_24	EE07431B	Stealth
+HEI2_25	9900738D	~r~The plane has been destroyed!
+HEI2_26	00092237	~s~Fly the aircraft to the ~y~jump point~s~ over the dam.
+HEI2_28	E7B10F30	~s~Get back in the ~b~plane~s~!
+HEI2_31	877686D5	~s~The guards have been alerted!
+HEI2_34	F71C725A	~s~Get past the ~r~guards~s~ and find the ~y~entrance~s~ to the generator room
+HEI2_40	BF302084	~s~Get back on the ~y~dam quay~s~.
+HEI2_43	2639713E	~s~You're too low, you need to gain some height to make the jump.
+HEI2_44	B85DE49D	~s~You're too high, you need to lose some height to make the jump.
+HEI2_46	565385B1	~s~There's a ~g~knife ~s~stashed near one of the containers which you may find useful.
+HEI2_5	9746A295	~s~All the generators have been rigged, get to the ~y~exit~s~.
+HEI2_50	A62B11C5	~s~Tap ~m~~widget_enter_car~ to jump from the plane.
+HEI2_52	482570E9	~s~Make your way to the end of the dam quay.
+HEI2_53	3F22407F	~s~Avoid getting spotted by the guards patrolling in the area
+HEI2_56	4F48B4F0	~s~Try and keep her level, this is a good height to jump from.
+HEI2_57	384F8466	~s~Get in the ~b~plane~s~ on the end of the runway.
+HEI2_58	A8F099F7	~s~Charge placed.
+HEI2_6	0E4FF32F	Tap ~m~~widget_vehicle_bomb~ to plant explosives.
+HEI2_60	8D064206	~s~Go and pick up the ~g~knife~s~.
+HEI2_61	FA017290	~s~Get clear of the ~y~area~s~.
+HEI2_88	1D5EE7BA	When you reach the corona tap ~m~~widget_enter_car~ to jump from the plane.
+HEI2_89	6A59D72C	Remember to crouch to make less noise.
+HEI2_90	0A9E5EC9	~s~Go to the ~y~airport~s~. You're going to need a plane to parachute onto the dam quay.
+HST4A00	A5708693	It seems impossible to keep a secret around here!
+HST4A01	D277B605	I would have thought the size of the room would keep the numbers down.
+HST4A02	4B7EE7BF	the size of this room might have limited
+HST4A03	3C79D729	the number of people that were in on this job.
+HST4A04	A21D428A	Hey, speak up, we can't hear you back here!
+HST4A05	D51A721C	I appreciate your input,
+HST4A06	4C1323A6	but please, fuck off.
+HST4A07	3B141330	What did he say?
+HST4A08	ABAB0EA1	He said fuck off
+HST4A09	DCAC3E37	Hey, what are you still doing here?
+HST4A10	BC6BB7D2	I live here.
+HST4A11	CB6C8744	Oh, OK, you can stay.
+HST4A12	5265D6FE	Great.
+HST4A13	2562E668	Hey, where's the coffee and donuts?
+HST4A14	BB0673CB	OK, look, I'm going to go shut off the city's power source.
+HST4A15	CC01435D	Woozie, look after these fools for me.
+HST4A16	550812E7	OK, now, the important thing to remember with a plan like this,
+HST4A17	220F2271	is that... nothing can go wrong.

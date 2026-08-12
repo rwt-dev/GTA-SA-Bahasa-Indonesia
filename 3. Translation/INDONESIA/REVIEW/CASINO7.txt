@@ -1,0 +1,49 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+CAS7A00	49FC0207	Jadi bagaimana perkembangannya, Carl, kapan kita bisa melancarkan aksi perampokan ini?
+CAS7A01	3EFB3291	Aku tidak tahu, kawan. Orang bernama Rosenberg ini dan dua orang idiot itu.
+CAS7A02	A7F2632B	Aku merasa sedikit bertanggung jawab atas mereka.
+CAS7A03	D0F553BD	Kenapa?
+CAS7A04	4E91C61E	Kamu tahu aku, kawan, pemimpi mafia lain, pengedar, tidak ada masalah.
+CAS7A05	3996F688	Maksudku aku akan menghabisi mereka. Tapi orang-orang ini, mereka seperti anak-anak.
+CAS7A06	A09FA732	Oh, ayolah. Kamu kehilangan insting pembunuh itu, Carl.
+CAS7A07	D79897A4	Kamu sebaiknya cepat bergerak, penerbangan Ran Fa Li mendarat sebentar lagi!
+CAS7A08	47278A35	Sial, kamu benar!
+CAS7A09	3020BAA3	Hati-hati.
+CAS7A10	50E73346	Ini pertama kalinya perwakilan Tong pernah datang ke Las Venturas!
+CAS7A11	27E003D0	Ya, perasaanku tidak enak soal ini.
+CAS7A12	BEE9526A	Itulah mengapa kamu akan
+CAS7A13	C9EE62FC	awasi jalannya acara dengan...
+CAS7A14	578AF75F	di mana aku meletakkannya?
+CAS7A15	208DC7C9	Aha! Dengan ini!
+CAS7A16	B9849673	Yo, aku santai saja memukul Pemimpin Mafia pakai stik golf,
+CAS7A17	CE83A6E5	tapi aku lebih suka memakai senjata pilihanku sendiri.
+CAS7A18	5E3CBB74	Ah. Yah tetap bawa ini.
+CAS7A19	293B8BE2	Kamu tidak pernah tahu, ini mungkin berguna nanti...
+CAS7B00	4BBABC5E	Tuan Ran Fa Li.
+CAS7B01	3CBD8CC8	(Mengerang)
+CAS7B02	A5B4DD72	Carl, kenapa kalian lama sekali?
+CAS7B03	D2B3EDE4	Heh heh.
+CAS7B04	4CD77847	Kami berpapasan dengan sedikit panitia penyambut.
+CAS7B05	3BD048D1	Keluarga Leone telah melancarkan pergerakan mereka.
+CAS7B06	A2D9196B	Kita bisa mengatasi bajingan-bajingan itu sekarang karena usaha kita sudah berjalan.
+CAS7B07	D5DE29FD	Tuan-tuan, bisa minta nilai kalian?
+CAS7B08	4561346C	Tuan-tuan, atau harus kupanggil, mitra!
+CAS7B09	326604FA	Oh, aku akan minum untuk merayakannya!
+CAS7B10	52A18D1F	(Mengerang)
+MAF1_0	1844CF66	Kesehatan Limusin
+MAF1_1	6F43FFF0	Sial itu Mafia! tancap gas ikuti mobil depan!
+MAF1_10	9B0B814F	Carl kamu naik ke atas dan jaga keamanan VIP lindungi limusin, Aku dan pengawal lainnya akan melindungimu dari samping.
+MAF1_19	E2D739EB	Bawa VIP kembali ke Kasino Triad.
+MAF1_2	F64AAE4A	Awas Sopir!
+MAF1_3	814D9EDC	Ikuti mobil depan turun ke gang!
+MAF1_4	1F290B7F	Bagaimana keadaan mobil belakang?
+MAF1_5	682E3BE9	Keadaannya baik-baik saja!
+MAF1_6	F1276A53	Oh sial ini jebakan!
+MAF1_7	86205AC5	Keluar dari sini!
+MAF1_8	169F4754	Aku tidak bisa mereka telah menghalangi kedua jalan keluar dengan truk Line Runner
+MAF1_9	619877C2	Sial! Lakukan sesuatu!

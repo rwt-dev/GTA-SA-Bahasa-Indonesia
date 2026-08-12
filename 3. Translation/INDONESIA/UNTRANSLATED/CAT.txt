@@ -1,0 +1,468 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	31C2533A	Look behind by pressing and holding the bottom center of the screen or use the camera movement controls to maneuver the camera for a better view.
+	4F2D3DEC	Press ~m~~widget_explicit_throw~ to throw the ~h~satchel~w~. Press and hold ~m~~widget_explicit_throw~ for longer to increase the distance of the throw.
+	10C67717	Look behind by pressing ~m~~widget_explicit_look_back_keyboard~, or use the camera movement controls to maneuver the camera for a better view.
+	63CEE2BB	When the ~h~satchel~w~ is attached, select the ~h~detonator~w~ weapon and press ~m~~widget_explicit_detonator~ to detonate.
+CAT_AA	6954A95D	Where's your car?
+CAT_AB	F05DF8E7	Where's yours?
+CAT_AC	875AC871	Ladies don't drive themselves, that's what men are for!
+CAT_AD	193E5DD2	Oh my goodness! Thanks Cesar. Appreciate this, homie!
+CAT_BA	4279FA9E	So, what's your name? Where we going?
+CAT_BB	DB70AB24	My name is Catalina and we gonna take this county for every stinking cent!
+CAT_BC	AC779BB2	OK, good plan... I guess.
+CAT_BD	32130E11	You're damn straight it's a good plan!
+CAT_BE	45143E87	I've cased four soft targets;
+CAT_BF	DC1D6F3D	a gas station in Dillimore,
+CAT_BG	AB1A5FAB	a bank in Palomino Creek,
+CAT_BH	3BA5423A	a liquor store in Blueberry,
+CAT_BI	4CA272AC	and a betting shop in Montgomery.
+CAT_BJ	D5AB2316	Hold up. Which one first?
+CAT_BK	A2AC1380	You're the driver, you dumb pig, you choose!
+CAT_CA	5B62CBDF	You're pretty high strung, huh, lady.
+CAT_CB	C26B9A65	Yeah? And what are you?
+CAT_CC	B56CAAF3	Some laid back gang banger dude?
+CAT_CD	2B083F50	I keep myself to myself. That's my style.
+CAT_CE	5C0F0FC6	Cesar says you got a brother in jail,
+CAT_CF	C5065E7C	another brother dead, a mother just killed,
+CAT_CG	B2016EEA	and you got a bent cop on your case.
+CAT_CH	22BE737B	I ain't listening to you.
+CAT_CI	55B943ED	You think that is keeping yourself to yourself, eh amigo?
+CAT_CJ	CCB01257	Real cool? You just an idiota!
+CAT_CK	BBB722C1	And you're real charming. A proper lady.
+CAT_EO	EA80415E	that crazy bitch.
+CAT_FA	26153F9A	Hey, what we got left?
+CAT_FB	BF1C6E20	Are you stupid? You forget already?
+CAT_FC	C81B5EB6	The gas station in Dillimore.
+CAT_FD	567FCB15	The bank in Palomino Creek.
+CAT_FE	2178FB83	The liquor store in Blueberry.
+CAT_FF	B871AA39	The betting shop in Montgomery.
+CAT_FG	CF769AAF	Or the liquor store in Blueberry.
+CAT_FH	5FC9873E	Or the betting shop in Montgomery.
+CAT_FI	28CEB7A8	OK, well this time we're gonna do it real chill,
+CAT_FJ	B1C7E612	no crazy psycho shit, baby.
+CAT_FK	C6C0D684	Speak for yourself, soft boy.
+CAT_FL	58A44327	Today I feel like killing all the men I meet!
+CAT_FM	2FA373B1	Ah baby!
+CAT_FN	B6AA220B	Don't worry, I make an exception for some of the men in my life.
+CAT_FO	C1AD129D	Now drive faster!
+CAT_KA	93BB41D7	How was it?
+CAT_KB	0AB2106D	Different...
+CAT_KC	7DB520FB	I knew you would like it!
+CAT_KD	E3D1B558	Look, baby, I thought we was going to make some serious paper.
+CAT_KE	94D685CE	I'm starting to get really bored of you.
+CAT_KF	0DDFD474	I just need the money.
+CAT_KG	7AD8E4E2	And I'm just a cheap fuck?
+CAT_KH	EA67F973	A whore you don't even pay?
+CAT_KI	9D60C9E5	No, I didn't say that.
+CAT_KJ	0469985F	Carl, I say I'm in love with you, and you act like I'm an idiot.
+CAT_KK	736EA8C9	I see the way you look at other women.
+CAT_KL	ED0A3D6A	I know your kind, Carl. I am serious.
+CAT_KM	9A0D0DFC	I will kill you if you ever mess around.
+CAT_KN	03045C46	I will castrate you first.
+CAT_KO	74036CD0	Then I will make you eat them.
+CAT_KP	F90B6125	Enough! I need some fucking money!
+CAT_KQ	8E0C51B3	Carl, you are really boring me now.
+CAT_KR	17050009	Please, sweetheart. I got in some real, real deep shit.
+CAT_KS	6002309F	Okay. Maybe today we hit it big!
+CAT_KT	FE66A53C	Drive, lover!
+CAT1@00	DF75EBFC	You want some, fatso?
+CAT1@01	A872DB6A	You big streak of yankee piss.
+CAT1@02	317B8AD0	I seen fucking eunuchs with more balls than you,
+CAT1@03	467CBA46	you coward, you low life, you...
+CAT1@04	D8182FE5	What the fuck did you want?
+CAT1@05	AF1F1F73	Nothing, I'm looking for a friend of mine's cousin.
+CAT1@06	36164EC9	Mexican guy. He ain't here....
+CAT1@07	41117E5F	You? But Cesar said you was a real man.
+CAT1@08	D1AE63CE	I mean, look at you.
+CAT1@09	A6A95358	Lady, I'm a God fearing, peace loving, man of the people.
+CAT1@10	C66EDABD	- Whatever, asshole, let's go.~n~- Damn, relax, baby.
+CAT1@11	B169EA2B	Damn, relax, baby.
+CAT1_AA	D92906AC	This place will be a walk in the park!
+CAT1_AB	40205716	You mean like the last place?
+CAT1_AC	37276780	OK, Let's just take it
+CAT1_AD	A943F223	Who are these cowboy assholes?
+CAT1_AE	DE44C2B5	Hang back a while, see what's what.
+CAT1_AF	474D930F	We got the cash, let's get outta here!
+CAT1_AG	304AA399	Those maricon bastards have our money!
+CAT1_AH	A0F5BE08	THAT'S MY MONEY!
+CAT1_BA	F204556F	Carl, you drive, I'll shoot!
+CAT1_BB	6B0D04D5	C'mon, move your fucking butt!
+CAT1_BC	1C0A3443	Let's go, yeehaa!
+CAT1_CA	EB1F642E	Keep up with them!
+CAT1_CB	72163594	Faster, you fool!
+CAT1_CC	05110502	You're driving like an old lady!
+CAT1_CD	9B7590A1	They're getting away!
+CAT1_CE	EC72A037	They're dots in the distance, FASTER!
+CAT1_DA	A45EF2E9	You're losing them!
+CAT1_DB	3D57A353	They're getting away!
+CAT1_DC	4A5093C5	They're making fools of us!
+CAT1_DD	D4340666	Your pathetic driving is helping them escape!
+CAT1_EA	BD45C3A8	Those chota pigs are on to us!
+CAT1_EB	244C9212	And now the cops, FUCKING TYPICAL!
+CAT1_EC	534BA284	Your pissing around has brought the cops!
+CAT1_ED	CD2F3727	The cops too, FUCK! FUCK! FUCK!
+CAT1_FA	9668906B	OK, Carl, let's get back to the hideout!
+CAT1_FB	0F61C1D1	Back to Fern Ridge, Carl!
+CAT1_GA	8F73A12A	Don't leave me behind, Carl Johnson!
+CAT1_GB	167AF090	You leave me, I CASTRATE YOU!
+CAT1_GC	617DC006	Get back here, you useless bastard!
+CAT1_GD	FF1955A5	Carl Johnson, don't you leave me!
+CAT1_HA	08EBBDE5	Stop shooting that thing right next to my ear!
+CAT1_HB	91E2EC5F	What?
+CAT1_HC	E6E5DCC9	Can't hear anything - I'm deaf!
+CAT1_HD	7881496A	You blew out my ear!
+CAT1_HE	0F8679FC	Watch my damn head, bitch!
+CAT1_IA	11F08CA4	I hope you drive better this time around!
+CAT1_IB	88F9DD1E	You ever driven a quad? It ain't easy.
+CAT1_IC	FFFEED88	'Specially when you got a screaming bitch on the back, shooting past your ear!
+CAT1_ID	619A782B	shooting past your ear!
+CAT1_IE	169D48BD	I like it when you angry at me, Carl.
+CAT1_IF	8F941907	I will try to anger you more often.
+CAT1_IG	F8932991	Now that I'm looking forward to...
+CAT108	34E0CE58	~s~Pick up the ~g~briefcase~s~.
+CAT111	542747BD	Catalina has gone back to the hide out.
+CAT112	CD2E1607	~s~Take Catalina back to the ~y~hideout~s~.
+CAT137	8F72800A	Money Retrieved
+CAT2@00	CDC04412	Hey Catalina, baby. It's me, Carl Johnson.
+CAT2@01	BAC77484	Hey baby, I'm sorry we got off on the wrong foot.
+CAT2@02	23CE253E	I've had a rough time, baby. You know, maybe I was a little harsh.
+CAT2@03	54C915A8	Please forgive me. C'mon, baby!
+CAT2@04	CAAD800B	Baby, without you, there is no Carl Johnson.
+CAT2@05	BDAAB09D	Baby Please!
+CAT2@06	24A3E127	Baby, please. Don't be mad! Come on.
+CAT2@07	53A4D1B1	Now where is this stupid bitch?
+CAT2@08	C31BCC20	Here, cabron.
+CAT2@09	B41CFCB6	Oh baby, baby, I'm so sorry, baby.
+CAT2@10	D4DB7553	Please forgive me, baby.
+CAT2@11	A3DC45C5	just don't fucking shoot me! Please!
+CAT2@12	3AD5147F	You think you sorry, huh?
+CAT2@13	4DD224E9	How you going to prove you're sorry?
+CAT2@14	D3B6B14A	I am going to play with you SO rough, baby.
+CAT2@15	A4B181DC	And I'll take you to rob banks and shit.
+CAT2@16	3DB8D066	I'll let you kill anyone you want to kill.
+CAT2@17	4ABFE0F0	I am going to treat you right, baby.
+CAT2@18	DA00FD61	Just... c'mon...just please don't shoot me.
+CAT2@19	AD07CDF7	Carl, I think I love you.
+CAT2@20	FFF62690	Err, shit that's great. Cool. Yeah, fantastic. All that.
+CAT2@21	88F11606	You wanna go rob some shit, baby?
+CAT2@22	11F847BC	Open up the door - shit.
+CAT2@23	66FF772A	Is she here? I don't see nothing.
+CAT2@24	F89BE289	C'mon, baby, don't be mad, baby please!
+CAT2@25	8F9CD21F	Damn, man, shit.
+CAT2@26	169583A5	Who's the bitch now, eh?
+CAT2@27	6192B333	What was that?
+CAT2@28	F12DAEA2	You so right!
+CAT2@29	862A9E34	C'mon now, baby, c'mon.
+CAT2@30	E6ED17D1	Keep talking!
+CAT2@31	91EA2747	Ohhh?
+CAT2@32	08E376FD	Hm-hmm?
+CAT2@33	7FE4466B	Hm-hmm, ha ha! Hm-hmm.
+CAT2_05	AAD054D0	~s~Point your gun at the staff to keep them scared and under control.
+CAT2_06	33D9056A	~s~Don't let them put their hands down or they may set off an alarm.
+CAT2_14	C4CC5507	~s~You have left ~b~catalina~s~ behind, go back and get her.
+CAT2_16	2AC2342B	~s~Catalina's surrounded by cops. Rescue ~b~her~s~ and get back to the ~y~hideout~s~.
+CAT2_18	CD7A192C	~s~Take Catalina back to her ~Y~hideout~s~.
+CAT2_19	BA7D29BA	~s~Follow ~b~Catalina~s~.
+CAT2_A1	9B99D87E	~r~You killed Catalina.
+CAT2_AA	CB9CA942	Just our fucking luck, the army's in town!
+CAT2_AB	5295F8F8	You wanna rob a betting shop?
+CAT2_AC	2592C86E	Yeah. You not man enough?
+CAT2_AD	BBF65DCD	Hey, check the senorita!
+CAT2_AE	CCF16D5B	Hey, baby, you wanna feel a piece of what I got? Heh heh heh!
+CAT2_AF	55F83CE1	I'm going to cut off their balls!
+CAT2_AG	22FF0C77	Look, keep 'em sweet and I'll go cause a diversion.
+CAT2_AH	B24011E6	Hello, I'm from out of town...
+CAT2_AI	C5472170	and maybe you big boys will show me a good time?
+CAT2_BA	E0B1FA81	Holy Toledo!
+CAT2_BB	79B8AB3B	C'mon let's go check it out!
+CAT2_CA	F9AACBC0	You impress me, Carl Johnson!
+CAT2_CB	60A39A7A	C'mon, let's do the damn thing!
+CAT2_CC	17A4AAEC	I think I like you!
+CAT2_DA	B6EB5D07	Open the backroom door or I blow your fucking face off!
+CAT2_DB	2FE20CBD	Leave the panic button or I'll kill your children too!
+CAT2_DC	58E53C2B	Go! Get in there and open the safe!
+CAT2_EA	AFF06C46	Move it!
+CAT2_EB	36F93DFC	Stop playing with your balls and hurry up!
+CAT2_EC	41FE0D6A	We haven't got all fucking day!
+CAT2_FA	84DD3F85	I warned you, you stupid bitch!
+CAT2_FB	1DD46E3F	Stupid fucking bitch!
+CAT2_FC	6AD35EA9	Now I kill you!
+CAT2_GA	9DC60EC4	OK, I got it!
+CAT2_GB	04CF5F7E	About fucking time, you're a fucking sloth!
+CAT2_GC	73C86FE8	Whatever. Let's roll!
+CAT2_HA	1A5E120B	Carl, you have to be fast and totally ruthless!
+CAT2_HB	835743B1	No fucking about like in the betting shop!
+CAT2_HC	F4507327	What? If you hadn't started bustin', things would have been sweet!
+CAT2_HE	1D33D612	They had to die because YOU were slow and stupid,
+CAT2_HF	843A87A8	like a big fat brat that eats chocolates while his
+CAT2_HG	F33DB73E	father gives nothing to his step daughter but stale bread!
+CAT2_HH	6382AAAF	What? Where'd that come from?
+CAT2_HI	14859A39	Enough! I'm not speaking to you any more!
+CAT2_HJ	8D8CCB83	Wh-what is you talking about?
+CAT2_JA	28687089	Satchel charges?! Where the hell'd you get them?
+CAT3@00	757C2377	Hey, Catalina, it's Carl!
+CAT3@01	027B13E1	C'mon, let's go, we got banks to rob, baby.
+CAT3@02	9B72425B	Come on, let's go.
+CAT3@03	EC7572CD	In here, mi amor.
+CAT3@04	7211E76E	A'ight, come on. Let's go.
+CAT3@05	0516D7F8	You get your sorry ass in here right now, Carl Johnson,
+CAT3@06	9C1F8642	or I shove a fucking hand grenade up it.
+CAT3@07	EB18B6D4	Look baby, I really need that paper!
+CAT3@08	7BA7AB45	Oh, my God. What in hell's name is that?
+CAT3@09	0CA09BD3	This, you fucking prick? This is a rack!
+CAT3@10	6C671236	I'm gonna torture your sorry ass!
+CAT3@11	1B6022A0	You never write to me! You don't call!
+CAT3@12	8269731A	You treat me like a fucking whore!
+CAT3@13	F56E438C	Like one of YOUR whores!
+CAT3@14	6B0AD62F	I'm gonna fuck you up!
+CAT3@15	1C0DE6B9	No, baby. No. Please no.
+CAT3@16	8504B703	Maybe we can go out and rob now?
+CAT3@17	F2038795	A'ight, I'm coming.
+CAT3@18	62BC9A04	No, baby, please, I ain't into that shit!
+CAT3@19	15BBAA92	Oh, baby, please no. Please, baby, no!
+CAT3@20	474A41F5	Ow! Eh! Ooh! Aw! Ouch! Damn! Oh shit!
+CAT3@21	304D7163	Yes! Faster! Harder! Deeper!
+CAT3@22	A94420D9	Oh, yes! Yes! Yes!
+CAT3@23	DE43104F	(Sigh)
+CAT3_01	1501F7AC	~s~Go and pick up ~b~Catalina~s~.
+CAT3_02	8C08A616	~s~Get into the ~b~cab~s~!
+CAT3_03	FB0F9680	Position the cab in front of the trailer.
+CAT3_05	126C33B5	~s~Drive the rig out to Catalina's ~y~buyer~s~. Be careful not to disconnect the trailer.
+CAT3_06	8B65620F	~r~Catalina didn't make it.
+CAT3_07	FC625299	~r~The tanker was destroyed!
+CAT3_08	6CDD4F08	~r~The tanker disconnected!
+CAT3_09	1BDA7F9E	~r~The cab was destroyed!
+CAT3_10	7B1DF67B	~s~Get back in the ~b~cab~s~!
+CAT3_11	0C1AC6ED	HEALTH
+CAT3_12	95139757	Look behind by pressing ~m~~widget_look_left~ and ~m~~widget_look_right~ together, or use the camera movement controls to maneuver the camera for a better view.
+CAT3_13	E214A7C1	To attach to a trailer, slowly back the cab into the front of the trailer.
+CAT3_14	7C703262	~s~You're hooked up!
+CAT3_AA	7320CE27	Hand over the takings, or I blow your fucking balls off!
+CAT3_AB	EA299F9D	This here's bulletproof glass!
+CAT3_AC	9D2EAF0B	So you can just fuck off, bitch, before I call the sheriff!
+CAT3_AD	034A3AA8	What are you doing, son, just give her the cash!
+CAT3_AE	744D0A3E	Suit yourself, maricon.
+CAT3_AF	ED445B84	Change of plan, Carl, we're taking the tanker!
+CAT3_AG	9A436B12	Hey! What you doing?
+CAT3_BA	580D9DE4	Move it, you lazy bastard, get that tanker hooked up!
+CAT3_BB	C104CC5E	I'm on it, I got it!
+CAT3_BC	B603FCC8	You won't get away with this!
+CAT3_BD	2867696B	Shut your spotty little mouth!
+CAT3_CA	4116ACA5	Drive! I know a guy who'll pay for this rig and its cargo!
+CAT3_CB	D81FFD1F	I ain't losing another crappy job because of some crazy bitch!
+CAT3_CC	AF18CD89	C'mon, Derek, we're going to stop those bastards!
+CAT3_CD	317C582A	Do I have to?
+CAT3_DA	0E573A62	Follow me!
+CAT3_DB	975E6BD8	Oh no you don't, bitch!
+CAT3_DC	E0595B4E	C'mon, Derek, we're going to be local heroes!
+CAT3_DD	7E3DCEED	I'd be happier staying here and stacking shelves!
+CAT3_EA	174C0B23	Follow me!
+CAT3_EB	8E455A99	What is keeping you?
+CAT3_ED	6726FFAC	Not far now!
+CAT3_EE	1021CF3A	This way!
+CAT3_EF	89289E80	Where have you been?
+CAT3_EG	FE2FAE16	I thought you said you could drive!
+CAT3_FA	3C6158E0	Keep her steady so I can get a good shot!
+CAT3_FB	A568095A	Pull alongside!
+CAT3_FC	D26F39CC	Keep up with them!
+CAT3_FD	4C0BAC6F	Get ahead of them!
+CAT3_FE	3B0C9CF9	Block their route!
+CAT3_FF	A205CD43	Steady... steady...
+CAT3_GA	257A69A1	It ain't worth it!
+CAT3_GB	BC73381B	I'm scared!
+CAT3_GC	CB74088D	This ain't my fight!
+CAT3_GD	55109D2E	We'll get ourselves killed!
+CAT3_GE	2217ADB8	I don't wanna do this!
+CAT3_GF	BB1EFC02	Oh my God, I'm gonna die!
+CAT3_GG	CC19CC94	That rig will crush us!
+CAT3_HA	A2E2756E	Pull up in that depot up ahead!
+CAT3_HB	3BEB24D4	That's the place, up ahead!
+CAT3_HC	4CEC1442	Yeehaa, that's the place, go, Carl, go!
+CAT3_JA	90D417EC	Hello, Mr. Whittaker!
+CAT3_JB	09DD4656	Catalina! What have you brought me today?
+CAT3_JC	7EDA76C0	A rig and tanker, full to the brim with premium gas!
+CAT3_JD	E0BEE363	Never seen it, never saw you, never gave you this wad of cash!
+CAT3_JE	97B9D3F5	Nice not doing business!
+CAT3_JF	0EB0824F	Likewise. Now get out of here, before the cops come snooping.
+CAT3_JG	79B7B2D9	You ever get hold of another rig, just drop it in,
+CAT3_JH	E908AF48	I'll always give a good price!
+CAT3_JJ	0706CE64	You ever want to run some freight for me just drop in.
+CAT3_JK	7001FEF2	I've always got shit to move.
+CAT4@00	E8AB1BCE	Asshole!
+CAT4@01	9FAC2B58	Damn, what'd I do now!?
+CAT4@02	06A57AE2	You all the fucking same, eh.
+CAT4@03	71A24A74	I see it on television. I read it in books. I hear it in music.
+CAT4@04	EFC6DFD7	You all the same. Fuck this, fuck that. Well, fuck you!
+CAT4@05	98C1EF41	Baby, I'm sorry...
+CAT4@06	01C8BEFB	I gave to you, as a woman. No! No more!
+CAT4@07	76CF8E6D	From now on, we just business partners. OK?
+CAT4@08	E67093FC	Eh, if that's how you want it. But I mean you're breakin' my heart...
+CAT4@09	9177A36A	But I mean you're breakin' my heart...
+CAT4@10	F1B02A8F	I'm warning you. I'm in a really bad fucking mood.
+CAT4@11	86B71A19	Today I kill everybody who fucks with me!
+CAT4@12	1FBE4BA3	Especially you! Move!
+CAT4_01	88D6CF15	~s~ Get inside the Inside Track Betting Shop.
+CAT4_13	7FC39F78	~s~Get to the hideout!
+CAT4_14	E1A70ADB	~r~You abandoned Catalina!
+CAT4_15	96A03A4D	~r~Catalina is dead!
+CAT4_16	0FA96BF7	~s~Get back to ~b~Catalina
+CAT4_2	309B92C5	~r~You ran out of Satchel Charges!
+CAT4_27	538308A2	~s~Get to the ~h~Pay 'n' Spray.
+CAT4_3	479CA253	(SOUND OF ALARM GOING OFF)
+CAT4_32	3AF2CD6C	~s~You got a wanted level. Get to the ~w~Pay 'n' Spray to lose it.
+CAT4_37	4A9839E3	~S~Park vehicle inside ~h~Pay 'n' Spray.
+CAT4_38	DA272472	~S~Park car inside ~h~Pay 'n' Spray.
+CAT4_42	75B35BAB	~s~Use Satchel charges to blow the door open.
+CAT4_43	02B46B3D	Tap ~m~~widget_explicit_throw~ to throw the ~h~satchel~w~. Press and hold ~m~~widget_explicit_throw~ for longer to increase the distance of the throw.
+CAT4_44	9CD0FE9E	~s~Get a safe distance away from the planted satchel charge.
+CAT4_45	EBD7CE08	When the ~h~satchel~w~ is attached, select the ~h~detonator~w~ weapon and tap ~m~~widget_explicit_detonator~ to detonate.
+CAT4_46	72DE9FB2	Use ~h~satchel~w~ to open the safe.
+CAT4_AA	EEF7F69E	Shit, I just bought another donut! Don't criminals have any consideration?
+CAT4_AB	77FEA724	We can collect that bribe later. Might as well go and take a look.
+CAT4_AC	00F997B2	We know you're in there!
+CAT4_AD	9E9D0211	The game's up! Come on out!
+CAT4_AE	E99A3287	Come out real peaceable, like!
+CAT4_AF	7093633D	Give up, you're surrounded!
+CAT4_AG	079453AB	Thought you might try the back way!
+CAT4_AH	972B4E3A	We were waiting for yer!
+CAT4_AI	E02C7EAC	Stop your grinning and drop your linen!
+CAT4_AJ	79252F16	You two, FREEZE!
+CAT4_BA	C5DAA55D	Shit, I just bought another donut! Don't criminals have any consideration?
+CAT4_BB	5CD3F4E7	We can collect that bribe later. Might as well go and take a look.
+CAT4_BC	2BD4C471	We know you're in there!
+CAT4_BD	B5B051D2	The game's up! Come on out!
+CAT4_BE	C2B76144	Come out real peaceable, like!
+CAT4_BF	5BBE30FE	Give up, you're surrounded!
+CAT4_BG	2CB90068	Thought you might try the back way!
+CAT4_BH	BC061DF9	We were waiting for yer!
+CAT4_BI	CB012D6F	Stop your grinning and drop your linen!
+CAT4_BJ	52087CD5	You two; FREEZE!
+CAT4_BK	250F4C43	Attention all units - some psychos are robbing the bank at Palomino Creek!
+CAT4_CA	DCC1941C	You're on crowd control so don't take any shit!
+CAT4_CB	45C8C5A6	Yes'm, Miss Catalina, Miss.
+CAT4_CC	32CFF530	And don't try to be funny, you are NOT funny, Carl Johnson!
+CAT4_CD	ACAB6093	Don't even think about doin' anything, motherfucker!
+CAT4_CE	DBAC5005	Hand over every last dollar, NOW, BITCH!
+CAT4_CF	42A501BF	I'm going to empty the safe.
+CAT4_CG	35A23129	Keep these idiots covered!
+CAT4_CH	A51D2CB8	A'ight, you heard the lady, no heroic shit!
+CAT4_DA	938002DB	Don't even think it!
+CAT4_DB	0A895361	What you lookin' at?
+CAT4_DC	7D8E63F7	You got kids?
+CAT4_DD	E3EAF654	Think you a hero?
+CAT4_DE	94EDC6C2	Don't push me!
+CAT4_DF	0DE49778	I had a real bad day!
+CAT4_DG	7AE3A7EE	This ain't cool, fool!
+CAT4_DH	EA5CBA7F	What I tell you?
+CAT4_DI	9D5B8AE9	I ain't asking again!
+CAT4_DJ	0452DB53	You wanna die?
+CAT4_DK	7355EBC5	You pushing me, motherfucker!
+CAT4_DL	ED317E66	I've just about hed enough of your games!
+CAT4_DM	9A364EF0	I'm serious, REAL serious!
+CAT4_EA	8A9B339A	Oh shit!
+CAT4_EB	13926220	Girl, I warned you!
+CAT4_EC	649552B6	Shit! I give you one simple job!
+CAT4_ED	FAF1C715	Idiota!
+CAT4_FA	A1B66059	Horrible pigs will be here any minute!
+CAT4_FB	38BF31E3	Smash the ATMs and get as much cash as possible!
+CAT4_FC	4FB80175	I'll watch outside!
+CAT4_FD	D1DC94D6	Quick, we haven't much time!
+CAT4_GA	B8AD5118	Shit! Local idiotas all over the street!
+CAT4_GB	21A400A2	Better take the back door!
+CAT4_HA	3F354DD7	Carl, behind you!
+CAT4_HB	A63C1C6D	Look out, Carl!
+CAT4_HC	D13B2CFB	Watch your back, Carl!
+CAT4_HD	4F5FB958	To our left!
+CAT4_HE	385889CE	Policia to our right!
+CAT4_HF	A151D874	Cops! Take cover!
+CAT4_HG	D656E8E2	Keep going!
+CAT4_HH	46E9F573	Follow me!
+CAT4_HI	31EEC5E5	Cover me!
+CAT4_HJ	A8E7945F	Go, Carl, I'll cover you!
+CAT4_JA	0D032F55	Grab a bike and follow me!
+CAT4_JB	940A7EEF	You think you can keep up with a real woman?
+CAT4_KA	14181E14	What's keeping you?
+CAT4_KB	8D114FAE	You slow bastard!
+CAT4_KC	FA167F38	Are you afraid of speed, Carl?
+CAT4_KD	6472EA9B	Stop getting lost!
+CAT4_KE	1375DA0D	You're too laid back, you lazy slob!
+CAT4_KF	8A7C8BB7	Pick it up a little, you retarded asshole!
+CAT4_KG	FD7BBB21	More speed, less idiota!
+CAT4_LA	5B5988D3	I feel good today, like a woman reborn!
+CAT4_LB	C250D969	Cool, maybe you won't go berserk, huh?
+CAT4_LC	B557E9FF	Oh, I go berserk, but not until I really pissed!
+CAT4_LD	2B337C5C	Oh, well, that's a relief to hear!
+CAT4_LE	5C344CCA	Perhaps this time no cowboy motherfuckers will get in our way!
+CAT4_LF	C53D1D70	Amen to that!
+CATDEAD	E413842B	~r~Catalina is dead!
+CATLEFT	73512A67	~s~You left ~b~Catalina~s~ behind. Go back and pick her up.
+CATX_AA	9F07BE25	Faster, Carl, faster!
+CATX_AB	060EEF9F	I like my men fast!
+CATX_AC	7109DF09	Hit the gas, you wimp!
+CATX_AD	EF6D4AAA	Floor it, CJ, floor it!
+CATX_AG	76641B10	I've met pigs that can drive faster!
+CATX_AH	E6DB0681	Carl, you are too slow, and very fucking shit.
+CATX_BF	2A4E7845	Get in the fucking car!
+CATX_DE	E51D8E79	Get us back to the hideout!
+CATX_JA	7CF367EE	Carl, you dare leave me behind!
+CATX_JB	E5FA3654	Wait for me, Carl!
+CATX_JC	92FD06C2	Wait for me, you fucking idiota!
+CATX_JD	0C999361	Hey, you leave me and I kill your family!
+CATX_JF	E297F24D	Hey, I do the dumping around here!
+CATX_JG	9590C2DB	You trying to run out on me?
+CATX_JH	052FDF4A	You won't get far without me!
+CATX_NA	189FA2EA	Carl, get us some fucking wheels!
+CATX_RA	FEE8FFB7	Here you go
+CATX_SA	E7F3CEF6	Die, idiota pigs!
+CATX_SB	7EFA9F4C	I'll kill all you police dogs!
+CATX_SC	09FDAFDA	I've killed hundreds of pigs like you!
+CATX_SD	97993A79	Eat it, you fucking perro!
+CATX_SE	E09E0AEF	I hope it hurts!
+CATX_SF	79975B55	I hope it takes you long to die!
+CATX_SG	0E906BC3	I'll take your fucking head off!
+CATX_SH	9E2F7652	I'm gonna fry your balls and eat them!
+CATX_TA	A8B25831	I'm gonna kill all you stupid pigs!
+CATX_TB	31BB098B	You want some too, huh?
+CATX_TC	46BC391D	Take it and party!
+CATX_TE	AFDF9C28	I'm going to kill and kill!
+CATX_TF	36D6CD92	Nobody screws with me, NOBODY!
+CATX_TG	41D1FD04	I'll kill your family too!
+CATX_TH	D16EE095	I'm going to skin you like a perro!
+CATX_TK	4867B12F	Drink my piss!
+CATX_TL	D603248C	You lucky I don't ram it up your ass!
+CATX_TM	A104141A	You laughing at me?
+CATX_TN	380D45A0	I saw you laughing!
+CATX_TO	4F0A7536	Nobody survives Catalina, NOBODY!
+CATX_TP	C20278C3	you messing with the biggest bitch in town, assholes
+CATX_TR	2C0C19EF	what were you saying, huh?
+CATX_TS	5B0B2979	don't you laugh at me!
+CATX_TT	C56FBCDA	disrespecting a woman!
+CATX_UC	5FA7085C	Useless cabron!
+CATX_UD	C1C39DFF	You are a waste of good balls!
+CATX_UE	B6C4AD69	I should cut your balls off!
+CATX_UG	58CACC45	What are you doing, you stupid perro!
+CATX_UH	C875D1D4	I never fuck you again!
+CATX_VA	9A843AB3	Where are we going?
+CATX_VB	038D6B09	Why is it taking so long?
+CATX_VC	748A5B9F	Are you sure this is the way?
+CATX_VD	EAEECE3C	This is not a shortcut!
+CATX_VE	9DE9FEAA	Tell me we are not lost!
+CATX_VF	04E0AF10	Where do you think we are going?
+CATX_VG	73E79F86	You are lost, and stupid!
+CATX_VH	E3588217	I ask you to drive, and you fuck about!
+CATX_VJ	0D56E33B	Carl, what are you doing?
+CATX_VK	7A51D3AD	Come on, Carl.
+CATX_VL	E435460E	Please, Carlito, drive.
+CATX_VM	93327698	Come on, Carl, what you pissing about for?
+CATX_VN	0A3B2722	Carl, please, come on
+CATX_VO	7D3C17B4	Get a fucking move on, Carlito.
+CATX_VP	F0341A41	Please, Carl, come on, hurry the fucking driving
+CATX_VQ	87332AD7	Where the fuck is this?
+LEFTC	4D016CAD	~s~You've left Catalina behind, go and get her!
+LOSE	E39FB613	~r~You lost the robbers.
+LOSE2	4C8A8FE8	~r~Catalina is history.

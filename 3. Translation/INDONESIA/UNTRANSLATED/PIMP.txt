@@ -1,0 +1,124 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+PIMP_1	7E6F8362	~s~You've got ~1~ seconds to get back in the ~b~car~s~ or this pimping session is over!
+PIMP_10	851B5F5B	~s~Head to the ~y~Docks~s~ to find a potential trick for your girl.
+PIMP_11	F21C6FCD	~s~Get to ~y~Los Santos Airport~s~ to find a customer.
+PIMP_12	6B153E77	~s~Go to ~y~Willowfield~s~ now.
+PIMP_13	1C120EE1	~s~Head up to the ~y~Bluffs~s~ region.
+PIMP_14	82769B42	~s~Drive into the ~y~Commerce~s~ district.
+PIMP_15	F571ABD4	~s~Take your girl ~y~Downtown~s~ now.
+PIMP_16	6C78FA6E	~y~Glen Park~s~ is your next destination.
+PIMP_17	1B7FCAF8	~s~Get to ~y~Little Mexico~s~ for another trick.
+PIMP_18	8BC0D769	~s~Make for the church in ~y~Jefferson~s~ now.
+PIMP_19	FCC7E7FF	~y~East Los Santos~s~ next.
+PIMP_2	E766D2D8	~s~There's a ~b~girl~s~ nearby - go pick her up.
+PIMP_20	AE360C98	~s~Drive to ~y~Los Flores~s~ to find another customer.
+PIMP_21	D9313C0E	~s~Drop your girl off at ~y~East Beach~s~ this time.
+PIMP_22	40386DB4	~s~Head for the ~y~Conference Center~s~ at the centre of town.
+PIMP_23	373F5D22	~s~Make for ~y~Verona Beach~s~ this time.
+PIMP_24	A95BC881	~y~Santa Maria Beach~s~ is your next destination.
+PIMP_25	DE5CF817	~s~Drive to the ~y~Marina~s~ to find another customer for your girl.
+PIMP_26	4755A9AD	~s~Head in to the ~y~Market~s~ region now.
+PIMP_27	3052993B	~s~Central ~y~Rodeo~s~ is your next destination.
+PIMP_28	A0ED84AA	~s~Make for the ~y~Rodeo~s~ steps this time.
+PIMP_29	D7EAB43C	~s~Head on up to ~y~Richman~s~ to find another customer for your girl
+PIMP_3	9061E24E	~w~Nice wheels! Keep me safe and you'll get a percentage!
+PIMP_30	B72D3DD9	~s~Good! Go and pick up another ~b~girl~s~.
+PIMP_31	C02A0D4F	~w~Treat me right!
+PIMP_32	59235CF5	~w~There's your share big boy!
+PIMP_33	2E246C63	~w~Here's my man. Stop nearby. I'll call you when I'm ready for my next appointment.
+PIMP_35	C747C956	~w~Help me! This punk is getting rough! He thinks I've given him crabs!
+PIMP_36	5E4E98EC	~s~A ~r~customer~s~ is being too rough with your girl! Get him!
+PIMP_37	2949A87A	~s~Chase down that ~r~punk~s~ quickly
+PIMP_38	B9F6B5EB	~s~Good work! Drive back and pick up your ~b~girl~s~ to continue.
+PIMP_39	CEF1857D	~w~I got a cheapskate who won't pay! I need your persuasive technique!
+PIMP_40	F86CAB1E	0 out of 10 pimps successful!
+PIMP_41	8F6B9B88	1 out of 10 pimps successful!
+PIMP_42	1662CA32	2 out of 10 pimps successful!
+PIMP_43	6165FAA4	3 out of 10 pimps successful!
+PIMP_44	FF016F07	4 out of 10 pimps successful!
+PIMP_45	88065F91	5 out of 10 pimps successful!
+PIMP_46	110F0E2B	6 out of 10 pimps successful!
+PIMP_47	66083EBD	7 out of 10 pimps successful!
+PIMP_48	F6B7232C	8 out of 10 pimps successful!
+PIMP_49	81B013BA	9 out of 10 pimps successful!
+PIMP_50	E1779A5F	Pimping Complete!
+PIMP_51	9670AAC9	~r~Your girl can't service customers in hospital! You're no playa!
+PIMP_52	0F79FB73	~r~Respect your customers! They won't use your girls again if you get tough with them!
+PIMP_53	787ECBE5	~s~Get to the customer's ~y~area~s~ now!
+PIMP_54	E61A5E46	~s~Pick up your ~b~girl~s~ now!
+PIMP_55	911D6ED0	~s~That ~r~customer~s~ is taking advantage of your services. Destroy him!
+PIMP_56	08143F6A	~w~Hey, I'm finished. Come by and pick me up!
+PIMP_57	7F130FFC	~s~Your ~b~girl~s~ has finished with a customer. Go and pick her up.
+PIMP_59	98AB22FB	~r~Pimping session over.
+PIMP_6	E00B16C1	~w~Ok! Here's my customer! Let me out and I'll call you when I'm done!
+PIMP_60	CA5AC99C	~s~Excellent pimping! You've kept your girls safe.
+PIMP_7	970C2657	~w~Here's your cut!
+PIMP_70	D341F8DD	Pimping
+PIMP_71	A446C84B	Payment:
+PIMP_72	3D4F99F1	Trick Cut
+PIMP_73	4A48A967	Multiplier
+PIMP_74	D42C3CC4	Total Cash
+PIMP_75	A32B0C52	X ~1~
+PIMP_80	54D9E412	~s~Drive to ~y~Mulholland~s~ to find another customer.
+PIMP_81	23DED484	~s~Head to the car wash in ~y~Mulholland~s~ next.
+PIMP_82	BAD7853E	~s~Get your girl to ~y~Vinewood~s~ this time.
+PIMP_83	CDD0B5A8	~s~Take your girl near the ~y~Temple~s~ cemetery.
+PIMP_84	53B4200B	~s~Head back to ~y~Idlewood~s~ for another trick for your girl.
+PIMP_85	24B3109D	~s~Drive to ~y~Ganton~s~ this time.
+PIMP_86	BDBA4127	~s~Make for ~y~El Corona~s~ to find another customer.
+PIMP_87	CABD71B1	~s~Head towards ~y~Little Mexico~s~ to find another customer.
+PIMP_90	4DC2D553	TIME
+PIMP_91	3AC5E5C5	~r~You've run out of time! A pimp has to be quick to look after his girls!
+PIMP_92	A3CCB47F	~r~Customers won't wait forever! Deliver your girl quicker next time!
+PIMP200	DC0F3669	~s~Go to ~y~Calton Heights~s~ to find a trick for your girl.
+PIMP201	AB0806FF	~s~Head up to the park in ~y~Juniper Hill~s~ now.
+PIMP202	32015745	~s~Drive to ~y~Juniper Hill~s~ quickly.
+PIMP203	450667D3	~s~Get to ~y~Esplanade North~s~ for another trick.
+PIMP204	DB62F270	~y~Bayside Marina~s~ next.
+PIMP205	AC65C2E6	~s~Drive to ~y~Bayside~s~ to find another customer.
+PIMP206	356C935C	~s~Drop your girl off at ~y~Battery Point~s~ now.
+PIMP207	426BA3CA	~y~Palisades~s~ is your next destination.
+PIMP208	D2D4BE5B	~s~Go to ~y~Chinatown~s~ to find a trick for your girl.
+PIMP209	A5D38ECD	~s~Head ~y~Downtown~s~ now.
+PIMP210	C5140728	~s~Drive to the ~y~Financial District~s~ quickly.
+PIMP211	B21337BE	~s~Get to ~y~Esplanade East~s~ for another trick.
+PIMP212	2B1A6604	~y~Queens~s~ next.
+PIMP213	5C1D5692	~s~Drive to ~y~Hashbury~s~ to find another customer.
+PIMP214	C279C331	~s~Drop your girl off at ~y~Ocean Flats~s~ now.
+PIMP215	B57EF3A7	~y~Avispa Country Club~s~ is your next destination.
+PIMP216	2C77A21D	~s~Drop your girl off at ~y~King's~s~ now.
+PIMP217	5B70928B	~y~Garcia~s~ is your next destination.
+PIMP218	CBCF8F1A	~s~Go to ~y~Doherty~s~ to find a trick for your girl.
+PIMP219	BCC8BF8C	~s~Head to ~y~Easter Basin~s~ now.
+PIMP220	EE3954EB	~s~Drive to ~y~Missionary Hill~s~ quickly.
+PIMP221	993E647D	~s~Get to ~y~Foster Valley~s~ for another trick.
+PIMP222	003735C7	~y~Easter Bay Airport~s~ next.
+PIMP223	77300551	~s~Drive to ~y~Palisades~s~ to find another customer.
+PIMP224	E95490F2	~s~Drop your girl off at ~y~Paradiso~s~ now.
+PIMP225	9E53A064	~y~Santa Flora~s~ is your next destination.
+PIMP226	075AF1DE	~y~City Hall~s~ is your next destination.
+PIMP300	DDCD5C5E	~s~Go to the ~y~Pink Swan~s~ to find a trick for your girl.
+PIMP301	AACA6CC8	~s~Head to the ~y~Four Dragons~s~ now.
+PIMP302	33C33D72	~s~Drive to the ~y~Camel's Toe~s~ quickly.
+PIMP303	44C40DE4	~s~Get to ~y~Come-A-Lot~s~ for another trick.
+PIMP304	DAA09847	~y~Pirates in Men's Pants~s~ next.
+PIMP305	ADA7A8D1	~s~Drive to the ~y~Royal Casino~s~ to find another customer.
+PIMP306	34AEF96B	~s~Drop your girl off at ~y~Caligula's Palace~s~ now.
+PIMP307	43A9C9FD	~y~The High Roller~s~ is your next destination.
+PIMP308	D316D46C	~s~Go to ~y~Pilgrim~s~ to find a trick for your girl.
+PIMP309	A411E4FA	~s~Head to the ~y~Starfish Casino~s~ now.
+PIMP310	C4D66D1F	~s~Drive to the ~y~Strip~s~ quickly.
+PIMP311	B3D15D89	~s~Get to the ~y~Visage~s~ for another trick.
+PIMP312	2AD80C33	~y~Emerald Isle~s~ next.
+PIMP313	5DDF3CA5	~s~Drive to ~y~Roca Escalante~s~ to find another customer.
+PIMP314	C3BBA906	~s~Drop your girl off by the ~y~Old Venturas Strip~s~ now.
+PIMP315	B4BC9990	~y~The Clown's Pocket~s~ is your next destination.
+PIMP316	2DB5C82A	~s~Go to the ~y~Blackfield Chapel~s~ to find a trick for your girl.
+PIMP317	5AB2F8BC	~s~Head to ~y~Greenglass College~s~ now.
+PIMP318	CA0DE52D	~s~Drive to ~y~Las Venturas Airport~s~ quickly.
+PIMP319	BD0AD5BB	~s~Get to the ~y~Last Dime Motel~s~ for another trick.
