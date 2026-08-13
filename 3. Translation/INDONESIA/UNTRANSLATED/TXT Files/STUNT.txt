@@ -1,0 +1,18 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+STUNT_1	6BC13132	~s~You have ~1~ seconds to return to your ~b~vehicle~s~.
+STUNT_2	F2C86088	TIME LEFT
+STUNT_3	85CF501E	~s~+~1~ seconds
+STUNT_4	1BABC5BD	~r~You left your vehicle.
+STUNT_5	6CACF52B	~r~You destroyed your vehicle!
+STUNT_6	F5A5A491	~s~Collect all of the ~r~checkpoints~s~ before the time runs out.
+STUNT_7	82A29407	~r~You ran out of time!
+STUNT_8	121D8996	~s~You have ~1~ second to return to your ~b~vehicle~s~.
+STUNTN0	4F1F22B4	MISSION PASSED!~n~~w~NEW BEST TIME ~1~:0~1~
+STUNTPN	2CE34150	MISSION PASSED!~n~~w~NEW BEST TIME ~1~:~1~
+STUNTPT	D181B82A	MISSION PASSED!~n~~w~TIME ~1~:~1~
+STUNTT0	FF32D86F	MISSION PASSED!~n~~w~TIME ~1~:0~1~

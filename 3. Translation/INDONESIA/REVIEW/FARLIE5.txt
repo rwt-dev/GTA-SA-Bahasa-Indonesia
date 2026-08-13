@@ -1,0 +1,40 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+DRV6_1	3A5A0270	~s~Pergi terus ambil ~b~mobil umpan~s~.
+DRV6_11	01E12B04	~r~Mobil umpannya udah hancur!
+DRV6_15	068CEF1D	~s~Jangan biarin anak-anak motor ngeliat ke dalam mobil yang rusak terlalu lama atau penyamaran lu bakal terbongkar.
+DRV6_16	9F85BEA7	~s~Anak-anak motor bisa ngeliat ke dalam mobil! Jauhin mereka dari pintu.
+DRV6_17	E8828E31	~s~Jangan tinggalkan mobil umpan.
+DRV6_18	783D93A0	Kerusakan
+DRV6_19	0F3AA336	~s~Nyetir keluar menuju ~y~pedesaan.
+DRV6_2	A35353CA	~s~Ikutin ~r~titik pemeriksaan (checkpoint)~s~ ngelewatin pedesaan.
+DRV6_3	D454635C	~s~Bantai motor-motor yang ngejar.
+DRV6_4	4A30F6FF	~s~Kalo pintunya terlalu rusak, anak-anak motor bakal bisa ngeliat ke dalam mobil.
+DRV6_5	3D37C669	Kerusakan pintu :
+DRV6_6	A43E97D3	~s~Mobilnya udah hampir cukup rusak buat bisa keliatan ke dalam!
+DRV6_7	D339A745	~r~Penyamaran lu terbongkar!
+DRV6_8	4386BAD4	~s~Masuk ke dalam ~b~mobil umpan~s~.
+DRV6_9	34818A42	~s~Jangan keluar mobil, penyamaran lu bisa terbongkar.
+FAR5_AA	8B334BFC	Ini mobil umpan bangsat, balik ke Chinatown!
+FAR5_AB	123A1A46	Mobil ini cuma umpan!
+FAR5_AC	653D2AD0	Ini cuma umpan bangsat!
+FAR5_BA	A01E183F	Ayolah bro, makan tuh umpan...
+FAR5_BB	39174985	Nah, keliatannya para bocah tengil ini udah mau mulai bergerak nih.
+FAR5A00	8CADCC9B	Sebuah kehormatan buat gue bisa berbagi tempat tinggal sama lu,
+FAR5A01	FBAAFC0D	tapi kita harus memancing kadal-kadal ini keluar ke bawah terik matahari!
+FAR5A02	62A3ADB7	Kita diikutin sampe ke sini. Da Nang Boys lagi ngawasin apartemen ini.
+FAR5A03	15A49D21	Begitu kita keluar, mereka bakal coba ngelakuin pembunuhan.
+FAR5A04	8BC00882	Woy, masalah sepele gitu doang? Kenapa lu kagak santai aja keluar dari sini,
+FAR5A05	FCC73814	pancing mereka ke tempat sepi terus tembak hancur pantat pesek mereka - kagak maksud menghina ya.
+FAR5A06	65CE69AE	Kagak tersinggung kok.
+FAR5A07	12C95938	Dengerin, selama mereka mikir Pak Farlie (Ran Fa Li) ada di kursi belakang,
+FAR5A08	827644A9	mereka bakal ngikutin gue ke mana aja.
+FAR5A09	F571743F	Ntar abis beberapa saat, lu baru bisa keluar dengan aman - simpel kan.
+FAR5A10	95B6FDDA	Heh-heh. Luar biasa.
+FAR5A11	E2B1CD4C	Keberhasilan lu bakal diganjar imbalan, Tuan Johnson.
+FAR5A12	7BB89CF6	Jelas lah.
+FAR5A13	0CBFAC60	Kita ngerasa lu tuh lucu juga ya.

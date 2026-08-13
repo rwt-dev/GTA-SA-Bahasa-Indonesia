@@ -1,0 +1,122 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	CAA07697	Pencet ~m~~widget_vehicle_turret_right~ untuk memutar helikopter searah jarum jam.
+	53A9272D	Pencet ~m~~widget_vehicle_turret_left~ untuk memutar helikopter berlawanan arah jarum jam.
+	650D5E9D	Pencet ~m~~widget_magnet~ untuk menjatuhkan objek.
+	2A4CC85A	Pencet ~m~~widget_magnet~ untuk mengambil objek.
+	9EB54B55	Pencet terus tahan sudut kanan bawah layar untuk menambah kecepatan rotor helikopter. Ini bakal melesatkannya ke atas.
+Z4_H1	3AA91CC4	Helikopter Goblin milikmu dilengkapi dengan magnet yang bisa mengambil objek.
+Z4_H10	BAEA9F19	Ambil ~b~Bom~w~ dari markasmu lalu jatuhkan ke atas ~r~Tiger milik Berkley~w~ untuk menghancurkan mereka.
+Z4_H11	CDEDAF8F	Objek lain juga bisa dijatuhkan ke atas ~r~Tiger~w~ yang akan menimbulkan kerusakan pada mereka.
+Z4_H12	54E4FE35	Jika ~b~Bandit~w~ hancur, yang baru akan meluncur dari markasmu, berhati-hatilah karena kau hanya punya 3 ~b~Bandit~w~.
+Z4_H13	23E3CEA3	Ketuk ~m~~widget_magnet~ untuk mengambil objek.
+Z4_H14	BD875B00	Ketuk ~m~~widget_magnet~ untuk menjatuhkan objek.
+Z4_H17	248E0ABA	Pencet terus tahan ~m~~widget_accelerate~ untuk menambah kecepatan rotor helikopter. Ini bakal melesatkannya ke atas.
+Z4_H18	B431172B	Gunakan kontrol kemudi untuk memiringkan helikopter ke arah yang ingin kau tuju.
+Z4_H19	C33627BD	Ketuk ~m~~widget_vehicle_turret_left~ untuk memutar helikopter berlawanan arah jarum jam.
+Z4_H20	91C7CCDA	Ketuk ~m~~widget_vehicle_turret_right~ untuk memutar helikopter searah jarum jam.
+Z4_H21	E6C0FC4C	Pencet terus tahan ~m~~widget_brake~ untuk mengurangi kecepatan rotor helikopter yang akan membawanya turun ke tanah.
+Z4_H22	7FC9ADF6	Gunakan kontrol pergerakan kamera untuk melihat sekeliling helikopter.
+Z4_H4	4AC3E84B	~r~Goblin milik Berkley~w~ bakal terus-menerus mencoba menghalangi jalur ~b~Bandit~w~ milikmu.
+Z4_H5	3DC4D8DD	Kau harus menyingkirkan segala halangan sebelum ~b~Bandit~w~ bisa melanjutkan perjalanan.
+Z4_H8	4375A460	Saat ~b~Bandit~w~ sampai di sungai, kau harus mengangkat papan dari markasmu menggunakan ~b~Goblin~w~ lalu meletakkannya di atas sungai.
+Z4_H9	347294F6	Jika ~b~Bandit~w~ menerima kerusakan dari ~r~Tiger milik Berkley~w~, dia bakal mundur sampai aman.
+Z4_M01	D23D5C25	~s~Ini adalah medan perang RC.
+Z4_M02	4B340D9F	~s~Untuk menang, kau harus mengawal RC Bandit sampai ke markas Berkley dengan selamat.
+Z4_M03	3C333D09	~s~Ada beberapa tantangan di sepanjang jalan. Kau harus menggunakan RC Goblin untuk membantu membersihkan jalur bagi Banditmu.
+Z4_M06	4C59C986	Bandit
+Z4_M11	CB266D64	Waktu
+Z4_M12	522F3CDE	~r~Waktumu habis.
+Z4_M13	25280C48	~r~Semua Goblin milikmu hancur.
+Z4_M14	BB4C99EB	~s~Kau punya sisa 2 Goblin.
+Z4_M15	CC4BA97D	~r~Semua Bandit milikmu hancur.
+Z4_M16	5542F8C7	~s~Kau punya sisa 2 Bandit.
+Z4_M18	B2FAD5C0	~s~~b~Bandit~s~ milikmu terhalang oleh sebuah tong. Angkat tong tersebut agar ~b~Bandit~s~ bisa melanjutkan perjalanan.
+Z4_M19	C5FDE556	~s~~b~Bandit~s~ milikmu sedang diserang oleh ~r~tank~s~! Gunakan bom di markasmu untuk menyerang!
+Z4_M20	970C0E31	~s~Ambil papan dari markasmu.
+Z4_M21	E00B3EA7	~s~Jatuhkan papan di penyeberangan sungai.
+Z4_M22	79026F1D	~s~Ini adalah Bandit terakhirmu.
+Z4_M23	0E055F8B	~s~Ini adalah Goblin terakhirmu.
+Z4_M25	E766FABE	~s~Bandit milikmu terhalang oleh ~r~RC TIGER~s~. Hancurkan atau angkat tank tersebut agar Bandit bisa melanjutkan perjalanan.
+Z4_M26	7E6FAB04	~s~Ambil ~g~Bom~s~ dari markas.
+Z4_M27	09689B92	~s~Sekarang jatuhkan bom ke atas ~r~Tiger milik Berkley~s~.
+Z4_M28	99D78603	~s~Ambil ~g~papan~s~ dari markas.
+Z4_M29	EED0B695	~s~Jatuhkan papan di sungai untuk dijadikan jembatan.
+ZER4@00	0E3C7565	Ada apa, Zero?
+ZER4@01	793B45F3	Aku mau menjemput takdir, baik atau buruk.
+ZER4@02	E0321449	Sialan apa yang kau bicarakan sekarang?
+ZER4@03	973524DF	Saat penghakiman telah tiba padaku
+ZER4@04	0951B17C	dan aku harus bertanya pada diriku sendiri apakah aku seekor domba atau kambing.
+ZER4@05	7E5681EA	Carl, maukah kau menjadi saksi (*second*) pendampingku?
+ZER4@06	E75FD050	Ini ada beberapa surat.
+ZER4@07	9058E0C6	Kuhibahkan semuanya padamu kalau aku tidak selamat. Tolonglah.
+ZER4@08	00E7FD57	Barang itu sudah jadi milikku. Ada apa denganmu, bro?
+ZER4@09	77E0CDC1	Kita sedang menyeberangi Sungai Rubicon.
+ZER4@10	17274424	Aku akan bertempur melawan Berkley.
+ZER4@11	602074B2	Pertaruhannya adalah kehormatan dan nyawa kita.
+ZER4@12	F9292508	Lucu ya... aku tidak pernah menyadari sebelumnya
+ZER4@13	8E2E159E	betapa indahnya musim semi tahun ini...
+ZER4@14	104A803D	Aku mungkin tidak akan pernah melihat Roma di musim semi lagi.
+ZER4@15	674DB0AB	Cepatlah dengan omonganmu itu, bro — jadi kau mau melawan Berkley atau tidak?
+ZER4@16	FE44E111	Ini adalah pertarungan sampai titik darah penghabisan! Mendekatlah!
+ZER4@17	8943D187	Seekor kupu-kupu...
+ZER4_AA	08609835	Lihatlah, Tanah Tak Bertuan (*No Man's Land*)!
+ZER4_AB	9169C98F	Bro, kalian menganggap hal ini terlalu serius.
+ZER4_AC	E66EF919	Markas Berkley berada di seberang Tanah Tak Bertuan.
+ZER4_AD	780A6CBA	Aku bakal mengemudikan Bandit, kau terbangkan Goblin dan bantu dengan cara apa pun!
+ZER4_AE	0F0D5C2C	Jika aku berhasil memasukkan Bandit ke dalam markas Berkley, dia harus meninggalkan San Fierro selamanya!
+ZER4_AF	96040D96	MULAI PERTEMPURAN!
+ZER4_BA	234DCBF6	Berkley mencoba menghambat perjalananku dengan berbagai halangan!
+ZER4_BB	BA449A4C	Kutuk kau dan taktik penghalangmu, Berkley!
+ZER4_BC	CD43AADA	Jalanku terhalang! Semuanya akan hancur!
+ZER4_CA	3A56FAB7	Carl, jangan jadi bodoh, gunakan Goblin untuk memindahkan tong itu!
+ZER4_CB	A35FAB0D	Pindahkan tong itu menggunakan magnet Goblin, Carl!
+ZER4_CC	D4589B9B	Gunakan Goblin untuk menyingkirkan halangannya!
+ZER4_DA	75176C70	Carl, singkirkan rintangan itu!
+ZER4_DB	EC1E3DCA	Carl, jalanku terhalang!
+ZER4_DC	9B190D5C	Ada tong terkutuk lagi di tengah jalan!
+ZER4_DD	057D98FF	Pindahkan, Carl, Berkley menghalangiku lagi!
+ZER4_DE	727AA869	Kutuk kau, Berkley! Carl, pindahkan tong itu!
+ZER4_EA	6C0C5D31	Berkley menggunakan tank!
+ZER4_EB	F5050C8B	Carl, ambil bom dan singkirkan tank apa pun yang mengancam perjalanan kita!
+ZER4_FA	47210EF2	Aku diserang, Carl, bom tank-tank Berkley!
+ZER4_FB	DE285F48	Bom tank itu, Carl!
+ZER4_FC	A92F6FDE	Carl, tank-tank Berkley merusak Bandit sampai berkeping-keping!
+ZER4_FD	374BFA7D	Argh! Di mana bala bantuanku, Carl!
+ZER4_FE	404CCAEB	Lindungi Banditnya, Carl, dia sedang diberondong tembakan!
+ZER4_FF	D9459B51	Bom tank-tank itu! Bom mereka, Carl!
+ZER4_GA	5E3A3FB3	Ambil papan dari markas kita dan buat jembatan untuk menyeberangi celah itu!
+ZER4_HA	D9A2237C	Carl, aku butuh jembatan, sekarang!
+ZER4_HB	40AB72C6	Carikan aku papan untuk menyeberangi sungai itu!
+ZER4_HC	37AC4250	Carl, tidak ada jembatan, tidak ada jembatan!
+ZER4_JA	EB9441FE	Berkley menjatuhkan banyak tong di sepanjang jalur!
+ZER4_JB	729D1044	Rintangan lagi! Sialan kau Berkley!
+ZER4_JC	059A20D2	Dia menjatuhkan tong-tong di jalurku!
+ZER4_JD	9BFEB571	Singkirkan jalurku, Berkley!
+ZER4_JE	ECF985E7	Carl, singkirkan tong-tong itu!
+ZER4_JF	75F0D45D	Singkirkan tong-tong itu dari jalurnya, Carl!
+ZER4_KA	F28F70BF	Sial, Carl, bandit ini hampir hancur!
+ZER4_KB	6B862105	Sialan! Bandit ini hampir hancur lebur.
+ZER4_KC	1C811193	Ya ampun, Berkley menembaki bandit ini sampai babak belur!
+ZER4_LA	BDCEE678	Dia menghabisiku, dia menghabisiku.
+ZER4_LB	24C7B7C2	Kau membiarkan Berkley meledakkan Banditku!
+ZER4_LC	53C08754	Carl, sebenarnya kau memihak siapa?
+ZER4_LD	CDA412F7	Sialan kau Berkley! Kutuk kau ke neraka!
+ZER4_MA	A4D5D739	Ha, ha Berkley! Aku masih punya dua bandit!
+ZER4_MB	3DDC8683	Untungnya kita masih punya dua bandit tersisa!
+ZER4_MC	4ADBB615	Carl, kita tinggal punya satu bandit terakhir!
+ZER4_MD	D4BF23B6	Hanya tinggal satu Bandit tersisa, Carl, lindungi dia bagaimanapun caranya!
+ZER4_NA	8FF884FA	Kegagalan... Kuharap kau senang, Carl... Aku pribadi, tidak senang.
+ZER4_NB	16F1D540	Berkley, ini belum berakhir, KAU DENGAR AKU?
+ZER4_NC	61F6E5D6	Selalu saja ada satu prajurit pemalas yang mengecewakan seluruh tim... benar kan, Carl?
+ZER4_OA	96E3B5BB	Ha ha! HA!
+ZER4_OB	0FEAE401	Berkley, kau sungguh seorang pecundang.
+ZER4_OC	78EDD497	Pergilah dari medan perang dengan penuh rasa malu,
+ZER4_OD	E6894134	bereskan bisnis model pesanan pos rongsokanmu itu
+ZER4_OE	918E71A2	dan KELUAR DARI KOTAKU!
+ZER4_OF	08872018	Carl, kau adalah kawan duel sejati yang bisa diharapkan oleh seorang saksi sepertiku.
+ZER4_OG	7F80108E	Tuan, aku hormat kepadamu!

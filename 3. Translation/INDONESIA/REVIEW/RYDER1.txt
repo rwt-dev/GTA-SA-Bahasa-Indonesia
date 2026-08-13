@@ -1,0 +1,146 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	EDC6CDE0	Pencet ~m~~widget_explicit_crouch~ buat jongkok terus menyusup di dalam rumah secara diam-diam.
+	0BA33355	Ketuk dua kali pojok kiri bawah layar buat jongkok terus menyusup di dalam rumah secara diam-diam.
+GUNS1_5	CF3EBE49	Kebisingan
+GUNS1_6	5637EFF3	ZZZZZZzzzzZZ
+GUNS1_7	2130DF65	Hhhhrrummphh
+GUNS111	332D3C79	Gue beneran denger suara lu kali ini, gue mau telepon polisi!
+GUNS122	81093E00	~r~Truknya udah hancur!
+GUNS123	F60E0E96	~s~Lu dikejar-kejar polisi terlalu ketat. Hilangin pancingan polisi.
+GUNS124	686A9B35	~s~Balik dengan selamat ke ~y~gudang persembunyian~s~.
+GUNS125	1F6DABA3	~r~Ryder tewas!
+GUNS128	61DCD71E	~s~Lu ninggalin ~b~truk~s~! Masuk balik ke dalam truk!
+GUNS130	761C6E6D	~s~Parkir truk di deket ~y~rumah~s~ terus ambil senjata-senjatanya sebelum matahari terbit.
+GUNS134	7171AA74	~s~Lu bikin suara terlalu berisik, lu harus jalan merayap secara diam-diam!
+GUNS135	06769AE2	Kek yang tadi gue bilang....
+GUNS143	A054A910	~s~Lu ninggalin ~b~Ryder~s~ di belakang, balik terus jemput dia.
+GUNS146	D03E5D9F	~s~Bawa senjata-senjatanya balik ke truk.
+GUNS147	A7396D09	~s~Pergi terus ambil peti senjata lainnya.
+RYD1_1	675A5B76	~s~Jangan berlari atau lu bakal ketahuan.
+RYD1_2	FE530ACC	Cari ~g~peti~s~, atau masuk ke dalam ~b~truk~s~ terus pergi nurunin muatan yang udah berhasil lu simpan.
+RYD1_30	ADEEDC7C	Jalan mendekat ke arah truk buat menjatuhkan/menaruh barang.
+RYD1_32	43E0BD50	~r~Jumlah senjata yang tersisa kagak cukup buat memenuhi muatan truk!
+RYD1_34	AA831865	~s~Parkir truk di dalam ~y~gudang persembunyian~s~.
+RYD1_35	DD8428F3	~s~Lu nunggu terlalu lama buat pergi ke rumah itu, hari udah kagak malam lagi!
+RYD1_36	448D7949	Udah pagi aja.. tunggu sebentar ada hal yang kagak beres di sini!
+RYD1_37	338A49DF	~r~Lu udah kagak pake topeng ski lagi.
+RYD1_39	D43264D8	Masuk ke dalam ~y~rumah~s~.
+RYD1_40	E2AF4ABB	Cari ~g~peti~s~.
+RYD1_41	95A87A2D	SIANG HARI
+RYD1_42	0CA12B97	~r~Lu terlalu lama ngambil senjata-senjatanya, hari udah kagak malam lagi!
+RYD1_43	7BA61B01	~r~Lu kagak bakal bisa ngambil senjata-senjatanya lagi pas dia udah bangun!
+RYD1_44	E5C28EA2	~s~Lu kagak bakal bisa mencuri peti lainnya lagi, masuk balik ke dalam ~b~truk~s~.
+RYD1_88	40C18D85	Lu bisa ngelakuin aksi pencurian rumah di malam hari pas lagi kagak menjalankan misi.
+RYD1_89	37C6BD13	Lu harus masuk ke dalam van jenis ini buat memulai aksi pencurian rumah.
+RYD1_90	570134F6	Banyak rumah yang bisa dibobol masuk, terus barang-barang milik pemiliknya bisa dicuri.
+RYD1_91	20060460	Muat barang ke atas truk terus bawa balik ke gudang persembunyian.
+RYD1_92	B90F55DA	Lu harus tetep tenang dan tanpa suara setiap saat.
+RYD1_93	B90F55DA	Lu harus tetep tanpa suara sepanjang waktu.
+RYD1_94	506CF0EF	Kalo lu bikin suara terlalu berisik lu bakal membangunkan penghuni rumah.
+RYD1_95	276BC079	Pastiin indikator kebisingan kagak menyentuh batas maksimal.
+RYD1_96	BE6291C3	~r~Lu gagal mencuri peti yang cukup.
+RYD1_97	C965A155	~s~Lu harus mencuri minimal ~1~ peti berisi senjata.
+RYD1_AA	97E586A2	Hari udah malam nih, bro lu basah kuyup banget!
+RYD1_AB	0EECD718	Di mana sih nih orang tua bangsat? Di mana tau persembunyiannya?
+RYD1_AC	79EBE78E	Santai bro. Kita belum nyampe ke sana kok.
+RYD1_AD	E78F722D	Yoi, bener, Carl. Lu mah selalu bener.
+RYD1_AE	908842BB	Itu baru kawan gue. Tuan maha bener.
+RYD1_AF	09811301	Diem lu.
+RYD1_AG	7E862397	Lu kagak bakal bisa menghentikan gue.
+RYD1_AH	EE393E06	Siapa yang kagak bisa?
+RYD1_AJ	00375F2A	Terserah lu dah.
+RYD1_BA	BCC8D561	Ayo kita serbu tuh tempat.
+RYD1_BB	25C184DB	Tahan dulu. Ayo kita merayap masuk diam-diam, ambil senjatanya, terus cabut.
+RYD1_BC	52C6B44D	Yoi, yoi, gue paham - gaya ninja! Sip...
+RYD1_BD	CCA221EE	Keluar lu orang tua bangsat!
+RYD1_BF	22AC40C2	Dia kagak bakal bisa menghentikan gue, lu pecundang (*buster*), Carl!
+RYD1_CA	A5D3E420	Oke, bego, lu masuk ke dalam sana - gue yang bakal mengawasi di luar.
+RYD1_CB	3CDAB59A	CJ! Barang apaan yang mau kita ambil?
+RYD1_CC	4BDD850C	Sshhhhh! Tahan suara lu, bro. Barangnya di sebelah sini. Kasih gue waktu sebentar.
+RYD1_CD	D5B910AF	Gue kira lu tadi mau mengawasi di luar!
+RYD1_CE	A2BE2039	Ide bagus tuh! Gue nunggu di luar aja!
+RYD1_CF	3BB77183	Tuhan, kasih gue kekuatan.
+RYD1_DA	EA9272E7	Orang-orang Asia (*Gooks*)!
+RYD1_DB	739B235D	Enyah dari daerah gue, kalian keparat Viet Cong!
+RYD1_DC	049C13CB	Ini pembalasan buat Kenny!
+RYD1_DD	9AF88668	Ayo kita cabut dari sini!
+RYD1_DE	EDFFB6FE	Kalian para keparat komunis pencuri!
+RYD1_DF	74F6E744	Sialan!
+RYD1_DG	03F1D7D2	Ayo kita cabut dari sini!
+RYD1_DH	934ECA43	Gue duluan!
+RYD1_DJ	7D40AB6F	Si pengecut itu menelpon polisi!
+RYD1_DK	0A479BF9	Bakal gue bantai mereka!
+RYD1_DL	94230E5A	Ayo kita bawa barang-barang ini keluar dari sini!
+RYD1_EA	F38943A6	Lu keparat bego pecandu narkoba (*sherm-head*).
+RYD1_EB	6A80121C	Salah gue apaan? Lu yang ngebangunin tuh orang tua gila bangsat!
+RYD1_EC	1D87228A	Kita kudu menghilangkan pancingan polisi ini, bro!
+RYD1_ED	83E3B729	Ada bengkel cat mobil di Idlewood yang harusnya sanggup menampung van sebesar ini.
+RYD1_FA	D8A41065	Sip lah, sekarang kita udah aman.
+RYD1_FB	41AD41DF	LB punya garasi penyimpanan di daerah Seville Boulevard Families yang bisa kita pake.
+RYD1_FC	36AA7149	Serahin ke gue!
+RYD1_GA	C1BF2124	Seriusan, Ryder bro, lu harus berhenti ngehisap rokok narkoba (*sticks*) itu.
+RYD1_GB	58B6709E	Apaan? Gue bakal berhenti kalo lu berhenti jadi pecundang (*buster*).
+RYD1_GC	2FB14008	Tahan omongan lu di situ, bro.
+RYD1_GD	B1D5D5AB	Pecundang (*Buster*)!
+RYD1_GE	C6D2E53D	Lupain aja deh.
+RYD1_GF	5FDBB487	Lupain lu sendiri, bego!
+RYD1_GG	28DC8411	Suatu hari ntar lu bakal menyesal udah ngebikin gue emosi!
+RYD1_GH	B8639980	Gue denger sesuatu kagak ya tadi?
+RYD1_GJ	566DF8AC	Kedengerannya kek si pecundang lagi ngeluh lagi tuh!
+RYD1_GK	216AC83A	Bro, ini kekanak-kanakan banget asli.
+RYD1_GL	BF0E5D99	Bro, gue kagak sudi ngobrol sama lu lagi, bego.
+RYD1_HA	46273DEB	Lu bikin kacau lagi, CJ gara-gara gaya nyetir gila lu!
+RYD1_HB	DF2E6C51	Sekarang kita harus balik lagi ke Pay'n'Spray!
+RYD1_JA	74115F69	Lu liat kan, kan udah gue bilang! Gampang banget!
+RYD1_JB	ED180ED3	Yoi itu tadi bener-bener gampang banget.
+RYD1_KA	6D0A6E28	Woy, CJ -lu harus tanamin di dalam otak lu kalo hal kek gini tuh urusan sehari-hari, bro.
+RYD1_KB	F4033F92	Dengerin, kagak bakal ada orang bangsat yang mau ngasih sesuatu gratisan ke pencuri mobil gengster kek lu.
+RYD1_KC	83040F04	Jadi lu kudu pergi merebutnya sendiri.
+RYD1_KD	1D609AA7	Semua rumah di negara bagian ini penuh sama barang-barang yang bisa dirampok.
+RYD1_KE	6A67AA31	Barang mereka diansuransikan - mereka kagak bakal kehilangan apa-apa.
+RYD1_KF	F36EFB8B	Bawa aja balik ke sini ntar si LB bakal ngasih harga bagus buat barang itu.
+RYD1_KG	8469CB1D	Oke, dengerin, gue capek, sampai ketemu lagi ntar.
+RYD1_KH	14D6D68C	Sip, bro. Coba pikirin apa yang baru aja gue omongin tadi.
+RYD1_LA	224BF8EF	Ryder! Pecundang (*Buster*)!
+RYD1_LB	BB42A955	Ryder, di mana sih lu bangsat?
+RYD1_LC	CC4599C3	Si sasaran empuk (*Mark ass*) Ryder!
+RYD1_ZA	3ED34D38	Bawa terus ke sini, CJ!
+RYD1_ZB	A7DA1C82	Apa yang gue bilang ke kalian semua? Kita dapet untung gede banget!
+RYD1_ZC	D0DD2C14	Masuk balik ke dalam sana terus kuras habis tuh rumah!
+RYD1_ZD	4EB9B9B7	Masih banyak barang di dalam sana, bro.
+RYD1_ZE	39BE8921	Buru-buruan, CJ!
+RYD1_ZF	A0B7D89B	Kuras semua barang yang bisa lu dapet dari dia!
+RYD1_ZG	D7B0E80D	Ayolah, CJ, kita bisa mengosongkan tempat itu!
+RYD1_ZH	470FF59C	Kita masih punya banyak ruang kosong di dalam van miliknya LB!
+RYD1_ZJ	A90194B0	Bro, kita bakal menguras habis semua barang yang dia punya!
+RYD1_ZK	DE06A426	Lu emang bakat alami pembobol rumah, bro!
+RYD1_ZL	40623185	Ayolah, terusin!
+RYD1_ZM	37650113	Kita bisa pensiun dini gara-gara hasil pencurian ini!
+RYD1_ZN	AE6C50A9	Satu balikan lagi, CJ, kita masih punya waktu!
+RYD1A00	907B01C5	Bangsat, di mana gue naro barang itu ya?
+RYD1A01	E77C3153	Naro apaan, bro?
+RYD1A02	7E7560E9	Bro, cairan ganjanya (*water/sherm*).
+RYD1A03	0972507F	Gue butuh sedikit asupan sebelum pergi ngurusin bisnis.
+RYD1A04	9716C5DC	Ngurusin bisnis apaan, bego?
+RYD1A05	E011F54A	Kawan gue, LB - dia ngasih tau gue soal purnawirawan tentara bangsat yang punya semua senjata yang kita butuhin.
+RYD1A06	7918A4F0	Bukan senjata tua sampah buatan Emmet itu ya!
+RYD1A07	0E1F9466	Gue siap gasken. Ayo jalan.
+RYD1A08	9EA089F7	Yoi, lu mah selalu siap, bro.
+RYD1A09	E9A7B961	Kecuali pas lu lagi kagak ada di sekitaran sini.
+RYD1A10	89603084	Sialan! Bro, lu mau cobain barang ini kagak?
+RYD1A11	FE670012	Kagak bro - gue santai aja. Kita mau ke mana nih?
+RYD1A12	676E51A8	Rumah orang ini mengandalkan pemandangan ke arah East Beach.
+RYD1A13	1069613E	Mendingan lagi, kita harus nunggu sampe malam tiba,
+RYD1A14	8E0DF49D	sergap tuh keparat pas dia lagi tidur di kasur!
+RYD1A15	F90AC40B	Bangsat! Di mana tempatnya..?
+RYD1A16	600395B1	Bro, ngapain lu? Menggali kuburan?
+RYD1A17	1704A527	Ngentot lu.
+RYD1A18	87BBB8B6	Yoi - gue ngerasain racikannya.
+RYD1A19	F0BC8820	Yoi, yoi, nah itu dia, itu dia...
+RYD1A20	A24D6347	Ayolah bro, ngapain lu nungguin lagi? Liat tuh!
+RYD1A21	D54A53D1	Lepasin aja!

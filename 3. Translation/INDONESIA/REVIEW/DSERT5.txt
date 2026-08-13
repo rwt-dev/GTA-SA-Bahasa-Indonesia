@@ -1,0 +1,171 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	BD30F56A	Pencet terus tahan kontrol pergerakan ke kiri buat Miring memutar dan menuju ke ~y~lingkaran (corona)~s~ berikutnya.
+	54EA368B	Kalo lu butuh turun, tahan ~m~~widget_explicit_flight_descend~.
+	C047012F	~s~Tahan kontrol pergerakan ke bawah sama ke kanan buat miring memutar dan menuju ke ~y~lingkaran (corona)~s~ berikutnya.
+	5A88D86D	Begitu lu kena lingkarannya, gerakin tetikus (*mouse*) ke bawah buat menanjak cepet, terus tahan buat ngelakuin *loop-the-loop*.
+	AAF721DD	~s~Begitu lu kena lingkarannya, dorong terus tahan ~m~~widget_ped_move~ ke kiri buat ngelakuin *barrel roll*.
+	B7F9576D	~s~Pencet terus tahan ~m~~widget_ped_move~ ke atas buat njagain moncong pesawat tetep di bawah.
+	B9417DE2	Pencet ~m~~widget_rocket~ buat nembakin roket. Pencet terus tahan ~m~~widget_air_gun~ buat nembakin senapan mesin.
+	5387F292	~s~Pencet terus tahan kontrol pergerakan ke bawah buat miringin helikopter ke atas.
+	CA8EA328	~s~Pencet terus tahan ~m~~widget_ped_move_down~ ke atas buat miringin helikopter ke atas.
+	2EF006D7	~s~Pencet terus tahan kontrol pergerakan ke atas buat njagain moncong pesawat tetep di bawah.
+	CEC53A20	Tahan ~m~~widget_explicit_flight_descend~ buat turun perlahan terus mendarat. Mendarat di ~y~area target ~s~buat dapet poin ekstra.
+	37EC5A52	Puter helikopter 180 derajat lewat gerakin tetikus (*mouse*) ke samping buat belok kiri sama kanan. Pergi ke arah penanda merah.
+	533E9446	~s~Tarik mundur ~m~~widget_ped_move~ sekarang.
+	C38189D7	~s~Dorong kontrol pergerakan ke bawah sekarang.
+	C83A76C7	Pencet terus tahan pojok kiri bawah layar buat searah jarum jam.
+	7F4300E5	Pencet terus tahan ~m~~widget_brake~ buat turun. Pencet sisi kanan layar buat naik.
+	98C62E9B	~s~Dorong terus tahan ~m~~widget_ped_move~ ke kiri sekarang.
+	7C2ADA39	Ketuk ~m~~widget_school_continue~ buat lanjut. Ketuk ~m~~widget_minigame_cancel~ buat keluar.
+	9620A5D0	Lepas sisi kanan layar buat berhenti naik terus ratain posisi.
+	88D558E1	~s~Pas ekor pesawat mulai terangkat, tarik kontrol pergerakan ke bawah buat ngangkat moncong terus lepas landas.
+	8F566896	Pencet terus tahan sisi kanan layar buat akselerasi ke atas.
+	961DA6A9	~s~Tahan kontrol pergerakan ke bawah sama ke kiri buat miring memutar dan menuju ke ~y~lingkaran (corona)~s~ berikutnya.
+	782EC4FC	Pencet terus tahan pojok kanan bawah layar buat njaga ketinggian lu. Jagain pesawat tetep rata terus menuju ke ~y~lingkaran (corona)~s~ pertama.
+	6A50FA60	~s~Ketuk dua kali bagian tengah layar buat ngebuka parasut sekarang.
+	A75347C3	Lepas ~m~~widget_explicit_flight_ascend~ buat berhenti naik terus ratain posisi.
+	66DB39CD	~s~Tarik kontrol pergerakan ke bawah sekarang.
+	A6018BAB	Gerakin tetikus (*mouse*) ke bawah buat njaga ketinggian lu. Jagain pesawat tetep rata terus menuju ke ~y~lingkaran (corona)~s~ pertama.
+	75B7A19B	~s~Dorong ~m~~widget_ped_move~ ke atas buat turun ke ~y~lingkaran (corona)~s~ berikutnya.
+	72F1520B	Pencet ~m~~widget_school_continue~ buat lanjut. Pencet ~m~~widget_minigame_cancel~ buat keluar.
+	A4751AD2	Kalo lu mulai turun terlalu cepet, lepas ~m~~widget_explicit_flight_descend~ terus tahan ~m~~widget_explicit_flight_ascend~ buat memperlambat turunnya.
+	16D11389	Pencet terus tahan ~m~~widget_accelerate~ buat njaga ketinggian lu. Jagain pesawat tetep rata terus menuju ke ~y~lingkaran (corona)~s~ pertama.
+	E1279546	Pencet terus tahan sisi kanan layar buat maju terus menuju ke ~y~lingkaran (corona)~s~.
+	05188B44	Pencet ~m~~widget_school_left~ buat searah jarum jam atau ~m~~widget_school_right~ buat berlawanan arah jarum jam.
+	EBD33438	~s~Dorong kontrol pergerakan ke atas buat turun ke ~y~lingkaran (corona)~s~ berikutnya.
+	E5B6B71A	~s~Begitu lu kena lingkarannya, dorong terus tahan kontrol pergerakan ke kiri buat ngelakuin *barrel roll*.
+	08443073	Kalo lu mulai turun terlalu cepet, lepas ~m~~widget_brake~ terus tahan sisi kanan layar buat memperlambat turunnya.
+	FDE204B4	Pencet terus tahan sisi kanan layar buat akselerasi sepanjang landasan pacu.
+	1B87FA01	Pencet terus tahan ~m~~widget_accelerate~ buat akselerasi sepanjang landasan pacu.
+	FFD26877	~s~Pas ekor pesawat mulai terangkat, tarik mundur ~m~~widget_ped_move~ buat ngangkat moncong terus lepas landas.
+	D95C306E	Pencet terus tahan kontrol pergerakan ke kanan buat miring memutar dan menuju ke ~y~lingkaran (corona)~s~ berikutnya.
+	11DC095B	~s~Tarik mundur ~m~~widget_ped_move~ sekarang.
+	FCAD865B	~s~Begitu lu kena lingkarannya, dorong kontrol pergerakan ke bawah buat menanjak cepet. Tahan buat ngelakuin *loop-the-loop*.
+	F791FB8D	Arahin ke atas terus gerakin tetikus (*mouse*) ke bawah, lalu menanjak naik balik ke ~y~lingkaran (corona)~s~ terakhir.
+	FA067E5B	Arahin ke atas terus pencet dan tahan pojok kanan bawah layar buat menanjak naik balik ke ~y~lingkaran (corona)~s~ terakhir.
+	D0547755	Kalo lu perlu miring, pencet terus tahan kontrol pergerakan, lalu belokin ke kiri atau kanan.
+	01F27C58	Pencet terus tahan pojok kanan bawah layar buat njaga kecepatan maju lu.
+	23ED061D	Pencet terus tahan ~m~~widget_explicit_flight_ascend~ buat akselerasi ke atas.
+	01CF7F21	~s~Dorong terus tahan kontrol pergerakan ke kiri sekarang.
+DES5@00	BC01DC23	Carl...
+DES5@01	CB06ECB5	Taik lah!
+DES5@02	520FBD0F	Lu mau apaan lagi?
+DES5@03	25088D99	Santai. Dengerin dulu. Lu bisa terbangin pesawat kagak?
+DES5@04	BB6C183A	Kagak. Pertanyaan berikutnya.
+DES5@05	CC6B28AC	Lu mau kagak gue ajarin?
+DES5@06	55627916	Kagak. Gue punya prinsip kagak bakal ngelawan gravitasi bareng penipu tukang bohong.
+DES5@07	22654980	Carl. Lu takut terbang ya?
+DES5@08	B2DA5411	Kagak. Gue takutnya sama lu. Lu tuh orang gila bangsat.
+DES5@09	C5DD6487	Lu pernah denger kagak sih omong kosong yang keluar dari mulut lu sendiri?
+DES5@10	A51AED62	Ayolah. Jadilah laki-laki sejati Carl, negara lu lagi butuh lu nih.
+DES5@11	D21DDDF4	Masuk ke dalam pesawat bangsat.
+DES5_1B	0C6B193F	Pas ekor pesawat terangkat, gerakin tetikus (*mouse*) ke bawah buat ngangkat moncong terus lepas landas.
+DES5_1C	7B6C29A9	Gerakin tetikus (*mouse*) ke bawah sekarang.
+DES5_1E	920F8C9C	~s~Tetep menanjak secara stabil dan nambah ketinggian.
+DES5_1F	0B06DD26	~s~Menuju ke ~y~lingkaran (corona)~s~ pertama.
+DES5_1G	7C01EDB0	Gerakin tetikus (*mouse*) ke atas buat turun ke ~y~lingkaran (corona)~s~ berikutnya.
+DES5_1H	ECBEF021	Arahin ke atas terus pencet dan tahan ~m~~widget_accelerate~ buat menanjak naik balik ke ~y~lingkaran (corona)~s~ terakhir.
+DES5_1I	9BB9C0B7	~s~Pencet ~m~~widget_explicit_toggle_landing_gear~ buat ngelipat/masukin roda pendaratan.
+DES5_1J	02B0910D	~s~Pas pesawat menanjak sama turun, pengukur ketinggian di sebelah kanan radar bakal naik dan turun sesuai posisinya.
+DES5_2B	27464AFC	Pencet terus tahan ~m~~widget_brake~ buat memperlambat penurunan lu.
+DES5_2C	50417A6A	~s~Menuju ke ~y~lingkaran (corona)~s~ pertama.
+DES5_2D	CE25EFC9	Arahin moncong pesawat ke atas buat ngurangin laju penurunan.
+DES5_2E	B922DF5F	Gerakin tetikus (*mouse*) ke atas buat njagain moncong pesawat tetep di bawah.
+DES5_2F	202B8EE5	~s~Meluncur di sepanjang landasan pacu terus berhenti di ~y~zona target ~s~buat dapet poin ekstra.
+DES5_2I	B0949374	Tahan ~m~~widget_brake~ buat turunin kecepatan sampe pesawat turun perlahan.
+DES5_3B	3E5D7BBD	~s~Lepas landas terus menanjak stabil sampe lu nyampe ~y~lingkaran (corona)~s~ pertama.
+DES5_3D	D73EDE88	~s~Lu bisa pake kemudi ekor (*rudder*) buat belok lebih cepet pas lagi miring.
+DES5_3E	A039EE1E	Gerakin tetikus (*mouse*) ke bawah sama ke kanan buat miring memutar dan menuju ke ~y~lingkaran (corona)~s~ berikutnya.
+DES5_3F	3930BFA4	Gerakin tetikus (*mouse*) ke bawah sama ke kiri buat miring memutar dan menuju ke ~y~lingkaran (corona)~s~ berikutnya.
+DES5_3G	4E378F32	~s~Miring ke kiri terus terbang ngelewatin ~y~lingkaran (corona)~s~ berikutnya.
+DES5_3H	DE8892A3	~s~Miring ke kanan terus terbang ngelewatin ~y~lingkaran (corona)~s~ berikutnya.
+DES5_3K	4781C319	~s~Tetep miring memutar terus ikutin ~y~lingkaran (corona)~s~.
+DES5_3L	D9E556BA	~s~Cakrawala buatan di radar bakal nampilin sikap/posisi kemiringan pesawat.
+DES5_3M	AEE2662C	~s~Pas pesawat miring sama menanjak/menukik, cakrawala buatan bakal berubah sesuai posisinya.
+DES5_5H	88D23525	~s~Miring ke kiri terus mendarat di landasan pacu.
+DES5_5I	FFD505B3	~s~Miring ke kanan terus mendarat di landasan pacu.
+DES5_5J	66DC5409	~s~Berhenti di ~y~zona target ~s~buat dapet poin ekstra.
+DES5_7A	C338EF03	Pencet terus tahan ~m~~widget_accelerate~ buat akselerasi ke atas.
+DES5_7B	5A31BEB9	~s~Terus tambah ketinggian.
+DES5_7C	2D368E2F	Lepas ~m~~widget_accelerate~ buat berhenti naik terus ratain posisi.
+DES5_7D	B3521B8C	Puter helikopter 180 derajat pake ~m~~widget_vehicle_turret_left~ sama ~m~~widget_vehicle_turret_right~ buat belok kiri dan kanan. Pergi ke arah penanda merah.
+DES5_7F	5D5C7AA0	~s~Pencet terus tahan ~m~~widget_ped_move_down~ buat miringin helikopter ke atas.
+DES5_7G	2A5B4A36	Pencet terus tahan ~m~~widget_accelerate~ buat maju terus menuju ke ~y~lingkaran (corona)~s~.
+DES5_7H	BAE457A7	Kalo lu perlu miring, pencet terus tahan ~m~~widget_ped_move_left~ atau ~m~~widget_ped_move_right~.
+DES5_7I	CDE36731	Kalo lu butuh turun, tahan ~m~~widget_brake~.
+DES5_8A	44A0F3CC	Pencet terus tahan ~m~~widget_accelerate~ buat njaga kecepatan maju lu.
+DES5_8B	DDA9A276	~s~Menuju ke ujung jauh landasan pacu terus jaga ketinggian lu.
+DES5_8C	AAAE92E0	~s~Turunin kecepatan terus melayang (*hover*) di atas ~y~zona target~s~.
+DES5_8D	34CA0743	Tahan ~m~~widget_brake~ buat turun perlahan terus mendarat. Mendarat di ~y~area target ~s~buat dapet poin ekstra.
+DES5_8E	43CD37D5	Kalo lu mulai turun terlalu cepet, lepas ~m~~widget_brake~ terus tahan ~m~~widget_accelerate~ buat memperlambat penurunan lu.
+DES5_8F	DAC4666F	Pencet terus tahan ~m~~widget_brake~ buat turun sama ~m~~widget_accelerate~ buat naik.
+DES5_8G	ADC356F9	Pencet terus tahan ~m~~widget_explicit_flight_descend~ buat turun sama ~m~~widget_explicit_flight_ascend~ buat naik.
+DES5_9A	5DBBC28D	~s~Hancurin tiga ~r~truk ~s~di ujung landasan pacu.
+DES5_9B	C4B29337	Ketuk ~m~~widget_rocket~ buat nembakin roket. Pencet terus tahan ~m~~widget_air_gun~ buat nembakin senapan mesin.
+DES5_9C	B3B5A3A1	Pencet ~m~~widget_explicit_flight_secondary_attack~ buat nembakin roket. Pencet terus tahan ~m~~widget_explicit_flight_primary_attack~ buat nembakin senapan mesin.
+DES5_9D	2DD13602	~s~Sekarang hancurin dua ~r~mobil ~s~yang lagi jalan di sebelah barat daya landasan pacu.
+DES5_9E	5AD60694	~s~Mendarat di landasan pacu.
+DES5_AB	235460C9	~s~Begitu lu kena lingkarannya, pencet terus tahan ~m~~widget_ped_move_down~ buat menanjak cepet, terus tahan buat ngelakuin *loop-the-loop*.
+DES5_AC	5453505F	Gerakin tetikus (*mouse*) ke bawah sekarang.
+DES5_AD	CA37C5FC	~s~Terbang ngelewatin ~y~lingkaran (corona)~s~ terakhir.
+DES5_BB	0879330A	Begitu lu kena lingkarannya, gerakin tetikus (*mouse*) ke kiri buat ngelakuin *barrel roll*.
+DES5_BC	7F7E039C	Gerakin tetikus (*mouse*) ke kiri atau kanan sekarang.
+DES5_BD	E11A963F	~s~Angkat moncong pesawat dikit tepat sebelum mulai *barrel roll* biar pesawat kagak kehilangan ketinggian.
+DES5_CA	886B53F1	Pas lagi terjun bebas (*freefall*), dorong ~m~~widget_ped_move_up~ buat menukik ke depan.
+DES5_CB	1162024B	Pas lagi terjun bebas (*freefall*), pencet terus tahan bagian kiri bawah layar ke atas buat menukik ke depan.
+DES5_CC	666532DD	~s~Pencet ~m~~widget_attack~ buat ngebuka parasut sekarang.
+DES5_CD	F801A77E	~s~Mendarat di ~y~target.~s~~N~Mendarat lebih deket ke titik pusat buat dapet poin ekstra.
+DES5_CE	8F0697E8	Pake kontrol pergerakan buat mengarahkan parasut ke kiri sama kanan.
+DES5_CF	160FC652	Pake kontrol pergerakan buat ngangkat kaki lu ke atas terus maju ke depan.
+DES5_CG	6108F6C4	Pake kontrol pergerakan buat ngangkat kaki lu ke atas terus maju ke depan.
+DES5_CH	F1B7EB55	Pas lu maju ke depan, ini juga bakal memperlambat laju penurunan lu.
+DES5_CI	86B0DBC3	Pake kontrol pergerakan buat memperlambat laju penurunan sama buat muter balik.
+DES5_FA	F51CA7B4	Kontrol Pergerakan Navigasi
+DES5_FB	6C15F60E	~m~~widget_enter_car~ Keluar
+DES5_FD	8576533B	EMAS
+DES5_FE	F27163AD	PERAK
+DES5_FF	6B783217	PERUNGGU
+DES5_FG	1C7F0281	~1~%
+DES5_FH	8CC01F10	Pilih kursus yang mana?
+DES5_FI	FBC72F86	Ketuk ~m~~widget_school_left~ buat searah jarum jam atau ~m~~widget_school_right~ buat berlawanan arah jarum jam.
+DES5_FK	15C94EAA	~<~~>~
+DES5_FN	65A3BA25	Navigasi
+DES5_FO	12A48AB3	Keluar
+DES5_FP	9FAC8746	Mulai
+DES5_FQ	E8ABB7D0	Rekor: ~1~%
+DES5_FR	71A2E66A	Dapet 70% atau lebih tinggi buat lulus
+DES5_FS	06A5D6FC	Tanpa penghargaan
+DES5_H1	3B9AFB06	Lu butuh 70% atau lebih tinggi buat lulus tiap ujian.
+DES5_MA	16E87E7F	Lepas Landas (*Takeoff*)
+DES5_MB	8FE12FC5	Mendaratkan Pesawat
+DES5_MC	F8E61F53	Muterin Landasan
+DES5_MD	66828AF0	Muter terus Mendarat
+DES5_ME	1185BA66	Lepas Landas Helikopter
+DES5_MF	888CEBDC	Mendaratkan Helikopter
+DES5_MG	FF8BDB4A	Hancurin Target
+DES5_MH	6F34C6DB	Aksi *Loop-the-loop*
+DES5_MI	1833F64D	Aksi *Barrel roll*
+DES5_MJ	813AA7F7	Mendarat tepat di Target
+DES5_PS	1A3D632B	MISI SELESAI!~n~~w~SKILL TERBANG +
+DES5_S3	7CA251B0	Waktu
+DES5_S4	E2C6C413	Waktu yang ditempuh:
+DES5_S5	95C1F485	Skor posisi:
+DES5_S6	0CC8A53F	Denda kerusakan:
+DES5_S7	7BCF95A9	Skor keseluruhan:
+DES5_S8	EB708838	Lanjut
+DES5_S9	9C77B8AE	Keluar
+DES5_SA	C2A941A0	sertifikat baru didapet
+DES5_SB	5BA0101A	rekor baru
+DES5_SC	2CA7208C	~1~ detik
+DES5_SD	B2C3B52F	~1~%
+DES5_SE	C5C485B9	Coba Lagi
+DES5_SF	5CCDD403	Skill terbang meningkat.
+DES5_SG	2BCAE495	Lisensi pilot resmi didapet!
+DES5_T1	DDEDA65B	~s~Jalan ke arah TV buat mulai pelajaran.
+DES5_T3	33E3C777	Waktu yang ditempuh: ~1~
+DES5_T4	AD8752D4	Waktu

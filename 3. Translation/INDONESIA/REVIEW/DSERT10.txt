@@ -1,0 +1,53 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+D10A@00	167DA9A2	ZAMAN BARU DIMULAI DI SINI!
+D10A@01	617A9934	Ngomong apaan lu?
+D10A@02	F873C88E	Kagak semua hal fantastis itu bohong, Carl!
+D10A@03	8F74F818	Hari ini, kita bakal tahu SEMUANYA.
+D10A@04	11106DBB	Oh, gue udah kagak sabar nih. Denger-denger pengetahuan tuh bener-bener sakral di belahan dunia sini.
+D10A@05	66175D2D	Bro, gue udah nyoba, tapi gue kagak bisa terbang sama sekali bangsat.
+D10A@06	FF1E0C97	Mending lu aja yang ngelakuin.
+D10A@07	88193C01	Mendarat di atas kereta, bantai para penjaga, masuk ke dalam terus curi barangnya.
+D10A@08	18A62190	Oh, yoi. Barangnya apaan?
+D10A@09	6FA11106	Gue juga belum tahu!
+D10A@10	0F6698E3	Gue dari tadi udah mikir lu tuh orang gila.
+D10A@11	7861A875	Maksud lu apaan, lu belum tahu?
+D10A@12	E168F9CF	Lu bakal mencuri jawabannya!
+D10A@13	966FC959	Dengerin, pake tuh jetpack. Mendarat di atas kereta.
+D10A@14	080B5CFA	Terus curi barang apa aja yang paling kagak mau mereka lepas.
+D10A@15	7F0C6C6C	Ssshh. Dengerin. Mereka dateng tuh.
+D10A@16	E6053DD6	Mending kita cabut. Damai di bumi, bro.
+D10A@17	91020D40	Bangsat. Di mana sih nih orang bego?
+D10A@18	01BD10D1	- Woooah! Tai. Oh! Sialan! Aduh!~n~- Woy, bro, awas!
+D10A@19	76BA2047	Woy, bro, awas!
+D10A@20	244BCB20	Oh. Lu belum tahu!
+D10AL00	1F6750C6	Bro, kenapa sih gue harus nunggu di tengah gurun buat nih orang gila terus-terusan?
+D10AL01	68606050	Carl, ini The Truth.
+D10AL02	F16931EA	Woy bro, lu di mana? Suara lu kek lagi di dalam gua gitu.
+D10AL03	866E017C	Di sekitaran sini. Lu akhir-akhir ini banyak makan ya, Carl?
+D10AL04	180A94DF	Kagak cukup olahraga lu ya?
+D10AL05	6F0DA449	Yaa... kayaknya sih gitu.
+D10AL06	F604F5F3	Dengerin, gue mau lu pake alat canggih yang lu dapet kemarin,
+D10AL07	8103C565	tapi lu harus ngurangin lemak lu dulu, si pantat gendut.
+D10AL08	11BCD8F4	Buruan, kesempatan kita dikit banget buat yang satu ini.
+D10AL09	66BBE862	Bodo amat lah sama lu!
+D10AL10	067C6187	Bro, tulang gue aja yang gede, cuma itu doang...
+D10AL11	717B5111	Sialan. Lu pasti mikir mereka punya gerakan yoga buat masalah kek gini...
+D10B@00	04C8064C	Lu dapet barangnya, bro?
+D10B@01	73CF36DA	Gue dapet sesuatu nih.
+D10B@02	EAC66760	Coba gue liat!
+D10B@03	9DC157F6	Oooh... Semuanya berubah sekarang.
+D10B@04	03A5C255	Barang apaan tuh?
+D10B@05	74A2F2C3	Semuanya. Orang-orang bakal nyebut ini 'tahun nol'.
+D10B@06	EDABA379	Ntar gue kabarin lagi!
+D10B@07	9AAC93EF	Tunggu! Apaan sih... Yaa, sampe ketemu lagi dah.
+DE10_01	0850DCE7	~s~Terbangin jetpack ke ~g~kereta~s~, terus curi barang apa aja yang paling kagak mau mereka lepas.
+DE10_02	91598D5D	~s~Nah itu barang yang bener! Ambil ~g~toples cairan hijau (green goo).
+DE10_03	E65EBDCB	~s~~g~Peti~s~ ini kosong, coba cek yang lain.
+DE10_04	783A2868	~s~Lu udah dapet toples cairan hijau. Bawa barang itu ke ~y~The Truth.
+DE10_05	0F3D18FE	~r~Lu gagal nemuin cairan hijau tepat waktu.
+DE10_06	96344944	~s~Tembak ~g~peti-peti~s~ di atas kereta buat nemuin toples cairan hijau.

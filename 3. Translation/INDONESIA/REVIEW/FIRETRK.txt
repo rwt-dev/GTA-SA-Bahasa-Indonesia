@@ -4,19 +4,19 @@
 
 
 
-	6F09C215	Untuk Menyalakan Sirene Kendaraan Ini Tekan ~m~~widget_horn~.
-F_CANC	54A98DB2	~r~Misi Pemadam dibatalkan!
-F_COMP1	F793F3EF	Misi Pemadam selesai: $~1~
+	6F09C215	Buat menyalakan sirine kendaraan ini pencet ~m~~widget_horn~.
+F_CANC	54A98DB2	~r~Misi Pemadam Kebakaran dibatalkan!
+F_COMP1	F793F3EF	Misi Pemadam Kebakaran selesai: $~1~
 F_EXTIN	FD503423	Kebakaran
-F_FAIL1	3ED2FE2D	~s~Pemadam~n~misi selesai.
-F_FAIL2	A7DBAF97	~r~Kamu sudah terlambat!
-F_FAIL3	D0DC9F01	~r~Ada korban jiwa.
-F_FAIL4	4EB80AA2	~r~Sebuah kendaraan telah hancur.
-F_PASS1	0D99B437	Api dipadamkan!
-F_STAR1	2B472F15	Dilaporkan ada ~s~~b~Kendaraan Terbakar~s~ di area ~a~. Pergi dan padamkan api.
-F_START	169FBAC2	Dilaporkan ada ~s~~b~Kendaraan Terbakar~s~ di area ~a~. Pergi dan padamkan api.
-FIREPRO	815442A5	~s~Fire Truck Mission level 12 complete. You are now completely fireproof!
+F_FAIL1	3ED2FE2D	~s~Misi Pemadam~n~Kebakaran berakhir.
+F_FAIL2	A7DBAF97	~r~Lu terlambat!
+F_FAIL3	D0DC9F01	~r~Ada korban jiwa tewas.
+F_FAIL4	4EB80AA2	~r~Kendaraan hancur.
+F_PASS1	0D99B437	Api berhasil dipadamkan!
+F_STAR1	2B472F15	~s~Laporan ~b~kendaraan terbakar~s~ di area ~a~. Pergi terus padamkan apinya.
+F_START	169FBAC2	~s~Laporan ~b~kendaraan terbakar~s~ di area ~a~. Pergi terus padamkan apinya.
+FIREPRO	815442A5	~s~Misi Mobil Pemadam Kebakaran level 12 selesai. Lu sekarang sepenuhnya kebal terhadap api (fireproof)!
 FIRTIME	57890D20	WAKTU TERSISA
 FLEV	16421C27	LEVEL
-SIREN_1	A0195DC0	Untuk Menyalakan Sirene Kendaraan Ini Tekan ~m~~widget_horn~.
-SPRAY_1	12CB2C31	Tekan dan tahan ~m~~widget_vc_shoot~ untuk menembakkan meriam air dan kontrol gerakan kamera untuk mengarahkan meriam air.
+SIREN_1	A0195DC0	Buat menyalakan sirine kendaraan ini ketuk ~m~~widget_horn~.
+SPRAY_1	12CB2C31	Pencet terus tahan ~m~~widget_vc_shoot~ buat menyemprotkan meriam air sama kontrol gerakan kamera buat mengarahkan meriam air.

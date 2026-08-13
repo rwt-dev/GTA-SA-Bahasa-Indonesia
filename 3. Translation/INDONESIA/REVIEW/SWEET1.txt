@@ -1,0 +1,87 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	7414C1D3	Berdiri di depan tembok terus pencet terus tahan ~m~~widget_sprint~ buat memanjat.
+	A51349B1	Berdiri di depan pagar terus pencet terus tahan ~m~~widget_sprint~ buat memanjat pagar.
+	2F6ACA5F	Berdiri di depan tembok terus ketuk dua kali pojok kanan bawah layar buat memanjat.
+	8BBB0E32	Berdiri di depan pagar terus ketuk dua kali pojok kanan bawah layar buat memanjat pagar.
+HOOD3_A	3F79C880	~s~Nyetir bareng Sweet ke ~y~Idlewood~s~.
+HOOD3_B	A670993A	~s~Nyetir ke ~y~East Los Santos~s~.
+JUMPH1	7CB15C8A	Berdiri di depan pagar terus ketuk dua kali ~m~~widget_sprint~ buat memanjat pagar.
+JUMPH2	E5B80D30	Ketuk dua kali ~m~~widget_sprint~ buat memanjat naik ke atas tembok.
+SWE1_A	FB8F20EB	~s~Masuk ke dalam ~b~mobil Sweet~s~.
+SWE1_AA	36F8C5D6	Woy tunggu sebentar.
+SWE1_AB	AFF1946C	Kira-kira lu bakal nongkrong bareng saudara lu, hah?
+SWE1_AC	D8F6A4FA	Aw, santai aja kawan, ayolah, situasi lagi sulit nih.
+SWE1_AD	46923159	Lu mau nyetir?
+SWE1_AE	319501CF	Yoi, pastilah.
+SWE1_AF	A89C5075	Ini bukan Liberty City, bro, perhatikan jalannya!
+SWE1_AG	DF9B60E3	Pelan-pelan aja ngegasnya, kawan.
+SWE1_AH	4F247D72	Setir mobilnya bukan dipasang buat pameran hiasan doang, bro!
+SWE1_AJ	A12A1C5E	Anak-anak Trays bakal tau kedatangan kita dari jarak jauh!
+SWE1_AK	D62D2CC8	Bro, cara nyetir lu kek orang teler sakau!
+SWE1_AL	4849B96B	Woy, semuanya, liat nih si Pembalap di sini!
+SWE1_AM	3F4E89FD	Mobil kesayangan gue, bro! Cara nyetir lu kek lonte!
+SWE1_AN	A647D847	Woy, gue baru aja ngambil mobil ini dari bengkel cat, bro!
+SWE1_AO	D140E8D1	Lu baru balik lima menit langsung ngancurin mobil gue!
+SWE1_AP	5C48E524	Gue mau ngecat tembok (*tag*) blok ini - ikutin gue di dalam mobil.
+SWE1_AQ	2B4FD5B2	Gue bakal ngecat yang ini, ikutin gue di dalam mobil.
+SWE1_AR	B2468408	Awasi para pengendara motor pas gue lagi ngecat tembok ini.
+SWE1_AS	C541B49E	Ayolah, kita keliling masuk ke wilayah Ballas.
+SWE1_AT	5B25213D	Mari kita cek wilayah kekuasaan Ballas.
+SWE1_AU	2C2211AB	CJ, temani gue mengecek wilayah kekuasaan Ballas.
+SWE1_AV	B52B4011	Lu cat tembok yang di sini, biar gue naik ke atas ngecat blok yang lain.
+SWE1_AW	C22C7087	Cat tembok ini, biar gue yang ngecat blok lainnya.
+SWE1_AX	52936D16	Selama lu ngelakuin ini, gue bakal ngecat blok yang lain.
+SWE1_B	62867151	~s~Balik ke ~y~rumah Sweet~s~.
+SWE1_BA	1DD59615	Sialan apaan nih?
+SWE1_BB	84DCC7AF	Woy, itu coretan tembok (*tag*) kita!
+SWE1_BC	F3DBF739	Lu semacam orang gila gangguan mental ya, bego?
+SWE1_BD	6DBF629A	Tembak mati keparat itu!
+SWE1_BE	1AB8520C	Tangkap keparat itu!
+SWE1_BF	83B103B6	Kejar dia!
+SWE1_BH	64092EB1	CARL, CEPAT, MASUK!
+SWE1_BJ	8A074F9D	CARL, MASUK KE DALAM MOBIL!
+SWE1_BN	8D6A8B84	Rasanya kek naik sepeda ya, kawan?
+SWE1_BO	FA6DBB12	Yoi, semuanya jadi teringat kembali.
+SWE1_BP	7765B6E7	Gimana urusan uang tunai (*feddy*) lu?
+SWE1_BQ	00628671	Gue lagi agak pas-pasan, lu tahu sendiri kan.
+SWE1_BR	996BD7CB	C.R.A.S.H. merampas semua uang yang gue bawa.
+SWE1_BS	EE6CE75D	Udah separah itu? Sialan, tuh polisi-polisi bener-bener sigap banget!
+SWE1_BT	700872FE	Nih, belikan diri lu bir atau sesuatu yang lain.
+SWE1_BU	070F4268	Ntar gue nyusul nemuin lu.
+SWE1_BX	79BE3ED5	C.R.A.S.H. merampas semua uang kertas gue, bro, nyisain uang kembalian kecil doang...
+SWE1_CA	04CEA754	Masih ada dua coretan tembok Balla lagi di blok ini.
+SWE1_CB	9DC7F6EE	Lu pergi ambil catnya, biarkan mesin mobilnya tetep nyala.
+SWE1_D	8BE5D464	Liat coretan temboknya terus pencet terus tahan ~m~~widget_attack~ buat menyemprotnya.
+SWE1_F	65EBB548	Tetap pencet ~m~~widget_attack~ sampai coretan temboknya tertutup cat semprot sepenuhnya.
+SWE1_G	12EC85DE	Menyemprot menutupi coretan geng saingan bakal ngebikin lu dapet rasa hormat (*respect*) dari geng lu sendiri. Ada banyak coretan tersebar di sekitar Los Santos buat ditemukan.
+SWE1_H	8253984F	Ini adalah anggota geng Ballas, berpakaian warna ungu. Mereka adalah musuh bebuyutan lu.
+SWE1_I	F554A8D9	Pencet terus tahan ~m~~widget_attack~ buat menyemprot muka anggota geng itu.
+SWE1_M	F2396CC0	~s~Cari terus semprot menutupi ~g~coretan tembok (tags)~s~.
+SWE1_P	913F0019	~r~Sweet tewas!
+SWE1_Q	E638308F	~r~Lu menghancurkan mobil Sweet!
+SWE1_S	083651A3	~s~Masuk balik ke dalam ~b~mobil Sweet!
+SWE1_X	9FE4882B	~s~Semprot menutupi sisa ~g~coretan tembok~s~ di area ini.
+SWE1_Z	71EAE907	~s~Pergi ke titik peta ~y~(blip)~s~ buat menemukan coretan berikutnya.
+SWE1_Z1	CFCB7F70	Wilayah teritorial geng musuh bisa sangat berbahaya. Terlalu lama nongkrong di sana bakal memancing perhatian mereka.
+SWE1A00	316642B1	Liat siapa yang datang, sang pelari maraton. Apa lu pikir lu udah balik beraksi lagi di wilayah kita?
+SWE1A01	46617227	Udah kubilang kan, bro.
+SWE1A02	DF68239D	Kata-kata lu udah kagak ada artinya lagi di sekitar sini.
+SWE1A03	A86F130B	Ayolah, bro, beri gue kesempatan.
+SWE1A04	360B86A8	Kita harus pergi menguasai wilayah blok kita.
+SWE1A05	410CB63E	Biarin mereka tahu kalau lu udah balik beraksi lagi.
+SWE1A06	D805E784	Saudara Johnson kembali beraksi (*rolling*) lagi.
+SWE1A07	AF02D712	Ambil cat semprot ini terus pergi kuasai wilayahnya.
+SWE1A08	3FBDCA83	Mulai dari wilayah set kita sendiri dulu.
+SWE1A09	48BAFA15	Ntar belakangan, kita bakal menyebar luas buat merebut kembali seluruh wilayah blok kita.
+SWE1A10	287D73F0	Lu emang udah mulai melebar ke mana-mana, si badan gemuk. Sekarang ayo kita beraksi.
+SWE1A11	5F7A4366	- Ayolah, si badan lemak. Ayolah, si badan lemak. Si badan lemak - liat diri lu, liat ke...~n~- Yoi, yoi, awas. Bego... Liat nih, liat nih...
+SWE1A12	C67312DC	Yoi, yoi, awas. Bego... Liat nih, liat nih...
+SWE1A13	B174224A	Ah ha ha ha! Bam!
+SWE1A14	2F10B7E9	Woy, CJ.
+SWE1A15	5817877F	Mari kita liat seberapa jago lu, si daging babi!
+SWE1SPF	F25F8A01	~r~Lu butuh kaleng cat semprot!

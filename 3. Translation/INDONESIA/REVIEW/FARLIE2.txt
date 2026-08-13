@@ -1,0 +1,78 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	FCACC075	Pas lu udah deket sama ~r~paket~w~, pencet ~m~~widget_grab~ buat ngerebut tuh barang.
+	30676048	~s~Pencet ~m~~widget_grab~ buat ngerebut ~r~paketnya.
+DRV3_10	4138EBA0	~s~Bawa balik paket-paketnya ke ~y~Pleasure Domes.
+DRV3_11	363FDB36	~s~Pergi ke ~b~mobil van yang disergap.
+DRV3_2	A5989121	~s~Kejar anak-anak motor terus kumpulin semua ~r~paketnya.
+DRV3_3	D29FA1B7	~s~Ketuk ~m~~widget_grab~ buat ngerebut ~r~paketnya.
+DRV3_4	4CFB3414	~s~Paket berhasil diambil.
+DRV3_5	3BFC0482	~s~Anak-anak motor lagi menuju ke titik kumpul mereka. Ambil ~r~paket-paketnya~s~ sebelum mereka nyampe lokasi.
+DRV3_6	A2F55538	~s~Motor terakhir lagi menuju ke titik kumpul. Ambil ~r~paketnya~s~ sebelum dia nyampe lokasi tujuan!
+DRV3_7	D5F265AE	~r~Lu kagak berhasil ngumpulin paketnya tepat waktu!
+DRV3_8	454D783F	~r~Salah satu paket jatuh tenggelam ke dasar laut...
+DRV3_9	324A48A9	~r~Salah satu paket hancur!
+DRV3_H	15480903	Pas lu udah deket sama ~r~paket~w~, ketuk ~m~~widget_grab~ buat ngerebut tuh barang.
+FAR2_AA	16E47345	Bro, buruan dikit kenapa bangsat!
+FAR2_AB	8FED22FF	Bergerak cepat, bro!
+FAR2_AC	F8EA1269	Kita harus cabut nih sob, ayolah!
+FAR2_AD	668E87CA	Oke, oke!
+FAR2_AE	1189B75C	Yoi, yoi!
+FAR2_AF	8880E6E6	Gue dikit lagi kelar nih!
+FAR2_AG	FF87D670	Ayo cabut dari sini!
+FAR2_AH	6F38CBE1	Ayolah, jalan!
+FAR2_AI	183FFB77	Tinggalin aja, kita harus cabut sekarang!
+FAR2_BA	3DC92086	Woy bro, buruan napa!
+FAR2_BB	A4C0713C	Kita harus buru-buru jalan nih bro!
+FAR2_BC	D3C741AA	Kita kudu cabut, ayolah bro, gerak!
+FAR2_BD	4DA3D409	Oke, oke!
+FAR2_BE	3AA4E49F	Dikit lagi nyampe, bro!
+FAR2_BF	A3ADB525	Woy, gue dikit lagi kelar nih!
+FAR2_BG	D4AA85B3	Oke, ayo cabut dari sini!
+FAR2_BH	44159822	Kita jalan, SEKARANG!
+FAR2_BI	3312A8B4	Tinggalin aja, kita harus cabut!
+FAR2_CA	24D211C7	Bro, buruan bangsat!
+FAR2_CB	BDDB407D	Gerak cepat napa, bro.
+FAR2_CC	CADC70EB	Kita harus cabut, ayolah, gerak!
+FAR2_CD	54B8E548	Oke, oke!
+FAR2_CE	23BFD5DE	Gue dikit lagi kelar nih, bro.
+FAR2_CF	BAB68464	Gue dikit lagi kelar!
+FAR2_CG	CDB1B4F2	Oke, ayo cabut dari sini!
+FAR2_CH	5D0EA963	Kita jalan, sekarang juga!
+FAR2_CI	2A0999F5	Tinggalin aja, kita harus cabut!
+FAR2_ZA	BFD2B8DF	Maksud lu pengiriman barangnya disergap tuh gimana?
+FAR2_ZB	26DBE965	Kita kagak bisa langsung ke sana gitu aja T-Bone, bisa aja itu jebakan DEA!
+FAR2_ZC	51DCD9F3	CJ, seret pantat lu ke sana terus selamatin situasinya.
+FAR2A00	117AF422	Sekarang dengerin gue dulu, oke?
+FAR2A01	667DC4B4	Sekarang penting banget lu dengerin kata-kata gue.
+FAR2A02	FF74950E	Gue bukan orang bego, amigo.
+FAR2A03	8873A598	Lu pikir apaan? Apa, apa, apa yang lu sama Mike pikirin - gue cuma modal muka doang di mata kalian?
+FAR2A04	1617303B	Itu permainan kalian, hah?
+FAR2A05	611000AD	Nah ini nih si otot bego yang tadi gue omongin.
+FAR2A06	F8195117	Carl - T-Bone, dan sebaliknya.
+FAR2A07	8F1E6181	Ada apaan nih?
+FAR2A08	1FA17C10	Ada apa, bro (*ese*).
+FAR2A09	68A64C86	Kagak usah dipikirin, kita udah kenal lama.
+FAR2A10	0861C563	Woy sob (*holmes*), kagak usah sok jadi beban (*pinche liability*) gitu napa.
+FAR2A11	7F66F5F5	Beban? Beban buat apaan?
+FAR2A12	E66FA44F	Kasih tahu dia. Berapa lama lagi?
+FAR2A13	916894D9	Gini ya, kita kan ada ber-3 terus gue dapet 20%.
+FAR2A14	0F0C017A	Matematika model apaan tuh?
+FAR2A15	780B31EC	Itu matematika orang bego, bro!
+FAR2A16	E1026056	Lu sama Mike. Gue rela ngejual jiwa gue buat kalian berdua,
+FAR2A17	960550C0	dan ujung-ujungnya kek gini, hah? Lu mau nilat/ngembat bagian 13% gue?!
+FAR2A18	06BA4D51	Lu udah tahu kesepakatannya. Lu sendiri yang setuju.
+FAR2A19	71BD7DC7	Lagian, bisa aja kita cuma ngasih 5%, terus lu mau..?
+FAR2A20	234C96A0	Terus mau apa apa apa!? Lidah lu tertelan kucing, hah?
+FAR2A21	544BA636	Lu seburuk itu ngomongnya kek lu buruk dalam matematika?
+FAR2A22	CD42F78C	Woy, lu mau ngebawa urusan ini jadi personal, bro (*ese*)?
+FAR2A23	BA45C71A	Halo.... Yoi.... Apaan?
+FAR2A24	242152B9	Bro... Tai lah!
+FAR2A25	5326622F	Gue bilang di mana tempatnya?
+FAR2A26	CA2F3395	Woy bro, gue harus cabut dulu nih.
+FAR2A27	BD280303	Oh kagak bisa gitu dong! Gue yang nyiptain trik kek gitu, sayang.
+FAR2A28	2D971E92	Carl, ikut gue. Kita harus meledakin beberapa kepala orang di sini.

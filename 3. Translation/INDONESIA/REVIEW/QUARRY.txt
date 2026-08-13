@@ -1,0 +1,77 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	916640AB	Lu lagi bertanding ngelawan catatan waktu terbaik lu sendiri. Pencet ~m~~widget_mission_cancel~ buat melewati misi ini.
+QUAR_00	219A82C4	~s~Seorang polisi udah tewas dibunuh. Pake ~b~buldoser~s~ di tambang batu buat menyingkirkan mayatnya sebelum ada polisi lain yang datang menyelidiki.
+QUAR_01	569DB252	~s~Masuk ke dalam ~b~buldoser~s~.
+QUAR_02	CF94E3E8	~s~Dorong ~g~mayat~s~ sama ~g~motor~s~ menuju ke ~y~area pengangkatan~s~ kerek derek (crane).
+QUAR_03	B893D37E	~s~Sekarang ambil ~g~mayatnya~s~.
+QUAR_04	26F746DD	~s~Sekarang ambil ~g~motor polisi~s~.
+QUAR_05	51F0764B	~s~Masuk ke dalam ~y~kerek derek (crane)~s~.
+QUAR_06	C8F927F1	~s~Pake kerek derek buat memuat mayat sama motor ke bagian belakang ~b~truk jungkit (dumper truck)~s~.
+QUAR_07	BFFE1767	~s~Masuk ke dalam ~b~truk jungkit~s~.
+QUAR_08	2F410AF6	~s~Nyetir hati-hati menuju ke ~y~pintu masuk tambang batu~s~.
+QUAR_09	58463A60	~s~Buang mayat sama motor ke dalam ~y~air~s~.
+QUAR_11	4F868313	~s~Pake ~b~buldoser~s~ buat membersihkan jalur jalanan sebelum pengiriman berikutnya dateng.
+QUAR_12	D68FD2A9	~s~Bersihin jalur jalanan pake cara mendorong ~g~batu-batu~s~ melewati tepi ke dalam penanda.
+QUAR_13	A188E23F	~s~~1~ batu berhasil dibersihkan. Sisa ~1~ lagi.
+QUAR_14	3FEC779C	~s~~1~ batu berhasil dibersihkan. Sisa ~1~ lagi.
+QUAR_15	48EB470A	~s~Bom udah dipasang sama organisasi saingan. Pake ~b~buldoser~s~ buat mendorong bom ke penanda area aman.
+QUAR_16	D1E216B0	~s~~g~Bom~s~ pertama ada di belakang kantor lokasi. Dorong bomnya ke ~y~area aman~s~.
+QUAR_17	A6E52626	~s~Ada ~g~bom~s~ di samping kerek derek. Amankan ke ~y~area aman~s~.
+QUAR_18	365A3BB7	~s~~g~Bom~s~ berikutnya ada di alat penggiling batu. Dorong bomnya ke ~y~area aman~s~.
+QUAR_19	415D0B21	~s~~g~Bom~s~ terakhir ada di antara alat penghancur batu. Bergerak keluar dari radius ledakan pas lu udah ngebikin bomnya ~y~aman~s~.
+QUAR_20	13ACE046	~s~Bergerak keluar dari radius ledakan bom.
+QUAR_21	64ABD0D0	~s~Pindahkan ~g~bom~s~ ke alternatif ~y~area aman~s~ lainnya.
+QUAR_22	FDA2816A	~s~Para pemasang bom udah tertangkap. Mayat mereka dimuat di atas ~b~truk jungkit~s~ di ~y~pintu masuk lain~s~ tambang batu. Buang mayat mereka sebelum ada polisi yang datang menyelidiki.
+QUAR_23	8AA5B1FC	~s~Bawa mayat-mayat menuju ke ~y~pintu masuk utama~s~ tambang batu.
+QUAR_24	14C1245F	~s~Ikutin jalur rel menuju ke dasar lantai tambang batu terus bakar mayat-mayatnya di dalam ~y~api~s~.
+QUAR_25	63C614C9	~s~~b~Truk jungkit~s~ dimuat sama bahan peledak dan kudu dikemudikan dengan pelan-pelan. Antarkan bahan peledak ke ~y~lapangan terbang gurun~s~ terus balik lagi ke Tambang Batu.
+QUAR_26	FACF4573	~s~Jatuhkan drum-drumnya. Pasir yang lembut bakal mencegah terjadinya ledakan.
+QUAR_27	8DC875E5	~s~Balik lagi ke ~y~Tambang Batu~s~.
+QUAR_28	1D776874	~s~Sebuah truk jungkit numpahin muatan bahan peledaknya di sepanjang jalur rel kereta. Pake ~b~buldoser~s~ buat membersihkan muatan itu sebelum kereta berikutnya lewat.
+QUAR_29	6A7058E2	~s~~b~Kereta api~s~ mulai mendekat.
+QUAR_30	0AB7D107	~s~Para pencuri udah mencuri peralatan dan lagi kabur naik ~r~truk jungkit~s~. Pake ~b~truk jungkit~s~ ini buat ngancurin truk mereka.
+QUAR_31	7DB0E191	~s~Para ~r~pencuri~s~ makin jauh di depan.
+QUAR_32	E4B9B02B	~s~Para pemasang bom lagi kabur naik ~r~truk jungkit~s~. Pake ~b~truk jungkit~s~ ini buat ngancurin truk mereka sebelum mereka nyampe ke tempat aman.
+QUAR_33	93BE80BD	~s~Para ~r~pemasang bom~s~ makin jauh di depan.
+QUAR_34	0DDA151E	~g~Bom~s~ terakhir ada di antara alat penghancur batu. Pindahkan bomnya ke ~y~area aman~s~.
+QUAR_35	7ADD2588	~s~Masuk balik ke dalam ~b~buldoser~s~.
+QUAR_36	E3D47432	~s~Masuk balik ke dalam ~b~truk jungkit~s~.
+QUAR_37	94D344A4	~s~Balik ke kantor lokasi buat memulai misi berikutnya.
+QUAR_38	046C5935	~s~~b~Truk jungkit~s~ dimuat sama bahan peledak dan kudu dikemudikan dengan pelan-pelan. Antarkan bahan peledak ke ~y~lapangan terbang gurun~s~.
+QUAR_D1	1DCE0EA0	Polisi
+QUAR_D2	84C75F1A	Pengiriman
+QUAR_D3	F3C06F8C	Meledak
+QUAR_D4	6DA4FA2F	Batas Waktu
+QUAR_D5	1AA3CAB9	Kereta Api
+QUAR_D6	83AA9B03	Kerusakan
+QUAR_F0	58FF5CB4	~r~Melewati batas waktu.
+QUAR_F1	2FF86C22	~r~Buldoser hancur.
+QUAR_F2	B6F13D98	~r~Truk jungkit hancur.
+QUAR_F3	C1F60D0E	~r~Lu menjatuhkan muatan lu!
+QUAR_F4	5F9298AD	~r~Polisi udah mendarat.
+QUAR_F5	2895A83B	~r~Truk pengiriman udah mendarat.
+QUAR_F6	B19CF981	~r~Bomnya meledak.
+QUAR_F7	C69BC917	~r~Terlalu deket.
+QUAR_F8	5624D486	~r~Lu menjatuhkan mayat-mayatnya.
+QUAR_F9	2123E410	~r~Drum-drumnya meledak.
+QUAR_FA	7FFD1D1E	~r~Bahan peledak di atas jalur rel.
+QUAR_FB	E6F44CA4	~r~Kereta api hancur.
+QUAR_FC	91F37C32	~r~Terlalu jauh.
+QUAR_FD	0F97E991	~r~Para pemasang bom nyampe ke tempat aman.
+QUAR_H1	B17B41AC	Tekan ~m~~widget_auto_hydraulics~ buat menaikkan dan menurunkan muatan Truk Jungkit.
+QUAR_H2	28721016	Lu lagi bertanding ngelawan catatan waktu terbaik lu sendiri. Ketuk ~m~~widget_mission_cancel~ buat melewati misi ini.
+QUAR_H3	5F752080	Truk jungkit sama buldoser sekarang bakal selalu tersedia di tambang batu.
+QUAR_H4	C111B523	Jangan biarin Truk Jungkit ikut masuk ngikutin motor sama mayat ke dalam air.
+QUAR_P1	3360D9F5	~s~Lu udah menyelesaikan misi tambang batu pertama lu. Balik ke kantor lokasi buat misi lainnya.
+QUAR_P2	AA69884F	Misi Tambang Batu Selesai!
+QUAR_P3	DD6EB8D9	~s~Lu udah menyelesaikan semua misi tambang batu.
+QUAR_P4	430A2D7A	~s~~1~ misi tambang batu berhasil diselesaikan.
+QUAR_P5	340D1DEC	~s~Lu menyamai catatan waktu terbaik lu!
+QUAR_P6	AD044C56	~s~Lu mencetak catatan waktu terbaik baru - ~1~m ~1~s. Misi tambang batu sekarang udah diselesaikan dalam ~1~m ~1~s.
+QUAR_P7	DA037CC0	~s~Misi tambang batu selesai dalam ~1~m ~1~s. Di misi mendatang lu bakal bertanding ngelawan catatan waktu terbaik lu sendiri.
+SKIPPED	1BDC0CE7	DILEWATI!

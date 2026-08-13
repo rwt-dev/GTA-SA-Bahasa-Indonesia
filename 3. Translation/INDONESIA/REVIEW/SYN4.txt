@@ -1,0 +1,81 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+MCES11A	6507C29C	Eh Cesar!
+MCES11B	FC0E9326	Woy, kawan (*dude*), ada apa?
+MCES11C	8B09A3B0	Aku butuh kamu menemuiku di Dermaga 69.
+MCES11D	156D3613	Kita bakal memberantas Sindikat Loco (*Loco Syndicate*).
+MCES11E	626A0685	Oke, kawan (*holmes*). Kamu butuh bala bantuan?
+MCES11F	FB63573F	Nggak usah, bro, udah kuurus semuanya!
+SYN4_02	B3D40DB4	~r~Jizzy~s~ kabur membawa ponselnya, kejar dia!
+SYN4_04	5AB7A881	~s~Menyusup ke dekat ~y~Jizzy~s~ secara diam-diam, kamu harus mendapatkan nomor itu.
+SYN4_05	2DB09817	~r~Jizzy~s~ kabur, kejar dia!
+SYN4_06	B4B9C9AD	~r~Kamu membunuh Jizzy sebelum dia sempat melakukan panggilan telepon.
+SYN4_08	5301E4AA	~r~Kamu mengejutkan Jizzy sebelum dia sempat melakukan panggilan telepon.
+SYN4_11	33C66D4F	Ponsel berhasil diambil!
+SYN4_12	AACF3CF5	~s~Gunakan ~y~kaca atap (skylight)~s~ untuk masuk ke dalam klub!
+SYN4_17	DAA5C87A	~r~Kamu ketahuan.
+SYN4_18	4A1AD5EB	Penjaga sudah membunyikan alarm, berhati-hatilah!
+SYN4_20	6FEC0E1A	~s~Pergi temui Jizzy di ~y~klub Pleasure Domes~s~!
+SYN4_29	1630B6BE	~r~Kamu membiarkan Jizzy kabur membawa ponselnya.
+SYN4_32	98F95E77	~r~Kamu meledakkan ponselnya.
+SYN4_33	EFFE6EE1	~s~Sekarang ambil ~g~ponsel~s~ itu.
+SYN4_99	F5C46F75	~s~Menyusup mendekati ~y~Jizzy~s~, kamu harus mendapatkan nomor itu.
+SYN4_AA	4CFC6585	Woy, kukira kita berteman!
+SYN4_AB	D5F5343F	Kamu menyia-nyiakan kesempatanmu buat jadi kawan sejati (*playa*)!
+SYN4_AC	A2F204A9	Kita bisa membicarakan ini, kawan!
+SYN4_AD	3C96910A	Kamu merusak kendaraanku!
+SYN4_AE	4B91A19C	CJ, saudara, kamu harus memikirkan ulang posisimu!
+SYN4_AF	D298F026	Aku bisa membereskan apa saja buatmu di kota ini, apa saja!
+SYN4_AG	A59FC0B0	CJ, kamu benar-benar bego, BEGO!
+SYN4_AH	3520DD21	Aku nggak bakal melupakan ini, CJ, kamu dengar aku?
+SYN4_AJ	DB2EBC0D	Kamu tahu nggak berapa biaya cat mobil ini?
+SYN4_AK	AC298C9B	Mundur, bego!
+SYN4_AL	324D1938	Aku punya banyak uang — selalu!
+SYN4_BA	67D13646	Sori, bro, ada acara pribadi.
+SYN4_BB	FED867FC	Jizzy tidak ingin diganggu.
+SYN4_BC	89DF576A	Kamu nggak bisa masuk!
+SYN4A00	4B62E2E2	Sial, di mana aku meletakkannya?
+SYN4A01	3C65D274	Di mana letaknya sih? Sialan!
+SYN4A02	A56C83CE	Woy kawan (*holmes*), kamu tidak apa-apa?
+SYN4A03	D26BB358	Ya. Woozie meninggalkan pesan,
+SYN4A04	4C0F26FB	katanya aku harus pergi mengambil ponsel Jizzy setelah dia selesai menelepon.
+SYN4A05	3B08166D	Baru setelah itu aku bisa menyergap pertemuan mereka
+SYN4A06	A20147D7	dan memberantas para pengedar Ballas dari Los Santos itu.
+SYN4A07	D5067741	Woy, kawan, mau aku temani ikut?
+SYN4A08	45B96AD0	Nggak, ini kerjaan buat satu orang saja.
+SYN4A09	32BE5A46	Aku harus bergerak sangat diam-diam,
+SYN4A10	5279D3A3	aku tadi mikir mau mengelas beberapa barang jadi satu,
+SYN4A11	257EE335	dan membuat alat peredam suara (*silencer*) sendiri!
+SYN4A12	BC77B28F	Kamu benar-benar gila, kawan (*holmes*)!
+SYN4A13	CB708219	Kamu harus keluar dari mentalitas anak jalanan kumuh (*ghetto*) ini!
+SYN4A14	551417BA	Terus apa rencana mu?
+SYN4A15	2213272C	Nih, pakai punyaku saja.
+SYN4A16	BB1A7696	Dapat dari mana itu?
+SYN4A17	CC1D4600	Dari tempat yang sama waktu aku beli celana, kawan (*holmes*). Ini Amerika!
+SYN4A18	5CA25B91	Biar kutunjukkan. Lihat ini, kawan (*holmes*).
+SYN4B00	49245CBB	Beri aku ruang. Beri aku ruang, jalang!
+SYN4B01	3E236C2D	Sudah tiba waktunya lagi dalam seminggu ini —
+SYN4B02	A72A3D97	penyedia jasamu akan segera melakukan panggilan spesial itu.
+SYN4B03	D02D0D01	Kalau sampai tebakanku benar bahwa ada salah satu dari kalian yang berbuat curang padaku...
+SYN4B04	4E4998A2	Sebaiknya kau beri setoran lebih besar minggu ini Jiz. Jatah kita menipis, sayang!
+SYN4B05	394EA834	- Diam kau jalang, aku sedang mengurus bisnis!~n~- Beraninya kau membentakku, keparat!
+SYN4B06	A047F98E	Beraninya kau membentakku, keparat!
+SYN4B07	D740C918	Sekarang diamlah, jalang!
+SYN4B08	47FFD489	Woy, Jizzy, aku perlu ngobrol sebentar denganmu.
+SYN4B09	30F8E41F	Kalau begitu bicaralah, kawan. Maksudku, cuma itu yang selalu kita lakukan.
+SYN4B10	503F6DFA	Sepatah kata mutiara di sini, pepatah bijak di sana.
+SYN4B11	27385D6C	Sial, aku ini seperti buku peribahasa berjalan.
+SYN4B12	BE310CD6	Nggak, kau sudah mengacaukannya.
+SYN4B13	C9363C40	T... Tunggu sebentar, bro. Woy, aku kan cuma salah paham, tahu kan?
+SYN4B14	5752A9E3	Aku tidak sempurna — kau tahu, seperti... hei.
+SYN4B15	20559975	Bukan orang yang baik. Bukan orang yang bijak, tahu kan. Bukan orang yang pintar,
+SYN4B16	B95CC8CF	tapi Demi Tuhan, aku sudah berusaha!
+SYN4B17	CE5BF859	Nggak. Kau mengacaukannya saat kau mempercayaiku, kawan (*playa*).
+SYN4B18	5EE4E5C8	Kau ini penjual tubuh wanita, pengedar kokain, seonggok sampah keparat.
+SYN4B19	29E3D55E	Ya ampun! Tunggu apa lagi kalian, hah? Cepat habisi nigger ini, bro!
+SYN4B20	7B123E39	Pantat sialanmu itu...
+SYN4B21	0C150EAF	Ayolah, sayang... Aku... Aku... Tapi... Tapi...

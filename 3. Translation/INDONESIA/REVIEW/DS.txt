@@ -1,0 +1,78 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	CFCE6EEF	Pencet terus tahan bagian kanan bawah layar buat mulai.
+	0FB55465	Pencet terus tahan ~m~~widget_brake~ sama ~m~~widget_accelerate~ terus belokin ke kiri atau kanan.
+	25366FF1	Lakukan *barrel roll* di udara terus mendarat dengan sempurna. Pas lagi di udara, lepas tombol gas terus pencet dan tahan sisi kiri layar ke salah satu arah buat atur kemiringan mobil.
+	3783C01F	Lakukan *barrel roll* di udara terus mendarat dengan sempurna. Pas lagi di udara, lepas tombol gas terus pencet dan tahan ~m~~widget_vehicle_steer_left~ sama ~m~~widget_vehicle_steer_right~ buat atur kemiringan mobil.
+	D8061111	Buat lulus lu harus nemuin nilai PERUNGGU atau lebih tinggi di semua 12 ujian.
+	C2AA6187	Belokin ke kiri atau kanan buat mulai *burnout*.
+	9F04D678	Pencet terus tahan sisi kanan layar sama ~m~~widget_brake~ buat mulai.
+	B2849125	~s~Pake mobil penggerak roda depan buat mundur terus puter balik 180 derajat dengan cepat. Pencet terus tahan di bagian layar yang kosong buat ngeliat ke belakang.
+	CDF2F367	Pencet ~m~~widget_school_left~ buat searah jarum jam. Pencet ~m~~widget_school_right~ buat berlawanan arah jarum jam.
+DS_A	98CF4FFD	Parkir Samping 90°
+DS_C	76C12ED1	Mutar & Jalan
+DS_E	9FA28BE4	Burnout 1 Putaran
+DS_F	06ABDA5E	Ban Pecah & Kontrol
+DS_G	71ACEAC8	Keliling Kota (*City Slicking*)
+DS_I	9614C7CF	Hentakan & Rem Pas
+DS_J	0F1D9675	Lompatan Udara (*Alley Oop*)
+DS_K	781AA6E3	Miring Dua Roda
+DS_L	E67E3340	Taktik P. I. T.
+DS_N	0870526C	Lekukan Kerucut
+DS_O	7F7762FA	Putar Balik 180°
+DS_P	F27F6F0F	Putar Muter 360°
+DS_PASS	3B2FB524	MISI SELESAI!~n~~w~SKILL NYETIR +
+DS1_1	04429821	~s~Buat ngelakuin 90, *slide* mobil ke samping masuk ke tempat parkir dalam waktu lima detik.
+DS1_10	6AB4626A	Skor Keseluruhan
+DS1_21	369E013F	~1~.~1~ detik
+DS1_22	AF975085	~1~.0~1~ detik
+DS1_23	D8906013	Waktu Akhir
+DS1_28	4F42B99B	~s~Pake mobil penggerak roda depan buat mundur terus puter balik 180 derajat dengan cepat. Pencet terus tahan ~m~~widget_look_left~ sama ~m~~widget_look_right~ barengan buat ngeliat ke belakang.
+DS1_29	3845890D	~s~Selesaikan 3 putaran secepat mungkin.~n~Target waktu di bawah 40 detik.
+DS1_30	588200E8	~s~Nyetir sampe ujung lintasan, ban bakal meledak di tengah jalan.~n~Buat kontrol ekstra, lepas tombol gas.
+DS1_31	2F85307E	~s~Nyetir ke seberang kota terus balik lagi tanpa bikin mobil rusak.~n~Target waktu DI BAWAH 120 detik (2 menit).
+DS1_32	B68C61C4	~s~Powerslide di tikungan tajam terus berhenti di area yang ditentukan.
+DS1_33	C18B5152	Lakukan *barrel roll* di udara terus mendarat dengan sempurna. Pas lagi di udara, lepas tombol gas terus pencet dan tahan ~m~~widget_ped_move_left~ sama ~m~~widget_ped_move_right~ buat atur kemiringan mobil.
+DS1_34	5FEFC4F1	~s~Jagain mobil tetep miring pake dua roda sampe ujung lintasan.
+DS1_35	28E8F467	~s~Lakuin Taktik P.I.T. buat memutar mobil musuh pake kerusakan seminimal mungkin.~n~Berhenti sedekat mungkin sama mobil musuh.
+DS1_36	B1E1A5DD	~s~Muka-liku ngelewatin kerucut dengan cepat terus balik ke posisi awal.
+DS1_43	8ECAC795	~s~Jalan ke arah TV buat mulai pelajaran.
+DS1_44	10AE5236	~s~Pake mobil penggerak roda belakang buat bikin *burnout donut*.
+DS1_45	67A962A0	~s~Buat ngelakuin 180, tancap gas sampe kecepatan maksimal, pencet terus tahan ~m~~widget_handbrake~ buat rem tangan muterin kerucut terus balik lagi.
+DS1_46	FEA0331A	REKOR BARU
+DS1_47	89A7038C	SERTIFIKAT BARU DIDAPET
+DS1_5	032F5C38	Arah Posisi Akhir
+DS1_52	E0D6C642	Navigasi
+DS1_53	97D1F6D4	Keluar
+DS1_54	09B56377	Mulai
+DS1_55	7EB253E1	EMAS
+DS1_56	E7BB025B	PERAK
+DS1_57	90BC32CD	PERUNGGU
+DS1_58	00032F5C	Skor Rekor ~1~%
+DS1_59	77041FCA	Pilih lintasan yang mana?
+DS1_6	9A260D82	Posisi Akhir
+DS1_60	25F5F4AD	Ketuk ~m~~widget_school_left~ buat searah jarum jam. Ketuk ~m~~widget_school_right~ buat berlawanan arah jarum jam.
+DS1_62	CBFB9581	~<~~>~
+DS1_65	559F0022	Hasil
+DS1_66	CC965198	Lanjut
+DS1_67	BB91610E	Dapet 70% atau lebih tinggi buat lulus
+DS1_68	2B2E7C9F	TANPA PENGHARGAAN
+DS1_69	5C294C09	~1~%
+DS1_7	ED213D14	Denda Kerusakan
+DS1_70	3CEEC5EC	-~1~%
+DS1_71	4BE9F57A	UJIAN BARU TERBUKA
+DS1_72	D2E0A4C0	Waktu Keseluruhan
+DS1_73	A5E79456	Putaran ~1~ dari 3
+DS1_74	3B8301F5	Putaran Terakhir
+DS1_88	B5AD5111	Pencet terus tahan ~m~~widget_handbrake~ buat mulai.
+DSREVE	584564F2	Pencet terus tahan ~m~~widget_brake~ buat mulai.
+DSTART	74FB7604	Pencet terus tahan ~m~~widget_accelerate~ buat mulai.
+MEC_D1	466284B2	Selamat datang di Sekolah Mengemudi Tingkat Lanjut (*Driving School*).
+MEC_D2	DF6BD508	Buat lulus lu harus dapet nilai PERUNGGU atau lebih tinggi di semua 11 ujian.
+MEC_D3	A86CE59E	Buat ngeliat demonstrasi tiap ujian, silakan pake TV di sebelah sana.
+MEC_D4	3608703D	Lulus satu ujian bakal ngebuka ujian berikutnya di program pelatihan.
+MEC_D5	410F40AB	Lu bisa balik lagi terus ngecek skor atau nyoba ujian baru kapan aja.

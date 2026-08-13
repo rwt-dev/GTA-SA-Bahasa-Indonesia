@@ -1,0 +1,65 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	8CD10C9B	Pencet ~m~~widget_mission_cancel~ untuk meledakkan diri.
+	1C50DDAA	Pencet ~m~~widget_air_gun~ untuk menembakkan Senapan Mesin (*Machine Guns*).
+ZER1_FH	09234664	Bertahan atau mati Carl, cuma itu pilihan yang kita punya.
+ZER2@00	2B572AB9	Woy, Zee, kamu di mana?
+ZER2@01	5C501A2F	Pergi sana, Carl. Aku sibuk banget, sibuk banget di sini. Urusan sangat rahasia. Bukan buat dilihat kamu. Terlalu sensitif...
+ZER2@02	C5594B95	Ayolah, kawan, kamu di mana?
+ZER2@03	B25E7B03	Sudah kubilang pergi sana, Carl. Aku nggak butuh teman hari ini, terima kasih.
+ZER2@04	2C3AEEA0	Man, kolornya kuat banget!
+ZER2@05	5B3DDE36	Ya, pahlawanku. Carl, dia balik lagi dan mempermalukanku!
+ZER2@06	C2348F8C	Aku sepertinya mau beralih jadi pelacur aja sekarang,
+ZER2@07	B533BF1A	di mana aku bakal ditemukan tewas dan hancur.
+ZER2@08	258CA28B	Aku ini pria berumur 28 tahun,
+ZER2@09	528B921D	yang pemilik kosnya baru saja menurunkan aku dari gantungan,
+ZER2@10	324C1BF8	tempat aku tadi menggantung diri pakai celana dalamku,
+ZER2@11	454B2B6E	meratapi ketidakberdayaanku, selama hampir dua jam.
+ZER2@12	DC427AD4	Dengar, kamu harus balas dendam, kawan.
+ZER2@13	AB454A42	Kamu punya senjata apa emangnya?
+ZER2@14	3521DFE1	Ehm... Aku punya prototipe pesawat miniatur.
+ZER2@15	4226EF77	Nah, pakai pesawat itu, kita bakal bikin Berkley malu besar.
+ZER2@17	AC288E5B	Aduh! Ooh, pantatku...
+ZER2@18	3C9793CA	Oke, mantap!
+ZER2@19	4B90A35C	Bro, ini konyol banget.
+ZER2@20	1961483B	Rasanya nusuk banget ke pantatku...
+ZER2_1	592D1582	Pencet terus tahan ~m~~widget_accelerate~ untuk menambah gas. Pencet terus tahan ~m~~widget_brake~ untuk mengurangi gas.
+ZER2_14	225B3BAC	~s~Hancurkan para ~r~kurir~s~ sebelum mereka menyelesaikan pengirimannya.
+ZER2_28	00C02444	BAHAN BAKAR
+ZER2_3	B72374AE	Gunakan kontrol pergerakan untuk mengubah ketinggian pesawat dan berbelok menggunakan kemudi.
+ZER2_30	17009D37	Ketuk ~m~~widget_air_gun~ untuk menembakkan Senapan Mesin (*Machine Guns*).
+ZER2_4	2947E10D	Ketuk ~m~~widget_mission_cancel~ untuk meledakkan diri.
+ZER2_41	2F463B66	~s~Terbang kembali ke ~y~atap rumah Zero~s~.
+ZER2_42	B64F6ADC	~r~Bahan bakarmu habis!
+ZER2_43	C1485A4A	Skor ~1~
+ZER2_44	5F2CCFE9	~s~Hancurkan van pengiriman Berkley sebanyak mungkin.
+ZER2_45	282BFF7F	~s~Hancurkan van pengiriman Berkley sebanyak mungkin dalam batas waktu!
+ZER2_5	5E40D19B	WAKTU
+ZER2_7	B04EB0B7	~s~Sejajarkan RC Baron di belakang ~r~kurir~s~.
+ZER2_8	20F1AD26	~r~Pesawatnya hancur!
+ZER2_AA	2D0BC7E9	Luncurkan Red Baron!
+ZER2_AB	B4029653	Berkley menyuruh anak buah penjilatnya untuk melakukan semua pengirimannya.
+ZER2_AC	C305A6C5	Nah, kita bakal pukul dia di bagian yang paling menyakitkan!
+ZER2_AD	5D613366	Hancurkan bisnis model pesanan pos miliknya sampai tak berdaya!
+ZER2_BA	0626942A	Jangan biarkan dia kabur, hukum dia atas kejahatan perang yang dilakukannya!
+ZER2_BB	9F2FC590	Dia mempersenjatai para letnannya, berhati-hatilah, Carl!
+ZER2_CA	1F3DA56B	Satu tumbang, empat lagi menyusul!
+ZER2_CB	8634F4D1	Itu yang kedua Berkley, DUA!
+ZER2_CC	F133C447	Ha ha, kurir pengirimannya tinggal tiga orang lagi!
+ZER2_CD	6F5751E4	Tinggal dua orang lagi sekarang, Carl — KEJAR MEREKA!
+ZER2_CE	18506172	Tinggal satu lagi dan departemen pesanan pos Berkley bakal tamat!
+ZER2_DA	507C33AC	Perhatikan bahan bakarmu, Carl, tangkinya tinggal separuh!
+ZER2_DB	C9756216	Bahan bakarmu hampir habis, cepatlah!
+ZER2_DC	BE725280	Perhatikan bateraimu, Carl. Dayanya tinggal separuh!
+ZER2_DD	2016C723	Bateraimu hampir habis, cepatlah!
+ZER2_EA	496702ED	Kerja bagus, Carl!
+ZER2_EB	D06E5357	Sekarang bawa dia pulang dalam keadaan utuh, sebelum bahan bakarnya habis!
+ZER2_EC	A76963C1	Sekarang bawa dia pulang dalam keadaan utuh, sebelum baterainya habis!
+ZER2_FA	624A512E	Cium baunya! Kau tahu bau mesin dua-tak itu,
+ZER2_FB	FB430094	Baunya, kau tahu bau ozon itu,
+ZER2_FC	8C443002	baunya seperti... kemenangan!
+ZER2_FD	1220A5A1	baunya seperti... kemenangan!

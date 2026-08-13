@@ -1,0 +1,45 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+STL1@00	BB203859	Jadi cuma gini doang, hah,
+STL1@01	CC2708CF	usaha bisnis baru yang hebat
+STL1@02	552E5975	yang katanya bakal menyelamatkan hidup kita yang kagak ada harganya ini?
+STL1@03	222969E3	Lu mau ikut gabung kagak?
+STL1@04	BC4DFC40	Dengerin, gue kira ini bakal jadi langkah awal kita menuju sukses.
+STL1@05	CB4ACCD6	Gue kira kita mau bikin tempat ini berjalan dengan bener?
+STL1@06	52439D6C	Woy, keliatannya emang kita lagi main kartu,
+STL1@07	2544ADFA	tapi sebenarnya kita lagi menyusun rencana.
+STL1@08	B5FBB06B	Jangan khawatir sayang,
+STL1@09	C2FC80FD	kita udah mau pergi menjemput proyek pertama kita nih!
+STL1@10	A23B0918	Akhirnya, alat ini berfungsi!
+STL1@11	D53C398E	Apaan yang berfungsi?
+STL1@12	4C356834	Oh, cuma keajaiban elektronik sederhana sama kecerdasan tingkat tinggi
+STL1@13	3B3258A2	yang meretas ke dalam teknologi pelumpuh satelit tercanggih
+STL1@14	A556CD01	di dalam mobil target kita! Ahhh, gue...
+STL1@15	D251FD97	Gue kagak paham apa yang baru aja dia omongin, tapi aksinya dimulai!
+STL1@16	4B58AC2D	Liat kartu gue terus menangislah, keparat (*cabron*).
+STL1@17	3C5F9CBB	Oh, taik!
+STL1@18	ACE0812A	Kagak apa-apa, sayang, berhenti menekan gue, percaya sama gue, hal ini bakal jadi mantap banget...
+STL1@19	DBE7B1BC	Gue kagak mau denger omong kosong lu lagi - simpen aja omongan lu.
+STL1@20	89165ADB	Yoi, aksinya dimulai! Tunggu... apaan yang dimulai?
+STL1_01	DB5DEC82	~s~Pergi terus ambil ~r~mobilnya~s~.
+STL1_02	4254BD38	~s~Senggol bagian ~r~belakang mobilnya~s~ buat bikin dia melintir hilang kendali.
+STL1_03	35538DAE	~s~Jangan biarin ~r~jejaknya~s~ dingin.
+STL1_04	AB37180D	Gunakan teknik P.I.T. yang dipelajari di Sekolah Mengemudi buat memelintirkan mobil target dengan kerusakan minimal.
+STL1_05	DC30289B	~s~Curi ~b~mobilnya~s~.
+STL1_06	45397921	~s~Nyetir balik ke ~y~bengkel garasi~s~ di San Fierro.
+STL1_07	323E49B7	~r~Lu ngancurin mobilnya!
+STL1_08	A2815426	~s~Kerja bagus!
+STL1_09	D58664B0	~r~Lu kehilangan jejaknya!
+STL1_10	B541ED55	~s~Tempel terus! ~r~Jejaknya~s~ makin dingin!
+STL1_11	C246DDC3	~s~Masuk balik ke dalam ~b~mobil~s~!
+STL1_12	5B4F8C79	~s~Mobilnya seharusnya ada di deket sini.
+STL1_13	2C48BCEF	~s~Nyetir masukin mobilnya ke dalam ~y~bengkel garasi~s~.
+STL1_AA	BD7CD509	Nih, alat canggih ini diatur buat memantau sinyal telepon seluler.
+STL1_AB	247584B3	Tiap kali dia melakukan panggilan telepon, alat ini bakal ngasih lokasi terbarunya.
+STL1_AC	5372B425	Lu harus tetep di deketnya kalo mau dapet pembaruan posisi.
+STL1_AD	CD162186	Paham?
+STL1_AE	BA111110	Pasti lah. Bantuan yang mantap, Z.

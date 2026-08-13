@@ -1,0 +1,45 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+RM3_1	58A00EC1	~s~Pergi ke area ~y~Pasar (Market)~s~ di kota terus kuasai seluruh ~y~wilayah Los Santos Vagos~s~.
+RM3_2	C1A95F7B	~s~Serang anggota geng Los Santos Vagos terus kuasai wilayahnya.
+RM3_3	B6AE6FED	~s~Geng musuh udah merebut kembali wilayah itu, pergi terus kuasai balik.
+ROT3A00	8F1DBF4A	Ada cerita apaan nih?
+ROT3A01	F81A8FDC	Kagak ada apa-apa.
+ROT3A02	6113DE66	Woy Bear.
+ROT3A03	1614EEF0	Ada apaan, bro!
+ROT3A04	88707B53	Semuanya udah dikunci aman sama tenang di sini.
+ROT3A05	FF774BC5	Gimana kabar daerah Varrio?
+ROT3A06	667E1A7F	Yo, semuanya aman santai di bawah sana.
+ROT3A07	11792AE9	Yo, gue mau TENPENNY. Udah waktunya.
+ROT3A08	81C63778	Bro, tuh keparat sampah bisa aja ada di mana tau.
+ROT3A09	F6C107EE	Liat apa yang udah dia perbuat ke kita semua, bro.
+ROT3A10	96068E0B	Cuma Smoke yang tau di mana keberadaan dia.
+ROT3A11	E101BE9D	Di mana si Smoke?
+ROT3A12	7808EF27	Lu kan udah denger apa kata B Dup.
+ROT3A13	0F0FDFB1	Smoke udah kagak keluyuran di jalanan lagi.
+ROT3A14	916B4A12	Dia diem terus di sarangnya, kagak mau nemuin siapa-siapa.
+ROT3A15	E66C7A84	Tapi dia masih ngedarin barang kan?
+ROT3A16	7F652B3E	Yoi, tapi cuma ke lingkaran kawan-kawan pilihan doang.
+ROT3A17	08621BA8	Yo, bahkan B Dup aja udah diputus hubungan.
+ROT3A18	98DD0639	Tunggu, ada satu orang Rusia.
+ROT3A19	EFDA36AF	Diem terus di tempatnya di seberang kota.
+ROT3A20	BD2BDDC8	Gue mikir dia yang nyuplai barang dari Smoke.
+ROT3A21	CA2CED5E	Sip lah. Gue bakal pergi ngobrol sama nih orang Rusia,
+ROT3A22	5325BCE4	liat apa dia bisa nuntun gue ke si gendut bangsat Smoke itu.
+ROT3B00	8D5B0113	Di mana si Smoke?
+ROT3B01	FA5C3185	Smoke?
+ROT3B02	6355603F	Lu tau aturannya kan, kawan (*comrade*), gue kagak bisa ngasih tau lu dia di mana!
+ROT3B03	145250A9	Yoi, gue tau aturannya;
+ROT3B04	8A36C50A	Gue bakal ngabisin lu ampe lu mulai ngomong atau ampe darah lu berhenti mengalir!
+ROT3B05	FD31F59C	Aduh bro!
+ROT3B06	6438A426	Bangsat, dia ngumpet di dalam blok apartemen tua
+ROT3B07	133F94B0	di arah Los Flores.
+ROT3B08	83808921	Gampang banget ditemuinnya - mereka menguasai seluruh blok itu.
+ROT3B09	F487B9B7	Kagak ada yang bisa keluar masuk tanpa izin dari Smoke!
+ROT3B10	94403052	Astaga ngentot!
+ROT3B11	E34700C4	Gue bakal pastiin Smoke tau lu mau dateng,
+ROT3B12	7A4E517E	lu keparat bego!

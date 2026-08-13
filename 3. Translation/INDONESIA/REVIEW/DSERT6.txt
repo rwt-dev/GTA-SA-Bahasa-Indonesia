@@ -1,0 +1,66 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+DES6@00	AEB473CD	Dapet lagi lu Carl. Lu setengah tidur noh.
+DES6@01	D9B3435B	Gue bisa aja ngebunuh lu pake 9 cara berbeda tadi.
+DES6@02	40BA12E1	Bangun terus minum kopi sana.
+DES6@03	37BD2277	Lu tuh yang harusnya ngurangin minum kopi.
+DES6@04	A9D9B7D4	Kita ada masalah nih.
+DES6@05	DEDE8742	Gue punya beberapa anak buah di lapangan yang butuh beberapa perlengkapan.
+DES6@06	47D7D6F8	Kalo mereka kagak dapet tuh barang, mereka bakal mampus pas petang ntar.
+DES6@07	30D0E66E	Bawain sana ke mereka.
+DES6@08	A06FFBFF	Gue yang ngebawain ke mereka?
+DES6@09	D768CB69	Yoi, kenapa kagak?
+DES6@10	B7AF428C	Ada lima orang yang ngawasin gue setiap saat.
+DES6@11	C0A8721A	Dua di bukit itu. Satu di sebelah sana, terus dua lewat satelit.
+DES6@12	59A123A0	Kalo gue yang pergi, gue sama anak buah gue bakal mampus.
+DES6@13	2EA61336	Gue kagak punya niat mau mati konyol. Gue ini pria pencinta damai, nak.
+DES6@14	B0C28695	Iya deh, keliatan banget.
+DES6@15	C7C5B603	Pake pesawatnya.
+DES6@16	5ECCE7B9	Lu belum terlalu mahir, jadi terbang rendah aja di bawah jangkauan radar. Ada pertanyaan?
+DES6@17	29CBD72F	- Yoi, cuma satu hal...~n~- Langsung to the point aja.
+DES6@18	B974CABE	Langsung to the point aja.
+DES6@19	CE73FA28	Tunggu. Woy. Dengerin! Sekali-kali dengerin gue kek.
+DES6@20	9C82114F	Kenapa orang-orang itu kagak ngincar gue sekalian?
+DES6@21	EB8521D9	Oh, mereka kagak bisa soalnya mereka semua ditugasin cuma buat ngawasin gue.
+DES6@22	728C7063	Satu agen DEA. Satu FBI. Orang Rusia, agen ganda Kuba, sama bos yang bayar gue.
+DES6@23	058B40F5	Saling mengimbangi. Kagak ada yang ngawasin siapa pun yang ngawasin kagak ada siapa-siapa.
+DES6@24	9BEFD556	Lu paham kagak maksud gue? Sana jalan.
+DES6@25	ECE8E5C0	Terserah lu dah, bro.
+DES6_00	B9CE9780	~s~~b~Pesawat~s~ udah dimuat barang sama siap buat jalan.
+DES6_03	20C7C63A	~s~Lu punya waktu ~1~ detik buat masuk balik ke ~b~pesawat~s~.
+DES6_04	BEA35399	~s~Lu punya waktu ~1~ detik buat masuk balik ke ~b~pesawat~s~.
+DES6_06	50AD32B5	~s~Tetep berada di bawah radar sebentar terus mereka bakal kehilangan jejak lu dan menyerah ngejar.
+DES6_07	27AA0223	~s~Melewati batas radar!
+DES6_09	C0122F24	~s~Terbang ke dalam ~y~lingkaran (corona)~s~ buat ngejatuhin barangnya.
+DES6_10	A0D5A6C1	~s~Balik ke ~y~bandara~s~ terus mendarat.
+DES6_11	D7D29657	~s~Hentikan pesawat sampe berhenti total di mana aja di sepanjang ~y~landasan pacu~s~.
+DES6_12	4EDBC7ED	~s~Pantau terus 'indikator visibilitas' lu biar tetep di bawah radar.
+DES6_50	C4B963C5	Tingkat Visibilitas
+DES6_51	B3BE5353	Waktu
+DES6_97	F668B96A	~r~Kehabisan waktu.
+DES6_98	66D7A4FB	~r~Kagak ada di dalam pesawat.
+DES6_99	11D0946D	~r~Pesawat udah hancur.
+DES6_AA	A8E89E9D	Woy Carl.
+DES6_AB	31E1CF27	Lu harus tetep terbang rendah banget pas mendekat atau lu bakal ketauan di radar.
+DES6_AD	D8826A12	Manfaatin celah jurang/ngarai buat tempat berlindung.
+DES6_AE	AF855A84	Lu yakin nih barang aman, gue bisa ngeliat cahaya tembus dari lantainya noh?
+DES6_AF	368C0B3E	Halah, di dalam burung besi itu lu cuma bakal keliatan kek penggemar penerbangan biasa.
+DES6_AG	418B3BA8	Angkatan Udara AS peluangnya lebih kecil buat nembak jatuh lu.
+DES6_AH	D1342639	Sip. Terus masalahnya apa dong?
+DES6_AJ	3F3A4715	Gue kan bilangnya 'peluangnya lebih kecil'.
+DES6_AK	483D7783	Kalo lu ngonsumsi amfetamin sebanyak yang dikonsumsi orang-orang itu, untung-untungan kalo lu kagak nembak apa pun yang bergerak.
+DES6_AM	A15ED2B6	Aduh, tai lah.
+DES6_AN	3857830C	Woy, tetep terbang rendah aja ntar lu aman-aman aja kok.
+DES6_BA	83C5CD5E	Lu terbang terlalu tinggi!
+DES6_BB	1ACC9CE4	Turun ke bawah batas radar!
+DES6_BC	6DCBAC72	Tetep terbang rendah, Carl!
+DES6_BD	F3AF39D1	Manfaatin lekukan bumi Carl, mumpet dekat tanah!
+DES6_CA	9ADEFC1F	Sialan, posisi lu udah ketauan!
+DES6_CB	03D7ADA5	Artinya apaan tuh?
+DES6_CC	74D09D33	Artinya mereka bakal ngirim sesuatu ke area situ buat meriksa lu!
+DES6_CD	EAB40890	Awasin arah jam enam (belakang) lu!
+DES6_DA	D59F6AD8	Kerja bagus Carl, serius, lu keren banget nak.

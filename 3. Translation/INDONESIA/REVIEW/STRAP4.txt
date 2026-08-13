@@ -1,0 +1,88 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+LOC4_AA	F075AC95	Oke, ambil beberapa mobil, blokir jalanannya.
+LOC4_AB	697CFD2F	Sisa dari kalian bersiaplah bertempur.
+LOC4_AC	1E7BCDB9	Pilih posisi kalian masing-masing, Carl cari tempat berlindung!
+LOC4_AD	801F581A	Tenang, mereka sudah datang!
+LOC4_AE	F718688C	Bantai para keparat itu!
+LOC4_AF	6E113936	Woy woy, lihat ke atas, lebih banyak dari mereka di atas jembatan!
+LOC4_AG	191609A0	Carl! Lindungi area gang sempit!
+LOC4_AH	89A91431	Di belakang kita, CJ, di belakang kita!
+LOC4_BA	DB58FF56	GROVE ADALAH RAJA!!
+LOC4_BB	4251AEEC	Bro, aku belum pernah melihat geng Ballas menyerbu sebanyak ini sebelumnya.
+LOC4_BC	35569E7A	Yoi, mereka dengar Carl Johnson bergabung kembali dengan saudaranya!
+LOC4_BD	AB320BD9	Yoi, pastilah.
+LOC4_BE	DC353B4F	Ayolah, kita kembali ke pesta.
+LOC4_BF	453C6AF5	Grove adalah raja! Grove adalah raja! Kalau kamu bukan bagian dari Grove maka kamu bukan apa-apa!
+LOC4_BG	323B5A63	Sialan bro, begitu Loc turun dari mikrofon, pestanya langsung meriah.
+LOC4_CA	C243CE17	Sial, aku akan pergi mengumpulkan beberapa kawan!
+LOC4_CB	5B4A9FAD	Sialan, bro - aku akan pergi mengambil bala bantuan lagi!
+LOC4_CC	2C4DAF3B	Aku akan pergi menjemput Smoke dan anak-anak Grove!
+STP4_01	49936633	~s~Cari tempat berlindung dan tunggu para musuh.
+STP4_02	D09A3789	~s~Pertahankan wilayahmu dari para ~r~penyerang~s~.
+STP4_03	A79D071F	~s~Ada para ~r~musuh~s~ di atas jembatan.
+STP4_04	39F992BC	~s~Bantu Sweet bertahan menghadapi sisa ~r~musuh~s~ terakhir.
+STP4_05	4EFEA22A	~r~Sweet telah tewas!
+STP4_06	D7F7F390	~r~Terlalu banyak anggota gengmu yang tewas.
+STP4_07	A0F0C306	~S~Kenakan pakaian baru dan potong rambut, lalu mampirlah ke pesta rumah OG Loc antara pukul 8 malam dan 6 pagi.
+STR4A00	52EC8BBF	Woy, persetan denganmu, bro!
+STR4A01	25EBBB29	Dan aku tidak peduli apa yang kamu dengar,
+STR4A02	BCE2EA93	Aku bukan Teknisi Pantat siapa pun, sialan!
+STR4A03	CBE5DA05	Woy, woy, ada apa, Loc?
+STR4A04	55814FA6	'Teknisi' itu tidak keren secara gangster, itu masalahnya!
+STR4A05	22867F30	Aku mendengarnya!
+STR4A06	BB8F2E8A	Dengar, Carl
+STR4A07	CC881E1C	Jika aku harus kembali ke sel penjara, aku ingin berpesta besar terlebih dahulu.
+STR4A08	5C37038D	Ini mungkin kesempatan terakhirku untuk didengar orang.
+STR4A09	2B30331B	Oke, jadi apa rencananya?
+STR4A10	4BF7BAFE	Yah, aku akan menyelinap kembali ke Grove Street
+STR4A11	3CF08A68	dan mengambil perangkat audio *sound system* yang fantastis itu.
+STR4A12	A5F9DBD2	Baiklah, jadi apa yang ingin kamu suruh aku lakukan?
+STR4A13	D2FEEB44	Aku ingin kamu bersiap-siap untuk pestanya! Lalu cari beberapa wanita, bro!
+STR4A14	4C9A7EE7	Cari wanita-wanita seksi yang keren, kau tahu maksudku?
+STR4A15	3B9D4E71	Sudah kubilang, bro, akulah pencatat perjuangan kita,
+STR4A16	A2941FCB	suara bagi Families, seperti Nabi Musa,
+STR4A17	D5932F5D	tapi tetap menjalaninya secara nyata. Kau tahu maksudku?
+STR4A18	452C32CC	Yoi... Uh-huh... Itu baru yang kumaksud!
+STR4A19	322B025A	Yang pakai bikini dan semacamnya, di dalam video klip?
+STR4A20	60DAE93D	Baiklah...
+STR4A21	17DDD9AB	Kau benar!
+STR4B00	50AA35E6	Yoi, yoi, yoi... Inilah aku, OG Loc, yang menguasai acara, kawan...
+STR4B01	27AD0570	Dan aku akan... mempersembahkannya untuk seluruh nigger gangster sejati...
+STR4B02	BEA454CA	Semua kawan di belakang, bro, menjauhlah dari musik sampah ini.
+STR4B03	C9A3645C	Semua cewek gangsterku... Berbicara tentang gangster,
+STR4B04	57C7F1FF	lihat kawan baikku si CJ di sana - ada apa, kawan? Ada apa UUUUUUUUPPPP...
+STR4B05	20C0C169	Yoi, yoi, biarkan aku mendengarmu meneriakkan O... G...
+STR4B06	B9C990D3	Woy, ada apa kawan, Dan ini Loc kawan, Ini keren, Ini Loc, Tanpa canda, Tanpa canda...
+STR4B07	CECEA045	Akulah penguasa tempat ini, Kuhantam mukamu, Ada pistol di pinggangku...
+STR4B08	5E71BDD4	Ini Loc, kawan! Yo ini Loc Loc - ini Loc Loc...
+STR4B09	29768D42	Biarkan aku mendengarmu meneriakkan LOC!
+STR4B10	49B104A7	Berteriaklah!
+STR4B11	3EB63431	Sialan, bro, lirik lagunya benar-benar mengerikan!
+STR4B12	A7BF658B	Anak itu butuh banyak latihan, bro.
+STR4B13	D0B8551D	Ada apa, kawan-kawan.
+STR4B14	4EDCC0BE	Woy, ada apa denganmu, kawan!
+STR4B15	39DBF028	Jadi kau kembali ke blok ini, hah?
+STR4B16	A0D2A192	Tentu saja, sialan!
+STR4B17	D7D59104	- Kau pembunuh sungguhan, hah?~n~- Apa yang telah dia perbuat yang belum kulakukan - hah?
+STR4B18	476A8C95	Apa yang telah dia perbuat yang belum kulakukan - hah?
+STR4B19	306DBC03	- Apa yang kau bicarakan, kawan?~n~- Yoi, santai saja, bro!
+STR4B20	629C5764	Woy, sepasukan geng Ballas akan segera datang menyerbu!
+STR4B21	159B67F2	Mereka menuju ke sini sekarang juga!
+STR4B22	8C923648	Sepertinya kita berhasil mendesak geng Ballas itu mati-matian, ya?
+STR4B23	FB9506DE	Woy, CJ, bersiaplah! Ini wilayah Grove Street!
+STR4B24	65F1937D	Woy, ada apa denganmu, bro?
+STR4B25	12F6A3EB	Oke, santai, santai, betul sekali, oke...
+STR4B26	8BFFF251	Yoi, ada apa, kawan-kawan? Yoi...
+STR4B27	FCF8C2C7	Looooc!
+STR4B28	6C47DF56	...kukira mikrofon sialan itu rusak...
+STR4B29	1B40EFC0	Woy, ada apa, kawan!
+STR4B30	7B876625	Ada apa, Ryder.
+STR4B31	0C8056B3	- Sial, aku sangat marah.~n~- Ayolah.
+STR4B32	95890709	Ayolah.
+STR4B33	E28E379F	Tentu saja.
+STR4B34	7CEAA23C	Yoi, santai saja, bro!

@@ -1,0 +1,86 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+BRIDGE	667F37E6	~s~Jangan sisakan satu orang pun yang hidup di jembatan!
+WOO4@00	560064F0	Woozie, kawan!
+WOO4@01	21075466	CJ, kau menangkapku pas aku mau jalan keluar.
+WOO4@02	B80E05DC	Urusan bisnis?
+WOO4@03	CF09354A	Ini urusan besar,
+WOO4@04	516DA0E9	ini urusan yang bakal mengukuhkan posisiku di Red Gecko Tong.
+WOO4@05	266A907F	Tapi ada masalah mendadak, dan aku harus membereskannya sendiri.
+WOO4@06	BF63C1C5	Little Lion, ada berita apa?
+WOO4@07	C864F153	Sial. Kenapa harus pas hari ini dari semua hari?
+WOO4@08	58DBECC2	Oke, sial. Bawa Guppy dan periksa ke sana.
+WOO4@09	2FDCDC54	Sial!
+WOO4@10	4F1B55B1	Ada masalah?
+WOO4@11	381C6527	Anak-anak Da Nang Boys datang hari ini menumpang kapal kontainer.
+WOO4@12	A115349D	Little Lion sudah pergi memeriksa — aku benar-benar harus pergi juga.
+WOO4@13	D612040B	Hei kawan, dengar. Nggak usah panik. Aku bakal urus ini buat kamu, oke?
+WOO4@14	487691A8	Terima kasih, kawan.
+WOO4@15	3F71A13E	Bantuan dan persahabatanmu sangat tak ternilai harganya bagiku.
+WOO4@16	A678F084	Terima kasih bro. Di mana anak-anak yang lain?
+WOO4@17	D17FC012	Oh, mereka lagi nyari helikopter
+WOO4@18	41C0DD83	buat terbang melintas di atas kapalnya.
+WOO4@19	36C7ED15	Dengar — kalau semuanya berjalan lancar,
+WOO4@20	64360672	aku bakal meneleponmu seminggu lagi dan mengundangmu ke tempat baruku.
+WOO4@21	133136E4	Permisi.
+WUZ4_01	3C308924	~s~Turunlah ke bagian ~y~lambung (hull)~s~ kapal.
+WUZ4_02	A539D89E	~s~Berenang menuju ~y~kapal kargo~s~.
+WUZ4_03	D23EE808	~r~Salah satu pengungsi tewas!
+WUZ4_04	4C5A7DAB	~s~Habisi ~r~target~s~ secara diam-diam.
+WUZ4_05	3B5D4D3D	~s~Singkirkan ~r~penjaga~s~ para pengungsi.
+WUZ4_06	A2541C87	~S~Pergilah ke kabin dan habisi si ~r~Snakehead~s~ beserta ~r~pengawalnya~s~.
+WUZ4_07	D5532C11	~r~Pilot helikopter tewas!
+WUZ4_08	45EC3180	~r~Helikopternya hancur!
+WUZ4_09	32EB0116	~s~Tembak ~g~gembok~s~ di bagian depan kontainer para pengungsi.
+WUZ4_10	522C88F3	~s~Turunlah ke bagian ~y~lambung~s~ kapal.~N~Tetaplah tenang dan tak bersuara selama mungkin!
+WUZ4_11	252BB865	Kembali dan temui para ~b~pengungsi~s~. Mereka bakal menurunkan beberapa sekoci ke dalam air.
+WUZ4_AA	5A11B0AF	Kamu lihat ada orang yang selamat?
+WUZ4_AB	C318E115	Tidak. Nggak ada yang bakal keluar dari tempat itu dalam keadaan hidup!
+WUZ4_BA	713CE36C	Jangan berisik, mau manggil si Snakehead ke sini?
+WUZ4_CA	6827D22D	Sebentar lagi kita bakal minum cola di Barat yang merdeka, ya!
+WUZ4_CB	F12E8397	Hei, kamu sebenarnya siapa?
+WUZ4_CC	8629B301	Pergi tangkap si Snakehead!
+WUZ4_DA	276644EA	Rasakan ini di pantatmu!
+WUZ4_EA	3E7D75AB	Kamu lihat ada orang yang selamat?
+WUZ4_EB	A7742411	Tidak. Nggak ada yang bakal keluar dari tempat itu dalam keadaan hidup!
+WUZ4_FA	15502668	Jangan berisik, mau manggil si Snakehead ke sini?
+WUZ4_GA	0C4B1729	Sebentar lagi kita bakal minum cola di Barat yang merdeka, ya!
+WUZ4_GB	95424693	Hei, kamu sebenarnya siapa?
+WUZ4_GC	E2457605	Pergi tangkap si Snakehead!
+WUZ4_HA	8BD30BE6	Rasakan ini di pantatmu!
+WUZ4_JA	B9E56964	Woy kalian, tolong kami!
+WUZ4_JB	20EC38DE	Woy, mohon bantu kami!
+WUZ4_JC	57EB0848	Tolong, si Snakehead menipu kami, kami ini tahanan.
+WUZ4_JD	C98F9DEB	Tolong bantu kami kabur!
+WUZ4_JE	BE88AD7D	Si Snakehead ada di atas anjungan (*bridge*)...
+WUZ4_JF	2781FCC7	Terima kasih untuk semuanya!
+WUZ4_KA	A0FE5825	Hei CJ, sedang apa kamu di sini?
+WUZ4_KB	39F7099F	Baru saja tak sengaja ketemu Woozie pas dia mau jalan keluar.
+WUZ4_KC	4EF03909	Dia sudah menceritakan semuanya. Aku pikir aku ikut gabung sama kamu.
+WUZ4_KD	D094ACAA	Yah kita nggak cuma gabung, kita lagi berputar badai!
+WUZ4_KE	A7939C3C	Pasang sabuk pengaman dan siapkan senjata!
+WUZ4_LA	EFBFCEE2	Kita mau ke mana?
+WUZ4_LB	76B69F58	Ke perahu — kapalnya berlabuh di tengah teluk.
+WUZ4_LC	01B1AFCE	Oh yoi, kulihat kapalnya!
+WUZ4_LD	9FD53A6D	Sebaiknya isi amunisi dan siap siaga, mereka pasti lagi waspada!
+WUZ4_LE	E8D20AFB	Amunisi terisi dan siap!
+WUZ4_MA	F6A4FFA3	Ya ampun, mereka sudah menembaki kita!
+WUZ4_MB	6FADAE19	Kulihat mereka!
+WUZ4_MC	18AA9E8F	Mereka berkeliaran di atas kontainer!
+WUZ4_MD	86CE0B2C	Kudapat mereka bro, pas di bidikanku!
+WUZ4_ME	F1C93BBA	Hajar para keparat Da Nang itu!
+WUZ4_NA	DD89AC60	RPG! RPG!
+WUZ4_NB	4480FDDA	Di mana? Sebelah mana?
+WUZ4_NC	3387CD4C	Kita kena tembak!
+WUZ4_ND	ADE358EF	(Suara sirine, rengekan, gigi berderik, dll.)
+WUZ4_NE	DAE46879	Kita jatuh!
+WUZ4_NF	43ED39C3	Bersiaplah menghadapi benturan!
+WUZ4_OA	C4929D21	Duh ampun, sakit banget!
+WUZ4_OB	5D9BCC9B	Sial, semua senjataku hilang!
+WUZ4_PA	09C893BF	Cukup! Kita selesaikan ini di sini!
+WUZ4_PB	90C1C205	Bela dirimu!
+WUZ4_ZA	F3277B35	Sial, semuanya hilang kecuali pisaumu!

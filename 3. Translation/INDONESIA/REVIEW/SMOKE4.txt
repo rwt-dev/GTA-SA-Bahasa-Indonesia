@@ -1,0 +1,159 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	D95F48E9	Buat melihat sekeliling di atas motor gunakan kontrol kamera. Buat menembak pencet ~m~~widget_attack~.
+DGS1_1	A0CBFC35	~s~Antar Big Smoke ~s~ke ~y~Pusat Kota (Downtown)~s~.
+DGS1_2	39C2AD8F	Kalo musuh lagi berlindung, mungkin bakal lebih bagus nggunain bidikan manual pas menembak.
+DGS1_3	4EC59D19	~r~Lu ninggalin Smoke sendirian terus dia tewas! Lain kali menempel lebih dekat!
+DGS1_56	FDC55F42	~s~Masuk ke dalam terus lindungi ~b~Big Smoke~s~!
+DGS1_57	8AC26FD4	~s~Masuk balik ke dalam ~b~mobil!
+DGS1_58	1A7D7245	Smoke
+DGS1_59	6D7A42D3	Motor
+DGS1_60	3F8BA9B4	~r~Smoke tewas!
+DGS1_63	A682F80E	Menembak sambil berjongkok ngebikin akurasi tembakan lu makin bagus.
+DGS1_64	38E66DAD	Buat melihat sekeliling di atas motor geser jari lu melintasi layar. Buat menembak ketuk ~m~~widget_attack~.
+SMO4_AA	E9DB0CB8	Ini mending bukan urusan suruhan polisi lagi ya, bro.
+SMO4_AB	70D25D02	Kagak lah, bro, ini murni khusus buat kawan-kawan geng kita.
+SMO4_AC	07D56D94	Gue harus jujur sama lu, CJ. Masalah kita ini bisa jadi urusan yang parah banget, sayang.
+SMO4_AD	99B1F837	Urusan apaan yang lagi lu jalanin, Smoke?
+SMO4_AE	EEB6C8A1	Banyak hal parah yang bakal kejadian, Carl.
+SMO4_AF	77BF991B	Families mulai bersatu balik, Ballas mulai ngedarin kokain,
+SMO4_AG	00B8A98D	orang-orang Rusia yang kagak takut mati siap-siap buat membantai.
+SMO4_AH	9007B41C	Orang Rusia?
+SMO4_AJ	7E09D530	Yoi, yoi, lu pikirin aja sendiri.
+SMO4_AK	090EE5A6	Sepanjang hidup gue, gue selalu disuruh takut sama orang Rusia, tapi gue sendiri kagak pernah ketemu satu pun.
+SMO4_AL	976A7005	Terus tembok Berlin runtuh sama kita semua disuruh berteman.
+SMO4_AM	E06D4093	Lima menit kemudian, sepupu gue dihajar tepar sama orang Rusia yang baru turun dari kapal.
+SMO4_AN	79641129	Beneran?
+SMO4_AO	0E6321BF	Beneran lah!
+SMO4_BA	C2F65F7B	Liat nih Carl, sebelum gue masuk ke dalam sana, gue cuma butuh tahu kalo lu siap membela di masalah ini, bro.
+SMO4_BB	5BFF0EC1	Liat nih, Smoke, kita udah kenal lama banget. Kita ini anak Grove, bro!
+SMO4_BC	2CF83E57	Nah itu baru kawan gue, itu baru kawan sejati gue!
+SMO4_BD	B29CABF4	Woy liat nih, kalo lu denger baku tembak mulai meletup, masuk ke dalam sambil menembak membabi buta, oke?
+SMO4_BE	C59B9B62	Gue siap, bro.
+SMO4_BF	5C92CAD8	Woy, sayang, mau ditemenin kagak?
+SMO4_BG	2B95FA4E	Para keparat bangsat!
+SMO4_BH	BB2AE7DF	CJ, MASUK KE SINI!
+SMO4_BJ	552486F3	Nah itu baru kawan sejati gue!
+SMO4_BK	2223B665	Ngapain aja lu dari tadi lama banget?
+SMO4_BL	BC4723C6	CJ, masuk ke sini - oh itu lu!
+SMO4_BM	CB401350	Merunduk terus, asap peluru tebel banget di dalam sini.
+SMO4_BN	524942EA	Hati-hati, CJ, kayaknya mereka emosi banget!
+SMO4_BO	254E727C	Manfaatin tempat perlindungan, mereka menembak kek orang gila di dalam tempat bangsat ini!
+SMO4_BP	A8467F89	CJ, ambil posisi kanan terus lindungi bokong gue!
+SMO4_BQ	DF414F1F	Tetep di sebelah kanan gue, CJ, gue lagi mengincar tuh keparat.
+SMO4_BR	46481EA5	Lindungi posisi kanan gue, CJ, bantai para bego keparat itu!
+SMO4_CA	DBED6E3A	Bantai keparat shahkto itu!
+SMO4_CB	42E43F80	Bantai orang-orang Amerika itu!
+SMO4_CC	35E30F16	Bantai orang Amerikos itu!
+SMO4_CD	AB879AB5	Bantai keparat shahkto itu!
+SMO4_CE	DC80AA23	Bantai orang-orang Amerika itu!
+SMO4_CF	4589FB99	Bantai orang Amerikos itu!
+SMO4_DA	94ACF8FD	Big Smoke, lu udah bikin kesalahan besar!
+SMO4_DB	0DA5A947	Harusnya lu kagak datang ke sini, Big Smoke!
+SMO4_DC	7AA299D1	Smoke, lu sama temen lu udah tewas!
+SMO4_DE	93C13CE4	Big Smoke, lu udah bikin kesalahan besar, hah!
+SMO4_DF	0AC86D5E	Harusnya lu kagak datang ke sini, Big Smoke!
+SMO4_DG	7DCF5DC8	Smoke, lu sama temen lu udah tewas!
+SMO4_DH	ED704059	Oke, kita tunjukin ke para bego itu!
+SMO4_DJ	037E2175	Tempel terus sama gue CJ, kita keluar dari sini, sayang!
+SMO4_EA	8DB7C9BC	Tetep dekat, CJ!
+SMO4_EB	14BE9806	Menempel dekat banget, Carl!
+SMO4_EC	63B9A890	CJ, tetep bareng gue, bro!
+SMO4_ED	FDDD3D33	Bantu lindungi gue!
+SMO4_EE	8ADA0DA5	Ikutin terus, sayang!
+SMO4_EF	13D35C1F	Nah itu baru kawan gue, CJ!
+SMO4_EG	64D46C89	Pertahanin terus, sayang!
+SMO4_EH	F46B7118	Ha, ha ha ha, bro, lu bener-bener dingin kek es, sayang!
+SMO4_EJ	1A651034	Nah itu baru kawan sejati gue, bikin mereka semua membayar!
+SMO4_EK	6D6220A2	Bantai para bego itu sampai kaku, CJ!
+SMO4_EL	F306B501	Tembak hancur otak bangsat mereka, CJ!
+SMO4_EM	84018597	Bikin tubuh para bego itu penuh lubang peluru, sayang!
+SMO4_EN	1D08D42D	Naik ke pembonceng belakang, CJ!
+SMO4_EO	6A0FE4BB	Waktunya membalas budi sayang, naik!
+SMO4_EP	E707E94E	Kali ini biar gue yang nyetir, naik ke pembonceng belakang!
+SMO4_EQ	9000D9D8	Kali ini lu yang jadi penembak belakang, CJ!
+SMO4_ER	09098862	Awasi posisi belakang kita!
+SMO4_ES	7E0EB8F4	Bantai keparat mana pun yang mengikutin kita!
+SMO4_FA	A69A9A7F	Woy bro, ada motor-motor nempel ke kita semua!
+SMO4_FB	3F93CBC5	Mereka mengejar kita naik motor, Smoke!
+SMO4_FC	4894FB53	Ada motor di posisi belakang kita - tabrak hancur Smoke!
+SMO4_FD	D6F06EF0	Taik, bro, mereka mengejar kita pake truk kontainer!
+SMO4_FE	A1F75E66	Kagak usah laporin ke gue, bikin dia keluar dari jalanan! Tembak ban/mesinnya!
+SMO4_FF	38FE0FDC	Sialan, liat tuh padatnya lalu lintas - MINGGIR KANAN KIRI!
+SMO4_FG	4FF93F4A	Gue mau lewat nih!
+SMO4_FH	DF4622DB	Woy, jangan cuma pencet klakson doang! Minggir dari jalanan bangsat!
+SMO4_FJ	314843F7	Pegangan yang kenceng, sayang!
+SMO4_FK	464F7361	Ah Smoke,! Kagakkkkkk!
+SMO4_FL	D82BE6C2	Ah, mereka menabrak bus!
+SMO4_FM	AF2CD654	Ha,ha ha, gue kagak bakal pernah menghina transportasi umum lagi!
+SMO4_GA	BF81AB3E	Sialan, jalanan diblokir!
+SMO4_GB	2688FA84	Ah Smoke, orang-orang ini terorganisir banget. Ada hal yang kagak lu kasih tahu ke gue kan, bro!
+SMO4_GC	518FCA12	Lu kagak ngasih tahu gue segalanya di sini!
+SMO4_GD	CFEB5FB1	Dengerin, Carl, yang gue tahu cuma mereka emosi parah sama kita sekarang!
+SMO4_GE	B8EC6F27	Tapi tahan dulu, gue punya ide.
+SMO4_GF	21E53E9D	Smoke, apa yang lagi lu pikirin? Saluran pengendali banjir itu jalan buntu, bro!
+SMO4_GG	56E20E0B	Persetan sama itu, kita harus menghilangkan mobil-mobil itu, kagak usah khawatir soal itu.
+SMO4_GH	C65D139A	Gue tahu jalan keluar, lewat atas ke arah Grove Street.
+SMO4_GJ	285372B6	Terowongan saluran pembuangan lama? Oh bro....
+SMO4_GK	5F544220	Smoke, ada motor lagi!
+SMO4_GL	C130D783	Masih ada motor yang nempel ke kita, bro!
+SMO4_GM	B637E715	Oh bro, mobil-mobil itu nemuin tanjakan!
+SMO4_GN	2F3EB6AF	Bro, berhenti mengeluh terus tembak sebanyak mungkin para keparat itu!
+SMO4_GO	58398639	Smoke, ada lebih banyak mobil yang datang dari sebelah kiri!
+SMO4_GP	D5318BCC	Kagak usah laporin ke gue, tembak!
+SMO4_HA	3819B7F1	Oh taik, sekarang truknya nemuin kita lagi!
+SMO4_HB	A110E64B	Bro, berhenti berpikir negatif gitu kenapa!
+SMO4_HC	D617D6DD	Fokus ke kabar baiknya!
+SMO4_HD	4873437E	Contohnya apaan?
+SMO4_HE	3F7473E8	Kita belum tewas, sama jari pelatuk lu masih fungsi, bego!
+SMO4_HF	A67D2252	Gue rasa kotak roda gigi (gearbox) motor ini hancur! Gue kagak bisa dapet kecepatan!
+SMO4_HH	41C50F55	Yoi, siapa yang berpikir negatif sekarang, lonte?
+SMO4_HJ	AFCB6E79	Gue paham maksud lu, gue bakal bungkam mulut mulai sekarang.
+SMO4_HK	D8CC5EEF	Rencana mereka apaan sih, Carl?
+SMO4_HL	46A8CB4C	Jangan nanya ke gue, gue cuma turis di sini!
+SMO4_HM	31AFFBDA	Rencana mereka ada sesuatu...
+SMO4_HN	A8A6AA60	OH TAIK!
+SMO4_HO	DFA19AF6	Ini datang satu lagi!
+SMO4_HP	52A99703	Pegangan!
+SMO4_HQ	25AEA795	Ambil jalur tinggi!
+SMO4_HR	BCA7F62F	Hantam tanjakan di sebelah kanan itu!
+SMO4_HS	CBA0C6B9	Bawa kita naik ke tanjakan itu!
+SMO4_HT	55C4531A	Siap gaskan, sayang!
+SMO4_HU	22C3638C	Gue paham, gue paham, sayang!
+SMO4_HV	BBCA3236	Siap Siap!
+SMO4_JA	0A2FD573	Para bego itu menghancurkan total truk mereka sendiri!
+SMO4_JB	932684C9	Putar balik lewatin mereka, bro!
+SMO4_JC	E421B45F	Persetan sama itu, kita lewat rute pemandangan aja!
+SMO4_JD	7A4521FC	Houston, peluncuran roket dimulai!
+SMO4_JE	0D42116A	GOSONG LU, PARA KEPARAT!
+SMO4_JF	944B40D0	Itu terowongan pembuangan lama di depan!
+SMO4_JG	E34C7046	Tembak hancur gerbangnya!
+SMO4_JH	73F36DD7	Kerja bagus, CJ, ayo gaskan!
+SMO4_JJ	9DFD0CFB	Gerbangnya, Carl, GERBANGNYA!
+SMO4_JK	EAFA3C6D	Bro, gue dulu benci terowongan ini pas kita masih bocah.
+SMO4_JL	749EA9CE	Woy, kita bisa bernostalgia belakangan, kita masih ditemenin musuh nih!
+SMO4_JM	03999958	Jalannya mulai sempit banget!
+SMO4_JN	9A90C8E2	Sialan ini sempit banget!
+SMO4_JO	ED97F874	Mereka masih mengejar kita.
+SMO4_JP	609FF581	Orang-orang ini kagak bakal pernah menyerah apa?
+SMO4_JQ	1798C517	Akhirnya!
+SMO4_JR	8E9194AD	Kita aman!
+SMO4_JS	F996A43B	Kita berhasil menghilangkan jejak mereka, Smoke!
+SMO4_KA	1334E432	Bro, mending kita pisah jalan.
+SMO4_KB	8A3DB588	Gue setuju.
+SMO4_KC	FD3A851E	Gue bakal membawa motor ini satu blok lagi terus membuangnya.
+SMO4_KD	635E10BD	Bro, hal yang gila banget di belakang sana tadi!
+SMO4_KE	1459202B	Yoi, pasti lah.
+SMO4_KF	8D507191	Dengerin kita kagak bisa nongkrong lama-lama di sini - ntar gue temuin lu lagi belakangan, bro.
+SMO4_KG	FA574107	Salam hangat, sayang!
+SMO4A00	EE458BDF	Woy, CJ, sayang, ada apaan bro?
+SMO4A01	9942BB49	Ada cerita apaan, Smoke?
+SMO4A02	004BEAF3	Lagi santai. Mau jalan-jalan naik mobil kagak?
+SMO4A03	774CDA65	Yoi.
+SMO4A04	E9284FC6	Lu yang nyetir.
+SMO4A05	9E2F7F50	Sip lah.
+SMO4A06	07262EEA	Kita mau pergi ke pusat kota.

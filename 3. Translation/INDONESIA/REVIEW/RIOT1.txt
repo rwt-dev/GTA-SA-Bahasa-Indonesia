@@ -1,0 +1,113 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+R1_01	DAE154C9	Nyetir balik ke ~y~Grove Street~s~.
+R1_02	43E80573	~r~Sweet tewas!
+R1_03	34EF35E5	Masuk balik ke dalam ~b~mobilnya Sweet~s~.
+R1_04	AA8BA046	~r~Mobilnya Sweet hancur!
+RIOT1	69DDD169	~s~Balik ke rumahnya Sweet.
+ROT1@00	24D61DF6	Woy, harapp tenang, tenang semuanya.
+ROT1@01	53D12D60	Ayolah kalian sekumpulan orang bego, ini udah kagak tertahankan lagi!
+ROT1@02	CAD87CDA	DIEM LU!
+ROT1@03	BDDF4C4C	Opsir Eddie Pulaski sama Frank Tenpenny,
+ROT1@04	23BBD9EF	keduanya anggota pekerja keras dari unit kepolisian masyarakat,
+ROT1@05	54BCE979	udah didakwa atas kasus pemerasan,
+ROT1@06	CDB5B8C3	korupsi, narkoba, sama pelecehan seksual.
+ROT1@07	BAB28855	Mereka sendiri yang nyari masalah.
+ROT1@08	2A0D95C4	Tuh keparat ngebikin pertanian gue melayang. Sama dia nguasain alat hisap ganjanya sendiri.
+ROT1@09	5D0AA552	Tapi dakwaan ini kagak ada apa-apanya dibandingin tuduhan utamanya;
+ROT1@10	3DCD2CB7	... bersekongkol membunuh sesama anggota polisi Ralph Pendelbury
+ROT1@11	4ACA1C21	yang sempat mengancam bakal membongkar rahasia negara
+ROT1@12	D3C34D9B	dan yang kemudian ditemukan tewas tertembak
+ROT1@13	A4C47D0D	dalam insiden geng yang dibilang kagak ada hubungannya...
+ROT1@14	3AA0E8AE	Tebakan gue sih 20 tahun penjara.
+ROT1@15	4DA7D838	- Coba 5 tahun. Polisi mah selalu dapet hukuman ringan.~n~- Yoi, gue setuju tuh.
+ROT1@16	D4AE8982	...buat mengurus barang bukti yang hilang,
+ROT1@17	A3A9B914	...kesaksian saksi yang ditarik balik
+ROT1@18	3316A485	sama sekarang hilangnya sesama anggota polisi Jimmy Hernandez,
+ROT1@19	44119413	termasuk sesama anggota polisi Jimmy Hernandez,
+ROT1@20	16E07F74	sama Opsir Pulaski sendiri, yang diduga lagi kabur melarikan diri.
+ROT1@21	61E74FE2	Oh, tunggu, mereka lagi keluar dari ruang sidang sekarang!
+ROT1@22	F8EE1E58	Tuh keparat Pulaski palingan ntar ditemukan tewas juga, sama kek yang lainnya.
+ROT1@23	8FE92ECE	...gara-gara kurangnya barang bukti buat menjerat klien saya,
+ROT1@24	118DBB6D	kantor jaksa penuntut umum memutuskan
+ROT1@25	668A8BFB	buat membatalkan semua dakwaan...
+ROT1@26	FF83DA41	APA?!
+ROT1@27	8884EAD7	Saya berharap kita bisa menyudahi seluruh urusan menyedihkan ini
+ROT1@28	183BF746	dan membiarkan Opsir Tenpenny ngelakuin hal terbaik yang bisa dia lakuin;
+ROT1@29	6F3CC7D0	Mengayomi dan melayani!
+ROT1@30	0FFB4E35	Terima kasih.
+ROT1@31	78FC7EA3	Lu liat kan? Lu kagak bisa percaya sama sistem hukum, bro.
+ROT1@32	E1F52F19	Kalo reaksi dari kerumunan massa di belakang saya bisa jadi patokan,
+ROT1@33	96F21F8F	...Los Santos bakal membara terbakar malam ini!
+ROT1@34	08968A2C	Lu liat kan? Lu kagak bisa percaya sama sistem hukum, bro!
+ROT1@35	7F91BABA	Aduh bro, bener-bener KAGAK ADA KEADILAN!
+ROT1@36	E698EB00	Gue tau asli, gue udah ditangkap berkali-kali
+ROT1@37	919FDB96	Cuma gara-gara kelakuan yang wajar-wajar aja!
+ROT1@38	0120C607	Kagak bakal ada orang yang berani kerusuhan di lingkungan gue!
+ROT1@39	7627F691	Kalo soal itu gue kagak yakin deh, bro (*holmes*).
+ROT1@40	40BAD8F2	Liat tuh. Seluruh kota mulai membara.
+ROT1@41	37BDE864	Orang-orang pada emosi parah gara-gara hal ini.
+ROT1@42	AEB4B9DE	Orang-orang pada kagak tahu apa yang mereka mau.
+ROT1@43	D9B38948	Kita semua cuma dimanfaatin doang.
+ROT1@44	47D71CEB	Lu liat kan, bro? Selalu aja kek gini, kawan.
+ROT1@45	30D02C7D	Sistem kekuasaan merusak semua orang.
+ROT1@46	A9D97DC7	Dengerin, gue bilang mending kita pergi ngamanning lingkungan (*hood*) kita,
+ROT1@47	DEDE4D51	kita kagak bakal biarin tempat ini dibakar sama orang-orang bego.
+ROT1@48	4E6150C0	Yoi, gue setuju tuh.
+ROT1@49	39666056	Sstt, dengerin, dengerin...
+ROT1@50	59A1E9B3	Omong kosong banget.
+ROT1@51	2EA6D925	...keputusan mengejutkan ini bener-bener belum pernah terjadi sebelumnya...
+ROT1@52	B7AF889F	Aduh, mulai deh kekacauannya - sialan!
+ROT1_AA	228AF0A6	Keadaan bener-bener hancur berantakan, bro.
+ROT1_AB	BB83A11C	Yoi, tapi kita bakal ngurusin hal ini sendiri.
+ROT1_BA	09A7A365	Bener-bener kagak ada keadilan, bro.
+ROT1_BB	90AEF2DF	Gimana ceritanya sampah kek Tenpenny bisa bebas di jalanan?
+ROT1_BC	E7A9C249	Bro, gue kagak tau, emang udah jalannya kek gitu kayaknya.
+ROT1_BD	79CD57EA	Bro, ini hancur banget asli. Kita kudu ngebantai tuh keparat sendiri.
+ROT1_BE	0ECA677C	Dan kita pasti bakal ngelakuinnya, Sweet.
+ROT1_DA	5FFD04E3	Taik, liat tuh tempat ini, nenek-nenek tua aja ikut menjarah barang!
+ROT1_DB	C6F45559	Kayakya itu mendingan daripada diem di rumah nonton saluran belanja.
+ROT1_DC	B1F365CF	Yoi, keluar sana terus cari barang murah!
+ROT1_EA	46E635A2	Jadi siapa tuh orang Inggris aneh?
+ROT1_EB	DFEF6418	Apaan? Oh, Maccer!
+ROT1_EC	A8E8548E	Dia punya masalah kecil yang kagak bisa dia kontrol.
+ROT1_ED	368CC12D	Masalah apaan emangnya?
+ROT1_EE	418BF1BB	Dia kagak bisa, lu tau lah, suka kocok/mencet sendiri.
+ROT1_EF	D882A001	Apaan, maksud lu dia demen konsultasi sama Profesor Hans Jerkov (*ngocok*)?
+ROT1_EG	AF859097	Yoi, rutin banget.
+ROT1_EH	3F3A8D06	Ngegebuk monyet (*ngocok*)?
+ROT1_EJ	D134EC2A	Yoi!
+ROT1_EK	A633DCBC	Ngajak jalan Palm-ela (*pake telapak tangan*)?
+ROT1_EL	3857491F	Berhenti kenapa!
+ROT1_EM	4F507989	Bikin cacing bersendawa (*ngocok*)?
+ROT1_EN	D6592833	Cukup woy, bangsat!
+ROT1_FA	6DCB6661	Taik, bro, orang-orang pada emosi parah!
+ROT1_FB	F4C237DB	Tenpenny yang bertanggung jawab atas INI SEMUA!
+ROT1_FC	83C5074D	Kek daerah kumuh kurang hancur aja!
+ROT1_FD	1DA192EE	Besok subuh, sebagian besar warga area Central bakal punya TV baru.
+ROT1_FE	6AA6A278	Liat tuh mereka, kek bocah emosian atau gimana gitu!
+ROT1_FF	F3AFF3C2	Mereka malah ngancurin lingkungan mereka sendiri!
+ROT1_FG	84A8C354	Kagak ada hal bagus yang bakal lahir dari hal ini.
+ROT1_FH	1417DEC5	Bro, daerah kumuh lagi ngancurin dirinya sendiri!
+ROT1_GA	74D05720	Injek gasnya kencengan!
+ROT1_GB	EDD9069A	Mereka mengejar kita!
+ROT1_GC	9ADE360C	Bukannya ini wilayahnya Ballas?
+ROT1_GD	04BAA3AF	Bukannya ini daerahnya Vagos?
+ROT1_GE	73BD9339	Mundur, CJ, mundur!
+ROT1_GF	EAB4C283	Bro, sebagian besar jalanan ini dibarikade pake sampah!
+ROT1_GG	9DB3F215	Jalanannya dibarikade! Mundur!
+ROT1_GH	0D0CEF84	Mereka mengunci barikade jalanannya!
+ROT1_GJ	E3028EA8	Jauh-jauh dari Garda Nasional (*National Guard*)!
+ROT1_GK	9405BE3E	Jauh-jauh dari para tentara itu, CJ!
+ROT1_GL	0A612B9D	Semuanya lagi terbakar.
+ROT1_GM	7D661B0B	Kagak bisa ngeliat apa-apa gara-gara kehalangan asap!
+ROT1_HA	F3484BEF	Kelihatannya kagak terlalu parah...
+ROT1_HB	6A411A55	Cuma butuh satu orang bego buat menyebarkan kekacauan ini ke Grove.
+ROT1_HC	1D462AC3	Gue bakal ngumpulin beberapa kawan, terus ngunci ketat lingkungan kita.
+ROT1_HD	8322BF60	Kalo lu butuh apa-apa, telepon gue.
+ROT1_HE	F4258FF6	Gue bakal mampir muterin kota terus liat apa yang bisa gue pantau.
+ROT1_HF	6D2CDE4C	Lu hati-hati di luar sana, CJ.

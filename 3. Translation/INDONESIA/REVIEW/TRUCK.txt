@@ -1,0 +1,82 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+TRK_CE0	91098A00	~s~Red County, San Andreas Timur
+TRK_CE1	E60EBA96	~s~Blueberry, San Andreas Tengah
+TRK_CE2	7F07EB2C	~s~Blueberry Acres, San Andreas Tengah
+TRK_CE3	0800DBBA	~s~Dillimore, San Andreas Timur
+TRK_CE4	96644E19	~s~Montgomery, San Andreas Timur
+TRK_CE5	E1637E8F	~s~Montgomery, San Andreas Timur
+TRK_CN0	72FD53CB	~s~El Quebrados, San Andreas Barat Laut
+TRK_CN1	05FA635D	~s~Bayside Marina, San Andreas Barat Laut
+TRK_CN2	9CF332E7	~s~Tierra Robada, San Andreas Barat Laut
+TRK_CS0	8D913FD7	~s~Whetstone, San Andreas Selatan
+TRK_CS1	FA960F41	~s~Angel Pine, San Andreas Selatan
+TRK_CS2	639F5EFB	~s~Whetstone, San Andreas Selatan
+TRK_CSH	D34FC6D9	Uang Tunai
+TRK_DLN	F2397BF7	Batas Waktu
+TRK_DMG	92FEF212	Kerusakan
+TRK_F1	47F9D61E	~r~Uang tunai habis
+TRK_F2	DEF087A4	~r~Waktu habis
+TRK_F3	A9F7B732	~r~Truk hancur!
+TRK_F4	37932291	~r~Tidak berada di dalam kabin
+TRK_F5	40941207	~r~Gandar gandengan (*trailer*) tidak tersambung
+TRK_H10	D60FD913	Barang-barang ini sangat dicari dan bakal menarik banyak perhatian polisi.
+TRK_H11	A108E985	Kamu harus mengantarkan barang-barang rapuh ini dengan cepat dan aman.
+TRK_H12	3801B83F	Barang-barang ini sangat rapuh.
+TRK_H14	D1621D0A	Barangnya terlambat. Uang tunaimu dipotong setengah.
+TRK_H15	A6652D9C	Barangnya sangat terlambat. Uang tunaimu dipotong setengah lagi.
+TRK_H16	3F6C7C26	Waktumu hampir habis. Antarkan barang sesuai batas waktu untuk menyelesaikan misi ini.
+TRK_H17	486B4CB0	Misi truk selanjutnya bakal tersedia kalau kamu sudah bisa mengakses Las Venturas.
+TRK_H18	D8D45121	Misi truk selanjutnya bakal tersedia kalau kamu sudah bisa mengakses San Fierro.
+TRK_H1A	F10D98B9	~s~Angkut barang ke berbagai tujuan di seluruh wilayah San Andreas.
+TRK_H4	A9100F1F	~s~Kamu punya waktu ~1~ detik untuk menyambungkan kembali ~b~gandengan (*trailer*)~s~ ke kabin.
+TRK_H4B	15733D46	~s~Kamu punya waktu ~1~ detik untuk menyambungkan kembali ~b~gandengan (*trailer*)~s~ ke kabin.
+TRK_H5	DE173F89	~s~Kamu punya waktu ~1~ detik untuk kembali masuk ke dalam ~b~kabin~s~.
+TRK_H5B	0C680C07	~s~Kamu punya waktu ~1~ detik untuk kembali masuk ke dalam ~b~kabin~s~.
+TRK_H6	471E6E33	Ini muatan yang rapuh. Antarkan barang utuh atau kehilangan uang tunai karena kerusakan.
+TRK_H7	30195EA5	Antarkan barang secepat mungkin. Kalau kamu terlambat, uang tunaimu bakal berkurang.
+TRK_H8	A0A64334	Barang-barang ini panas dan bakal menarik perhatian polisi.
+TRK_H9	D7A173A2	Barang-barang ini panas dan bakal menarik perhatian polisi.
+TRK_LS0	86CD78EA	~s~Ocean Docks, Los Santos
+TRK_LS1	F1CA487C	~s~Ocean Docks, Los Santos
+TRK_LS2	68C319C6	~s~Willowfield, Los Santos
+TRK_LS3	1FC42950	~s~El Corona, Los Santos
+TRK_MFD	E7D241EC	~s~Barang sangat rapuh ke ~a~
+TRK_MHI	07E010DF	~s~Barang sangat ilegal ke ~a~
+TRK_MI	FAD3F6DB	~s~Barang ilegal ke ~a~
+TRK_MND	2F0BCBE4	~s~Barang harus diantar tanpa kerusakan ke ~a~
+TRK_MNT	32BCDB80	~s~Barang harus diantar dengan cepat ke ~a~
+TRK_MSI	AED6DB45	~s~Barang sedikit ilegal ke ~a~
+TRK_MTD	9F26313F	~s~Barang harus diantar dengan cepat tanpa kerusakan ke ~a~
+TRK_NC0	CF8BBED5	~s~Green Palms, San Andreas Utara
+TRK_NC1	B88C8E43	~s~Bone County, San Andreas Utara
+TRK_NC2	2185DFF9	~s~Bone County, San Andreas Utara
+TRK_NC3	5682EF6F	~s~Bendungan Sherman, San Andreas Utara
+TRK_NC4	C8E67ACC	~s~Verdant Meadows, San Andreas Utara
+TRK_P1	5B6163C9	~s~Kamu sudah menyelesaikan misi truk pertamamu. Kembali ke depo kapan saja untuk misi lainnya.
+TRK_P2	C2683273	~s~Semua misi selanjutnya bakal punya jarak, tingkat kesulitan, dan hadiah yang bervariasi.
+TRK_P3	B56F02E5	~s~~1~ misi truk selesai.
+TRK_P4	2B0B9746	Misi Truk Selesai!
+TRK_SF0	A6027AB3	~s~Bandara Easter Bay, San Fierro
+TRK_SF1	D1054A25	~s~Battery Point, San Fierro
+TRK_SF2	480C1B9F	~s~Easter Basin, San Fierro
+TRK_SF3	3F0B2B09	~s~Easter Basin, San Fierro
+TRK_TIM	0A617D78	Batas waktu pengiriman
+TRK_V0	7A3CF4D9	~s~Redsands West, Las Venturas
+TRK_V1	0D3BC44F	~s~Whitewood Estates, Las Venturas
+TRK_V10	C0B75769	~s~Randolph Ind. Est., Las Venturas
+TRK_V11	B7B067FF	~s~Depo Pengiriman LVA, Las Venturas
+TRK_V12	2EB93645	~s~Bandara Las Venturas, Las Venturas
+TRK_V13	59BE06D3	~s~Redsands West, Las Venturas
+TRK_V2	943295F5	~s~Whitewood Estates, Las Venturas
+TRK_V3	E335A563	~s~Depo Bandara Las Venturas, Las Venturas
+TRK_V4	7D5130C0	~s~Kasino Starfish, Las Venturas
+TRK_V5	0A560056	~s~Creek, Las Venturas
+TRK_V6	935F51EC	~s~Spinybed, Las Venturas
+TRK_V7	E458617A	~s~Pilgrim, Las Venturas
+TRK_V8	74E77CEB	~s~Rockshore East, Las Venturas
+TRK_V9	03E04C7D	~s~Rockshore East, Las Venturas

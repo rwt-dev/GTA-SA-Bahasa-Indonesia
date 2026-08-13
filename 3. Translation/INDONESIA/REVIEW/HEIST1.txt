@@ -1,0 +1,111 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+HE1_AA	FAEBF86F	Woy, kamera gue!
+HE1_AB	63E2A9D5	Woy, bokap gue tuh yang ngebeliin itu!
+HE1_AC	14E59943	Ya Tuhan!
+HE1_AD	8A810CE0	Dia nyoba mepetin kita keluar jalanan!
+HE1_AE	FD863C76	Gue kagak tau dia mau apaan!
+HE1_AF	648F6DCC	Awasin van-nya woy gila lu ya!
+HE1_AG	13885D5A	Urusan lu apaan sih bangsat?
+HE1_AH	833740CB	Kenapa lu ngikutin kita terus?
+HE1_AI	F430705D	Lu orang gila atau gimana sih?
+HE1_AJ	6D3921E7	Lihat aja ntar apa kata polisi!
+HE1_AK	1A3E1171	Gue bakal langsung ngelapor ke polisi!
+HE1_AL	845A84D2	Polisi kagak bakal biarin lu lolos gitu aja!
+HE1_XA	61EB5177	Cuci/cetak rol film ini buat Woozie.
+HE1_XB	F8E200CD	Siap, CJ! Kerja bagus!
+HE1_ZA	53DD33F5	Simpen senjata lu pak! Ini gedung fasilitas umum!
+HE1_ZB	CAD4624F	Terima kasih atas kerja samanya, pak.
+HE1_ZC	BDD352D9	Ini peringatan terakhir buat lu pak, simpen senjatanya!
+HE1_ZD	23B7C77A	Mohon maaf pak, kamera dilarang di area ini.
+HE1_ZE	54B0F7EC	Lu dilarang membuat salinan denah apa pun, pak!
+HE1_ZF	CDB9A656	Ada pembuat kerusuhan, kunci pintu terus panggil polisi!
+HE1_ZG	BABE96C0	Semua orang keluar, ini bukan simulasi!
+HE1_ZH	2A018B51	Itu termasuk lu juga, pak!
+HE1_ZJ	C40FEA7D	Di mana sih para pemadam kebakaran bangsat itu?
+HE1_ZK	B308DAEB	Woy lu, berhenti di situ!
+HE1_ZL	2D6C4F48	Ini petugas keamanan, jangan bikin gue nembak!
+HE1_ZM	5A6B7FDE	Tersangka terlihat di jangkauan mata, menuju ke posisi gue!
+HEI1_1	926DD8D5	~s~Keamanan ketat di ~y~dinas perencana tata kota~s~. Jangan bikin masalah!
+HEI1_10	D0F27B2F	~s~~g~Unit AC~s~ tua itu udah bobrok. Hancurin pake cara apa aja yang lu bisa.
+HEI1_11	A7F54BB9	~s~Kalo lu butuh ~r~kamera~s~ atau rol film lain, balik lagi ke area kasino terus bujuk turis buat ngasi kepingan miliknya!
+HEI1_20	FBDF28EC	~s~Nah itu dia! Alarm kebakaran itu harusnya ngebikin para penjaga sibuk.
+HEI1_22	15D149C0	~s~Oke! Mereka lagi sibuk sama proses evakuasi sekarang. Naik ke atas terus foto ~y~cetak biru (blueprints)~s~ yang ditempel di dinding.
+HEI1_25	8BB5DC63	~s~Mantap! Lu udah mengabadikan cetak biru kasino! Keluar dari ~y~gedung~s~ sebelum lu ketahuan.
+HEI1_29	82039048	~s~Bawa rol film kamera ke pintu belakang ~y~Four Dragons Casino~s~.
+HEI1_33	7BCD4817	~s~~y~Tangga darurat~s~ sekarang udah bisa diakses. Naik ke atas buat menuju ke lokasi cetak biru.
+HEI1_34	E5A9DDB4	~s~~y~Cetak biru~s~ yang perlu lu foto ada di ruangan paling ujung di lantai teratas.
+HEI1_35	92AEED22	~s~Ada ~r~turis-turis~s~ di kapal itu. Cari satu yang bawa kamera terus rebut paksa.
+HEI1_39	9B18A109	~s~Bagus! Ambil ~g~kamera~s~ itu.
+HEI1_40	AD858F6A	~s~Lu udah dapet kamera, sekarang pergi ke gedung ~y~dinas perencana tata kota~s~.
+HEI1_41	DA82BFFC	~s~Lu butuh kamera buat dapet salinan cetak biru kasino. Rebut satu dari ~r~turis~s~ di area jalanan kasino.
+HEI1_46	44E62A5F	~s~Polisi kagak bisa nutup pintu bawah gara-gara ada kebakaran! Pake senjata lu kalo terpaksa.
+HEI1_50	B49EBE2B	~r~Lu udah diberi tahu kalo ini pekerjaan rahasia tapi lu malah pamer senjata!
+HEI1_52	5A90DF07	~r~Bagus banget dah! Harusnya kita mengalihkan perhatian penjaga dulu sebelum ngambil foto apa pun!
+HEI1_6	0C094D76	~s~Lu kagak bisa memfoto cetak biru kasino pas penjaga ada di sekitar situ! Lu harus mengalihkan perhatiannya.
+HEI1_7	7B0E7DE0	~s~Ada ~y~ruang penyimpanan dokumen~s~ di lantai bawah. Turun ke bawah buat liat apa lu bisa ngelakuin pengalihan perhatian
+HEI1_9	9CB650E7	~s~Ini gedung sipil. Dilarang memperlihatkan senjata atau lu bakal diusir dari area lokasi
+HEIH	AFF622F4	Ketuk ~m~~widget_reply_no~ buat menjawab TIDAK atau ~m~~widget_reply_yes~ buat YA.
+HEIH2	72A891A7	Mendekat ke resepsionis terus kunci target ke dia buat mengulang percakapan.
+HEIH9	E57A482F	Mendekat ke resepsionis buat mengulang percakapan.
+HEQ1	04347335	Ada yang bisa saya bantu pak?
+HEQ1N	C7D39CC7	Kagak, makasih.
+HEQ1Y	44001900	Gue mau ngeliat denah arsitektur buat Caligula's Casino.
+HEQ2	9D3D228F	Baik pak. Apakah bapak tahu kalau menggandakan denah tersebut dilarang?
+HEQ2N	ECFECF04	Kagak, gue kagak tahu, napa emangnya?
+HEQ2Y	6F2D4AC3	Yoi, gue cuma butuh referensi doang kok.
+HEQ2YB	9AD09EFC	Gue lagi ngebikin miniatur skala kecil buat ulang tahun paman gue. Dia demen banget maen blackjack.
+HEQ4	745E87BA	Bapak bisa nemuin denahnya di lantai paling atas.
+HEQ4B	B31224A9	Lelucon yang lucu pak.
+HEQ4C	C415143F	Saya bakal ngebuka kuncinya dari tombol. Pintunya ada tepat di sebelah pintu masuk utama...
+HEQ5	0359B72C	Mohon maaf banget pak, saya kagak bisa ngejelasin lebih detail lagi.
+HEQ5B	AA0915E8	Panggil saya kalau bapak udah mikirin ini lagi.
+HEQ5C	DD0E257E	Panggil saya kalau bapak berubah pikiran.
+HEX1	D5F6C87C	Saya lumayan sibuk pak.
+HEX1B	C1B4EB63	Datang ke saya lagi kalau bapak berubah pikiran.
+HEX2	4CFF99C6	Yah, kita kagak mau terlibat sama persiapan perampokan nekat di ruang penghitungan uang!
+HEX2B	EA99B8A0	Apakah bapak paham?
+HEX2N	E32FF48B	Kagak, gue cuma bocah kampung bego, gue kagak paham apa-apa.
+HEX2Y	60FC714C	Oh tentu aja, pemiliknya pasti kagak mau berspekulasi hal itu terjadi!
+HEX3	3BF8A950	Mengingat bapak malah jalan menjauh, saya anggap bapak kagak mau ngobrol lagi.
+HST1A00	92AE76A1	Woozie?
+HST1A01	E5A94637	Oh, Carl.
+HST1A02	7CA0178D	Minimal nyalain lampunya kenapa.
+HST1A03	0BA7271B	Oh, gue kira udah dinyalain. Jendela di sini harusnya bisa ngemasukin cahaya.
+HST1A04	95C3B2B8	Yoi, tempat ini pas banget nih. Di sini tempat kita merencanakan perampokan.
+HST1A05	E2C4822E	Ada orang lain lagi yang mau dateng?
+HST1A06	7BCDD394	Kagak ada.
+HST1A07	0CCAE302	Kagak bisa ya kita ngerjain ini di ruangan kantor gue aja?
+HST1A08	9C75FE93	Lu kudu punya tempat rahasia buat ngerencanain hal kek gini,
+HST1A09	EB72CE05	memang gitu cara mainnya!
+HST1A10	8BB547E0	Oke, oke, gue paham alur pikiran lu.
+HST1A11	FCB27776	Terus, apa yang mau kita lakuin?
+HST1A12	65BB26CC	Kayaknya kita harus bikin rencana dulu.
+HST1A13	12BC165A	Ngomong-ngomong soal rencana, lu punya tata letak denah Caligula's Casino kagak?
+HST1A14	8CD883F9	Taik. Kagak ada. Kayaknya gue kudu pergi ngambil satu deh.
+HST1A15	FBDFB36F	Rapat selesai?
+HST1A16	62D6E2D5	Rapat selesai.
+SHEQ1	9CE1EE2F	Ada yang bisa saya bantu pak?
+SHEQ1N	3A29B020	Kagak, makasih.
+SHEQ1Y	B9FA35E7	Gue mau ngeliat denah arsitektur buat Caligula's Casino.
+SHEQ2	05E8BF95	Baik pak. Apakah bapak tahu kalau menggandakan denah tersebut dilarang?
+SHEQ2N	1104E3E3	Kagak, gue kagak tahu, napa emangnya?
+SHEQ2Y	92D76624	Yoi, gue cuma butuh referensi doang kok.
+SHEQ2YB	A443130B	Gue lagi ngebikin miniatur skala kecil buat ulang tahun paman gue. Dia demen banget maen blackjack.
+SHEQ4	EC8B1AA0	Bapak bisa nemuin denahnya di lantai paling atas.
+SHEQ4B	4EE8084E	Lelucon yang lucu pak.
+SHEQ4C	39EF38D8	Saya bakal ngebuka kuncinya dari tombol. Pintunya ada tepat di sebelah pintu masuk utama...
+SHEQ5	9B8C2A36	Mohon maaf banget pak, saya kagak bisa ngejelasin lebih detail lagi.
+SHEQ5B	57F3390F	Panggil saya kalau bapak udah mikirin ini lagi.
+SHEQ5C	20F40999	Alert me if you change your mind.
+SHEX1	4D235566	Saya lumayan sibuk pak.
+SHEX1B	3C4EC784	Datang ke saya lagi kalau bapak berubah pikiran.
+SHEX2	D42A04DC	Yah, kita kagak mau terlibat sama persiapan perampokan nekat di ruang penghitungan uang!
+SHEX2B	17639447	Apakah bapak paham?
+SHEX2N	1ED5D86C	Kagak, gue cuma bocah kampung bego, gue kagak paham apa-apa.
+SHEX2Y	9D065DAB	Oh tentu aja, pemiliknya pasti kagak mau berspekulasi hal itu terjadi!
+SHEX3	A32D344A	Mengingat bapak malah jalan menjauh, saya anggap bapak kagak mau ngobrol lagi.

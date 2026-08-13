@@ -1,0 +1,99 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+BCE4@00	5E940F43	Woy, gue udah nungguin dari tadi bangsat. Dari mana aja sih lu?
+BCE4@01	29933FD5	Sori bro (*holmes*), gue kagak tahu kapan balapannya mulai.
+BCE4@02	B09A6E6F	Naaah kan - lu kebetulan aja baru muncul
+BCE4@03	C79D5EF9	lima menit setelah orang-orang pada nyampe, hah?
+BCE4@04	59F9CB5A	Pas bensin mengalir di pembuluh darah lu kek gairah yang membara,
+BCE4@05	2EFEFBCC	lu tahu kapan waktunya buat balapan!
+BCE4@06	B7F7AA76	Gue rasa lu mabuk gara-gara kebanyakan menghirup udara pedesaan nih, bro!
+BCE4@07	C0F09AE0	Woy, CJ, liat tuh...
+BCE4@08	504F8771	Lu belum pernah dateng ke acara kumpul-kumpul kita sebelumnya,
+BCE4@09	2748B7E7	lu dari mana, kawan?
+BCE4@10	478F3E02	Gue dari Grove Street Families, Los Santos. Ada cerita apaan nih?
+BCE4@11	30880E94	Santai. Ini bukan pawai, kawan. Tapi, lu tahu lah, kita harus hati-hati.
+BCE4@12	A9815F2E	Wu Zi Mu, tapi kawan-kawan gue biasa manggil gue 'Woozie'. Gimana kabar lu?
+BCE4@13	DE866FB8	Ap..? CJ. Carl Johnson.
+BCE4@14	40E2FA1B	Dengerin, di luar sini kita demen balapan taruhan uang tunai atau surat BPKB mobil (*pink slips*) - pilihan pembalap.
+BCE4@15	37E5CA8D	Nyalain mobil lu, kita udah mau jalan nih. Semoga beruntung, Carl Johnson.
+BCE4@16	AEEC9B37	Hati-hati CJ!
+BCE4@17	D9EBABA1	Ada hal yang aneh banget dari tuh orang, bro.
+BCE4@18	4954B630	Bro, di mana sih nih orang?
+BCE4@19	3E5386A6	Pasti lah, bro.
+BCE4W00	47FDBAB6	Gaya nyetir lu berkelas, Carl Johnson -
+BCE4W01	30FA8A20	sama gue kagak pernah keberatan kalah dari orang yang rela memacu dirinya ampe ke batas maksimal.
+BCE4W02	A9F3DB9A	Kalo buat gue, gue ini orang yang menepati janji taruhannya.
+BCE4W03	DEF4EB0C	Yaa, lu bakal belajar lumayan cepat kalo polisi mengejar-ngejar pantat lu.
+BCE4W04	40907EAF	Dengerin, mending kita cabut dari sini secepatnya
+BCE4W05	37974E39	gara-gara, entah kenapa, polisi lokal kagak bisa menghargai olahraga mulia kita.
+BCE4W06	AE9E1F83	Yoi. Makasih saran masukannya.
+BCE4W07	D9992F15	Sip, gue harus cabut.
+BCE4W08	49263284	Uh, lu tau kagak? Kalo lu lagi main-main ke San Fierro, telepon gue ya,
+BCE4W09	3E210212	mungkin aja kita bisa berbisnis bareng.
+BCE4W10	5EE68BF7	Yoi, mungkin aja ntar gue lakuin.
+BCE4W11	29E1BB61	Kayakya itu panggilan peringatan buat kita. Senang ketemu sama lu.
+BCE4W12	B0E8EADB	Oooh, yoi!
+BCE5@00	E6286826	Sialan, bro, terus sekarang gimana?
+BCE5@01	912F58B0	BABI POLISI!
+BCE5@02	0826090A	Apaan? Salah gue apaan lagi sekarang?
+BCE5@03	7F21399C	Oh, jadi DI SINI tempat lu keluyuran dari tadi, hah?
+BCE5@04	E145AC3F	GINI CARA LU membalas kelembutan cinta gue!
+BCE5@05	96429CA9	Lu lebih milih lekukan mobil dibandingin lekukan cewek asli?
+BCE5@06	0F4BCD13	Dengerin, Catalina, lu sendiri yang membatalkan hubungan kita, inget kagak, 'cuma bisnis'.
+BCE5@07	784CFD85	Pria macam apaan lu ini?
+BCE5@08	E8F3E014	Pas gue bilang 'cuma bisnis', maksud gue itu gue cinta sama lu!
+BCE5@09	9FF4D082	Pas gue bilang, gue kagak tertarik lagi, maksud gue itu gue merindukan lu!
+BCE5@10	FF335967	Tunggu, Catalina, tunggu! Jangan sentuh mobil gue,
+BCE5@11	883469F1	gue ngelakuin ini semua buat kita, buat gue sama lu!
+BCE5@12	113D384B	Udah terlambat. Gue kagak cinta sama lu lagi. Gue udah punya pasangan lain, oke?
+BCE5@13	663A08DD	Apaan?
+BCE5@14	F85E9D7E	Terus maksud omong kosong ini apaan dong?
+BCE5@15	8F59ADE8	Gue kagak bisa mengurung gairah asmara gue, gairah gue butuh pelepasan.
+BCE5@16	1650FC52	Itu tadi pelepasan yang mantap,
+BCE5@17	6157CCC4	kek memukul kepala cowok pake penggorengan pas dia lagi tidur.
+BCE5@18	F1E8D155	Ini, CARL, INI pacar baru gue.
+BCE5@19	86EFE1C3	Lu cemburu? Lu mau bertarung merebutkan gue?
+BCE5@20	D41E0AA4	Kagak, kagak, gue bisa menerima penolakan kok.
+BCE5@21	A3193A32	Lu cemburu sama pengecut!
+BCE5@22	3A106B88	Sekarang ayo kita balapan!
+BCE5@23	4D175B1E	Cewek gila.
+BCE5@24	D373CEBD	Apa-apaan bangsat?
+BCE5@25	A474FE2B	Tunggu! Woy, itu kan...
+BCE5@26	3D7DAF91	Sama pas gue bilang kalo gue kangen sama lu..!
+BCE5W00	FF41DDD3	Lu curang dapet keuntungan kagak adil!
+BCE5W01	8846ED45	Jadi pembalap yang lebih jago itu bukan curang namanya.
+BCE5W02	114FBCFF	Lu pikir lu pinter, tapi lu yang kagak paham maksudnya!
+BCE5W03	66488C69	Dia kagak cuma sekadar balapan, tapi dia juga memuaskan nafsu gue sepenuhnya!
+BCE5W04	F82C19CA	Keuntungan tongkat persneling manual kayaknya.
+BCE5W05	8F2B295C	Yoi terserah dah, omong-omong, mana nih, taruhan uang tunai apa BPKB mobil?
+BCE5W06	162278E6	Nih ambillah!
+BCE5W07	61254870	Selamat tinggal Tuan Johnson, gue KAGAK BAKAL merindukan lu!
+BCE5W08	F19A55E1	Woy, tunggu sebentar, lonte! Omong kosong apaan nih?
+BCE5W09	869D6577	Surat kepemilikan bengkel garasi di San Fierro.
+BCE5W10	E65AEC92	Pacar gue butuh mobilnya biar kita bisa pergi ke Liberty City.
+BCE5W11	915DDC04	Liberty City? Yoi, terserah dah, semoga bersenang-senang.
+BCE5W12	08548DBE	Pasti lah.
+BCE5W13	7F53BD28	Sip.
+BCE5W14	E137288B	Oke.
+BCE5W15	9630181D	SELAMAT TINGGAL!
+BCE5W16	0F3949A7	Lu mau ngomong apaan soal hal itu?
+BCE5W17	783E7931	Pergi sana, gue kagak bakal kangen sama lu.
+BCS5_AA	0FD4E754	Oh, Claude, lu bener-bener perkasa sama jantan banget!
+BCS5_AB	96DDB6EE	Claude, lu pengemudi terbaik yang pernah nidurrin gue!
+BCS5_AC	E1DA8678	Pegang setirnya, Claude, pegang setirnya!
+BCS5_AD	7FBE13DB	Oh Claude, ini lebih gede daripada tongkat persneling!
+BCS5_AE	08B9234D	Gue kagak pernah ngerasa sepuas ini!
+BCS5_AF	91B072F7	Lima kali orgasme cuma dalam waktu lima menit!
+BCS5_AG	E6B74261	Nikahin gue, Claude, nikahin gue!
+BCS5_AH	76085FF0	Oh Claude, gue kagak tahu apa gue sanggup jadi cewek seutuhnya!
+BCS5_BA	24F9B497	Woy, Carl, lu nyetir kek unta mabuk!
+BCS5_BB	BDF0E52D	Carl, lu cemburu ya, heh?
+BCS5_BC	CAF7D5BB	Claude punya ukuran yang gede banget, dia LUAR BIASA!
+BCS5_BD	54934018	Claude ngebikin lu keliatan kagak ada apa-apanya!
+BCS5_BE	2394708E	Akhirnya gue nemuin pria sejati yang bisa memuaskan gue!
+BCS5_BF	BA9D2134	Claude tuh jantan banget, PERKASA BANGET!
+BCS5_BG	CD9A11A2	Gue kagak pernah tahu kalo urusan ranjang bisa selezat INI!

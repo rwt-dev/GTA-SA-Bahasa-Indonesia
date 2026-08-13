@@ -1,0 +1,317 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	FED2A913	Buat nggunain kacamata penglihatan malam (night vision goggles) pilih dari inventaris lu terus pencet ~m~~widget_attack~.
+	4C97C2F7	Buat nembak pencet ~m~~widget_vc_shoot~.
+	D59E934D	Buat ngeliat ke sekeliling pake ~m~~widget_explicit_move_x~. Buat nembak pencet ~m~~widget_vc_shoot~.
+EPIL@00	750A248A	Enchilada! Semuanya ayo makan.
+EPIL@01	020D141C	Yoi, dulu gue kagak demen makanan Meksiko, tapi sekarang gue demen banget makanan bangsat ini.
+EPIL@02	9B0445A6	Yoi, kita udah tahu soal itu.
+EPIL@03	EC037530	Woy, gausah banyak gaya lu, bro (*holmes*). Makanan kita yang paling mantap.
+EPIL@04	7267E093	Rasanya pedas banget!
+EPIL@05	0560D005	Nah sekarang pas semuanya udah aman santai,
+EPIL@06	9C6981BF	kita harus tetep ada di puncak permainan kita.
+EPIL@07	EB6EB129	Tetep pantau semuanya, tapi halus.
+EPIL@08	7BD1ACB8	Kita punya masalah di Venturas, masalah di San Fierro.
+EPIL@09	0CD69C2E	Masalah kagak bakal pernah ada habisnya.
+EPIL@10	6C1115CB	Pasti lah. Maksud gue, Families udah bangkit berdiri lagi.
+EPIL@11	1B16255D	Tapi kita harus tetep ngunci aman semuanya
+EPIL@12	821F74E7	gara-gara banyak orang yang lagi mengawasi kita.
+EPIL@13	F5184471	Masuk aja.
+EPIL@14	6B7CD1D2	Gue dateng secara damai bareng Tuan Dogg di sini yang punya pengumuman.
+EPIL@15	1C7BE144	Plakat piringan emas pertama gue, maksud gue KITA.
+EPIL@16	8572B0FE	Sama gue udah memutuskan buat operasi implan payudara.
+EPIL@17	F2758068	Diem lu, bisa kagak?
+EPIL@18	62CA9DF9	Omong-omong, apa rencana kita selanjutnya?
+EPIL@19	15CDAD6F	Kita harus mampir ke kasino, main dadu bareng Woozie.
+EPIL@20	473C4608	Kagak, kita harus ngurusin masalah di sini dulu.
+EPIL@21	303B769E	- Kita bakal jalan tur konser, pengagum!~n~- Ada yang punya tisu kagak? Hidung gue... ingusnya kagak mau berhenti keluar - ada yang punya?
+EPIL@22	A9322724	Ada yang punya tisu kagak? Hidung gue... ingusnya kagak mau berhenti keluar - ada yang punya?
+EPIL@23	DE3517B2	Yoi, gue punya nih, di sebelah sini...
+EPIL@24	40518211	Carl, mau ke mana lu sekarang?
+EPIL@25	3756B287	Lagi bersiap mau keluyuran ke blok, ngeliat apa yang lagi terjadi.
+EPIL@26	AE5FE33D	Nah gitu dong, bro.
+EPIL@27	D958D3AB	(Sorak-sorai gembira)
+EPIL@28	49E7CE3A	Lu tau apa yang lagi gue omongin. Yoi, mereka udah denger kabar itu.
+EPIL@29	3EE0FEAC	(Sorakan ejekan)
+EPIL@30	5E277749	Uh, gue lewati dulu deh.
+RM4_1	5DEF1844	~s~Masuk ke dalam mobil bareng ~b~Sweet~s~.
+RM4_10	57355A3D	~r~Truk Tanker SWAT hancur! Gimana cara lu membobol Benteng Narkoba Big Smoke sekarang?
+RM4_11	20326AAB	~r~Sweet tewas!
+RM4_12	B93B3B11	~r~Lu ngancurin mobilnya!
+RM4_13	CE3C0B87	~s~Ada pintu masuk ke ~y~lantai satu~s~ di arah belakang area ini.
+RM4_14	50589E24	~s~Satu-satunya cara melewati pintu berlapis itu cuma pake cara merobohkannya.
+RM4_15	275FAEB2	~s~Hancurkan tembus ~y~tembok~s~ buat masuk ke dalam!
+RM4_16	BE56FF08	~s~Smoke ada di lantai Empat di ~y~Kamar Penthouse~s~ miliknya. Lu harus bertarung melewati tiga lantai buat nyampe ke sana.
+RM4_17	C951CF9E	Lantai 1: Area Keamanan
+RM4_18	59EED20F	Lantai 2: Laboratorium Narkoba
+RM4_19	2EE9E299	Lantai 3: Ruang Santai Ballas
+RM4_2	C4E649FE	~s~Nyetir menuju ke ~y~Benteng Narkoba Big Smoke~s~.
+RM4_20	7C1809FE	Lantai 4: Kamar Suite Smoke
+RM4_21	0B1F3968	~s~Bertarung menuju ke ~y~Lantai 4~s~.
+RM4_22	921668D2	~s~Bertarung menuju ke ~y~Lantai 2~s~.
+RM4_23	E5115844	~s~Bertarung menuju ke ~y~Lantai 3~s~.
+RM4_24	7B75CDE7	~s~Pergi habisi ~y~Big Smoke~s~.
+RM4_25	0C72FD71	Makan tuh granat, CJ!
+RM4_26	957BACCB	Matiin lampu studio!
+RM4_27	E27C9C5D	Aahh, mata gue buta!
+RM4_28	72C381CC	Smoke pake rompi anti-peluru. Buat memaksimalkan kerusakan yang lu hasilkan, bidik bagian tubuhnya yang lain.
+RM4_29	05C4B15A	Jangan cuma berdiri di situ, bantai dia anak-anak!
+RM4_3	B3E17968	Woy! Berhenti bercanda terus cari cara masuk ke dalam sana!
+RM4_30	650338BF	Tembakan bagus, tapi coba kita liat apa lu sejago itu di dalam kegelapan!
+RM4_31	12040829	~s~Smoke mematikan lampu, ambil ~g~kacamata termal (thermal goggles)~s~ di deket jendela bawah.
+RM4_32	8B0D5993	Buat pake kacamata penglihatan malam pilih dari inventaris lu terus ketuk ~m~~widget_attack~.
+RM4_33	FC0A6905	~s~Pake kacamata penglihatan malam yang baru aja lu ambil dari Big Smoke buat ngebantu lu ngeliat di dalam kegelapan terus ~y~kabur~s~ keluar dari gedung secepat mungkin.
+RM4_34	626EFCA6	Waktu
+RM4_35	1569CC30	~s~Lantai ini terbakar, pake ~g~alat pemadam api~s~ buat ngebantu lu keluar!
+RM4_36	8C609D8A	~s~Pake penglihatan termal buat mendeteksi ~r~Smoke~s~ sama anak buahnya lebih gampang.
+RM4_37	FB67AD1C	Bakar, CJ!
+RM4_38	6BD8B08D	~s~Tenpenny memicu ledakan, penerangan gedung mati sama seluruh tempat mulai terbakar habis. Lu harus keluar dari sini secepatnya!
+RM4_39	1CDF801B	Darah Smoke
+RM4_4	2D85ECCB	~s~Keamanan ketat di Benteng Narkoba. Cuma ada satu jalan masuk tapi pintunya terkunci rapat gara-gara kerusuhan.
+RM4_40	2A42AE78	Penglihatan malam bisa bikin kobaran api makin terang menyilaukan, jadi lu mungkin kudu berganti antara penglihatan malam sama penglihatan normal buat ngebantu ngeliat api lebih jelas.
+RM4_41	5D459EEE	~s~Ikutin Tenpenny terus pastiin ~b~Sweet~s~ aman, tetep di deket mobil pemadam kebakaran terus jangan ampe kehilangan Tenpenny.
+RM4_42	C44CCF54	~s~Jangan nyoba ngancurin mobil pemadam kebakaran atau lu bisa melukai ~b~Sweet~s~.
+RM4_43	B34BFFC2	~s~Polisi itu lagi menginjak-injak ~s~jari-jari tangan Sweet, tempetkan mobil lu di dekatnya jaga-jaga kalo dia kehilangan pegangan.
+RM4_44	2D2F6A61	~b~Sweet~s~ udah mau kehilangan pegangannya, posisikan mobil lu tepat di bawah ujung tangga terus tangkap ~s~Sweet~s~ sebelum pegangannya terlepas!
+RM4_45	5A285AF7	~r~Sweet tewas! Lu seharusnya menangkap dia, lain kali posisikan mobil lu tepat di bawah Sweet pas pegangannya mulai terlepas!
+RM4_46	C3210B4D	~r~Lu ngancurin mobil lu!
+RM4_47	B4263BDB	Pegangan Sweet
+RM4_48	2499264A	~s~Masuk balik ke dalam ~b~mobil~s~!
+RM4_49	539E16DC	~s~Kejar mobil pemadam kebakaran!
+RM4_5	5A82DC5D	~s~Kendaraan berat kek Truk Tanker SWAT bakal mampu merobohkan pintu masuk dengan gampang.
+RM4_50	33599F39	~r~Lu kehilangan Sweet! Lain kali tetep di posisi lebih deket!
+RM4_52	DD57FE15	Mobil
+RM4_53	AA50CE83	~r~Lu ngancurin mobil lu
+RM4_54	34345B20	Buat ngeliat ke sekeliling geser layar bagian tengah. Buat nembak ketuk ~m~~widget_vc_shoot~.
+RM4_6	C38B8DE7	~s~Pergi ambil ~b~Truk Tanker SWAT~s~.
+RM4_7	B48CBD71	~s~Masuk balik ke dalam ~b~mobil~s~!
+RM4_8	2433A0E0	~s~Pake Truk Tanker SWAT buat menabrak tembus pintu masuk ~y~Benteng Narkoba Big Smoke~s~.
+RM4_9	53349076	Lu harus menabrak tembus tembok itu, masuk balik ke dalam ~b~Truk Tanker SWAT~s~!
+ROT4_AA	15540094	Lu yakin dia ada di East Los Santos?
+ROT4_AB	8C5D512E	Yoi, pas di pinggiran Los Flores - ada beberapa apartemen tua sama gudang.
+ROT4_AC	FB5A61B8	Kalo gitu dia udah dianggap mati!
+ROT4_BA	3E795357	Gue kagak percaya lu masih ngebeli mobil ember rongsokan yang sama, bro!
+ROT4_BB	A77002ED	Woy, kalo kagak rusak, ngapain dibetulin.
+ROT4_BC	D077327B	Jadi ini puncaknya, ya?
+ROT4_BD	4E13A7D8	Yoi.
+ROT4_BE	3914974E	Anak-anak Johnson menyelesaikan urusan.
+ROT4_BF	A01DC6F4	Yoi.
+ROT4_BG	D71AF662	Gugup lu?
+ROT4_BH	47A5EBF3	Yoi.
+ROT4_BJ	A9AB8ADF	Gue juga, gue juga.
+ROT4_CA	27626216	Woy, CJ, nyali lu menciut?
+ROT4_CB	BE6B33AC	Masalahnya apaan, CJ, lu mau mundur?
+ROT4_CC	C96C033A	Jangan mundur sekarang, CJ, masuk ke dalam sana terus hadapi Smoke!
+ROT4_DA	6823F4D1	Lu kagak bakal bisa lolos gitu aja dari hal ini!
+ROT4_DB	F12AA56B	Sweet, jangan!
+ROT4_EA	7138C590	Bertahan Sweet!
+ROT4_EB	E831942A	Tetep bertahan di situ, bro!
+ROT4_EC	9F36A4BC	Dikit lagi dapet lu!
+ROT4_ED	0152311F	Hampir nyampe!
+ROT4_FA	5A159653	Gue kagak bakal kehilangan si bego ini!
+ROT4_FB	C31CC7E9	Gue kagak bakal biarin tuh keparat lolos!
+ROT4_FC	B41BF77F	Gue kagak bisa bertahan lebih lama lagi!
+ROT4_FD	2A7F62DC	Pegangan gue mau terlepas nih!
+ROT4_GA	430EA712	Bangsat tadi hampir aja!
+ROT4_GB	DA07F6A8	Aduh bro, tadi bener-bener hampir aja!
+ROT4_HA	C496BBDD	Tenpenny, lu sampah keparat bangsat!
+ROT4_HB	5D9FEA67	Gue kagak bakal biarin lu lolos gitu aja dari semua yang udah lu perbuat!
+ROT4_HC	2A98DAF1	Bakal gue kencingin mayat lu, Tenpenny!
+ROT4_JA	F6A0D95F	Pergi ke luar sana terus bantai tuh keparat!
+ROT4_JB	6FA988E5	Ini kendaraan polisi yang disita resmi!
+ROT4_JC	18AEB873	Lu lagi menuju ke kehancuran!
+ROT4_JD	86CA2DD0	Lu kagak bakal bertahan lama di hidup ini!
+ROT4_KA	EFBBE81E	Mati berdarah lu bangsat!
+ROT4_KB	76B2B9A4	Lepasin pegangan lu, keparat bego!
+ROT4_KC	01B58932	Menyerah aja, semuanya udah selesai!
+ROT4_KD	9FD11C91	Ngentot lu, babi polisi!
+ROT4_KE	E8D62C07	Argh! Jari-jari tangan gue!
+ROT4_KF	71DF7DBD	Lepasin gue, lu gila!
+ROT4_KG	06D84D2B	Keparat sakit jiwa!
+ROT4_KH	966750BA	CJ, tembak tuh keparat bangsat!
+ROT4_KJ	78693196	CJ, lakuin sesuatu!
+ROT4_LA	A0FA7ED9	Oh taaaaaiiii!
+ROT4_LB	39F32F63	Bangsat, JANGAANNNN!
+ROT4_MA	B9E14F98	Sekarang, Sweet, lepasin pegangan lu!
+ROT4_MB	20E81E22	Oh taaaaaiiii!
+ROT4_MC	57EF2EB4	Dapet lu!
+ROT4_MD	C98BBB17	Keparat bangsat!
+ROT4_ME	BE8C8B81	Pegang kemudinya, ini waktunya pembalasan dendam!
+ROT4_NA	92CC1C5B	Para Perusuh ada di atas jembatan di depan!
+ROT4_NB	0BC54DE1	Mereka melempar barang-barang dari atas jembatan!
+ROT4_NC	7CC27D77	Para perusuh di depan!
+ROT4_ND	E2A6E8D4	Anak Ballas di depan!
+ROT4_NE	95A1D842	Perusuh Vagos mendekat!
+ROT4_NF	0CA889F8	Perusuh Varrios!
+ROT4_NG	7BAFB96E	Barikade jalan!
+ROT4_NH	EB10A4FF	Awas, barikade jalan!
+ROT4_NJ	051EC5D3	Oh tai, ada lalu lintas dari arah berlawanan!
+ROT4_NK	7219F545	Tembak tuh keparat!
+ROT4_NL	EC7D60E6	Robohkan babi polisi bangsat itu!
+ROT4_NM	9B7A5070	Oh ngentot, tumpahan oli!
+ROT4_NN	027301CA	Taik, air genangan di seluruh jalanan!
+ROT4_NO	7574315C	OLI!
+ROT4_NP	F87C3CA9	Mobil itu menumpahkan air!
+ROT4_NQ	8F7B0C3F	Mobil pemadam tumpah oli!
+ROT4_NR	16725D85	Polisi di belakang kita!
+ROT4_NS	61756D13	Polisi di depan!
+ROT4_NT	FF11F8B0	Garda Nasional!
+ROT4_NU	8816C826	Barikade jalan Garda Nasional!
+ROT4_OA	8BD72D1A	Semuanya udah selesai, Tenpenny, SELESAI!
+ROT4_OB	12DE7CA0	Oh kagak, ini baru aja dimulai!
+ROT4_OC	65D94C36	Gue bakal membeli kehidupan baru, keparat!
+ROT4_OD	FBBDD995	Gue bakal menghentikan lu bangsat!
+ROT4_PA	468D2384	Keparat bangsat, Truk Tanker SWAT!
+ROT4_PB	DF84723E	Tembak hancur ban-bannya!
+ROT4_PC	A88342A8	Nah gitu dong bro!
+ROT4_QA	5F9612C5	Mobil pemadam kebakaran itu kagak bisa dihancurin!
+ROT4_QB	C69F437F	Kita kagak bakal bisa bikin penyok tuh mobil!
+ROT4_QC	B19873E9	Dia mencoba menabrak kita!
+ROT4_QD	2FFCE64A	Bersiap tahan posisi!
+ROT4_QE	58FBD6DC	Dia nyoba mepetin kita keluar jalanan!
+ROT4_RA	74BB4106	Dia mulai kehilangan kendali!
+ROT4_RB	EDB210BC	Dia udah kehilangan kendali!
+ROT4_RC	9AB5202A	Truknya mulai hilang kendali!
+ROT4_RD	04D1B589	Kita dapet tuh keparat bangsat!
+ROT4_RE	73D6851F	Dia kehilangan kendali!
+ROT4_SA	6DA07047	Woy, babi polisi kagak seharusnya bisa terbang!
+ROT4_SB	F4A921FD	Jatuh terbakar! JATUH TERBAKAR!
+ROT4_TA	22E1E680	Beberapa perusuh ngejar kita pake motor!
+ROT4_TB	BBE8B73A	Anak-anak motor gila lagi mengamuk!
+ROT4_TC	CCEF87AC	Awas, CJ!
+ROT4_TD	528B120F	Di depan, Carl, di depan!
+ROT4_TE	258C2299	Mata lurus ke depan, CJ!
+ROT4_TF	BC857323	Awasin bagian belakang kita!
+ROT4_TG	CB8243B5	Fokus aja ngalihin para orang gila ini dari kita, CJ.
+ROT4_TH	5B3D5E24	Gue lagi fokus ke Tenpenny, dia kagak bakal bisa kabur!
+ROT4_TJ	B5333F08	Dari mana aja sih bermunculan para keparat ini?
+ROT4_TK	C2340F9E	Kota ini bener-bener udah gila!
+ROT4_TL	5C509A3D	Para perusuh keluar buat bikin masalah sama siapa aja!
+ROT4_TM	2B57AAAB	Gue bakal tetep nempel sama Tenpenny, kagak usah khawatir!
+ROT4_UA	3BFAD7C1	Lu pake rompi anti-peluru, Smoke?
+ROT4_UB	A2F3867B	Bro, gue kecewa sama lu - gue kira lu gengster sejati!
+ROT4_UC	D5F4B6ED	Woy, gue ini selebriti bangsat.
+ROT4_UD	4B90234E	Segala jenis orang gila di luar sana mau minta bagian dari gue!
+ROT4_ZA	BC62CB0E	Tembak mereka! Tolongin gue!
+ROT4_ZB	256B9AB4	Siapa aja tolongin Smoke!
+ROT4A00	12CA87F3	Woy, Sweet!
+ROT4A01	65CDB765	Ada apaan?
+ROT4A02	FCC4E6DF	Udah waktunya buat nyelesain Smoke.
+ROT4A03	8BC3D649	Sip ayo gaskan cabut.
+ROT4A04	15A743EA	Anak-anak Johnson bersiap membantai si gendut bego itu!
+ROT4A05	62A0737C	membantai si gendut bego itu, gaya Grove sejati.
+ROT4B00	108C39AA	Dengerin.
+ROT4B01	678B093C	Gue tau lu siap buat ini, tapi gue harus masuk ke dalam sana sendiri.
+ROT4B02	FE825886	Smoke udah membodohi gue.
+ROT4B03	89856810	Tenpenny udah membodohi gue.
+ROT4B04	17E1FDB3	Mereka membodohi kita semua.
+ROT4B05	60E6CD25	Yoi, tapi lu bener - gue itu pecundang (*buster*) pas keluarga gue paling membutuhkan gue.
+ROT4B06	F9EF9C9F	Woy, gue biarin Brian mati, bro.
+ROT4B07	8EE8AC09	Ini semua buat dia, buat Ibu... sama buat lu, bro.
+ROT4B08	1E57B198	Buat Grove Street, sayang.
+ROT4B09	6950810E	Yoi, buat Grove, sayang.
+ROT4B10	099708EB	Woy - kalo lu butuh gue, lu tau gue ada di mana.
+ROT4B11	7E90387D	Pasti lah. Lu selalu ada buat gue, bro.
+ROT4B12	E79969C7	Yoi.
+ROT4B21	55BD6BBE	Apaan?
+ROT4C00	114E539D	Woy, Smoke!
+ROT4C01	6649630B	Woy CJ, gue sempet heran kapan lu bakal muncul.
+ROT4C02	FF4032B1	Gimana ceritanya lu tau itu gue?
+ROT4C03	88470227	Gue tau itu kawan lama gue CJ.
+ROT4C04	16239784	Gue tau lu bakal dateng dan gue kagak peduli sama sekali.
+ROT4C05	6124A712	Gue di sini buat ngurusin pantat gendut lu,
+ROT4C06	F82DF6A8	habis itu gue bakal ngurusin kawan-kawan lu di kepolisian.
+ROT4C07	8F2AC63E	Di mana mereka sekarang?
+ROT4C08	1F95DBAF	Bro, ini barang racikan mantap banget...
+ROT4C09	6892EB39	Persetan Tenpenny sama persetan anjing penjilat Polandia miliknya.
+ROT4C10	085562DC	sama persetan polisi, bro. Itu semua cerita lama.
+ROT4C11	7F52524A	Liat diri lu, lu punya seluruh dunia. Gue kagak punya penyesalan apa-apa, bro.
+ROT4C12	E65B03F0	Gue kagak peduli. Persetan sama seluruh dunia ini.
+ROT4C13	915C3366	Gue udah berhasil, CJ! Gue sukses besar.
+ROT4C14	0F38A6C5	Gue kagak tersentuh!
+ROT4C15	783F9653	Apa yang terjadi sama lu, bro?
+ROT4C16	E136C7E9	Bro, ngapain juga lu peduli bangsat?
+ROT4C17	9631F77F	Kayakya mending kita selesain hal ini kalo gitu...
+ROT4C18	068EEAEE	Bro, persetan sama hal ini.
+ROT4D00	14014518	Woy, Smoke, apa yang bikin lu berubah kek gitu, bro?
+ROT4D01	6306758E	Apa gara-gara narkoba, atau apaan?
+ROT4D02	FA0F2434	Gue kejebak sama duit, kekuasaan...
+ROT4D03	8D0814A2	Gue kagak peduli. Oh ngentot, bro...
+ROT4D04	136C8101	Kenapa lu kagak berhenti aja dari dulu, bro?
+ROT4D05	646BB197	Kita itu udah kek keluarga sendiri, sob.
+ROT4D06	FD62E02D	Gue kagak punya pilihan... Gue kudu ngelakuinnya...
+ROT4D07	8A65D0BB	Gue cuma melihat adanya kesempatan.
+ROT4D08	1ADACD2A	Pas gue udah mati ntar, semua orang bakal mengingat nama gue...
+ROT4D09	6DDDFDBC	...Big Smoke!
+ROT4D10	0D1A7459	Oh, sialan, bro...
+ROT4D11	7A1D44CF	Carl Johnson. Kawan gue.
+ROT4D12	E3141575	Gue butuh lu ngelakuin satu bantuan lagi buat gue.
+ROT4D13	941325E3	Lu udah ngebunuh Pulaski, terus sekarang si gendut ini - kagak ada yang bisa menghentikan lu!
+ROT4D14	0A77B040	Jatuhkan senjatanya.
+ROT4D15	7D7080D6	Lu kagak bakal keluar dari sini hidup-hidup, bro.
+ROT4D16	E479D16C	Di mana abang lu sekarang, hah?
+ROT4D17	937EE1FA	Kenapa lu kagak langsung nembak gue dari belakang aja?
+ROT4D18	03C1FC6B	Ngerasa kagak aman, hah?
+ROT4D19	74C6CCFD	Diemin mulut bego lu terus isi tasnya.
+ROT4D20	2637279A	Jadi gimana rasanya, Tenpenny, hah?
+ROT4D21	5130170C	Sendirian, kagak ada yang melindungin belakang lu?
+ROT4D22	C83946B6	Kenapa lu mikir gue sendirian?
+ROT4D23	BF3E7620	Gue punya beberapa polisi pemula di luar.
+ROT4D24	215AE383	Tapi gue kudu ngebuka mata mereka pelan-pelan, lu tau lah -
+ROT4D25	565DD315	- sedikit kebenaran di sini, sedikit kebenaran di sana...
+ROT4D26	CF5482AF	Sip lah, persetan, udah cukup.
+ROT4D27	B853B239	Lempar tasnya ke sini, gue kudu ngejar mobil pemadam kebakaran.
+ROT4D28	28ECAFA8	Lu gila bro, lu udah hilang akal... lu udah hancur.
+ROT4D29	5FEB9F3E	Separuh kota lagi nyari polisi buat dibunuh, Carl,
+ROT4D30	3F2C16DB	dan gue kagak sudi diseret keluar dari mobil patroli
+ROT4D31	482B264D	terus dipukulin ampe mati sama amukan massa gila. Kagak malam ini.
+ROT4D32	D12277F7	Lu mau mengejar apaan, pesawat terbang?
+ROT4D33	A6254761	Pintar pintar pintar! Jawaban bagus, Carl!
+ROT4D34	3841D2C2	Lu tau, lu bakal berterima kasih sama gue suatu hari nanti
+ROT4D35	4F46E254	gara-gara udah ngebuka mata bangsat lu.
+ROT4D36	D64FB3EE	Oh! Gue hampir lupa, Carl!
+ROT4D37	A1488378	Waktunya buat mati!
+ROT4D38	31F79EE9	Uh, Sweet!
+ROT4D39	46F0AE7F	Sia-sia banget.
+ROT4D40	706D801C	Ayolah jalan, gue kagak punya waktu main-main sama lu!
+ROT4D41	076AB08A	Sial banget, hah?
+ROT4D42	9E63E130	Apaan? Bangs-
+ROT4D43	E964D1A6	Ini belum selesai, Carl! Ini belum selesai!
+ROT4E00	15C32F2F	Ayolah para keparat. Gue ladenin kalian semua.
+ROT4E01	62C41FB9	Kalian milik gue! Milik gue! Gue yang menguasai kota ini!
+ROT4E02	FBCD4E03	Woy, sebelah sini! Woy! Ada petugas polisi tumbang!
+ROT4E03	8CCA7E95	Ayolah! WOY!
+ROT4E04	12AEEB36	Para keparat! Kalian kagak bakal pernah paham apa yang udah gue lakuin!
+ROT4E05	65A9DBA0	Gue membawa ketertiban di tengah kekacauan bangsat ini!
+ROT4E06	FCA08A1A	Kalo ada lima puluh orang kek gue kota ini bakal aman-aman aja.
+ROT4E07	8BA7BA8C	Gue membuang semua sampah-sampah kriminal!
+ROT4E08	1B18A71D	GUE YANG NGELAKUINNYA!
+ROT4E09	6C1F978B	Sama gue bakal ngelakuin itu semua lagi...
+ROT4E10	0CD81E6E	Jangan... jangan lakuin bro, dia udah tewas.
+ROT4E11	7BDF2EF8	Gue cuma mau memastikan semuanya beneran udah selesai, bro. Gitu doang.
+ROT4E12	E2D67F42	Gitu doang.
+ROT4E13	95D14FD4	Kagak masalah, kagak perlu nembak peluru lagi ke dia.
+ROT4E14	0BB5DA77	kagak perlu nembak peluru lagi ke dia.
+ROT4E15	7CB2EAE1	Dia tewas gara-gara kecelakaan lalu lintas sendiri.
+ROT4E16	E5BBBB5B	Kagak ada yang bisa disalahin.
+ROT4E17	92BC8BCD	Ayo kita cabut.
+ROT4E18	0203965C	Maksud gue, luar biasa banget, bro. Lu tau kan, maksud gue, lu berhasil mengalahkan sistem!
+ROT4E19	7504A6CA	Gue udah nyoba selama tiga puluh tahun buat melintasi batas itu
+ROT4E20	27F54DAD	tapi lu berhasil ngelakuinnya, bro.
+EPIL@21	A9322724	Maksud gue, bro, lu itu ikon sejati, bro!
+EPIL@22	DE3517B2	Oh - makasih, bro.
+EPIL@23	40518211	Gue cuma lega semuanya akhirnya beneran selesai.
+EPIL@24	3756B287	Gimana kabar Soal Smoke?
+EPIL@25	AE5FE33D	Lu tau sendiri gimana kabar Soal Smoke.
+EPIL@26	D958D3AB	Dia dari dulu selalu ngeliat hal-hal agak beda dibandingin kita.
+EPIL@27	49E7CE3A	Smoke? Smoke dari dulu selalu jalan sendiri, selalu cuma mikirin diri sendiri doang.
+EPIL@28	3EE0FEAC	Itu jalan paling pasti menuju ke neraka, bro.
+EPIL@29	5E277749	Yaa - itu atau lima belas kapsul narkoba mikro sama satu ons meskalin.
+EPIL@30	5DEF1844	Ayo kita pergi beli makanan.
+EPIL@31	57355A3D	Sampai ketemu lagi.
+EPIL@32	20326AAB	Pak Polisi.
+EPIL@33	B93B3B11	Dengerannya mantap buat gue.

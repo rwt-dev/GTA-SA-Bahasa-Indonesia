@@ -1,0 +1,157 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+WOO1@00	61DE94C2	Kita tutup! Pokgai!
+WOO1@01	16D9A454	Santai, bro, aku ke sini mau nemuin Woozie.
+WOO1@02	8FD0F5EE	Oh. Di lantai atas.
+WOO1@03	F8D7C578	Aku Johnson. Aku ke sini mau ketemu Woozie, aku kerja bareng dia.
+WOO1@04	66B350DB	Kamu tahu soal kutukan bos?
+WOO1@05	11B4604D	Kutukan? Ogah.
+WOO1@06	88BD31F7	Dia buta.
+WOO1@07	FFBA0161	Buta? Tapi kita baru aja balapan mobil minggu lalu!
+WOO1@08	6F051CF0	Ya, aku tahu. Dia diberkahi keberuntungan luar biasa yang nggak masuk akal.
+WOO1@09	18022C66	Dan Triad bakal ngelakuin apa aja buat dia.
+WOO1@10	78C5A583	Kita manggil dia si Pembawa Hoki (*Lucky Mole*).
+WOO1@11	0FC29515	Baiklah. Bakal kuingat itu.
+WOO1@12	96CBC4AF	Bagus.
+WOO1@13	E1CCF439	Woozie!
+WOO1@14	7FA8619A	Halo, Carl.
+WOO1@15	08AF510C	Woy, ada apa nih Woozie — tau sendiri, gimana kabarmu?
+WOO1@16	91A600B6	Langsung ke intinya aja;
+WOO1@17	E6A13020	Aku nggak bisa nerima bantuanmu kecuali kalau aku terbuka sama kamu
+WOO1@18	761E2DB1	tentang siapa aku dan apa yang kulakuin.
+WOO1@19	01191D27	Biar aku perkenalkan diri lagi...
+WOO1@20	53E8F640	Aku adalah bos dari Mountain Cloud Boys.
+WOO1@21	24EFC6D6	Senang berkenalan denganmu.
+WOO1@22	BDE6976C	Sama-sama. Kenapa kamu nggak duduk dulu.
+WOO1@23	CAE1A7FA	Sebagai Dai Dai Lo dari Triad, sudah jadi tanggung jawabku buat mastikan
+WOO1@24	54853259	perselisihan diselesaikan tanpa... merusak bisnis penting.
+WOO1@25	238202CF	Di mana posisiku dalam hal ini?
+WOO1@26	BA8B5375	Nanti kita lihat.
+WOO1@27	CD8C63E3	Aku mau mendatangi markas kelompok Triad lokal
+WOO1@28	5D337E72	yang mangkir nggak dateng di pertemuan Tong terakhir.
+WOO1@29	2A344EE4	Ikut aku, dan kamu bakal lihat bagaimana kita orang Triad menyelesaikan masalah
+WOO1@30	4AF3C701	tanpa harus memakai... kekerasan yang nggak perlu.
+WOO1@31	3DF4F797	Baiklah, aku bakal ikut naik mobilmu.
+WOO1@32	A4FDA62D	Sialan tolol...
+WOO1@33	D3FA96BB	Ya, lewat sini.
+WUZ1_AA	6DCF409D	Kita butuh tumpangan, mobilku lagi dibenerin body-nya.
+WUZ1_AB	F4C61127	Baiklah, nggak usah panik.
+WUZ1_BA	46E2135E	Cepatlah, Woozie. Ada apa sih?
+WUZ1_BB	DFEB42E4	Ya, err, aku cuma lagi ngira-ngira arah.
+WUZ1_CA	5FF9221F	Triad Blood Feather punya tempat penyimpanan di sekitar blok ini.
+WUZ1_CB	C6F073A5	Kita bakal lihat alasan apa yang bakal mereka kasih.
+WUZ1_CC	B1F74333	Oke. Jadi apa maksud obrolan bisnis ini?
+WUZ1_CD	2F93D690	Beberapa geng Vietnam kelas teri bikin masalah belakangan ini.
+WUZ1_CE	5894E606	Kita nggak yakin kenapa mereka mendadak berani sekarang, tapi aku ngerasa cemas sama situasi ini.
+WUZ1_CG	B69A872A	Terus di mana posisi aku dalam semua urusan ini?
+WUZ1_CH	26259ABB	Kamu orang luar.
+WUZ1_DA	10B8B4D8	Ini tempatnya!
+WUZ1_DB	89B1E562	Bau apa ini?
+WUZ1_DC	FEB6D5F4	Binatu (*Laundry*).
+WUZ1_DD	60D24057	Ayo, lewat sini.
+WUZ1_EA	09A38599	Woy, ke mana perginya orang-orang ini?
+WUZ1_EB	90AAD423	Mau pada ke mana mereka?
+WUZ1_EC	E7ADE4B5	Ada yang nggak beres di sini. Kita harus hati-hati...
+WUZ1_EE	0ECE4180	Ikuti aku.
+WUZ1_FA	228ED65A	Ada yang nggak beres.
+WUZ1_FB	BB8787E0	Nggak usah ditanya, ke mana perginya semua orang?
+WUZ1_FC	CC80B776	Bersembunyi, ketakutan. Aku bisa mencium bau mereka.
+WUZ1_FD	52E422D5	Kita harus lanjut dengan hati-hati.
+WUZ1_FE	25E31243	Sepertinya lewat sini.
+WUZ1_GA	3B95E71B	Tunggu sebentar, lagi mastiin arah dulu.
+WUZ1_GB	A29CB6A1	Ini sangat menarik...
+WUZ1_GC	D59B8637	Hmmm, ya, bikin penasaran...
+WUZ1_GD	4BFF1394	Dengan angin di sebelah kananku, jaadi...
+WUZ1_GE	3CF82302	Tadi itu lima belas langkah, atau lima belas kaki?
+WUZ1_GF	A5F172B8	Ah, bukan, sekarang aku udah dapet...
+WUZ1_GG	D2F6422E	Dua kios terus belok kiri, eh bukan, kanan...
+WUZ1_GH	42495FBF	Itu bau yang sedari tadi kucari.
+WUZ1_GJ	AC473E93	Sekarang... di mana batu kerikil yang longgar itu?
+WUZ1_GK	DB400E05	Harusnya ada saluran pembuangan air di sekitar sini...
+WUZ1_GL	45249BA6	Ah, suara decak kaki tikus kecil yang khas!
+WUZ1_GM	3223AB30	18, 19, dua puluh. Tadi itu kanan apa kiri ya?
+WUZ1_HA	BC0DFBD4	Kamu dengar sesuatu?
+WUZ1_HB	2504AA6E	Yoi, suara lalu lintas sama hal tidak penting lainnya.
+WUZ1_HC	52039AF8	Tepat sekali! Percaya sama aku, aku tahu apa yang kulakuin. Ikuti aku!
+WUZ1_JA	8E3B9956	Woy, apa yang kamu lakuin sih?
+WUZ1_JB	1732C8EC	Cuma, eerr, ngecek, um, tau sendiri lah. Diam, Carl.... LEWAT SINI!
+WUZ1_KA	9720A817	Ada apa sih? Nyasar? Butuh bantuan?
+WUZ1_KB	0E29F9AD	NGGAK!
+WUZ1_KC	792EC93B	Nggak, aku cuma, kamu tahu sendiri, lagi ngerasain suasana tempatnya.
+WUZ1_KD	E74A5C98	Tetap di dekatku!
+WUZ1_LA	D8613ED0	Ah, kita sampai! Lewat sini!
+WUZ1_LB	41686F6A	Nah, ini tempatnya.
+WUZ1_LC	366F5FFC	Aneh, gerbang ini biasanya terkunci.
+WUZ1_LD	A80BCA5F	Aneh, gerbang ini harusnya dikunci...
+WUZ1_MA	C17A0F91	Ya ampun, Woozie...
+WUZ1_MB	58735E2B	Kenapa kaget gitu?
+WUZ1_MC	2F746EBD	Oh, oh sori, nggak ngeliat kamu rebahan di situ.
+WUZ1_MD	B110FB1E	Dia mati. Semuanya tewas.
+WUZ1_ME	C617CB88	Blood Feather dibantai habis?
+WUZ1_MF	5F1E9A32	Dai Dai Lo! Maafkan aku, aku terlalu takut buat bertarung, jadi aku bersembunyi.
+WUZ1_MG	2819AAA4	Cukup! Apa yang sebenarnya terjadi di sini?
+WUZ1_MH	B8A6B735	Orang Vietnam menyerang kita tiba-tiba, menebas kita semua.
+WUZ1_MJ	56A8D619	Sial, mereka datang lagi!
+WUZ1_NA	EA575C52	Anak-anak Triad harus menuntut balas!
+WUZ1_NB	735E0DE8	CJ, ikuti aku dan tetap di dekatku!
+WUZ1_NC	04593D7E	Siap?
+WUZ1_ND	9A3DA8DD	MATI KAU ANAK JALANG KEPARAT!
+WUZ1_NE	ED3A984B	Kelihatannya aman, jalan! Jalan!
+WUZ1_NF	7433C9F1	Kurasa aku sudah menghabisi mereka semua!
+WUZ1_NG	0334F967	Sialan selokan, itu tadi peluru penembak jitu (*sniper*)!
+WUZ1_NH	938BE4F6	Sial, aku err, ada sesuatu masuk ke mataku, apa aman buat bergerak?
+WUZ1_NJ	7D8585DA	IBU KALIAN ADALAH PELACUR SETAN!
+WUZ1_NK	0A82B54C	DARAH KALIAN BAKAL MENGALIR SEPERTI ANGUR!
+WUZ1_NL	94E620EF	RASAKAN KOTORAN TIMAH PANAS INI!
+WUZ1_NM	E3E11079	KALIAN BAKAL BERKELANA SEBAGAI HANTU!
+WUZ1_NN	7AE841C3	KEPARAT TERKUTUK!
+WUZ1_NO	0DEF7155	CJ, habisi penembak jitu itu!
+WUZ1_NP	80E77CA0	Lindungi aku, CJ, aku maju!
+WUZ1_NQ	F7E04C36	Aku keluar dari tempat persembunyian, CJ, berondong mereka!
+WUZ1_OA	F34C6D13	Sialan, bro, masih banyak lagi di depan!
+WUZ1_OB	6A453CA9	Sial, bro, mereka benar-benar pengen kamu mati!
+WUZ1_OC	1D420C3F	Kulihat dia. Dia ada di atas atap!
+WUZ1_OD	8326999C	OKE, aman, Woozie, JALAN!
+WUZ1_OE	F421A90A	Terobos saja, Woozie!
+WUZ1_OG	1A2FC826	Tunggu dulu, Woozie, kita masih ada masalah!
+WUZ1_OH	8A90D5B7	Tiarap!
+WUZ1_OJ	649EB49B	Woozie, jangan berisik, kita masih ada masalah!
+WUZ1_OK	1399840D	Masuk mobil, cepat!
+WUZ1_OL	8DFD11AE	Naik ke bagian belakang motor!
+WUZ1_OM	FAFA2138	Naik motor, cepat!
+WUZ1_ON	63F37082	Ayo kita cabut dari sini!
+WUZ1_OO	14F44014	Ayo kita pergi dari tempat keparat ini!
+WUZ1_OP	99FC4DE1	Kita kedatangan tamu lagi!
+WUZ1_OQ	EEFB7D77	Ada mobil mengekor di belakang!
+WUZ1_OR	77F22CCD	Lebih banyak lagi, naik mobil!
+WUZ1_PA	3E16638D	Kamu yang nyetir, biar kulempar mereka balik ke selokan!
+WUZ1_PB	A71F3237	Terus nyetir, aku bakal urus sampah-sampah pembunuh ini!
+WUZ1_QA	270D52CC	Sepertinya itu yang terakhir dari mereka.
+WUZ1_QB	BE040376	Oke, ayo balik ke tempatku.
+WUZ1_QC	C90333E0	Ini adalah hari kelam bagi Red Gecko Tong.
+WUZ1_QD	5767A643	Kita telah kehilangan anggota Triad oleh penyusup.
+WUZ1_QE	206096D5	Mountain Cloud Boys tidak bakal tenang sebelum Blood Feathers dibalas.
+WUZ1_QF	B969C76F	Lain kali saja, Woozie, lain kali.
+WUZ1_QG	CE6EF7F9	Ya.
+WUZ1_QH	5ED1EA68	Pertama kita harus berkabung dan mengurus pemakaman.
+WUZ1_RA	0C20010F	Terima kasih, Carl, kamu telah menyelamatkanku dari keharusan membunuh mereka semua sendirian.
+WUZ1_RB	952950B5	Yoi, sama-sama. Telpon saja kalau butuh bantuan lagi, bro.
+WUZ1_RC	E22E6023	Tentu saja.
+WUZ1_RD	7C4AF580	Nih, tanda apresiasi dari Tong atas apa yang kamu lakukan hari ini.
+WZ1_1	5E0A3AF9	~s~Antar Woozie ke ~y~pertemuan~s~ Tong.
+WZ1_17	7C82E58D	~s~Ikuti ~b~Woozie~s~ dan lindungi dia dari ~r~penyergapan~s~.
+WZ1_19	9B3AC88A	Woozie
+WZ1_2	C7036B43	~s~Tunggu Woozie.
+WZ1_3	B0045BD5	~s~Ikuti ~b~Woozie~S~
+WZ1_37	4EB4870F	~s~Biarkan Woozie menghancurkan ~r~mobil-mobil~s~ yang menyerang.
+WZ1_39	A90CAA08	~s~Antar Woozie balik ke ~y~tempat tinggalnya~s~.
+WZ1_40	9F91846B	~r~Woozie Tewas!
+WZ1_41	E896B4FD	~s~Kamu meninggalkan ~b~Woozie~s~! Kembali dan jemput dia.
+WZ1_B1	91F36A8D	~s~Keluar dari gang dan lindungi Woozie dari geng yang menyerang!
+WZ1_B2	08FA3B37	~s~Bawa Woozie kembali ke ~y~tempat tinggalnya
+WZ1_B3	7FFD0BA1	~s~Kalau kamu pergi sekarang Woozie bakal kehilangan muka. Kembali dan habisi sisa ~r~musuh!
+WZ1_B4	E1999E02	~s~Tetap dekat dengan ~b~Woozie~s~.

@@ -1,0 +1,138 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	90381B24	Pencet ~m~~widget_horn~ buat menaikkan dan menurunkan hidrolik kendaraan.
+LOWR_AA	7B583508	Kagak bro, lu butuh pegas yang BNERAN bukan barang standar kek gini.
+LOWR_AB	E25164B2	Bro, mobil lu kudu diatur biar bisa melompat, kawan!
+LOWR_AD	0B32C187	Lu lagi halu ya, bro (*ese*)? Gimana cara lu mau ikut bersaing tanpa mobil ceper (*ride*)?
+LOWR_AE	7C35F111	Bro, lu harus punya mobil lowrider buat bisa melompat-lompat!
+LOWR_AG	923B903D	Lu kagak bisa ikutan kontes curacha itu, cari mobil lowrider sana!
+LOWR_AH	02848DAC	Ini kontes buat mobil keren (*firme rides*), bro (*ese*), bukan buat mobil rongsokan jadul!
+LOWR_AK	9B8DDC16	Uang tunai lu kagak cukup buat main, bro (*ese*).
+LOWR_AL	05E949B5	Lu harus naruh taruhan uang tunai yang beneran, kawan!
+LOWR_BD	201F9244	Kawan gue (*ese*) bakal ngetes apakah lu cukup layak, hah!
+LOWR_CA	496E578A	Gue pernah liat yang lebih parah, tapi penampilan lu lumayan kok.
+LOWR_CB	D0670630	Lu lumayan jago buat ukuran pemula, hah!
+LOWR_DA	062FC14D	Mungkin kontes lompat mobil ini cuma buat anak-anak latino (*eses*) doang.
+LOWR_DB	9F2690F7	Woy kawan, mungkin sebaiknya lu beralih main golf atau semacamnya aja dah.
+LOWR_EA	1F34F00C	Lompatannya tinggi dan mantap banget tuh, hah?
+LOWR_EB	863DA1B6	Sial, liat tuh mobil anak Grove melompat-lompat!
+LOWR_EC	F13A9120	Sialan, kawan, tuh anak bego jago banget melompatkan mobilnya!
+LOWR_ED	6F5E0483	Woy, kawan, lu melompat-lompat udah kayak jagoan profesional!
+LOWR_EE	18593415	Sialan, kawan, dia bakal bikin mobilnya hancur berantakan karena getaran!
+LOWR_EF	815065AF	Sialan, bro, dia bikin kita semua keliatan payah!
+LOWR_FA	3419A3CF	Ayolah bro (*Dog*), ibu ku aja bisa melompat lebih bagus dari itu!
+LOWR_FB	AD10F275	Woy kawan, mending lu fokus ngecat grafiti aja deh!
+LOWR_FC	DA17C2E3	Ah, pengkhianat sialan!
+LOWR_FD	44735740	Woy, anak bego ini emang kagak punya bakat yang dibutuhin.
+LOWR_FE	337467D6	Lu masih keliatan payah di depan anak-anak blok lu sendiri.
+LOWR_FF	AA7D366C	Bro, kawan, lu mulai kehilangan kendali!
+LOWR_GA	2D02928E	Kerja bagus, hah. Kita biasanya nongkrong di sini antara jam 8 sampai 10 malam,
+LOWR_GB	B40BC334	kalau lu punya mobil lowrider gaul sama uang saku buat dihamburkan, ya dateng aja kesini.
+LOWR_HA	AA9A8E41	Lagi nyari sesuatu, bro (*ese*)?
+LOWR_HB	3393DFFB	Woy mobilnya keren, lagi nyari ajang kompetisi ya?
+LOWR_HC	4494EF6D	Woy kawan, kalau lu mau, gue bisa nunjukin tempat lombanya di mana.
+LOWR_HD	DAF07ACE	Ikutin gue.
+LOWR_KA	81B7DD82	Jadi, lu pasti adiknya Sweet, hah?
+LOWR_KB	18BE8C38	Dia udah telpon duluan tadi, bilang kalau lu lagi nyari mobil yang bisa melompat-lompat.
+LOWR_KC	6FB9BCAE	Yah, gue punya utang budi besar sama dia dari jaman dulu, jadi nih, barang ini bakal pas buat lu.
+LOWR_KD	F1DD290D	Pegas custom ini bakal bikin mobil lu melompat-lompat sampai rumah! Coba rasakan sendiri.
+LOWR_KE	86DA199B	Sangat populer di kalangan anak-anak Latino (*eses*) - mereka sering ngadain kompetisi pake mobil ini.
+LOWR_KF	1FD34821	Lu biasanya bisa nemuin mereka di sekitar Stasiun Unity.
+LOWR_KG	68D478B7	Kalau kapan-kapan lu mau modifikasi mobil lu, dateng lagi aja kapan pun, bro.
+S6_01	7A5645C0	~s~Pergi ke garasi bengkel di ~y~Willowfield~s~.
+S6_03	945824EC	~s~Pergi ke ~y~pertemuan perkumpulan lowrider~s~.
+S6_04	0A3CB14F	~r~Pertemuan dibubarkan karena lu menyerang salah satu anggota geng.
+S6_05	7D3B81D9	~s~Lu butuh mobil dengan suspensi hidrolik buat ikutan kompetisi.
+S6_15	6420B098	Gunakan Kontrol Khusus buat mengaktifkan hidrolik mobil.
+S6_16	FD29E122	~s~Pergi ke ~y~garasi bengkel~s~ buat mengganti warna cat mobil.
+S6_17	8A2ED1B4	~s~Uang tunai lu kurang, lu butuh $500.
+S6_18	1A91CC25	~r~Lu menghancurkan mobil lowrider itu.
+S6_D16976F8	Lu bisa kembali ke garasi bengkel kapan saja. Tempat itu ditandai di radar pake ikon kunci pas.
+S6_A66E466E	~s~Masuk balik ke dalam ~b~mobil lowrider~s~.
+S6_D604B2E1	Gunakan kontrol suspensi ke arah yang ditunjukkan.
+S6_A1038277	Usahakan menggerakkan mobil selaras dengan ketukan musik.
+S6_C87247B9	~r~Pertemuan dibubarkan karena lu mengganggu salah satu mobil mereka.
+S6_BF75772F	~r~Lu kalah dalam tantangan lowrider.
+S6_2111E28C	~r~Mobil lowrider lu sudah hancur lebur.
+S6_5616D21A	~s~Lu harus membawa serta ~b~mobil lowrider~s~ itu.
+S6_CF1F83A0	Pencet terus tahan ~m~~widget_hydraulics~ sambil menyetir buat mengontrol hidrolik kendaraan. Ketuk ~m~~widget_hydraulics~ buat mengunci posisi hidrolik.
+S6_28A7AEA7	~s~Mundurkan mobil lowrider ke dalam ~y~garasi modifikasi~s~.
+S6_5FA09E31	Gunakan kontrol suspensi buat melompat selaras dengan irama musik.
+S6_693DB052	Lu butuh $50 buat ikutan acara lowrider.
+S6_1E3A80C4	Ketuk ~m~~widget_horn~ buat menaikkan dan menurunkan hidrolik kendaraan.
+SWE6A00	ACB17A08	Kamu mau ke mana?
+SWE6A01	DBB64A9E	Aku udah muak karena kamu nggak pernah mau dengerin omonganku, neng.
+SWE6A02	42BF1B24	Dan aku muak sama sikapmu yang sok ngatur hidupku kayak punya aku aja.
+SWE6A03	35B82BB2	Aku bebas mau jalan sama siapa aja yang aku mau.
+SWE6A04	ABDCBE11	Ohh, apa — seorang anggota geng munafik berpikiran sempit
+SWE6A05	DCDB8E87	yang sok menceramahiku mana yang benar dan mana yang salah.
+SWE6A06	45D2DF3D	Biar kutebak, Sweet — pembunuhan tanpa alesan itu salah,
+SWE6A07	32D5EFAB	tapi punya pacar dari wilayah Southside, itu salah?
+SWE6A08	A26AF23A	Ada beberapa hal yang emang nggak seharusnya terjadi. Maksudku gimana kalau kalian nanti punya anak.
+SWE6A09	D56DC2AC	Leroy Hernandez? Namanya kedengaran nggak beres, neng.
+SWE6A10	B5AA4B49	Namanya bukan Hernandez.
+SWE6A11	C2AD7BDF	Oh, Leroy Lopez kalau begitu.
+SWE6A12	5BA42A65	Atau Lopez juga bukan, kamu si keparat rasis!
+SWE6A13	2CA31AF3	Bukannya dulu Ibu mendidik kita bukan kayak gini.
+SWE6A14	B2C78F50	Aku nggak rasis. Aku cuma tahu bagaimana perasaan mereka ke kamu.
+SWE6A15	C5C0BFC6	Dan coba lihat penampilanmu, kamu dandan mirip cewek pelacur!
+SWE6A16	5CC9EE7C	Oh dan kurasa kalian berdua emang paling tahu bentuk muka pelacur itu kayak gimana, hah.
+SWE6A17	2BCEDEEA	Kamu ngomong gitu seolah-olah itu hal yang buruk!
+SWE6A18	BB71C37B	Diamlah, Carl.
+SWE6A19	CC76F3ED	Aku cuma lagi berusaha ngelindungin kamu.
+SWE6A20	9E87188A	Ngelindungin buat apa, biar aku bisa kencan sama salah satu temenmu yang otaknya kosong?
+SWE6A21	E980281C	Aku rasa nggak usah deh.
+SWE6A22	708979A6	Jangan ngomong apa-apa, Carl. Ikutin aja kakak perempuanmu itu,
+SWE6A23	078E4930	sebelum kamu harus melihat mayat anggota keluarga kita yang lain.
+SWE6A24	99EADC93	Maru nanti kamu bakal ngerti persis apa masalah yang lagi aku hadapi.
+SWE6A25	EEEDEC05	Dia lagi ketemuan sama cowok itu di semacam klub mobil cholo.
+SWE6A26	77E4BDBF	Pokoknya nggak bener kalau kamu sampai pacaran sama keparat cholo itu.
+SWE6B00	AEF7C451	Aksi tadi bener-bener keren! Asyik!
+SWE6B01	D9F0F4C7	Jadi sejak kapan kakakku jadi seorang anak lowrider?
+SWE6B02	40F9A57D	Sejak Sweet nyuruh aku buat mengawasi kamu,
+SWE6B03	37FE95EB	memastikan siapapun cowok yang lagi kamu kencani
+SWE6B04	A99A0048	nggak bikin kamu masuk ke dalam masalah.
+SWE6B05	DE9D30DE	Que honda? Lompatan mobil yang bagus, bro (*holmes*).
+SWE6B06	47946164	Nah, kamu baru saja jabat tangan sama cowok itu.
+SWE6B07	309351F2	Kemari, sayangku
+SWE6B08	A02C4C63	- Woy, jauhkan tangan kotormu dari adikku!~n~- Carl! Ada apa denganmu sih?
+SWE6B09	D72B7CF5	Carl! Ada apa denganmu sih?
+SWE6B10	B7ECF510	Bro (*holmes*), sikapmu udah kayak dia itu pacarmu aja, tau rasa.
+SWE6B11	C0EBC586	Dia pacarku, keparat (*cabron*). Jadi santai aja kali. Aku memperlakukan dia dengan baik.
+SWE6B12	59E2943C	Dengar, sayang, jangan bikin keributan. Jangan bikin situasinya makin parah, oke?
+SWE6B13	2EE5A4AA	Horale vato. Siapa pendejo ini?
+SWE6B14	B0813109	Apa? Si kepala penis? Si kepala penis ini adalah kakakku sendiri!
+SWE6B15	C786019F	Santai, bro (*holmes*). Dia bukan anak geng mana-mana kok. Dia anak baik.
+SWE6B16	5E8F5025	Tapi menurutku dia bukan anak baik, bro (*holmes*).
+SWE6B17	298860B3	Menurutku dia sok belagak gangster, bro, dan aku nggak suka itu.
+SWE6B18	B9377D22	Jadi kamu tahu kan apa yang bisa kamu lakuin buat aku, bro?
+SWE6B19	CE304DB4	Kamu bisa enyah sana, pendejo, baru mungkin kita bisa akur.
+SWE6B20	9CC1A6D3	Nggak, lu yang enyah sana, gue lagi ngobrol sama adik gue sendiri.
+SWE6B21	EBC69645	Carl!
+SWE6B22	72CFC7FF	Jose, ayolah, bro (*holmes*), aku bisa mengatasi ini. Hal ini penting banget buat aku.
+SWE6B23	05C8F769	Horale pendejo kamu beruntung. Betul, kamu beruntung karena Cesar udah membelamu.
+SWE6B24	9BAC62CA	Vamanos muchachos.
+SWE6B25	ECAB525C	Ayo kita pergi minum bir, hah.
+SWE6B26	75A203E6	Carl! Kamu sebenarnya lagi mikirin apa sih?
+SWE6B27	02A53370	Dengar, sayang, masuk sana ke dalam mobil, oke, aku mau ngobrol sebentar sama Carl.
+SWE6B28	921A2EE1	Dengar, bro (*holmes*), aku cinta sama adikmu. Aku menghormatinya, dia pacarku seumur hidup.
+SWE6B29	E51D1E77	Makanya tadi aku mencegahmu dari dibikin babak belur.
+SWE6B30	85DA9792	Kalau kamu punya masalah sama aku, ya udah, kita nggak harus jadi teman kok.
+SWE6B31	F2DDA704	Tapi Kendl, dia bahagia sama aku, kawan (*carnal*).
+SWE6B32	6BD4F6BE	Yoi, oke, kurasa kita bisa akur. Untuk saat ini.
+SWE6B33	1CD3C628	Cesar Vialpando.
+SWE6B34	82B7538B	Carl Johnson - CJ.
+SWE6B35	F5B0631D	Keparat (*Cabron*)! Mobilmu bagus banget, bro (*holmes*). Mungkin kita bisa nongkrong bareng lagi kapan-kapan, hah?
+SWE6B36	6CB932A7	Yoi. Mungkin aja.
+SWE6B37	1BBE0231	Sial, hampir aja baku hantam tadi.
+SWE6B38	8B011FA0	Baru balik ke daerah kumuh lima menit langsung bertingkah seolah nyawaku udah nggak ada harganya.
+SWE6B39	FC062F36	Sialan tempat ini bener-bener punya cara tersendiri buat bikin kamu stres.
+SWE6B40	CA9B0155	Woy, neng!
+SWE6B41	BD9C31C3	Dengar, sayang, jangan bikin keributan. Jangan bikin situasinya makin parah, oke?
+SWE6B42	24956079	Aku haus.
+SWHUD1	BF08216C	Taruhan
+SWHUD2	260170D6	$~1~

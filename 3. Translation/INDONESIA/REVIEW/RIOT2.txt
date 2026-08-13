@@ -1,0 +1,143 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+R2_01	C854FB27	~s~Rerekrut dua orang anggota geng Grove Street Families.
+R2_02	515DAA9D	~s~Pergi terus temuin para ~b~veteran (veteranos)~s~.
+R2_03	265A9A0B	~s~Bantu ~b~Cesar~s~ sama para OG bersihin lingkungan pemukiman.
+R2_04	B83E0FA8	~s~Menuju ke ~y~gang jalanan~s~!
+R2_05	CF393F3E	~S~Tetep bergerak deketan sama ~b~Cesar~s~ terus bersihin gang jalanan.
+R2_06	56306E84	~S~Lindungin ~b~Cesar~s~.
+R2_07	21375E12	~S~Bantai sisa anggota ~r~Vagos~s~ terakhir.
+R2_08	B1884383	~r~Cesar tewas!
+R2_09	C68F7315	~r~Sunny tewas!
+R2_10	A648FAF0	~r~Gal tewas!
+R2_11	D14FCA66	~r~Hazer tewas!
+R2_12	48469BDC	~s~Lu ninggalin ~b~Cesar~s~ di belakang.
+R2_13	3F41AB4A	~s~Pergi terus temuin para veteran di ~y~Stasiun Unity (Unity Station)~s~.
+ROT2@00	3663B218	Yoi, jadi kunci ketat tempat ini.
+ROT2@01	4164828E	Kagak bakal ada yang bisa ngancurin lingkungan ini. Lu denger gue kagak? Kagak ada! Sip, sampai ketemu.
+ROT2@02	D86DD334	Ada apaan?
+ROT2@03	AF6AE3A2	Dikit lagi lingkungan kita terkendali aman, bro.
+ROT2@04	310E7601	CJ, ini urusan serius banget, bro.
+ROT2@05	46094697	Woy, bro, gue tahu, bro.
+ROT2@06	DF00172D	Gue ngelewatin banyak masalah parah buat keluarga geng ini semenjak lu pergi, jadi gue tahu...
+ROT2@07	A80727BB	Apaan? Buat diri lu sendiri kali.
+ROT2@08	38B83A2A	Bukan buat keluarga. Kagak usah ngaco lu, bro.
+ROT2@09	4FBF0ABC	Bro, kapan sih lu mau kasih gue kesempatan bernapas?
+ROT2@10	2F788359	Pas lu berhenti belagu sok kek bos besar.
+ROT2@11	587FB3CF	Lu ngoceh mulu soal apa yang udah lu kerjain, nih biar gue kasih tau apa yang udah gue kerjain.
+ROT2@12	C176E275	biar gue kasih tau apa yang udah gue kerjain.
+ROT2@13	B671D2E3	Pas Kendl butuh sepatu, gue yang keluar nyari duitnya.
+ROT2@14	28154740	Pas Ibu butuh operasi, gue yang ngerampok orang demi nyari duit.
+ROT2@15	5F1277D6	Pas lu lagi enak-enakan di Liberty City mikirin urusan lu sendiri.
+ROT2@16	C61B266C	Selama lima tahun, ayolah bro.
+ROT2@17	B11C16FA	Sekarang pas lu ngelakuin sesuatu, lu mau kita bikin pesta pawai gitu?
+ROT2@18	21A30B6B	Kagak usah ngaco lah, bro.
+ROT2@19	56A43BFD	Kagak adil banget omongan lu, bro.
+ROT2@20	0455D09A	Carl, bro, gue butuh bantuan lu.
+ROT2@21	7352E00C	Bro, gue agak sibuk sekarang. Urusan keluarga.
+ROT2@22	EA5BB1B6	Gue udah ngedukung kalian semua, kawan (*hombre*).
+ROT2@23	9D5C8120	Udah waktunya lu ngebantu gue sama kawan-kawan gue.
+ROT2@24	03381483	Wilayah geng gue juga hancur berantakan.
+ROT2@25	743F2415	Kita udah ngunci aman kawasan lingkungan kumuh ini sekarang.
+ROT2@26	ED3675AF	Yaudah oke, lu butuh apaan?
+ROT2@27	9A314539	Udah waktunya ngumpulin geng lama gue balik lagi,
+ROT2@28	0A8E58A8	mengusir para pecundang pengedar narkoba itu.
+ROT2@29	7D89683E	Gue tahu, tapi gue lagi banyak urusan di lingkungan gue sendiri, bro.
+ROT2@30	1D4EE1DB	Lagian gue udah bikin janji sama abang gue.
+ROT2@31	6A49D14D	Abang lu cuma mau lu bayar utang budi lu, CJ.
+ROT2@32	F34080F7	Yaudah oke, gue paham. Gue dukung belakang lu - ayo gaskan cabut.
+ROT2@33	8447B061	Mantap (*Orale*)! Varrio Los Aztecas bangkit lagi!
+ROT2_AA	303F5F48	Oke, jadi gimana rencananya?
+ROT2_AB	A9360EF2	Kita bakal nemuin tiga veteran geng gue di Stasiun Unity (Unity Station).
+ROT2_AC	DE313E64	di Stasiun Unity.
+ROT2_AD	4055ABC7	Tiga orang doang, cuma segitu?
+ROT2_AE	37529B51	Sip lah, gue bakal ngajak beberapa anak Family buat ikut bergabung juga.
+ROT2_BA	1B120C8B	Keadaan serius banget, bro, liat tuh jalanan.
+ROT2_BB	821B5D31	Yoi, mending kita awas diri, bro.
+ROT2_BC	F51C6DA7	Kagak mau ketangkap di wilayah Ballas pas lagi kekacauan gini.
+ROT2_BD	6B78F804	Bro, si Tenpenny bener-bener bikin kawasan Central berlutut.
+ROT2_CA	02093DCA	Pas kita di sini, gue, eerr, gue mau nanya sesuatu ke lu.
+ROT2_CB	9B006C70	Yoi? Apaan?
+ROT2_CC	EC075CE6	Anu... ini masalah pribadi.
+ROT2_CD	7263C945	Ayolah bro, kita kan udah kek saudara, lu sama gue.
+ROT2_CE	0564F9D3	Lu bisa nanya apa aja ke gue.
+ROT2_CF	9C6DA869	Oke, gini ceritanya.
+ROT2_CG	EB6A98FF	Gue mau ngelamar Kendl.
+ROT2_CH	7BD5856E	Terus masalahnya di mana?
+ROT2_CJ	95DBE442	Telepon dia aja bro, nih pake HP gue.
+ROT2_CK	E2DCD4D4	Bukan gitu, bro (*holmes*), maksud gue NGELAMAR SERIUS!
+ROT2_CL	7CB84177	Apaan? Oh tai, maksud lu MEMINANG dia.
+ROT2_CM	0BBF71E1	Yah, gue sih santai-santai aja, lu tau lah, gue ngagengin lu udah minta izin ke gue segala, tapi -
+ROT2_CN	92B6205B	Kagak. Gue tahu lu santai.
+ROT2_CO	E5B110CD	Si Sweet tuh yang jadi masalah, bisa kagak lu ngobrol sama dia?
+ROT2_CP	68B91D38	Beres lah, Cesar, ntar gue yang ngomong sama dia.
+ROT2_CQ	1FBE2DAE	Makasih ya, CJ, itu berarti banget buat gue.
+ROT2_DA	4D48AB0D	Anak-anak Vagos itu, bro, bakal gue penggal para bajingan (*cacos*) itu.
+ROT2_DB	D441FAB7	Kupas kulit mereka sampe keliatan tulangnya (*Raspalo hasta el hueso*)!
+ROT2_DC	A346CA21	Woy, kawan-kawan (*carnales*), ada cerita apaan nih, bro (*holmes*)?
+ROT2_DD	3D225F82	Cesar! Sama lu pasti si CJ.
+ROT2_DE	4A256F14	Cesar bilang lu orangnya mantap, jadi kita berteman, bro (*holmes*).
+ROT2_DF	D32C3EAE	Oke. Kita harus bertarung ngelewatin lingkungan ini buat nyampe ke rumah gue.
+ROT2_DH	349413A9	Kita bakal masuk mendekat dari gang belakang, oke?
+ROT2_DJ	DA9A7285	Kalo kita saling jaga, tuh para bangsat (*pendejos*) Vagos kagak bakal punya kesempatan!
+ROT2_DK	AD9D4213	Saling jaga belakang kalian, kawan-kawan (*amigos*).
+ROT2_DL	33F9D7B0	Setia sampai mati (*Hasta la muerte*)!
+ROT2_DM	44FEE726	SETIA SAMPAI MATI (*HASTA LA MUERTE*)!
+ROT2_EA	54539A4C	Itu rombongan terakhir mereka, ayo bergerak!
+ROT2_EB	CD5ACBF6	Semuanya aman? Ayo sergap mereka!
+ROT2_EC	BA5DFB60	Para orang bego Vagos itu kagak punya kesempatan!
+ROT2_ED	24396EC3	Cepat, jalan! JALAN!
+ROT2_EE	533E5E55	Ikutin gue!
+ROT2_EF	CA370FEF	Tetep bergerak deketan!
+ROT2_EG	BD303F79	Tetep kumpul rapat!
+ROT2_EH	2D8F22E8	Tetep di deket sini.
+ROT2_EJ	C38143C4	Tetep rapatkan barisan!
+ROT2_EK	B4867352	Anak-anak Vagos tuh!
+ROT2_EL	2AE2E6F1	Anak Los Santos Vagos tuh!
+ROT2_EM	5DE5D667	Para keparat Vagos wilayah utara!
+ROT2_EN	C4EC87DD	Di depan tuh!
+ROT2_EO	B3EBB74B	Dikit lagi nyampe!
+ROT2_EP	3EE3BABE	Hati-hati, posisi kita udah deket!
+ROT2_EQ	49E48A28	Di belakang kita!
+ROT2_ER	D0EDDB92	Awasin belakang kita!
+ROT2_ES	A7EAEB04	Awasin belakang kalian!
+ROT2_ET	398E7EA7	Di atap-atap gedung!
+ROT2_EU	4E894E31	Mereka ada di atas atap!
+ROT2_EV	D7801F8B	Awasin gang jalanan itu!
+ROT2_EW	A0872F1D	Mereka melompati tembok!
+ROT2_EX	3038328C	Anak Vagos di sebelah kiri kita!
+ROT2_EY	473F021A	Anak utara di sebelah kanan kita!
+ROT2_FA	7F7EC98F	Itu tadi bagian gampangnya, ya.
+ROT2_FB	E6779835	Sekarang kita masuk ke sarang ular.
+ROT2_FC	9170A8A3	Di sini bagian yang mulai susah.
+ROT2_FD	0F143D00	Untung aja kita punya kejutan kecil di balik lengan baju kita, ya kan, Sunny!
+ROT2_FE	78130D96	Itu peluncur roket (*RPG*) bangsat! Lu bisa mendatangkan Garda Nasional ngeroyok kita!
+ROT2_FG	961D6CBA	Liat sekeliling lu, CJ, seluruh kota ini lagi jadi zona perang!
+ROT2_FH	06A2712B	Ayolah, gue mau merebut rumah gue balik!
+ROT2_GA	6665F8CE	Hazer!
+ROT2_GB	FF6CA974	Taik, Hazer...
+ROT2_GC	886B99E2	Kondisinya lumayan parah, Cesar...
+ROT2_GD	160F0C41	Awas kepala! Ada Vagos lagi!
+ROT2_HA	E1FDE401	Di belakang kita!
+ROT2_HB	78F4B5BB	Ada rombongan Vagos lagi di belakang kita!
+ROT2_HC	0FF3852D	Anak-anak utara di belakang kita!
+ROT2_JA	D3CB8683	Ayo kita bantai hancurin mereka sekalian!
+ROT2_JB	4AC2D739	Gue bareng lu bro, ayo bantai para pecundang ini!
+ROT2_KA	CAD0B7C2	Ini wilayah kekuasaan Vagos sekarang!
+ROT2_KB	53D9E678	Vagos yang menguasai daerah (*varrio*) ini sekarang - Aztecas udah punah!
+ROT2_KC	24DED6EE	Cari rumah baru sana, keparat, Vagos yang punya lingkungan ini!
+ROT2_LA	85912105	Bakar anak-anak Aztecas itu!
+ROT2_LB	1C9870BF	Bakar mereka!
+ROT2_LC	6B9F4029	Rata dengan tanah, Aztecas, bakar!
+ROT2_MA	9C8A1044	Sip, itu rombongan terakhir mereka.
+ROT2_MB	058341FE	Gimana kondisinya Hazer?
+ROT2_MC	72847168	Kita harus bawa dia ke rumah sakit.
+ROT2_MD	ECE0E4CB	Woy, biar gue yang mengantar dia.
+ROT2_ME	9BE7D45D	CJ, lu udah ngebantu jauh lebih dari cukup.
+ROT2_MF	02EE85E7	Mending lu balik ke Grove.
+ROT2_MG	75E9B571	Sip lah bro (*ese*), ntar gue nemuin lu abang semua kekacauan ini reda.
+ROT2_MH	E556A8E0	Makasih banyak ya, CJ, sama semoga beruntung, kawan gue.

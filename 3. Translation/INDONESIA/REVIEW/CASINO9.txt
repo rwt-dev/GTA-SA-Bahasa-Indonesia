@@ -1,0 +1,77 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	5499E50E	Buat ngincar, pake ~m~~widget_ped_move~. Buat berlindung, tekan ~m~~widget_explicit_take_cover_left~ atau ~m~~widget_explicit_take_cover_right~. Buat nembak tekan ~m~~widget_attack~.
+CAS9_01	C89CCBD8	Lu butuh pesawat kenceng buat ngejar pembunuh bayaran itu, ada satu di bandara.
+CAS9_02	51959A62	~s~Pergi ke bandara terus curi ~b~pesawat~s~ yang ada di hangar.
+CAS9_03	2692AAF4	~s~Terbangin pesawatnya ke udara terus kejar para ~y~pembunuh bayaran~s~.
+CAS9_04	B8F63F57	~s~Balik lagi ke ~b~pesawat~s~, lu harus ngejar pembunuh bayaran itu.
+CAS9_08	B140737C	~s~Pergi ke ~y~bandara~s~.
+CAS9_09	C64743EA	~s~Curi ~b~pesawat~s~ yang ada di hangar.
+CAS9_10	A680CA0F	~s~Lu punya waktu 20 detik buat keluar dari pesawat sebelum bensin lu habis.
+CAS9_12	488EAB23	~s~Terbang ke dalam ~r~lingkaran~s~ di belakang ~b~pesawat jet~s~.
+CAS9_16	4FE36F3A	~s~Bantai semua pembunuh bayaran.
+CAS9_21	FAAAA95A	~s~Bantai pilotnya.
+CAS9_23	14A4C876	~s~Terbangin pesawatnya balik ke ~y~Las Venturas~s~.
+CAS9_40	DBF73E4A	~s~Terbangin pesawat ke dalam ~r~lingkaran~s~.
+CAS9_41	ACF00EDC	~s~Terbangin pesawatnya balik ke ~y~bandara~s~.
+CAS9_42	35F95F66	~r~Lu kehilangan pesawat pembunuh bayaran.
+CAS9_50	C2EC0F0B	~s~Pesawat pembunuh bayaran bentar lagi mendarat, cegat ~y~pesawat~s~ itu sebelum sampe Las Venturas.
+CAS9_51	B5EB3F9D	~s~Posisiin pesawat lu di belakang ~y~pesawat~s~ musuh terus masuk ke ~r~lingkaran~s~.
+CAS9_52	2CE26E27	~r~Pesawat pembunuh bayaran udah sampe di Las Venturas.
+CAS9_AA	AEBDF253	Woy, ada apaan nih!
+CAS9_AB	37B4A3E9	Anjing, gimana cerita si BANGSAT ini bisa masuk ke sini?
+CAS9_AC	40B3937F	Bodo amatlah!
+CAS9_AD	DED706DC	Bantai dia!
+CAS9_BA	8590A190	Salah milih pesawat lu buat dibajak!
+CAS9_BB	1C99F02A	Bakal gue kasih servis troli penuh ke muka lu, bangsat!
+CAS9_BC	6B9EC0BC	Mayat lu bakal gue buang ke tengah gurun!
+CAS9_BD	F5FA551F	Lagian siapa sih nih orang gila?
+CAS9_CA	9C8B90D1	Keluar lu, bangsat pengecut!
+CAS9_CB	0582C16B	Heh iya - iya, kenapa lu, nyali lu menciut?
+CAS9_CC	7285F1FD	Lho, bocah ingusan lagi ngumpet, lucunya euy?
+CAS9_CD	ECE1645E	Woy, keluar sini main bareng, bangsat!
+CAS9_DA	D3CA0616	Gue ga bakal nyerah gitu aja tanpa perlawanan!
+CAS9_F1	B1F915A8	~r~Lu ngancurin pesawatnya.
+CAS9_F2	28F04412	~r~Lu buka parasut duluan dan kehilangan pesawatnya.
+CAS9_F3	5FF77484	~r~Ketinggian lu di bawah pesawat pembunuh bayaran.
+CAS9_H4	5F10CCA9	Kiri sama kanan buat berlindung.
+CAS9A00	A9237534	Seru banget asli nih.
+CAS9A01	DE2445A2	Tensi darah gue sampe naik nih.
+CAS9A02	472D1418	Yoi, mantap betul.
+CAS9A03	302A248E	Wah, wah, wah...
+CAS9A04	AE4EB12D	Nih roti lu.
+CAS9A05	D94981BB	Ada apaan nih di sini?
+CAS9A06	4040D001	Gue biasanya kagak pernah ngelakuin hal kek gini, paham lu.
+CAS9A07	3747E097	Heh, heh, heh. Gue demen nih cewek.
+CAS9A08	A7F8FD06	Siapa nama lu, tong?
+CAS9A09	D0FFCD90	Maria. Dan ini belum termasuk tip ya.
+CAS9A10	B0384475	Bayar tuh cewek, dasar lu gendut bangsat!
+CAS9A11	C73F74E3	Lu denger sendiri kan kata doi!
+CAS9A12	5E362559	Terus nih orang bangsat siapa?
+CAS9A13	293115CF	Nama gue Carl Johnson, Pak.
+CAS9A14	B755806C	Sebelum kerja bareng Pak Rosenberg di sini,
+CAS9A15	C052B0FA	Gue sempet dapet kehormatan buat bisnis
+CAS9A16	595BE140	bareng anak lu, Joey, pas di Liberty City dulu.
+CAS9A17	2E5CD1D6	Lu kenal Joey gue? Mantap, gue suka tuh.
+CAS9A18	BEE3CC47	Jadi, tong, ada yang bisa gue bantu?
+CAS9A19	C9E4FCD1	Ken bisa jadi jaminan buat gue, gue ini pembunuh berdarah dingin.
+CAS9A20	9B1517B6	Oh, oh dia, eerr, dia ini setara sama satu kompi tentara, anjir!
+CAS9A21	EC122720	Bener-bener bisa diandelin. Mana gila banget lagi.
+CAS9A22	751B769A	Lu tau kan, keluarga Forelli lagi ngirim anak buah buat ngebantai gue.
+CAS9A23	021C460C	Pesawat mereka bentar lagi mendarat - nyamar jadi grup musik kuartet.
+CAS9A24	9C78D3AF	Tadinya gue mau ngirim anak-anak buat nyambut mereka,
+CAS9A25	EB7FE339	tapi, yah, mungkin lu aja yang ngurusin mereka.
+CAS9A26	7276B283	Makasih, Pak. Gue jamin, lu kagak bakal nyesel.
+CAS9A27	05718215	- Kayaknya gue mesti ikut deh-~n~- Waaarrgghhh!
+CAS9A28	95CE9F84	Waaarrgghhh!
+CAS9A29	E2C9AF12	Lu diem di tempat, Rosenberg.
+CAS9A30	820E26F7	Gue kagak mau lu malah ngilang/nyasar.
+CAS9A31	F5091661	Siapa nih cewek cakep?
+CAS9A32	6C0047DB	Ayo ikut.
+CAS9A33	1B07774D	Bercanda lu ya?
+CAS9A34	8563E2EE	Cabut dulu ya, bro.
+CAS9A35	F264D278	- Santai aja, gue udah nyaman kok di sini, aman.~n~- Lu diem aja di situ, Rosenberg.

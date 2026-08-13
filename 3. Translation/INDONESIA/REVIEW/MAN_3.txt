@@ -1,0 +1,102 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+BH3A@00	1E20BA41	Gue kagak peduli 'gimana', yang gue peduliin itu 'kapan'.
+BH3A@01	69278AD7	Maksudnya 'sekarang'. Lu denger gue kagak?
+BH3A@02	F02EDB6D	Woy, bro, apaan nih - ?
+BH3A@03	8729EBFB	Halo, bos besar. Lagi ngurusin bisnis keliatannya.
+BH3A@04	194D7E58	Toreno, ngentot lu. Gue hampir kehilangan nyawa gue di luar sana gara-gara lu.
+BH3A@05	6E4A4ECE	Gue cuma punya satu tugas kecil banget buat lu kerjain,
+BH3A@06	F7431F74	habis itu gue bakal menghilang dari hidup lu selamanya.
+BH3A@07	80442FE2	Lu tau kagak? Gue udah muak sama tugas-tugas kecil bangsat lu.
+BH3A@08	10FB3273	Oh, bisa berhenti kagak. Ini menyedihkan banget, ayolah. Lu bikin malu diri lu sendiri.
+BH3A@09	67FC02E5	Woy, gue punya kejutan kecil buat lu di sini. Lu siap buat ini? Hah?
+BH3A@10	073B8B00	Angkat teleponnya.
+BH3A@11	703CBB96	Halo?
+BH3A@12	E935EA2C	Carl, ini gue, Sweet.
+BH3A@13	9E32DABA	Gue kagak tahu apa yang terjadi, mereka baru aja ngebebasin gue.
+BH3A@14	00564F19	Kagak tahu ada apaan,
+BH3A@15	77517F8F	tapi gue ada di lapangan luar kantor polisi daerah Commerce.
+BH3A@16	EE582E35	Sip lu tunggu di situ, gue bakal langsung ke sana.
+BH3A@17	995F1EA3	Jadi tugas kecil apaan yang tadi lu omongin, Toreno?
+BH3A@18	09E00332	Gue cuma mau lu pergi jemput abang lu.
+BH3A@19	7EE733A4	Cabut dari sini.
+BH3A@20	2C16D8C3	Ayolah, turunin senjatanya. Kagak usah konyol, oke?
+BH3A@21	5B11E855	Aduh, Sweet!
+BH3A@22	C218B9EF	Sip lah.
+BH3B@00	0C9515AF	Woy, bro - kita cabut ke tempat baru kita!
+BH3B@01	7B922539	Kita punya rumah mewah (*mansion*), Sweet! Kita udah berusaha keras, dan semuanya berjalan lancar.
+BH3B@02	E29B7483	Kita punya saham di kasino, kita punya bisnis mantap di Fierro,
+BH3B@03	959C4415	kita lagi masuk ke industri musik rap!
+BH3B@04	0BF8D1B6	Woy bro, ayo gue beliin baju baru, ayolah!
+BH3B@05	7CFFE120	Baju baru? Bro, omong kosong apaan nih?
+BH3B@06	E5F6B09A	Maksud lu gimana, bro? Apa yang punya gue itu punya lu juga, dan lu tahu itu.
+BH3B@07	92F1800C	Lu emang kagak bakal pernah paham, ya, Carl?
+BH3B@08	024E9D9D	Gue harus ngecek keadaan di lingkungan (*hood*) kita.
+BH3B@09	7549AD0B	Bro, itu dia masalahnya.
+BH3B@10	158E24EE	Lu selalu jadi penjahat/penipu, lari dari kenyataan.
+BH3B@11	62891478	Woy bro, keadaan di sana udah hancur berantakan.
+BH3B@12	FB8045C2	Lu kagak bakal mau ada di lingkungan itu lagi.
+BH3B@13	8C877554	Kagak. Justru di situ tempat yang bener-bener gue mau.
+BH3B@14	12E3E0F7	Lu udah ngelakuin apaan buat lingkungan kita?
+BH3B@15	65E4D061	Bro, lingkungan itu udah ngelakuin apaan buat gue?
+BH3B@16	FCED81DB	Selalu aja nyeret gue ke bawah.
+BH3B@17	8BEAB14D	Semenjak gue keluar dari lingkungan itu semuanya jadi makin sukses!
+BH3B@18	1B55ACDC	Itu kan mimpinya semua orang, buat bisa keluar dari lingkungan kumuh...
+BH3B@19	6C529C4A	Bro, omongan lu persis kek si Smoke sekarang.
+BH3B@20	3EA3772D	Yaudah lah bro, lu keras kepala. Gue bakal tunjukin ke lu apa yang lagi terjadi di lingkungan kita.
+BH3B@21	49A447BB	Ada apaan, bro?
+BH3B@22	D0AD1601	Woy, ada apaan, bro?
+BH3B@23	A7AA2697	Gimana kabar, bro?
+BH3B@24	39CEB334	Gue aman-aman aja, bro.
+BH3C@00	B42972CA	Woy, bro, kalian mau beli blender kagak?
+BH3C@01	C32E425C	Ini masih bagus banget. Masih agak bisa nyala kok.
+BH3C@02	5A2713E6	Bro, apaan nih bangsat? Itu kan blender milik Ibu!
+BH3C@03	2D202370	Kelihatannya para pecandu narkoba udah menguasai tempat ini.
+BH3C@04	B344B6D3	Ayo kita pulang.
+BH3C@05	C4438645	Ini tempat tinggal/rumah kita, bro.
+BH3C@06	5D4AD7FF	Usir para keparat ini dari rumah Ibu!
+BH3C@07	2A4DE769	Lu dilahirkan di dalam sana. Sialan!
+MAN3_01	6F6E03D2	~s~Jemput Sweet dari ~y~Kantor Polisi~s~.
+MAN3_02	F6675268	~r~Lu ketinggalan bus.
+MAN3_03	816062FE	~s~Lu ninggalin ~b~Sweet~s~, balik terus jemput dia.
+MAN3_05	6803C7CB	~s~Antar Sweet ke ~y~Grove Street~s~.
+MAN3_08	16B2BB76	Lu butuh kendaraan buat menjemput Sweet.
+MAN3_11	76753293	~r~Sweet tewas.
+MAN3_18	0FA98A37	Sweet udah keluar dari penjara, dia butuh tumpangan.
+MAN3_19	78AEBAA1	~s~Cari kendaraan yang lebih gede!
+MAN3_20	2A5F51C6	Bantai semua pengedar narkoba (*crack dealers*) di lingkungan lu biar geng lu tetep sehat.
+MAN3_21	5D586150	Kalo anggota geng lagi mabu/sakau narkoba lu kagak bakal bisa ngajak dia.
+MAN3_22	C45130EA	~s~Rebut balik lingkungan dari Ballas terus bersihin para ~r~Pengedar Narkoba~s~!
+MAN3_27	B43BC465	Waktu Tersisa
+MAN3_28	2484D9F4	~s~Sekarang rebut balik lingkungannya!
+MAN3_29	5383E962	~s~Sekarang bantai para ~r~Pengedar Narkoba~s~!
+MAN3_30	33446087	~s~Tembak beberapa anak Ballas buat mulai perang geng!
+MAN3_31	44435011	~s~Balik terus rebut lingkungan di ~y~Grove Street~s~.
+MAN3_32	DD4A01AB	Sweet
+MAN3_33	AA4D313D	Lingkungan ini milik lu!
+MAN3_34	3429A49E	Mobilnya terlalu penuh, kagak ada tempat buat Sweet!
+MAN3_69	37EF2C66	Kendaraannya terlalu penuh, kagak ada tempat buat Sweet!
+MAN3_AA	094F3A59	Lu harus paham, semuanya udah hancur berantakan sekarang, bro.
+MAN3_AB	90466BE3	Yoi.
+MAN3_AC	E7415B75	Apa yang lu mau, udah kagak ada lagi di sekitaran sini.
+MAN3_AD	7925CED6	Bawa aja gue ke rumah Ibu.
+MAN3_BA	2262699A	Sip, ayo kita cabut dari sini. Pergi nemuin Kendl.
+MAN3_BB	BB6B3820	Kendl yang harus nemuin gue di sini, di rumahnya sendiri.
+MAN3_BC	CC6C08B6	Tapi udah kagak tersisa apa-apa lagi di sini.
+MAN3_BD	52089D15	Kota Roma kagak dibangun dalam sehari, bro!
+MAN3_BE	250FAD83	Abang gue emang bener-bener bikin pusing kepala!
+MAN3_CA	3B7958DB	Para lonte pengedar narkoba keparat!
+MAN3_CB	A2700961	Para pecandu narkoba pengecut!
+MAN3_CC	D57739F7	Lonte-lonte pecandu narkoba keparat!
+MAN3_CD	4B13AC54	Para pecandu narkoba sampah!
+MAN3_CE	3C149CC2	Enyah kalian dari lingkungan ini!
+MAN3_CF	A51DCD78	Bakal gue bantai kalian semua keparat!
+MAN3_CG	D21AFDEE	Kalian semua bakal mampus, keparat!
+MAN3_CH	42A5E07F	Ini dulu rumah Ibu gue bangsat!
+MAN3_CI	35A2D0E9	Stroberi!
+MAN3_CJ	ACAB8153	Para keparat!
+MAN3_CK	DBACB1C5	Lonte-lonte pecandu!

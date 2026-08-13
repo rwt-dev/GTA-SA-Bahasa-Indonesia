@@ -1,0 +1,31 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+BCE2@00	7BFF509F	Woy Carl.
+BCE2@01	0CF86009	Gimana kabar lu, sis?
+BCE2@02	95F131B3	Mendingan. Makasih ya. Lu udah ngebantu banget buat gue.
+BCE2@03	E2F60125	Ini belum selesai, bro. Gue ngelakuin ini buat ngejaga cewek gue.
+BCE2@04	7C929486	Tapi sekarang gue mau langsung balik ke rumah,
+BCE2@05	0B95A410	terus gue mau ngebantai para pengedar narkoba bangsat itu!
+BCE2@06	929CF5AA	Woy dengerin, lu masuk ke wilayah daerah (*barrio*) pake omong kosong sok jagoan kek gitu,
+BCE2@07	E59BC53C	lu bakal dicincang hancur ntar.
+BCE2@08	7524D8AD	Sama gue kagak sudi kehilangan lu cuma gara-gara omong kosong sok macho!
+BCE2@09	0223E83B	Woy, santai aja kenapa, bro.
+BCE2@10	62E461DE	Semuanya bakal diurus pas waktunya tiba.
+BCE2@11	15E35148	Kita kan udah tahu siapa aja para keparat penjahatnya, bro,
+BCE2@12	8CEA00F2	abang Grove Street lu yang bau bangkai si Smoke itu,
+BCE2@13	FBED3064	sama para babi polisi (*chota*) Tenpenny dan Pulaski!
+BCE2@14	6589A5C7	Smoke, dia itu pengedar narkoba (*pusher*), bro!
+BCE2@15	128E9551	Kagak, kagak, bukan Smoke, dia mungkin main belakang bareng C.R.A.S.H,
+BCE2@16	8B87C4EB	tapi dia kagak bakal mainan narkoba (*yay*).
+BCE2@17	FC80F47D	Ayolah, CJ! Menurut lu gimana ceritanya dia bisa dapet rumah baru itu, hah?
+BCE2@18	6C3FE9EC	Lupain dulu omong kosong setia-setia-Grove-selamanya itu terus liat sekeliling lu.
+BCE2@19	1B38D97A	Kabar burung di jalanan bilang dua kali seminggu,
+BCE2@20	49C9321D	Smoke ngirim mobil ke San Fierro,
+BCE2@21	3ECE028B	terus bagasinya balik dalam keadaan penuh isi bubuk putih.
+BCE2@22	A7C75331	Taik. Gue harus tetap memantau jalan tol arah ke San Fierro kalo gitu.
+BCE2@23	D0C063A7	Mungkin aja gue bisa nemuin sesuatu.
+BCE2@24	4EA4F604	Lu... Lu tiarap santai aja dulu terus ntar gue balik lagi.

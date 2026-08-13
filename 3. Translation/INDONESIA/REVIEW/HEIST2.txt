@@ -1,0 +1,73 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	AA036E68	~s~Pas deket sama ~y~generator~s~ pencet ~m~~widget_vehicle_bomb~ buat memasang bom peledak. Lu butuh satu bom di tiap ~y~generator~s~.
+	6BA027EF	Pas lu nyampe lingkaran (corona) pencet ~m~~widget_enter_car~ buat lompat dari pesawat.
+	DD75421C	~s~Pencet ~m~~widget_enter_car~ buat lompat dari pesawat.
+	CE6FAB6C	Pencet ~m~~widget_vehicle_bomb~ buat memasang bom peledak.
+HE2_AA	E85E5781	Woy, gue udah nemuin dia, dia ada di sebelah sini!
+HE2_AB	7157063B	Dia ada di sekitaran dalam sana, mulai cari!
+HE2_AC	065036AD	Polisi lagi jalan ke sini, pencari sensasi ini kagak bakal bisa kabur!
+HE2_AD	9834A30E	Lampu indikator kita nyala tanda ada pembobolan!
+HE2_AE	EF339398	Itu orangnya, tangkap dia!
+HE2_AF	763AC222	Kita butuh orang lebih banyak di dalam sini!
+HE2_AG	013DF2B4	Hentikan dia, demi Tuhan!
+HE2_AH	9182EF25	Selalu aja nemu orang gila pas sif shift kerjaan gue!
+HE2_AJ	7F8C8E09	Pasti cuma halusinasi doang nih. Gue rasa kopinya tadi rasanya agak aneh!
+HE2_AK	088BBE9F	Akhirnya, ada aksi seru juga di sini!
+HE2_AL	96EF2B3C	Ke mana sih tuh orang kaburnya?
+HE2_BA	C3730442	Ada tanda-tanda dia belum?
+HE2_BB	5A7A55F8	Belum, tapi kita udah mengunci pintu masuk dermaga dan polisi lagi jalan ke sini.
+HE2_CA	DA683503	Apa-apaan nih-Aduh tai, ada yang ngunci pintu palka!
+HE2_CB	436164B9	Aduh tai! Pintu palkanya terkunci di belakang gue!
+HE2_DA	9529A3C4	Sialan, mereka pasti salah belok di suatu tempat!
+HE2_DB	0C20F27E	Kita udah mendingjebak dia, kagak ada jalan keluar dari pinggiran situ!
+HEI2_1	902B668C	~s~Cari ~y~pintu masuk~s~ menuju ruang generator.
+HEI2_10	C247D4C1	~s~ Pergi ke ~y~bandara~s~ lu bakal butuh pesawat buat terjun parasut ke dermaga bendungan.
+HEI2_15	B22D204E	~s~JALAN!
+HEI2_2	09223736	~s~Pas deket sama ~y~generator~s~ ketuk ~m~~widget_vehicle_bomb~ buat memasang bom peledak. Lu butuh satu bom di tiap ~y~generator~s~.
+HEI2_20	E96A8702	~s~Ini semua soal aksi senyap (stealth), kalo lu ketahuan atau bikin suara terlalu berisik seluruh gedung bakal siaga.
+HEI2_24	EE07431B	Aksi Senyap (Stealth)
+HEI2_25	9900738D	~r~Pesawatnya udah hancur!
+HEI2_26	00092237	~s~Terbangin pesawat menuju ~y~titik lompat~s~ di atas bendungan.
+HEI2_28	E7B10F30	~s~Masuk balik ke ~b~pesawat~s~!
+HEI2_31	877686D5	~s~Para penjaga udah siaga!
+HEI2_34	F71C725A	~s~Lewatin para ~r~penjaga~s~ terus temuin ~y~pintu masuk~s~ ke ruang generator
+HEI2_40	BF302084	~s~Balik lagi ke ~y~dermaga bendungan~s~.
+HEI2_43	2639713E	~s~Lu terlalu rendah, lu harus nambah ketinggian buat melompat.
+HEI2_44	B85DE49D	~s~Lu terlalu tinggi, lu harus ngurangin ketinggian buat melompat.
+HEI2_46	565385B1	~s~Ada ~g~pisau~s~ yang disembunyiin di deket salah satu kontainer yang mungkin berguna buat lu.
+HEI2_5	9746A295	~s~Semua generator udah dipasangi bom, pergi ke ~y~pintu keluar~s~.
+HEI2_50	A62B11C5	~s~Ketuk ~m~~widget_enter_car~ buat lompat dari pesawat.
+HEI2_52	482570E9	~s~Jalan menuju ke ujung dermaga bendungan.
+HEI2_53	3F22407F	~s~Hindarin ketahuan sama penjaga yang lagi patroli di area
+HEI2_56	4F48B4F0	~s~Coba jaga posisinya tetep rata, ini ketinggian yang bagus buat melompat.
+HEI2_57	384F8466	~s~Masuk ke dalam ~b~pesawat~s~ di ujung landasan pacu.
+HEI2_58	A8F099F7	~s~Bom peledak terpasang.
+HEI2_6	0E4FF32F	Ketuk ~m~~widget_vehicle_bomb~ buat memasang bom peledak.
+HEI2_60	8D064206	~s~Pergi terus ambil ~g~pisau~s~.
+HEI2_61	FA017290	~s~Jauhin diri dari ~y~area lokasi~s~.
+HEI2_88	1D5EE7BA	Pas lu nyampe lingkaran (corona) ketuk ~m~~widget_enter_car~ buat lompat dari pesawat.
+HEI2_89	6A59D72C	Ingat buat jongkok biar ngasilin suara lebih pelan.
+HEI2_90	0A9E5EC9	~s~Pergi ke ~y~bandara~s~. Lu bakal butuh pesawat buat terjun parasut ke dermaga bendungan.
+HST4A00	A5708693	Kelihatannya mustahil banget njaga rahasia di tempat ini!
+HST4A01	D277B605	Gue kira ukuran ruangan ini bisa ngebikin jumlah orangnya dikit.
+HST4A02	4B7EE7BF	ukuran ruangan ini harusnya bisa membatasi
+HST4A03	3C79D729	jumlah orang yang terlibat di pekerjaan ini.
+HST4A04	A21D428A	Woy, ngomongnya kencengan dikit, kita kagak denger di belakang sini!
+HST4A05	D51A721C	Gue ngagengin masukan lu,
+HST4A06	4C1323A6	tapi tolong, ngentot sana/dielin aja.
+HST4A07	3B141330	Dia ngomong apaan tuh?
+HST4A08	ABAB0EA1	Dia bilang ngentot sana.
+HST4A09	DCAC3E37	Woy, ngapain lu masih di sini?
+HST4A10	BC6BB7D2	Gue tinggal di sini.
+HST4A11	CB6C8744	Oh, oke, lu boleh tetep di sini.
+HST4A12	5265D6FE	Mantap.
+HST4A13	2562E668	Woy, mana kopi sama donatnya?
+HST4A14	BB0673CB	Oke, dengerin, gue mau pergi mematikan sumber listrik kota.
+HST4A15	CC01435D	Woozie, jagain orang-orang bego ini buat gue.
+HST4A16	550812E7	Oke, sekarang, hal penting yang kudu diingat sama rencana kek gini,
+HST4A17	220F2271	yaitu... kagak boleh ada yang kacau.

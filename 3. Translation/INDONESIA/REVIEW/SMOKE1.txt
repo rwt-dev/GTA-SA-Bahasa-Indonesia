@@ -1,0 +1,130 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+SMK1_01	4DA463C1	~s~Masuk balik ke dalam ~b~mobilnya Smoke~s~.
+SMK1_02	D4AD327B	~s~Pergi jemput OG Loc dari ~y~Kantor Polisi~s~.
+SMK1_03	A3AA02ED	~s~Pergi pencet ~y~bel pintu~s~.
+SMK1_04	3DCE974E	~s~Kejar terus bantai ~r~Freddy~s~!
+SMK1_05	4AC9A7D8	~r~OG Loc tewas!
+SMK1_06	D3C0F662	~r~Big Smoke tewas!
+SMK1_07	A4C7C6F4	~r~Sweet tewas!
+SMK1_08	3478DB65	~r~Mobilnya Smoke hancur.
+SMK1_09	437FEBF3	~s~Lu ninggalin ~b~OG Loc~s~ di belakang.
+SMK1_10	23B86216	~s~Nyetir ke ~y~rumah Freddy~s~.
+SMK1_11	54BF5280	~s~Naik balik ke atas ~b~motor~s~.
+SMK1_12	CDB6033A	~r~Freddy berhasil kabur!
+SMK1_13	BAB133AC	~s~Antar OG Loc ke pintu khusus karyawan di bagian belakang ~y~Burger Shot~s~.
+SMK1_14	24D5A60F	~r~Motor yang lu butuhin hancur!
+SMO1_AA	DE05FC8A	Seneng bisa nongkrong bareng lu, bro. Sori kalo gue tadi agak emosian.
+SMO1_AB	470CAD30	Sori kalo gue tadi agak emosian.
+SMO1_AC	300B9DA6	Kagak usah dipikirin, bro.
+SMO1_AD	AE6F0805	Woy, nama gue bukan Jeffrey lagi. Sekarang OG Loc.
+SMO1_AE	D9683893	OG Loc?
+SMO1_AF	40616929	Oh yoi, dia udah kek gengster sejati sekarang.
+SMO1_AG	376659BF	Paham gue. Terus apaan yang udah dia lakuin?
+SMO1_AH	A7D9442E	Segala hal yang bisa bikin dia dijeblosin ke penjara. Demi karirnya.
+SMO1_AJ	49D72502	Bawa kabur mobil, tilang parkir, atau omong kosong lainnya.
+SMO1_BA	F528AF49	Rencana lu apaan nih, gengster besar? Sekarang lu kan udah jadi orang bebas.
+SMO1_BB	6C21FEF3	Bro, gue kagak bebas, petugas pembebasan bersyarat gue udah nyiapin pekerjaan buat gue!
+SMO1_BC	1B26CE65	Para keparat emang selalu nyoba menekan pemain gengster kek kita.
+SMO1_BD	85425BC6	Omongan lu bener banget!
+SMO1_BE	F2456B50	Tapi kagak parah-parah banget sih, gue bakal jadi 'teknisi kebersihan'.
+SMO1_BF	6B4C3AEA	Makin naik kelas di dunia, hah?
+SMO1_BG	1C4B0A7C	Cuma batu loncatan menuju kejayaan.
+SMO1_CA	EC339E08	Bro, ini tempatnya!
+SMO1_CB	753ACFB2	Bukannya ini wilayahnya Vagos?
+SMO1_CC	023DFF24	Bro, gue kagak peduli bangsat, gue kan gengster!
+SMO1_CD	9C596A87	Ayolah, biarin si Loc ngurusin urusan cintanya sama Casanova.
+SMO1_CE	EB5E5A11	Woy, gue mau nemenin Jeff - maksud gue, Loc!
+SMO1_CF	72570BAB	Oke, mantap.
+SMO1_CG	05503B3D	Ntar gue temuin kalian di studio rekaman.
+SMO1_CH	95EF26AC	Freddy! Gue dateng buat lu, keparat!
+SMO1_CJ	7BE14780	Jeffrey, lu salah paham, bro - itu kan cuma urusan di dalam penjara doang!
+SMO1_CK	0CE67716	Gue punya banyak cewek cantik di luar,
+SMO1_CL	9282E2B5	gue kagak butuh pantat krempeng lu!
+SMO1_CM	E585D223	Bro, cuekin aja dia, CJ, gue kagak tahu apa yang lagi dia omongin.
+SMO1_CN	7C8C8399	Woy, balikin lirik rima gue pencuri bangsat, gue gengster!
+SMO1_CO	0B8BB30F	Lu kan yang melempar sabun mandi, manis,
+SMO1_CP	8683BEFA	gue kagak tahu apa-apa soal lirik rima apa pun!
+SMO1_DA	A37208CF	Woy, woy! Tuh keparat mencoba kabur!
+SMO1_DB	3A7B5975	Woy, Loc, tahan dulu!
+SMO1_DC	4D7C69E3	Ah tai, dia bisa ketangkap gara-gara melanggar aturan pembebasan bersyarat!
+SMO1_EA	BA69398E	Woy Loc, balik ke sini, gila lu bro!
+SMO1_EB	23606834	Woy, mundur jauhan dari gue CJ, gue harus menjaga reputasi gue!
+SMO1_FA	91446A4D	Oooo! Kejar gue! Kejar gue!
+SMO1_FB	084D3BF7	Ayolah, sayang, gue mulai habis kesabaran nih!
+SMO1_FC	7F4A0B61	Gue demennya pantat kencang, bukan yang lambat!
+SMO1_FD	E12E9EC2	Gue kira lu tadi nafsu, pantat imut!
+SMO1_FE	9629AE54	Tangkap gue kalo bisaaaAAAa!
+SMO1_FF	0F20FFEE	Yoohoo! Di sebelah sini!
+SMO1_FG	7827CF78	Mari ke sini, Jeffrey!
+SMO1_FH	E898D2E9	Lu kan tahu gue demen sensasi kejar-kejaran!
+SMO1_FJ	0696B3C5	Woy sayang, goyangin tuh pipi pantat imut lu!
+SMO1_FK	71918353	Tunjukin semangat dikit lagi kenapa, sayang.
+SMO1_FL	EFF516F0	Woy, pantat manis, gue di sebelah sini!
+SMO1_FM	98F22666	Sensasi penantian ini bener-bener kagak tertahankan!
+SMO1_GA	885F5B0C	Dia udah menghancurkan hati gue!
+SMO1_GB	11560AB6	Bantai dia, anak-anak!
+SMO1_GC	66513A20	Yo, bakal gue bantai tuh keparat mulut besar!
+SMO1_GD	F835AF83	Pantat lu milik gue!
+SMO1_GE	8F329F15	Oh, kagak kagak kagak, maksud gue bukan gitu!
+SMO1_GF	163BCEAF	CJ, tolongin gue di sini!
+SMO1_HA	0FC747C3	Jangan berani-berani lu omongin hal ini, CJ.
+SMO1_HB	96CE1679	Lu kesepian ya, Loc?
+SMO1_HC	E1C926EF	Woy, gue sendiri demen kumis tebal yang mantap!
+SMO1_HD	7FADB34C	Gue mah tetep gengster sejati, kagak kek kalian para gengster palsu bangsat.
+SMO1_HE	08AA83DA	Ayolah, gengster. Ayo kita balik ke Grove.
+SMO1_HF	91A3D260	Kagak bisa bro, gue harus pergi melapor buat pekerjaan bangsat ini!
+SMO1_HG	E6A4E2F6	Terserah lu dah. Lu mau tumpangan kagak nih?
+SMO1_HH	761BFF67	Pasti lah. Ayo gaskan.
+SMO1_JA	3DF12541	Woy, antar gue ke Burger Shot di Verona Beach.
+SMO1_JB	A4F874FB	Lu bosnya.
+SMO1_JC	D3FF446D	Gara-gara gue rajin, Jaga kebersihan,
+SMO1_JD	4D9BD1CE	Lagi bertugas, Kek teknisi super, sayang
+SMO1_JE	3A9CE158	Lagi bertugas,
+SMO1_JF	A395B0E2	Kek teknisi super.
+SMO1_JG	D4928074	Lanjutin aja tuh lagu omong kosong lu, bro.
+SMO1_JH	442D9DE5	Bro, gue ngelakuin perbuatan keras di dalam penjara.
+SMO1_JJ	AA23FCC9	Lu kan bisa ngelakuin hal itu di luar sini.
+SMO1_JK	DD24CC5F	Gara-gara gue ngelakuinnya di penjara, sekarang rasanya jadi riil sejati.
+SMO1_JL	434059FC	Yoi, kayaknya emang gitu, gengster.
+SMO1_JM	3447696A	Liat tuh diri lu, berotot sama mantap.
+SMO1_KA	24EA1400	Makasih tumpangannya, CJ.
+SMO1_KB	BDE345BA	Jangan bikin asing, bego.
+SMO1_KC	CAE4752C	Yoi, pasti lah. Sampai ketemu lagi.
+SMO1_KD	5480E08F	Kek perempat pon (*quarter pound*)!
+SMO1_KE	2387D019	Sampai ketemu.
+SMO1A00	D99B7BED	Yoi, lu tau kan kalo si Jeffrey itu jadi bawahan pemuas orang lain
+SMO1A01	AE9C4B7B	- selama tiga minggu terakhir, kan?~n~- Gue tahu!
+SMO1A02	37951AC1	Woy.
+SMO1A03	40922A57	Ada apaan, bro? Mau pergi ke penjara kagak?
+SMO1A04	DEF6BFF4	Apaan?
+SMO1A05	A9F18F62	Kagak... Buat menjemput Jeffrey. Dia keluar hari ini. Lu mau ikut kagak?
+SMO1A06	30F8DED8	Yoi, pasti lah. Omong-omong, ngapain sih si Jeffrey dipenjara?
+SMO1A07	47FFEE4E	Ntar kita ngobrolin soal itu belakangan, bro.
+SMO1A08	D740F3DF	Ayo gaskan, kita udah terlambat.
+SMO1A09	A047C349	Gue tahu!
+SMO1A10	C0804AAC	- Woy, CJ!~n~- Woy, ada apaan, CJ?
+SMO1A11	B7877A3A	Woy, ada apaan, CJ.
+SMO1A12	2E8E2B80	Ada apaan?
+SMO1B00	DBDDC5B4	Woy, tuh si bego keluar tuh.
+SMO1B01	ACDAF522	Woy, ada cerita apaan sama lu, Jeffrey?
+SMO1B02	35D3A498	Woy, bro, nama gue OG Loc, bro - OG Loc!
+SMO1B03	42D4940E	Salah gue. Gimana rasanya di dalam sana, bro?
+SMO1B04	DCB001AD	Bro, menurut lu gimana? Gimana rasanya...
+SMO1B05	ABB7313B	Woy, santai aja kenapa, bro. Terus lu mau ngapain sekarang?
+SMO1B06	32BE6081	Bro, gue harus ngebantai salah satu keparat Cholo (*Vagos*). Dia ngina gue, bro!
+SMO1B07	45B95017	Woy Jeffrey, gue kira lu mau masuk, uh, kuliah.
+SMO1B08	D5064D86	Ngentot lu, bro!
+SMO1B09	A2017D10	Tuh keparat udah mencuri lirik rima gue.
+SMO1B10	C2C6F4F5	Dia ada di East Flores. Woy, kasih gue pistol.
+SMO1B11	B5C1C463	Liat nih si bego, bro...
+SMO1B12	2CC895D9	Belagu sok-sokan kek gengster jalanan...
+SMO1B13	5BCFA54F	...mikir dirinya jagoan keras...
+SMO1B14	C5AB30EC	Gue tahu nih si bego kagak mungkin serius.
+SMO1B15	B2AC007A	Liat tuh, liat...
+SMO1B17	5CA26156	Bro, mending lu simpen dulu omong kosong lu terus masuk ke dalam mobil. Bego.
+SMO1B18	CC1D7CC7	Bro, nih si bego beneran udah gila.

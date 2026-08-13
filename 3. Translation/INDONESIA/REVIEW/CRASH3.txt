@@ -1,0 +1,66 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+CRA3_AA	5E62A6E0	Woy, siapa lu bangsat?
+CRA3_AB	C76BF75A	Udah sana, cabut dari sini lu!
+CRA3_AC	B06CC7CC	Kayak nya lu masuk tanpa izin deh, bro!
+CRA3_BA	754FF523	Kesalahan besar lu, bro!
+CRA3_CA	6C54C462	Dia mau ngambil senjatanya!
+CRA3_CB	F55D95D8	Salah, gue ngincar nyawa lu!
+CRA3_DA	231552A5	Woy, woy, mending kita bicarain baik-baik dulu!
+CRA3_DB	BA1C031F	Tahan dulu, kita bisa berbisnis kok!
+CRA3_DC	CD1B3389	Bodo amat lu, orang Amerika bangsat! Gue cabut dulu!
+CRA3_DD	537FA62A	Bisnis di Amerika emang bahaya banget anjir!
+CRA3_DE	247896BC	Gue harus kabur dari orang Amerika gila ini!
+CRA3_EA	3A0E63E4	Woy, siapa lu bangsat?
+CRA3_EB	A307325E	Lu kagak usah kepo dan ngintip-ngintip di sini!
+CRA3_EC	D40002C8	Gausah ikut campur urusan orang lu!
+CRA3A00	59FC2187	Mau kabur ke mana lu Carl, gue pikir kita ini temenan!
+CRA3A01	2EFB1111	Carl!
+CRA3A02	B7F240AB	Sebagai opsir yang bertugas menghentikan kekerasan geng,
+CRA3A03	C0F5703D	Gue mendapati diri gue di posisi moral yang serba salah nih, Carl.
+CRA3A04	5E91E59E	Halah, peli.
+CRA3A05	2996D508	Carl, sakit hati gue, beneran dah.
+CRA3A06	B09F84B2	Padahal gue baru aja mau ngebantu bocah-bocah Grove Street yang kasihan itu.
+CRA3A07	C798B424	Oh ya? Gimana caranya?
+CRA3A08	5727A9B5	Gue demen situasi yang seimbang, Carl.
+CRA3A09	20209923	Gue demen liat kalian para bajingan ngelakuin pekerjaan gue -
+CRA3A10	40E710C6	saling bantai sampe usus berceceran di trotoar.
+CRA3A11	37E02050	Nah, kalo sampe perhatian gue tertuju
+CRA3A12	AEE971EA	ke salah satu kubu yang dapet keuntungan kagak adil dibanding yang lain,
+CRA3A13	D9EE417C	itu bener-bener bikin gue gelisah, Carl.
+CRA3A14	478AD4DF	Maksud lu apaan sih, bro?
+CRA3A15	308DE449	Maksud gue tuh geng Ballas punya otak, Carl, mereka nonton berita.
+CRA3A16	A984B5F3	Maksud gue mereka lagi cari relasi, bikin kesepakatan,
+CRA3A17	DE838565	dan nyiapin senjata buat hal yang lebih gede dari sekadar *drive-by* ecek-ecek.
+CRA3A18	4E3C98F4	Banyak senjata murah masuk ke Amerika sejak Tembok Berlin runtuh, Carl.
+CRA3A19	393BA862	Bro, gausah banyak bacot omong kosong lu, Tenpenny - langsung ngomong intinya aja.
+CRA3A20	6BCA4305	Coba lu cek gudang kargo yang rame di pelabuhan, ntar lu paham maksud gue, Carl.
+CRA3A21	1CCD7393	Kalian semua hati-hati ya!
+CRA3A22	85C42229	Bangsat!
+CRA3A23	F2C312BF	Mau ke mana lu?
+CRA3A24	6CA7871C	Iya, terserah lu lah.
+CRA3A25	1BA0B78A	Orang-orang bego?
+CRA3A26	82A9E630	Iya, oke.
+CRA3A27	F5AED6A6	Pastinya lah.
+CRA3A28	6511CB37	Tai!
+CSH3_1	AC32F93F	~s~Pergi ke ~y~pelabuhan ~w~tempat geng Ballas sama Mafia Rusia lagi transaksi.
+CSH3_10	90132F68	Kalo lu pencet terus tahan ~m~~widget_attack~ pas lagi memegang senjata lu bisa geser samping (*strafe*).
+CSH3_11	E7141FFE	Pas lagi *strafe* lu bisa mbidik manual sama nembak pake kontrol pergerakan kamera.
+CSH3_12	7E1D4E44	*Strafe* bikin lu bisa ngintip dari balik sudut tembok sama nempatin posisi lebih pas dalam kontak tembak.
+CSH3_13	091A7ED2	~s~Transaksi lagi berlangsung di ~r~ruang kantor ~s~bagian belakang.
+CSH3_14	977EEB71	~s~Si ~r~Bos Mafia Rusia ~s~mencoba kabur, kejar dia!
+CSH3_15	E079DBE7	~r~Dia berhasil kabur!
+CSH3_16	79708A5D	~s~Bantai semua ~r~anggota geng~s~ yang terlibat di transaksi itu!
+CSH3_2	353BA885	~s~Mafia Rusia sama geng Ballas lagi ngadain pertemuan di dalam gudang.
+CSH3_3	423C9813	~s~Lu harus nyari jalan buat masuk ke dalam.
+CSH3_51	8378DAFA	Ngegulung/guling berguna banget pas tembak-tembakan biar bisa ngehindarin tembakan musuh sama ngasih kejutan. Lu bisa guling ke kiri atau kanan.
+CSH3_52	1A718B40	Buat guling lu harus jongkok dulu terus pegang senjata, abis itu pencet dan tahan ~m~~widget_attack~ terus gerakin ke kiri atau kanan.
+CSH3_53	6D76BBD6	~s~Bantai si ~r~bandar senjata Rusia~s~ di dalam kantor!
+CSH3_54	F3122E75	~s~Dia udah masuk ke ~r~mobil~s~! Kejar terus bantai dia!
+CSH3_55	84151EE3	~r~Dia berhasil kabur!
+CSH3_6	32566C9C	~s~Pertemuan lagi berlangsung di ~y~ruang kantor ~s~bagian belakang.
+CSH3_7	45515C0A	Pintunya dikunci. Ngancurin papan tombol (*keypad*) mungkin bisa ngebuka pintunya.

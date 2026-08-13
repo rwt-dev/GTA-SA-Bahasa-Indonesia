@@ -1,0 +1,113 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	D58C7B0B	Pertahankan kecepatan lu sampai ujung dermaga terus pencet ~m~~widget_enter_car~ buat melompat keluar (bail out).
+	13BFAC73	Pencet ~m~~widget_enter_car~ buat melompat keluar sekarang!
+LOC3_AA	6DA2942C	Woy, sialan apa yang lagi lu lakuin, hah?
+LOC3_BA	468FC7EF	Woy, bro.
+LOC3_BB	DF869655	Bawa gue balik ke mansion Madd Dogg.
+LOC3_BC	A881A6C3	Kagak hari ini, keparat.
+LOC3_BD	36E53360	Hari ini kita bakal lewat jalur pemandangan indah,
+LOC3_BE	41E203F6	lewat jalur dasar lautan!
+LOC3_CA	5F94F6AE	Tim pengamanan, Sang Pimpinan diculik!
+LOC3_CB	C69DA714	Selamatkan dia dengan segala cara!
+LOC3_DA	10D56069	Siapa lu, bangsat?
+LOC3_DB	89DC31D3	Di mana sopir pribadi gue biasanya?
+LOC3_DC	FEDB0145	Buka kunci pintu bangsat ini!
+LOC3_DD	60BF94E6	Gue kagak bisa berenang, lu psikopat bangsat!
+LOC3_EA	09CE5128	Ah, begitu ya yang gue denger!
+LOC3_EB	90C70092	Apa yang lu mau, bego, uang?
+LOC3_EC	E7C03004	Gue punya banyak cewek, banyak cewek seksi, ambil aja mereka.
+LOC3_ED	79A4A5A7	Mereka bakal ngelakuin apa aja yang lu mau!
+LOC3_EE	0EA39531	Lu mau kontrak rekaman?
+LOC3_EF	97AAC48B	Bro, gue bisa bikin orang bego mana pun jadi bintang besar!
+LOC3_EG	E0ADF41D	Gue kenal banyak orang di kota ini, orang-orang berkuasa!
+LOC3_EH	7012E98C	Para keparat berbahaya!
+LOC3_EJ	9E1C88A0	Lu anak-anak Grove Street Families?
+LOC3_EK	E91BB836	Gue kenal para OG Ballas, kita tuh udah kek saudara!
+LOC3_EL	777F2D95	Mereka bakal menghabisi lu parah banget!
+LOC3_EM	00781D03	Sama ibu lu. Sama ayah lu!
+LOC3_EN	99714CB9	Sialan, TIDAডিসssssKKKKK!
+LOC3_EO	EE767C2F	Ya Tuhannnn TAIKKKKKK!
+LOC3_FA	22E302EB	Woy, dari mana aja lu lama banget?
+LOC3_FB	BBEA5351	Ayolah kita harus pergi menjemput sang bos!
+LOC3_FC	CCED63C7	Tetap pertahankan posisi di tengah barisan konvoi sampai kita tiba di Acara Penghargaan.
+LOC3_FD	5289F664	Berhenti dulu sebentar di sini sampai polisinya membiarkan kita lewat.
+LOC3_FE	258EC6F2	Tempel terus rapat-rapat terus ayo kita jalan!
+LOC3_FF	BC879748	Tetap waspada, kawan-kawan.
+LOC3_GA	3BF833AA	Woy, perhatikan apa yang lu lakuin!
+LOC3_GB	A2F16210	Perhatikan mobilnya, bego!
+LOC3_GC	D5F65286	Lu pengemudi tidak profesional keparat!
+LOC3_GD	4B92C725	Fokuskan pikiran lu ke pekerjaan!
+LOC3_HA	BC602F65	Woy, mau ke mana lu?
+LOC3_HB	25697EDF	Woy, dia mau kabur ke mana tuh?
+MLOC04A	F24DA105	Ah Loc, ada apaan lagi nih bro?
+MLOC04B	6B44F0BF	Salah satu sopir pribadi Madd Dogg baru aja keluar dari Burger Shot di seberang kota.
+MLOC04C	1C43C029	Katanya dia mau menuju ke Acara Penghargaan Musik!
+MLOC04D	8227558A	Informasi yang bagus. Gue mau coba liat apa gue bisa menyusul mereka.
+STP3_01	D4445E8A	~s~Salah satu ~r~sopir manajer~s~ Madd Dogg lagi makan di Burger Shot di seberang kota.
+STP3_02	4D4D0F30	~s~Pergi terus curi ~r~mobilnya~s~ terus temui para sopir lainnya sebelum pukul 10:30 malam.
+STP3_03	3A4A3FA6	~r~Lu terlalu lambat!
+STP3_04	A42EAA05	~s~Pergi terus bergabunglah sama para ~y~sopir~s~ lainnya. Jangan merusak mobil lu!
+STP3_05	D3299A93	UPACARA PENGHARGAAN MOOTV
+STP3_06	4A20CB29	~s~Tetap berada di tengah-tengah di antara kedua mobil sampai lu tiba di acara penghargaan.
+STP3_07	3D27FBBF	~r~Lu terlalu jauh menyimpang sampai memicu kecurigaan sopir lainnya!
+STP3_08	AD98E62E	~s~Ada sebuah ~y~dermaga~s~ di sebelah Selatan tempat lu bisa membuang mobilnya ke laut.
+STP3_09	DA9FD6B8	~s~Buang mobilnya ke dalam air tapi pastikan kagak ada orang yang ngeliat lu!
+STP3_10	BA585F5D	~r~Kendaraan konvoi hancur!
+STP3_11	CD5F6FCB	~S~Masuk ke dalam ~r~mobil~s~.
+STP3_12	54563E71	~r~Lu meninggalkan mobilnya sampai memicu kecurigaan sopir lainnya!
+STP3_13	23510EE7	~s~Masuk balik ke dalam ~b~mobil~s~ terus lanjutkan misinya.
+STP3_14	BD359B44	~s~Lu punya waktu ~1~ detik buat bergabung kembali ke barisan konvoi.
+STP3_15	CA32ABD2	~s~Lu punya waktu ~1~ detik buat bergabung kembali ke barisan konvoi.
+STP3_16	533BFA68	~r~Lu membunuh seorang polisi sampai memicu kecurigaan sopir lainnya!
+STP3_17	243CCAFE	~r~Lu membunuh salah satu sopir lainnya!
+STP3_18	B483D76F	~r~Lu membiarkan Manajer Madd Dogg kabur!
+STP3_19	C384E7F9	~s~Rusak ~r~mobilnya~s~ buat memaksa sang sopir keluar.
+STP3_20	91750C9E	~r~Lu terlalu lambat! Mobil-mobil Madd Dogg yang lain sudah pergi meninggalkan lu.
+STP3_21	E6723C08	~r~Lu terlalu lambat! Mobil-mobil Madd Dogg sudah pergi!
+STP3_22	7F7B6DB2	~s~Mobilnya rusak, pergi terus perbaiki dulu.
+STP3_23	087C5D24	~r~Lu memicu kecurigaan sopir lain gara-gara cara nyetir lu yang buruk.
+STP3_24	9618C887	~r~Manajer Madd Dogg ketakutan dan menolak buat keluar!
+STP3_25	E11FF811	~s~Parkir mobilnya menghadap ke arah yang sama kayak mobil-mobil lainnya.
+STP3_26	7816A9AB	~s~Salah satu ~r~sopir~s~ lainnya ngeliat lu menyingkirkan Manajer Madd Dogg. Bantai dia!
+STP3_28	9FAE84AC	~s~Cepatlah, lu harus menemui para sopir lainnya sebelum pukul 10:30 malam!
+STP3_30	886E3DDF	~s~Jangan merusak mobilnya!
+STP3_31	FF690D49	~r~Lu kagak membuang mobilnya ke dalam air!
+STP3_32	66605CF3	~s~Berhentikan mobilnya di sini.
+STP3_33	11676C65	~s~Pergi terus temui para ~y~sopir~s~ lainnya sebelum pukul 10:30 malam. Jangan merusak mobil lu!
+STP3_34	8F03F9C6	Ketuk ~m~~widget_enter_car~ buat melompat keluar sekarang!
+STP3_35	F804C950	Pertahankan kecepatan lu sampai ke ujung dermaga terus ketuk ~m~~widget_enter_car~ buat melompat keluar.
+STR3A00	CF3BB306	Woy, permisi. Loc ada di sekitar sini?
+STR3A01	B83C8390	Hah? Siapa? Mau pesen kentang goreng juga?
+STR3A02	2135D22A	Loc, apakah dia tersedia buat melak-sa-na-kan ko-mu-ni-ka-si?
+STR3A03	5632E2BC	Siapa? Loc? Oh maksud lu Jeffrey!
+STR3A04	C856771F	Yoi, Teknisi Peralatan kita lagi izin sakit jadi Jeff- LOC, dia dipromosikan.
+STR3A05	BF514789	Jadi...
+STR3A06	26581633	Jadi, dia ada di belakang lagi membersihkan wadah penggorengan (*fryer*).
+STR3A07	515F26A5	Woy, ada apaan, Loc?
+STR3A08	C1E03B34	CJ. Ada apaan, bro?
+STR3A09	B6E70BA2	Woy - lagu gue lagi keren banget sekarang, sampe mau meledak rasanya!
+STR3A10	D6208247	Jadi lu udah senang sekarang, bro?
+STR3A11	A127B2D1	Senang? Bro, ogah, males banget. Gue udah kagak tahan lagi ngurusin hal ini.
+STR3A12	382EE36B	Bro, gue ini seorang seniman! Gue lebih suka kerja di dalam studio!
+STR3A13	4F29D3FD	Bro, gue kagak pernah dapet kontrak rekaman apa pun. Orang-orang keparat itu selalu pengen menjatuhkan seorang kulit hitam.
+STR3A14	D14D465E	Sama si Scipio itu, manajer Madd Dogg, bikin hidup gue sengsara banget, bro.
+STR3A15	A64A76C8	Dia benar-benar mengekang kebebasan gaya gue.
+STR3A16	3F432772	Sengsara? Bro, tinggi badan dia cuma lima kaki tiga inci.
+STR3A17	484417E4	Tapi tuh orang kuat bro. Maksud gue, kita harus menghabisi dia. Dia udah memboikot karier gue, bro.
+STR3A18	D8FB0A75	Gue kagak bisa masuk ke industri musik dengan cara apa pun. Udah gue bilang gue ini seniman,
+STR3A19	AFFC3AE3	seorang komunikator dan kagak ada satu pun orang yang bisa mendengarkan pesan lagu gue.
+STR3A20	FD0DD184	Dia keliling ke mana-mana, ngasih tau semua orang kalau lagu gue ampas.
+STR3A21	8A0AE112	Yah, dia jelas-jelas belum pernah denger lagu baru lu sih. Lagu itu emang keterlaluan parahnya.
+STR3A22	1303B0A8	Nah itu yang lagi gue maksud, bro. Down, with a frown, on the town, a sad clown.
+STR3A23	6404803E	Baiklah, jadi apa yang lu mau gue lakuin?
+STR3A24	FA60159D	Gue mau lu habisi keparat itu!
+STR3A25	8D67250B	Membunuh dia?
+STR3A26	146E74B1	Yah, maksud gue bukan mengajaknya berkencan kencan.
+STR3A27	63694427	Dengerin, dia bakal menghadiri acara penghargaan gitu,
+STR3A28	F3D659B6	sama itu adalah satu-satunya waktu di mana dia lepas dari sisi Madd Dogg.
+STR3A29	84D16920	Bro...

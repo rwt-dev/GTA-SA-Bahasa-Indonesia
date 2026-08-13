@@ -1,0 +1,48 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+CES1_01	96B9A121	~s~Ambil ~b~mobil ~s~lu buat balapan.
+CES1_02	0FB0F09B	~s~Pergi ke ~y~rumahnya Cesar~s~.
+CES1_03	78B7C00D	~s~Masuk lagi ke dalam ~b~mobil~s~.
+CES1_04	E6D355AE	~s~Ikutin ~b~Cesar ~s~ke garis start balapan.
+CES1_05	91D46538	~s~Nyetir ke posisi ~y~garis start~s~.
+CES1_06	08DD3482	~s~Masuk lagi ke ~b~mobil~s~.
+CES1_07	7FDA0414	~r~Kagak cukup kenceng, coba lagi.
+CES1_08	EF651985	~r~Lu ngancurin mobilnya!
+CES1_09	98622913	~r~Lu ngancurin mobilnya Cesar!
+CES1_AA	F09898AA	Woy, pepet terus, sob!
+CES1_AB	6991C910	Udah kagak jauh lagi nih!
+CES1_AC	1E96F986	Ayolah Carl, ikutin kita!
+CES1_AD	80F26C25	Dikit lagi nyampe, Carl!
+CES1_BA	DBB5CB69	Lu harus nyetir lebih jago dari itu, CJ!
+CES1_BB	42BC9AD3	Woy CJ, mobil lu malah lu rusakin, aduh!
+CES1_BC	35BBAA45	Ayolah Carl, lu lagi becanda kan? - tancap gasnya!
+CES1_BD	ABDF3FE6	Lah Carl, katanya lu bisa nyetir!
+CES1_CA	C2AEFA28	Carl! Lu ngapain sih?
+CES1_CB	5BA7AB92	Awas, Carl!
+CES1_CC	2CA09B04	Carl, bego banget lu!
+CES1_CD	B2C40EA7	Woy Carl, jangan main curang dong!
+CES1_CE	C5C33E31	Woy, awas Carl!
+CES1_CF	5CCA6F8B	Lu mau ngebunuh adik lu sendiri, hah?
+CES1_CG	2BCD5F1D	Nah ini dia, yeeehaaa!
+CES1_CH	BB72428C	Semoga beruntung, sob!
+CES1_DA	8DEF6CEF	Kita liat seberapa jago lu, bro. Ayo gaskan!
+CES1A00	F7061FCD	Woy CARL!
+CES1A01	80012F5B	Woyyy, CJ, nyampe juga lu!
+CES1A02	19087EE1	Mobil mantap nih, bro. Bukan kaleng-kaleng!
+CES1A03	6E0F4E77	Lu yakin mau ngerintisin nih mobil?
+CES1A04	F06BDBD4	Yoi, yakinlah. Berapaan emang taruhannya?
+CES1A05	876CEB42	Duit cash atau BPKB mobil lu yang masuk pot taruhan.
+CES1A06	1E65BAF8	Taruhan mati nih, yoi.
+CES1A07	69628A6E	Terus lu tinggal mepet ke garis start buat balapan.
+CES1A08	F9DD97FF	Siapa yang lewatin garis duluan dia yang menang, mau ada polisi atau kagak.
+CES1A09	8EDAA769	Oke, gaskeun, gue ikut.
+CES1A10	EE1D2E8C	Awasin posisi lu CJ, bocah-bocah di sini pada kagak demen kalah...
+CES1A11	991A1E1A	Ikutin gue ke lokasi balapan, bro!
+CES1A12	00134FA0	Ada urusan apaan nih?
+CES1A13	77147F36	Halo, sayang.
+CES1A14	E970EA95	Iya, gue juga kagak kok.
+CES1A15	9E77DA03	Yoi, aman bro.

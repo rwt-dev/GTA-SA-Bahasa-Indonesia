@@ -1,0 +1,79 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+SYN3_1	C03FBCD9	~s~Nyetir menuju ke ~g~lokasi~s~ van.
+SYN3_14	DE7BA179	~r~Motor pengawalmu hancur!
+SYN3_15	A97C91EF	~r~Vannya hancur!
+SYN3_16	3075C055	~r~Sopir van tewas!
+SYN3_18	D7CDED52	~s~Pergi ke ~b~mobil~s~.
+SYN3_19	A0CADDC4	~r~Mobilnya hancur!
+SYN3_2	5936ED63	~s~Singkirkan ~r~penghalang jalan~s~ pertama sebelum ~b~van~s~ tiba di sana.
+SYN3_20	F23B36A3	~s~Dapatkan ~b~van-nya.
+SYN3_21	853C0635	~s~Ambil ~g~peluncur roket~s~ setibanya di sana.
+SYN3_25	8251C22C	~s~Ambil ~b~motor pengawal~s~.
+SYN3_26	1B589396	~s~Masuk kembali ke dalam ~b~mobil~s~.
+SYN3_27	6C5FA300	~r~Toreno tewas!
+SYN3_28	FCE0BE91	~r~T-Bone tewas!
+SYN3_3	2E31DDF5	~s~Gunakan ~g~peluncur roket~s~ untuk menghancurkan ~r~penghalang jalan~s~.
+SYN3_4	B0554856	~s~Gunakan peluncur roket untuk menghancurkan ~r~penghalang jalan~s~.
+SYN3_5	C75278C0	~s~Bersihkan ~r~penghalang jalan~s~ berikutnya.
+SYN3_6	5E5B297A	~s~Bersihkan penengah jalan ~r~ketiga~s~.
+SYN3_7	295C19EC	~s~Hancurkan ~r~penghalang jalan~s~ terakhir.
+SYN3_8	B9E3047D	~s~Pastikan ~b~van~s~ tiba di tujuannya dengan selamat.
+SYN3_9	CEE434EB	~b~Van~s~ hampir tiba di ~r~penghalang jalan~s~ saat ini!~N~Bersihkan ~r~penghalang jalan~s~ dengan cepat.
+SYN3_AA	D12B5D3C	Woy, apa yang kau lakukan, bro?!
+SYN3_AB	48220C86	Woy, sialan apa masalahmu?
+SYN3_AC	3F253C10	Kau mau bikin kita berdua tewas?
+SYN3_AD	A141A9B3	Anak buah kita sudah menunggu seperempat mil ke depan di sisi kanan jalan.
+SYN3_BA	FA060EFF	Woy kawan (*holmes*), mau ke mana kau?
+SYN3_BB	630F5F45	Aturan No.1: Jangan pernah lewat rute langsung.
+SYN3_BC	14086FD3	Bro, sialan apa yang kau bicarakan?
+SYN3_BD	8A6CFA70	Kau lakukan saja apa yang kami suruh!
+SYN3_BE	FD6BCAE6	Bawa kita ke sana sekarang!
+SYN3_BF	64629B5C	Woy, biarkan anak itu, dia sudah bekerja dengan baik.
+SYN3_BG	1365ABCA	Bro, persetan dengan itu, aku cuma ingin pengiriman ini segera selesai.
+SYN3_BH	83DAB65B	Woy, dan kita pasti akan menyelesaikannya.
+SYN3_BI	F4DD86CD	Dan berhenti mengumpat di sekitarku, kau tahu aku ini orangnya sensitif, sialan!
+SYN3_CA	E31D3FBE	Keluar dan ambil motor.
+SYN3_CB	7A146E04	Pengiriman ini harus sampai ke pabrik.
+SYN3_CC	0D135E92	Pastikan itu terjadi, kami akan memberimu imbalan yang setimpal.
+SYN3_CD	9377CB31	Tunggu sebentar, Mendez, kita ada urusan lain di tempat lain.
+SYN3_CE	E470FBA7	Dia bisa mengatasi ini sendirian dengan baik.
+SYN3_CF	7D79AA1D	Kami mengawasimu, nak.
+SYN3_CG	0A7E9A8B	Ya tentu, kawan (*ese*). Kami mengawasimu.
+SYN3_DC	4252C855	Singkirkan van ini dari pandangan, dan aku akan menarik perhatian polisi pergi dari sini.
+SYN3_EA	B5479838	Oke, kita berhasil lolos, tapi polisi bakal segera mengepung tempat ini.
+SYN3_EB	2C4EC982	Singkirkan van ini dari pandangan, aku mau cabut dari sini!
+SYN3A00	D6B5DA5B	Bro, sebenarnya ke mana sih semua orang?
+SYN3A01	A1B2EACD	Woy, kau polisi keparat (*pinche jura*) atau apa?
+SYN3A02	38BBBB77	Apa-apaan ini?
+SYN3A03	4FBC8BE1	Kau pikir bisa main-main denganku?
+SYN3A04	D1D81E42	(Tersedak)
+SYN3A05	A6DF2ED4	Akan kuledakkan kepalamu,
+SYN3A06	3FD67F6E	dan kuperkosa serta kubunuh keluargamu, kau ular pengkhianat.
+SYN3A07	48D14FF8	Kau pikir bisa membohongiku,
+SYN3A08	D86E5269	dan berbuat curang padaku?
+SYN3A09	AF6962FF	Aku tahu permainan busukmu, kawan (*ese*).
+SYN3A10	CFAEEB1A	Aku tidak tahu apa yang kau bicarakan, bro! Tenggorokanku!
+SYN3A11	B8A9DB8C	Kau bekerja untuk siapa?
+SYN3A12	21A08A36	Tidak ada siapa-siapa!
+SYN3A13	56A7BAA0	Balik badan dan lihat aku.
+SYN3A14	C8C32F03	Bro, aku cuma berusaha mencari uang,
+SYN3A15	BFC41F95	dan menutup mulutku rapat-rapat. Sumpah, bro!
+SYN3A16	26CD4E2F	Aku hampir mendapatkanmu, bro.
+SYN3A17	51CA7EB9	Aku hampir saja mendapatkanmu, keparat.
+SYN3A18	C1756328	Lihat itu (*Guacha*)! Kau harus berhati-hati dalam bisnis ini, bro, kau tahu itu.
+SYN3A19	B67253BE	Kalian berdua sudah selesai main-mainnya?
+SYN3A20	E483B8D9	Yoi, kita sudah beres, kawan (*vato*).
+SYN3A21	9384884F	Oh bagus, luar biasa. Sekarang kita harus pergi mengawal pengiriman ini.
+SYN3A22	0A8DD9F5	Kita sudah terlambat dari jadwal.
+SYN3A23	7D8AE963	Ayo berangkat!
+SYN3A24	E3EE7CC0	Kau dengar kata bos (*jefe*).
+TORX_AA	883488B5	Masuk ke dalam mobil!
+TORX_AB	113DD90F	Ayolah, duduklah.
+TORX_AC	663AE999	Carl, ayo kita jalan-jalan naik mobil.
+TORX_AD	F85E7C3A	Ayolah, ambil kemudinya!
+TORX_AE	8F594CAC	Ayolah, masuk!

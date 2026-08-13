@@ -1,0 +1,182 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	9B4B3CD8	Pencet ~m~~widget_horn~ buat ngebunyiin klakson mobil.
+GAR1_07	2D644BA1	~r~Mobilnya udah hancur!
+GAR1_10	AA1BEF43	Woy! Masuk balik ke ~b~mobil~s~.
+GAR1_14	AD762B5A	~r~Jethro tewas!
+GAR1_15	DA711BCC	~r~Dwayne tewas!
+GAR1_16	43784A76	~r~Zero tewas!
+GAR1_17	347F7AE0	~r~Truth tewas!
+GAR1_18	A4C06771	~r~Lu ninggalin mobilnya!
+GAR1_19	D3C757E7	~r~Lu ninggalin The Truth!
+GAR1_20	8136BC80	~r~Lu ninggalin Jethro!
+GAR1_21	F6318C16	~r~Lu ninggalin Dwayne!
+GAR1_22	6F38DDAC	~s~Masuk ke dalam ~b~mobil~s~.
+GAR1_23	183FED3A	Ketuk ~m~~widget_horn~ buat ngebunyiin klakson mobil.
+GAR1_26	685519B5	~s~Pergi ke Rumah Sakit.
+GAR1_AA	A226D71F	Ayolah bro, ada dua kenalan gue nih - dulu mereka kerja ngurusin mesin kapal,
+GAR1_AB	3B2F86A5	sampe mafioso ngembat bisnis mereka di Vice City.
+GAR1_AC	4C28B633	Sekarang mereka nyoba nyari makan pake kerjaan apa aja.
+GAR1_AD	D24C2390	Mereka agak lelet dikit gara-gara kebiasaan ngobat mereka sih,
+GAR1_AE	A54B1306	tapi asap obat kagak bakal ngalangan keahlian mereka ngurusin mesin.
+GAR1_AF	3C4242BC	Kita jemput Jethro dulu.
+GAR1_AG	4B45722A	Kabar terakhir yang gue denger, dia kerja di bengkel daerah Easter Basin.
+GAR1_AH	DBFA6FBB	Kabar terakhir yang gue denger, dia kerja di bengkel daerah jalan East Esplanade.
+GAR1_AJ	35F40E97	Kabar terakhir yang gue denger, dia kerja di bengkel daerah jalan North Esplanade.
+GAR1_BA	890B84DC	Woy bro, gimana cerita lu bisa kenal sama nih orang-orang?
+GAR1_BB	1002D566	Gue ketemu mereka pas acara pesta damai '89 Fierro Love-in kayaknya.
+GAR1_BC	6705E5F0	Kayak nya?
+GAR1_BD	F9617053	Lu tau sendiri lah bro kek gimana,
+GAR1_BE	8E6640C5	lapangan penuh tenda, musik gila-gilaan,
+GAR1_BF	176F117F	sebotol vodka meskalin, beruang kutub...
+GAR1_BG	606821E9	Beruang kutub?
+GAR1_BH	F0D73C78	Yoi. Tebak aja sendiri. Tapi mereka orangnya kocak bro - selera humornya dapet banget.
+GAR1_CA	9010B59D	Nah di sini nih wilayahnya geng Vietnam.
+GAR1_CB	0919E427	Da Nang Boys, Shining Razors, Butterfly Children.
+GAR1_CC	7E1ED4B1	Hati-hati lu bro. Orang-orang ini beneran ngeraguin/serius banget.
+GAR1_DA	DF51235A	Woy, Jethro!
+GAR1_DB	465872E0	Halo bro Truth!
+GAR1_DC	315F4276	Waduh bro, gue ada utang sama lu kagak?
+GAR1_DD	AF3BD7D5	Soalnya gue bersumpah gue udah bayar ganja itu bro!
+GAR1_DE	D83CE743	Kagak bro, kita aman kok kayaknya.
+GAR1_DF	4135B6F9	Naik bro. Gue dapet pekerjaan beneran buat lu.
+GAR1_EA	C64A121B	Jethro, ini Carl. Carl, ini Jethro.
+GAR1_EB	5F4343A1	Yo bro.
+GAR1_EC	28447337	Bisa kita mampir ke rumah sakit kagak, tempatnya di distrik Santa Flora, sebelah barat sini.
+GAR1_ED	B620E694	Yoi, lu sakit?
+GAR1_EE	C127D602	Kagak. Pemerintah yang sakit, tapi itu cerita panjang sih.
+GAR1_FA	ED6741D8	Jadi lu tau lah, kek gimana kesepakatannya bro?
+GAR1_FB	746E1062	Gue mau ngebuka bengkel di Doherty deket lahan kosong.
+GAR1_FC	036920F4	Lu tau lah, modif mobil, lowrider, sama hal-hal kek gitu.
+GAR1_FD	9D0DB557	Lu ikut kagak?
+GAR1_FE	EA0A85C1	Beruang kutub boker di hutan kagak?
+GAR1_FF	7303D47B	Kagak, tapi mereka ketahuan pernah boker di tenda minuman keras, kalo gue kagak salah inget.
+GAR1_FG	0404E4ED	Yoi, itu mah udah parah banget bro.
+GAR1_GA	F47C7099	Ngapain kita ke sini lagian?
+GAR1_GB	6D752123	Kagak ada.
+GAR1_GC	1A7211B5	Ooh, jangan liat.
+GAR1_GD	84168416	Tutup muka kalian.
+GAR1_GE	F311B480	Bayangin bebek karet warna kuning.
+GAR1_GF	6A18E53A	Lu halusinasi mabu lagi nih.
+GAR1_GG	1D1FD5AC	Ssshh!
+GAR1_GH	8DA0C83D	Oke, gue udah liat yang perlu diliat.
+GAR1_GI	FAA7F8AB	Ayo kita liat apa kita bisa nemuin Dwaine.
+GAR1_GJ	63AEA911	Dia lagi kerja jualan di gerobak sosis (hotdog) di terminal trem daerah King's.
+GAR1_HA	73E46C56	Ayolah bro, maksudnya apaan sih semua itu tadi?
+GAR1_HB	EAED3DEC	Lu kagak bakal mau tau.
+GAR1_HC	9DEA0D7A	Kenapa?
+GAR1_HD	038E98D9	Lu tau kagak apa itu *sub-dermal neurophone*?
+GAR1_HE	7489A84F	Apaan tuh?
+GAR1_HF	ED80F9F5	Nah kan, tepat banget.
+GAR1_HG	9A87C963	Terkadang mendingan lu kagak usah tau apa-apa, bocah.
+GAR1_JA	41D20ED4	Woy Dwaine bro, gimana bisnis sosis lu?
+GAR1_JB	D8DB5F6E	Sampah banget asli. Napa, ada apaan emang?
+GAR1_JC	AFDC6FF8	Uh, temen gue Carl di sini mau ngebuka bengkel pretelan/modif.
+GAR1_JD	31B8FA5B	Jethro udah ikut, kalo lu gimana?
+GAR1_JE	46BFCACD	Ah yoi, mantap bro.
+GAR1_JF	DFB69B77	Uh tapi gue kudu ngurus beberapa hal dulu sih.
+GAR1_JG	A8B1ABE1	Jadi uh lu kasih tau aja ntar kalian bakal ada di mana terus gue bakal nemuin kalian di sana.
+GAR1_JH	380EB670	Bengkelnya ada di lahan kosong daerah Doherty.
+GAR1_JJ	D600D75C	Sampai ketemu ntar ya.
+GAR1_KA	58C93F95	Oke, tujuan berikutnya kantor polisi pusat kota.
+GAR1_KB	C1C06E2F	Apaan? Gila lu ya! Ngapain?
+GAR1_KC	B6C75EB9	Kalo gue kasih tau, kemungkinannya pantat lu bakal ditancap alat pelacak dalam sebulan.
+GAR1_KD	28A3CB1A	Kek, dengerin tuh orang bro, dia serius banget soal hal kek gitu.
+GAR1_KE	5FA4FB8C	Lah? Oke deh, tapi lu mulai bikin gue merinding sama semua omong kosong luar angkasa itu bro.
+GAR1_LA	1788A952	Oke, kalian tau prosedurnya.
+GAR1_LB	8E81F8E8	Jangan keliatan kepo sama apa pun.
+GAR1_LC	F986C87E	Bayangin bola golf warna merah muda di otak kalian.
+GAR1_LD	67E25DDD	Oke, kita siap jalan.
+GAR1_MA	0E939813	Ke mana lagi kita abis ini, si Kepala Luar Angkasa?
+GAR1_MB	979AC9A9	Ada ahli elektronik kenalan gue,
+GAR1_MC	E09DF93F	namanya ZERO.
+GAR1_MD	7EF96C9C	Dia bisa mbenerin superkomputer cuma pake klip kertas.
+GAR1_ME	09FE5C0A	Dia punya toko sendiri,
+GAR1_MF	90F70DB0	tapi dia selalu siap ngebantu sesama pengelana di jalanan.
+GAR1_MG	E7F03D26	Ayo kita kenalan sama dia.
+GAR1_NA	25BECBD0	Dengerin, ada apaan sih sebenernya, Truth?
+GAR1_NB	BCB79A6A	Siapa orang-orang itu tadi?
+GAR1_NC	CBB0AAFC	Kagak usah dibahas ke sana, bro.
+GAR1_ND	55D43F5F	Dengerin kata Jethro tuh.
+GAR1_NE	22D30FC9	Nah, gimana kalo gue kasih tau lu kalo kita kagak pernah mendarat di bulan,
+GAR1_NF	BBDA5E73	JFK masih hidup di Skotlandia bareng Janis Joplin,
+GAR1_NG	CCDD6EE5	sama satu-satunya alasan kita perang dingin selama empat puluh lima tahun terakhir,
+GAR1_NH	5C627374	itu gara-gara alien berkepala ular yang ngejalanin bisnis minyak bumi?
+GAR1_NJ	B26C1258	Gue pikir lu kebanyakan makan obat narkoba lagi deh.
+GAR1_NK	C56B22CE	Bagus. Tetep mikir gitu aja.
+GAR1_OA	3CA5FA91	Pencet klaksonnya.
+GAR1_OB	A5ACAB2B	Tinggalin gue Berkley bangsat!
+GAR1_OC	D2AB9BBD	Ini namanya pelecehan/penguntitan!
+GAR1_OD	4CCF0E1E	Oh, halo, Truth.
+GAR1_OE	3BC83E88	Masuk, ntar gue jelasin pas kita lagi jalan.
+GAR1_OF	A2C16F32	Gaskan, Pak Supir!
+GAR1_PA	F1FFF40F	Carl, ini Zero, Zero, ini Carl.
+GAR1_PB	68F6A5B5	Yo.
+GAR1_PC	1FF19523	Carl di sini mau ngebuka bengkel di tikungan sebelah.
+GAR1_PD	81950080	Gue udah bilang ke dia kalo lu tuh orang paling pas kalo urusan elektronik.
+GAR1_PE	F6923016	Sebenernya, gue SATU-SATUNYA orang yang pas buat diajak ngomong.
+GAR1_PF	6F9B61AC	Lu harus mampir ke toko gue kapan-kapan bro, liat beberapa koleksi mantap gue.
+GAR1_PG	189C513A	Bakal gue lakuin tuh.
+GAR1_PH	88234CAB	Oke, kita udah nyampe.
+GAR1_PJ	662D2D87	Genius kelas A, paling top, yaitu gue sendiri.
+GAR1B00	A7FEEE21	Bangsat! Banci bisu itu!
+GAR1B01	D0F9DEB7	Si ular bangsat kagak punya lidah itu!
+GAR1B02	49F08F0D	Malah ngasih tempat sampah kek gini ke gue bukannya BPKB mobil?
+GAR1B03	3EF7BF9B	Gue pasti jadi orang paling bego di seluruh dunia bangsat!
+GAR1B04	A0932A38	Bro (*holmes*), santai dulu napa. Minimal kita masih hidup.
+GAR1B05	D7941AAE	Carl, kawan, sesama pengelana, santai dulu bro.
+GAR1B06	4E9D4B14	Lu bener-bener merusak suasana damai gue nih!
+GAR1B07	399A7B82	Ya sori kalo gue ngacauin suasana lu, orang tua,
+GAR1B08	A9256613	tapi gue udah kagak sabar mau mbejek tuh si bisu
+GAR1B09	DE225685	sama sepupu lonte lu itu.
+GAR1B10	BEE5DF60	Woy!
+GAR1B11	C9E2EFF6	Sepupu gue? Lu mau ngina keluarga (*familia*) gue?
+GAR1B12	50EBBE4C	Salah gue bro. Gue cuma emosi aja buat kita semua.
+GAR1B13	27EC8EDA	Maksud gue liat nih, kita di tempat asing, kagak punya harta apa-apa,
+GAR1B14	B9881B79	sekalinya gue nyoba bikin sesuatu berhasil, bengkel ini,
+GAR1B15	CE8F2BEF	eh ternyata bentukannya bahkan bukan bengkel.
+GAR1B16	57867A55	Kalo gitu ubah tempat ini jadi bengkel beneran.
+GAR1B17	20814AC3	Oh, ide bagus banget tuh sis! Mending lu diem aja kenapa?
+GAR1B18	B03E5752	Lu tau kagak Carl, lu tuh bener-bener orang bego.
+GAR1B19	C73967C4	Seumur hidup lu selalu mau dapet sesuatu tanpa usaha.
+GAR1B20	95C88CA3	Sekarang lu udah punya sesuatu, tapi lu kagak tau mau diapain.
+GAR1B21	E2CFBC35	Yaa bikin tempat ini jadi bagus lah. Kita bakal ngebantu kan?
+GAR1B22	7BC6ED8F	Ayolah gausah emosian gitu bro.
+GAR1B23	0CC1DD19	Kalian berdua.
+GAR1B24	92A548BA	Waduh bro, energi di sini - fantastis banget.
+GAR1B25	E5A2782C	Iya, oke deh, tapi gimana cara gue ngedapetin montir-montir bagus buat kerja di sini, bro?
+GAR1B26	7CAB2996	Gue kenal beberapa orang. Ikut gue kawan.
+GAR1B27	0BAC1900	Mereka orang-orang baik, gue bersumpah.
+GAR1B28	9B130491	Kita selalu dukung lu, CJ.
+GAR1B29	EC143407	Ommmmmm...
+GAR1B30	8CD3BDE2	Aduh bro - gue harus naik mobil bareng si orang gila ini lagi?
+GAR1C00	A63C8416	Bagus juga tempat yang lu punya di sini.
+GAR1C01	D13BB480	Seminggu kerja keras dan kita bakal merubah tempat ini.
+GAR1C02	4832E53A	Cesar, ini Jethro, Dwaine sama Zero.
+GAR1C03	3F35D5AC	- Halo bro.~n~- Bro.
+GAR1C04	A151400F	Yo bro!
+GAR1C05	D6567099	Salam, saudaraku!
+GAR1C06	4F5F2123	Ayo, mari kita mulai kerja.
+GAR1C07	385811B5	Woy Carl, liat nih - kayaknya gue nemu cara buat kita ngedapetin duit.
+GAR1C08	A8E70C24	Gue kagak sudi masuk kuliah cuma buat belajar akuntansi ya!
+GAR1C09	DFE03CB2	Bukan itu, bego, properti!
+GAR1C10	BF27B557	Ngedekorasi juga bukan bidang gue sih.
+GAR1C11	C82085C1	Bukan, maksudnya bisnis pengembangan properti!
+GAR1C12	5129D47B	Coba liat, lu beli tempat sampah kek gini, benerin terus jual lagi.
+GAR1C13	262EE4ED	Atau lebih bagus lagi, lu ubah propertinya jadi tempat bisnis.
+GAR1C14	B84A714E	Bola saljunya makin lama makin gede...
+GAR1C15	CF4D41D8	Gue kagak tau deh sis, ini keliatan terlalu muluk-muluk buat gue.
+GAR1C16	56441062	Dengerin Carl, tempat ini bakal maju,
+GAR1C17	214320F4	dan pas tempat ini sukses, kita bakal punya duit.
+GAR1C18	B1FC3D65	Kalo lu mau jadi orang sukses,
+GAR1C19	C6FB0DF3	lu harus bikin duit lu yang kerja buat lu.
+GAR1C20	940AE694	Yaa tapi gue bahkan kagak tau harus mulai dari mana.
+GAR1C21	E30DD602	Udah, kalian berdua fokus aja sama bengkel,
+GAR1C22	7A0487B8	terus biarin gue yang ngurusin masalah properti, oke?
+GAR1C23	0D03B72E	Woy, Cesar! Sini deh.
+GAR1C24	9367228D	Nah yoi, itu cewek kebanggaan gue noh, bro (*holmes*)!
+GAR1C25	E460121B	Bro, lu yang milih dia, gue yang apes terjebak sama dia!

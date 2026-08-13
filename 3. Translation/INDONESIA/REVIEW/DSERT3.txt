@@ -1,0 +1,73 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+AIR1_01	4B8459C3	~s~Pergi ke ~y~kota kecil~s~ di gurun.
+AIR1_02	D28D0879	~s~Pergi ke puncak ~y~gunung~s~ terus nyalain suar asap (*flare*).
+AIR1_03	A58A38EF	~s~Keluar dari kendaraan lu terus tembak ~y~suar asap~s~.
+AIR1_04	3BEEAD4C	~s~Tembak ~y~suar asap~s~.
+AIR1_06	D5E0CC60	~s~Lindungin ~b~helikopter selundupan~s~ dari serbuan ~r~agen rahasia~s~.
+AIR1_07	A2E7FCF6	Heli
+AIR1_08	3258E167	~r~Helikopter selundupan udah hancur.
+AIR1_09	455FD1F1	~s~Ambil ~g~barang selundupan~s~.
+AIR1_10	25985814	~s~Anterin barang selundupan ke ~y~markas rahasia~s~.
+AIR1_11	529F6882	~s~Kabur dari kejaran ~r~agen feds/FBI~s~.
+AIR1_12	CB963938	Buronan
+AIR1_13	BC9109AE	~s~Pergi ke ~y~El Castillo del Diablo~s~ di gurun.
+AIR1_14	22F59C0D	~s~Nyalain ~r~suar asap~s~.
+AIR1_15	55F2AC9B	~s~Ambil ~g~peluncur roket~s~.
+AIR1_16	CCFBFD21	~s~Pake kendaraan yang pas terus pergi ke puncak ~y~gunung~s~.
+AIR1_17	BBFCCDB7	Heli
+DES3@00	996A83FF	Kopi itu, Monyet Gede, gue dapet 13-6 burung bangkai gendut.
+DES3@01	EE6DB369	Perlu ngamankan bayi tenggelam. Ganti.
+DES3@02	7764E2D3	Dalam 15 di samping bulan gemuk.
+DES3@03	0063D245	Bikin hati lu hancur. Selesai dan ganti.
+DES3@04	9E0747E6	Carl. Gue butuh bantuan lu nih...
+DES3@05	E9007770	Yoi, gue bakal bikin lu babak belur beneran, bro.
+DES3@06	700926CA	Lu tau apaan soal abang gue?
+DES3@07	070E165C	Santai. Dia ada di penjara luar kota, Blok D. Sel 13.
+DES3@08	97B10BCD	Di sebelah kirinya ada pembunuh anak-anak, yang pengen merobek tenggorokannya.
+DES3@09	E0B63B5B	Di sebelah kanannya ada orang rasis supremasi kulit putih, yang pengen makan jantungnya, tepatnya gitu.
+DES3@10	8071B2BE	Nah gausah khawatir. Tenpenny sama Pulaski tuh sebenernya lumayan baik kok.
+DES3@11	F7768228	Kecuali kalo lu anggota keluarga dari Opsir Pendelbury
+DES3@12	6E7FD392	yang mereka tembak pas dia ngancem mau ngebongkar kejahatan mereka.
+DES3@13	1978E304	Sialan. Woy bro, tau dari mana lu soal semua ini,
+DES3@14	871C76A7	terus kenapa kagak lu hentiin aja?
+DES3@15	F01B4631	Lu emang kagak paham ya, bocah.
+DES3@16	6912178B	Dunia ini bukan cuma soal pahlawan berkuda putih. Kita harus ngambil keputusan, bocah.
+DES3@17	1E15271D	Lu tau kan, gue nyoba ngadu orang jahat lawan orang jahat lainnya.
+DES3@18	8EAA3A8C	Dan terkadang, gue membiarkan orang baik mati.
+DES3@19	F9AD0A1A	Dia abang lu, tapi buat gue, dia cuma korban sampingan (*collateral*).
+DES3@20	AB5CE17D	Ini keputusan yang sensitif banget.
+DES3@21	DC5BD1EB	Di sebelah sini, lu punya semua sampah masyarakat di dalam negeri,
+DES3@22	45528051	dan di sebelah sini, lu punya semua sampah masyarakat di luar negeri.
+DES3@23	3255B0C7	Dan gue sama rekan-rekan gue. Kita nih poros penyeimbangnya, bangsat.
+DES3@24	AC312564	Ngejaga pemerintah tetep jalan. Yang mana ngingetin gue...
+DES3@25	DB3615F2	Gue butuh lu menuju ke SINI pake mobil buggy di luar.
+DES3@26	423F4448	Oke, oke, nyalain suar asapnya. Kita punya kargo berharga yang harus diambil.
+DES3@27	353874DE	Woy, tahan dulu. Gimana nasib abang gue?
+DES3@28	A587694F	sama semua omong kosong yang lu omongin tadi?
+DES3@29	D28059D9	Gausah khawatir, Sweet aman-aman aja kok.
+DES3@30	B247D03C	Kalo dia sampe disentuh, ada sipir penjara yang pas pulang ke rumah
+DES3@31	C540E0AA	nemuin istri sama anak-anaknya udah dibantai. Semuanya terkendali.
+DES3@32	5C49B110	Ntar kita ngobrol lagi. Sekarang ayo, cabut dari sini.
+DES3@33	2B4E8186	Tapi lu tau semua hal soal itu kan?
+DES3_AA	9F366EAF	Buset, lama amat lu?
+DES3_AB	063F3F15	Toreno! Lu ada di mana sih?!
+DES3_AC	71380F83	Ber mil-mil jauhnya. Kagak ada waktu buat basa-basi, bocah.
+DES3_AD	EF5C9A20	Pilih kendaraan, ambil perlengkapan yang udah gue sediain,
+DES3_AE	985BAAB6	pergi ke area *drop zone*, terus tungguin paketnya.
+DES3_BA	B41B3D6C	Nah itu kargo kita baru mendarat!
+DES3_BB	2D126CD6	Buset! Bisa kagak lu berhenti ngagetin gitu?
+DES3_BC	5A155C40	Tahan dulu.
+DES3_BD	C471C9E3	Taik, pilotnya bilang dia ada masalah,
+DES3_BE	B376F975	ada dua helikopter agen musuh lagi datang mau mencegat.
+DES3_BF	2A7FA8CF	Keliatan kagak sama lu?
+DES3_BG	5D789859	Yoi.
+DES3_BH	CDC785C8	Tembak jatuh mereka. Lindungin kargonya apa pun yang terjadi!
+DES3_CA	AD000C2D	Oke, bawa balik paketnya ke Las Brujas.
+DES3_CB	34095D97	Lu ada di mana sih?
+DES3_CC	430E6D01	Lu bikin gue merinding tau gak, bro!
+DES3_CD	DD6AF8A2	Carl, gue bakal SELALU ngawasin... atau dengerin... atau dua-duanya.

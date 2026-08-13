@@ -1,0 +1,145 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	E71E892D	Pencet ~m~~widget_auto_hydraulics~ buat mengendalikan garpu garpu pengangkat (forks) truk.
+	1C330B90	Pencet ~m~~widget_horn~ buat ngebikin Ryder melempar peti.
+RY2_02	102B64CE	Nyetir menuju ke kompleks bangunan di ~y~Dermaga Ocean Docks.
+RY2_03	672C5458	~s~Masuk ke dalam ~b~van~s~ bareng Ryder.
+RY2_19	9EE28C07	Ryder
+RY2_21	BB1457F6	Peti-peti
+RY2_22	221D064C	~r~Ryder tinggal kenangan.
+RY2_23	551A36DA	~s~Buka ~r~pintu gerbang~s~ depan.
+RY2_24	CB7EA379	~s~Tembak ~r~sakelar~s~ di tembok sebelah pintu gerbang depan.
+RY2_25	BC7993EF	~r~Van-nya udah hancur.
+RY2_40	9A49C0E6	~r~Truk forklif tinggal kenangan.
+RY2_42	7447A1CA	Tembak ~r~sakelar~w~ di tembok sebelah pintu gerbang depan buat ngebukanya.
+RY2_43	0340915C	Tembak ~r~sakelar~w~ di tembok gudang buat ngebuka pintu.
+RY2_53	1A5BA01D	~s~Lu harus ngemasukin Ryder, tembak ~r~sakelar~s~ di pintu gerbang depan.
+RY2_55	F3380528	~s~Masuk ke dalam truk ~b~forklif~s~.
+RY2_56	6A315492	~s~Angkat peti pake truk forklif.
+RY2_57	1D366404	~s~Jatuhkan peti di belakang van, di sebelah Ryder.
+RY2_58	8D897995	~r~Terlalu banyak peti yang hancur!
+RY2_59	FA8E4903	~s~Buka pintu gerbang depan pake cara menembak ~r~sakelar~s~ di sisi tembok sebelah.
+RY2_60	A87FA264	~s~Buka pintu gudang pake cara menembak ~r~sakelar~s~ di tembok.
+RY2_61	DF7892F2	~s~Tembak ~r~sakelar~s~ buat ngebuka pintu gerbang depan.
+RY2_62	4671C348	~s~Tembak ~r~sakelar~s~ buat ngebuka pintu gudang.
+RY2_63	3176F3DE	~s~Angkat peti-peti pake forklif terus jatuhkan peti ~y~di belakang van~s~.
+RY2_64	AF12667D	Pencet terus tahan ~m~~widget_attack~ pas ada di dalam truk forklif buat mengambil sama menjatuhkan peti.
+RY2_65	D81556EB	~s~Jatuhkan petinya.
+RY2_66	411C0751	~s~Menuju ke gudang persembunyian di ~y~Willowfield~s~.
+RY2_67	361B37C7	~s~Masuk ke dalam ~b~van~s~.
+RY2_68	A6A42A56	Ketuk ~m~~widget_auto_hydraulics~ buat mengendalikan garpu pengangkat truk.
+RY2_69	D1A31AC0	Posisikan garpu pengangkat di bawah peti terus naikkan garpu buat mengangkat peti.
+RY2_70	B1649325	~s~Pake truk forklif buat memuat peti-peti ke atas ~b~van~s~.
+RY2_71	C663A3B3	Pencet terus tahan ~m~~widget_look_left~ sama ~m~~widget_look_right~ buat ngeliat ke kiri sama kanan.
+RY2_72	5F6AF209	Ketuk ~m~~widget_horn~ buat ngebikin Ryder melempar peti.
+RY2_73	286DC29F	~s~Lu cuma boleh membuang 3 peti, sisanya harus disisa simpen!
+RYD2_AA	8550294C	Lu pikir lu bisa gulingin nih van tanpa ngebunuh kita berdua kagak?
+RYD2_AB	1C5978F6	Diem aja kenapa terus masuk.
+RYD2_BA	AE7D7A8F	Woy, CJ, lu kagak bakal kabur penakut ngacir lagi kan dari kita?
+RYD2_BB	37742B35	Ayolah CJ, kita kagak punya waktu seharian!
+RYD2_BC	40731BA3	Masuk terus nyetir, bangsat!
+RYD2_CA	B7664BCE	Woy, Ryder, kita mau ke mana nih?
+RYD2_CB	2E6F1A74	Ocean Docks.
+RYD2_CC	59682AE2	Gimana cerita kita dapet nih van? Kagak ada di luar pas gue dateng tadi.
+RYD2_CD	C70CBF41	Kawan gue LB, dia tuh kek ninja mesin jam! Bener-bener bisa diandelin.
+RYD2_CE	B00B8FD7	Kagak kek beberapa dari kalian para keparat...
+RYD2_CF	2902DE6D	Udah kenapa, bro.
+RYD2_CG	5E05EEFB	Gue udah kehilangan adik kecil gue sama sekarang Ibu gue meninggal.
+RYD2_CH	CEBAF36A	Kagak peduli seberapa banyak masalah yang dilempar kota ini ke lu, CJ, lu kudu tetep setia bareng kawan-kawan lu!
+RYD2_CJ	20B49246	Yoi, kayaknya...
+RYD2_DA	F827DD09	Ini tempatnya - Depot Garda Nasional (*National Guard Depot*).
+RYD2_DB	612E8CB3	Bro, hal ini keliatan serius banget asli.
+RYD2_DC	1629BC25	Kita sanggup ngelakuin ini kagak nih?
+RYD2_DD	884D2986	Ini cuma Garda Nasional, bego! Tentara akhir pekan doang!
+RYD2_DE	FF4A1910	Kagak ada apa-apanya dibandingin senior (*OG*) Grove Street!
+RYD2_DF	664348AA	Sekarang masuk ke dalam sana terus buka pintu gerbang bangsat itu!
+RYD2_EA	E13CEC48	Pergi buka pintu gerbang bangsat itu, CJ!
+RYD2_EB	7835BDF2	Panjat tembok itu terus buka pintu gerbang bangsat itu!
+RYD2_FA	CA11BF8B	Bro, tembak aja sakelar di sebelah pintu gerbang bangsat itu!
+RYD2_GA	D30A8ECA	Kerja bagus, CJ, tadinya gue kira itu beneran misi bunuh diri!
+RYD2_GB	4A03DF70	Sekarang buka gudangnya terus bikin para keparat ini sibuk!
+RYD2_HA	54929205	Oke, kita udah masuk, gerak cepat, Ryder!
+RYD2_HB	CD9BC3BF	Yoi, siap beroperasi. Mundurin van-nya ke dalam sini.
+RYD2_JA	66A4F087	Awas halangan jalan, CJ!
+RYD2_JB	FFADA13D	Berhenti nyoba ngebunuh diri lu di bawah van!
+RYD2_JC	88AA91AB	Kalo lu mau gue tabrak, bilang aja dari tadi!
+RYD2_KA	7FBFC1C6	Oke, bro, ayo kita muat barang-barang bangsat ini!
+RYD2_KB	E6B6907C	Gue bakal mengawasi belakang kita pas lu pake forklif buat ngambil peti-peti.
+RYD2_KC	91B1A0EA	Jatuhkan peti di belakang van ntar gue yang memasukkan ke dalam.
+RYD2_LA	30FE5701	Ayolah, CJ, kita kagak punya waktu seharian!
+RYD2_LB	A9F706BB	Gerak cepat, CJ!
+RYD2_LC	DEF0362D	Keadaan makin tegang nih, gerak cepat!
+RYD2_LD	4094A38E	Ayo cepat, CJ!
+RYD2_LE	37939318	Lu lagi ngapain sih, CJ?
+RYD2_LF	AE9AC2A2	Woy, berhenti ngancurin peti-petinya!
+RYD2_LG	D99DF234	Kita butuh peti-peti itu, CJ!
+RYD2_LH	4922EFA5	Masih ada lebih banyak lagi di luar!
+RYD2_LJ	A72C8E89	Mereka punya peti lebih banyak di luar, CJ!
+RYD2_MA	29E56640	Taik, CJ! Taik!
+RYD2_MB	B0EC37FA	CJ, tolongin gue, bangsat!
+RYD2_MC	C7EB076C	Tentara akhir pekan bangsatnya terlalu banyak!
+RYD2_MD	598F92CF	Mereka merayap keluar dari mana-mana!
+RYD2_ME	2E88A259	Garda Nasional pecundang!
+RYD2_MF	B781F3E3	Bantu gue, CJ, gue dikeroyok nih!
+RYD2_NA	02C83583	Oke, CJ, ayo gaskan cabut!
+RYD2_NB	9BC16439	CJ, duduk di depan terus nyetir bawa kita keluar dari sini!
+RYD2_NC	ECC654AF	Lu yang pegang kendali, CJ, bawa kita keluar!
+RYD2_ND	72A2C10C	Ayolah, CJ, peti kita udah cukup!
+RYD2_OA	1BD304C2	Mereka punya garasi penyimpanan di Willowfield! JALAN!
+RYD2_OB	82DA5578	LB udah nyiapin tempat buat kita di Willowfield - injek gasnya!
+RYD2_PA	D6890A5C	Sialan, bro, para orang bego ini kagak mau menyerah juga!
+RYD2_PB	4F805BE6	Ada apaan di belakang sana?
+RYD2_PC	38876B70	Para tentara paruh waktu ini dendam banget sama kita!
+RYD2_PD	A6E3FED3	Rima lirik yang mantap, bro.
+RYD2_PE	D1E4CE45	Woy, muatan kita keberatan nih, lempar beberapa peti!
+RYD2_PF	48ED9FFF	Sip lah, perhatiin nih.
+RYD2_PG	3FEAAF69	Bunyiin klakson, ntar gue lempar peti ke arah mereka.
+RYD2_QA	CF923B1D	Mau ke mana lu? Pecundang (*Buster*)! PECUNDANG!
+RYD2_QB	569B6AA7	Bro, dari awal gue udah tahu lu tuh emang pecundang!
+RYD2_QC	219C5A31	Lu kagak berubah, CJ. Pecundang! Tetep aja pecundang (*busta*)!
+RYD2_RA	E4BF68DE	Gue kagak bakal membuang peti lagi, kita harus menyisakan beberapa!
+RYD2_RB	7DB63964	Sori, CJ, tapi kita kudu menyisakan beberapa dari peti ini!
+RYD2_SA	FDA4599F	Gue kagak sudi jalan bareng lu lagi, bro, sebelum lu berhenti ngehisap rokok narkoba (*water/sherm*) itu, sob.
+RYD2_SB	64AD0825	Barang itu ngacauin otak lu.
+RYD2_SC	13AA38B3	Terserah apa kata lu, bego. Lu kagak tahu apa yang lagi terjadi.
+RYD2_SD	8DCEAD10	Maksud lu apaan tuh?
+RYD2_SE	FAC99D86	Gue kagak sudi dengerin omong kosong lu lagi.
+RYD2_SF	63C0CC3C	Kita udah dapet senjatanya. Lu itu bukan gengster, bro.
+RYD2_SG	14C7FCAA	Lu mau semuanya lancar-lancar aja? Lu kagak mau ada masalah. Gue mah tetep riil gengster sejati.
+RYD2_SH	8478E13B	Lu kagak bakal paham arti riil sejati meskipun barang itu mendarat nabrak pipi lu, bro,
+RYD2_SJ	6A768017	yang mana bisa aja terjadi, kalo barang itu nabrak lu duluan.
+RYD2_SK	1D71B081	Gue kagak mau dengerin lu lagi, Carl.
+RYD2_TA	B2E5CF58	Gila itu tadi gokil parah!
+RYD2_TB	2BEC9EE2	Gokil? Bro, itu tadi sampah banget.
+RYD2_TC	5CEBAE74	Bro, lu bilang lu setia bareng kawan-kawan, tapi kerjaan lu cuma ngeluh mulu dari tadi.
+RYD2_TD	C28F3BD7	Nih, bro, ambil bagian lu terus cabut dari sini!
+RYD2_UA	ABFEFE19	Jatuhkan di sini, CJ!
+RYD2_UB	32F7AFA3	Tepat di situ, bro!
+RYD2_UC	45F09F35	Taruh aja di bawah sini, CJ!
+RYD2_VA	80D3ADDA	Woy, berhenti di tempat kalian!
+RYD2_VB	19DAFC60	Ada penyusup, bunyiin alarm!
+RYD2_VC	6EDDCCF6	Lu ke sini mau ngambil pengiriman barang?
+RYD2_VD	F0B95955	Mundurin aja van-nya ntar gue buka pintunya.
+RYD2_VE	87BE69C3	Woy, pengiriman barang ini kan baru keluar besok!
+RYD2_VF	1EB73879	Lu penipu palsu!
+RYD2_VG	69B008EF	BUNYIIN ALARM!
+RYD2A00	82CEAE2B	Woy, Ryder! Orang ini kaya raya banget... Ryder!
+RYD2A01	F5C99EBD	Yeeaaah, CJ... Woy, CJ, coba kasih tau gue kenapa gue kagak lulus SMA.
+RYD2A02	6CC0CF07	Gara-gara lu udah ngedarin narkoba, bro, dari umur sepuluh tahun!
+RYD2A03	1BC7FF91	Kagak, bukan itu alasannya.
+RYD2A04	85A36A32	Gara-gara lu ngegebukin guru lu cuma gara-gara dia pake baju warna khas Ballas!
+RYD2A05	F2A45AA4	Kagak, bukan itu juga alasannya.
+RYD2A06	6BAD0B1E	Gara-gara gue terlalu jenius pintar buat hal kek gitu, bro.
+RYD2A07	1CAA3B88	Gue ini barang langka sejati, bego. Oh yoi. Seorang jenius.
+RYD2A08	8C152619	Oh, oh yoi...
+RYD2A09	FB12168F	Siapa yang punya senjata paling banyak dibandingin siapa pun? Siapa yang pegang semua senjata, hah?
+RYD2A10	9BD59F6A	Orang yang punya banyak senjata? Taik lah, gue menyerah!
+RYD2A11	ECD2AFFC	Tentara militer, bro gue, tentara! Ayo jalan.
+RYD2A12	75DBFE46	Yoi... Yoi!
+RYD2A13	02DCCED0	- Cobain ganjanya, bro. Cobain ganjanya!~n~- Jauhin barang itu dari muka gue, bro, lu tau sendiri gue kagak sudi mainan barang kek gitu. Ayolah!
+RYD2A14	9CB85B73	Jauhin barang itu dari muka gue, bro, lu tau sendiri gue kagak sudi mainan barang kek gitu. Ayolah!
+RYD2A15	EBBF6BE5	Aduh, ayolah bro! Pecundang (*Buster*).

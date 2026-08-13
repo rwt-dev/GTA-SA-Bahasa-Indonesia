@@ -1,0 +1,42 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+F4_D	0F34AE5C	Kerusakan
+F4_F	E13ACF70	~r~Mobilnya udah hancur!
+F4_T0	0EC90B8C	~s~Ambil mobilnya dari ~y~parkiran~s~ bandara.
+F4_T2	E0C76AA0	~s~Bawa balik mobilnya dalam keadaan utuh tanpa cacat!
+F4_T4	09A4CF95	~s~Masuk balik ke ~b~mobil~s~!
+F4_T5	7EA3FF03	Ini jebakan, anak-anak geng Da Nang Boys menjaga ketat jalan keluar!
+F4_T7	90AD9E2F	~s~Ambil ~b~mobilnya~s~!
+F4_T8	001283BE	~s~Bawa mobilnya balik ke ~y~garasi~s~.
+F4_T9	7715B328	~s~Papar/hindarin ~r~motor-motor~s~ musuh!
+FAR4_AA	338F2C99	Kagak bakal bisa jauh lu!
+FAR4_AB	AA867D23	Hentikan tuh mobil!
+FAR4_AC	DD814DB5	Dia mencoba kabur!
+FAR4_AD	43E5D816	Hentikan tuh mobil apa pun taruhannya!
+FAR4_AE	34E2E880	Kejar dia!
+FAR4_AF	ADEBB93A	Jangan cuma melongo di situ, ambil tuh mobil!
+FAR4_AG	DAEC89AC	Serahin mobilnya terus kita ampunin nyawa lu!
+FAR4_AH	4A53943D	Itu barang milik kita!
+FAR4_AJ	A45DF511	Kejar dia, kagak ada ampun!
+FAR4A00	3411ABFE	Woy Woozie bro, ada apaan nih?
+FAR4A01	43169B68	Halo CJ. Kenalin nih, Shuk Foo Ran Fa Li.
+FAR4A02	DA1FCAD2	Dia pemimpin geng Triad Red Gecko Tong di Pantai Barat.
+FAR4A03	AD18FA44	Gimana kabar, bro?
+FAR4A04	337C6FE7	Ah Ah Kung ngirim kabar dari Kowloon;
+FAR4A05	447B5F71	keluarga kriminal asal Vietnam, Da Nang Boys,
+FAR4A06	DD720ECB	lagi nyiapin pergerakan buat pindah ke Amerika Serikat.
+FAR4A07	AA753E5D	Ini mungkin ngejelasin alasan penyerangan pengecut ke geng Blood Feather Triad.
+FAR4A08	3ACA23CC	Bakal ada masalah besar di depan.
+FAR4A09	4DCD135A	Shuk Foo pengen suatu paket berhasil diambil balik.
+FAR4A10	2D0A9ABF	Seorang kurir udah ngejatuhin barang itu di tempat penitipan bandara.
+FAR4A11	5A0DAA29	Ini penting banget buat urusan yang lagi kita hadapin.
+FAR4A12	C304FB93	Oh, gampang, bisa gue urus itu mah.
+FAR4A13	B403CB05	Dia anggota Triad? Anak buah Mountain Boy?
+FAR4A14	2A675EA6	Kagak - dia temen deket gue. Dan kemungkinannya lebih kecil
+FAR4A15	5D606E30	buat memancing perhatian dari Da Nang Boys.
+FAR4A16	C4693F8A	Oke deh.
+FAR4A17	B36E0F1C	Makasih atas bantuan lu.

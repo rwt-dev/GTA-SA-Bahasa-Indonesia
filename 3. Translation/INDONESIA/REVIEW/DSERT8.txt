@@ -1,0 +1,155 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	CB5F1713	Pencet terus tahan ~m~~widget_explicit_flight_ascend~ buat nambah dorongan - ini bakal bikin lu menanjak naik.
+	8E421F4A	Pas kacamata dipilih, pencet ~m~~widget_attack~ buat nyalain sama matiin penglihatan termal (*thermal vision*).
+	6827E1FF	Pake kontrol pergerakan buat geser samping (*strafe*) pas lagi pake *jetpack*.
+	4FE156CD	Buat turun dengan cepat pencet terus tahan ~m~~widget_explicit_flight_descend~.
+	230EA085	~s~Balik lagi terus ambil jetpack-nya!
+	2B8AFE0D	Pencet terus tahan pojok kanan bawah layar lu buat nambah dorongan - ini bakal bikin lu menanjak naik.
+D8ALT00	1C85E264	Toreno, lu di mana?
+D8ALT01	6B82D2F2	Salah iblis lu, CJ!
+D8ALT02	F28B8348	Truth, gimana kabar lu?
+D8ALT03	858CB3DE	Kondisi gue lebih oke daripada lu, si pantat gendut!
+D8ALT04	1BE8267D	Apaan - woy, lu ngawasin gue ya?
+D8ALT05	6CEF16EB	Kagak bisa ngobrol sekarang. Gue butuh bantuan lu buat sesuatu yang spesial.
+D8ALT06	F5E64751	Balik ke sini pas lu udah kurusan dikit, si gendut
+D8ALT07	82E177C7	Gue bakal nungguin.
+D8ALT08	125E6A56	Woy bro, apaan dah? Bangsat!
+D8ALT09	65595AC0	Gue kagak segendut itu juga kali...
+DES8@00	4E6B04FE	Salam kawan, senang bertemu. Namaste. Damai. Carl, saudaraku.
+DES8@01	396C3468	Woy, Truth, lu di mana?
+DES8@02	A06565D2	Cuma mau ngebuktiin lu udah kagak urusan sama 'bisnis pemerintah' lagi.
+DES8@03	D7625544	Mana tuh orang?
+DES8@04	4906C0E7	Mana gue tahu bangsat?
+DES8@05	3E01F071	Dia mah kek iblis. Btw bro, lu aman-aman aja kan?
+DES8@06	A708A1CB	Semua hal di dunia ini cuma fana/sementara.
+DES8@07	D00F915D	Gue cuma numpang lewat di kehidupan, sama kek semua orang.
+DES8@08	40B08CCC	Oke deh.
+DES8@09	37B7BC5A	Lu paham kagak sebenernya apa yang lagi lu kerjain buat Toreno?
+DES8@10	577035BF	Kagak. Gue mah cuma ngejalanin apa yang perlu dikerjain doang.
+DES8@11	20770529	Dua kebohongan kagak bakal saling menghapus satu sama lain.
+DES8@12	B97E5493	Lu tahu itu kan.
+DES8@13	CE796405	Kita bayar mereka cuma buat bohongin kita. Apa itu yang dimau para leluhur penemu negara kita?
+DES8@14	501DF1A6	Kagak lagi, kawan. Kagak lagi. Kita kagak sendirian.
+DES8@15	271AC130	Lepasin gue bro, ada apaan sih sebenernya?
+DES8@16	BE13908A	Semua hal lagi terjadi! Masa lu kagak paham?
+DES8@17	C914A01C	Ada suatu tempat. Bahkan kagak ada di dalam peta.
+DES8@18	59ABBD8D	Ada kereta yang bakal berangkat. Tuh kereta bisa ngejelasin lebih bagus daripada yang pernah gue omongin.
+DES8@19	2EAC8D1B	Bocah, ini bakal bikin otak lu meledak bangsat!
+DES8@20	7C5D667C	Kita punya pekerjaan yang harus diselesaiin.
+DES8@21	0B5A56EA	Mending lu yang nyetir. Ntar gue jelasin.
+DES8@22	92530750	Indah banget, kagak ada tandingannya dah.
+DES8@23	E55437C6	Oof. Oh, bro. Uh.
+DES8@24	7B30A265	Oh, kagak bro.
+DES8_1	D5DA94DA	Hindarin lampu sorot terus masuk ke laboratorium penelitian Area 51.
+DES8_12	AE04B0DE	Lu bisa nembak hancur lampu sorotnya, tapi kalo nembak terlalu banyak prajurit bisa curiga.
+DES8_14	476715EB	Lu punya waktu terbatas buat ngelewatin ~y~pintu~w~ buruan!
+DES8_15	3060257D	Lu sekarang udah berhasil masuk ke Area 51. Ini fasilitas militer/penelitian besar yang dijaga ilmuwan sama tentara.
+DES8_16	A96974C7	Gunakan aksi senyap (*stealth*) sama berpikir cepat buat ngelewatin penjaga kalo memungkinkan. Kalo ketahuan, cari area gelap buat ngumpet.
+DES8_17	DE6E4451	Jetpack ada di laboratorium penelitian di bagian belakang instalasi.
+DES8_18	4ED159C0	Kemungkinan ada penyusup SIAGA MERAH DEFCON prajurit ambil posisi patroli. Semuanya siaga tinggi.
+DES8_19	39D66956	Kartu Akses Level 1 Didapet
+DES8_2	4CD3C560	Buat ngebuka pintu besi (*blast door*) pergi ke menara kontrol.
+DES8_20	6B278231	Kartu Akses Level 2 Didapet
+DES8_21	1C20B2A7	Sistem rudal SAM dimatikan
+DES8_22	8529E31D	Pintu menuju jetpack kagak bakal terbuka, lu kudu dapet kartu akses level 2. Ilmuwan di deket sini mungkin memegang kartunya.
+DES8_23	F22ED38B	Lu udah pegang kartu aksesnya, sekarang buka pintunya!
+DES8_24	6C4A4628	Penyusup ada di sebelah sini!
+DES8_25	1B4D76BE	Lu sekarang udah dapet jetpack-nya! Anterin balik ke bandara.
+DES8_28	65FC0A03	Pintu-pintu sekarang udah tertutup! Balik ke ~y~menara kontrol~w~ buat nyalain lagi pintunya.
+DES8_29	12FB3A95	Coba tembak papan tombol (*keypad*) buat nutup pintu dan mengurung para tentara!
+DES8_3	3BD4F5F6	Ada personel militer yang lagi patroli di area ini.
+DES8_30	723CB370	Pintu besi tepat di atas lu bakal terbuka perlahan, begitu ada celah langsung terbang keluar terus bawa balik ke ~y~bandara~w~.
+DES8_31	053B83E6	Ada helikopter Apache yang lagi ngejar lu!
+DES8_36	9B5F1645	Penyusup terlihat, kirim pasukan ke Lab Penelitian A.
+DES8_37	EC5826D3	Pintu besi udah terbuka, cabut dari sana terus balik ke bandara.
+DES8_39	0BE00BD4	Lu mungkin ketahuan, hindarin lampu sorot sebentar!
+DES8_40	3D7D25B7	Mereka udah ngeliat lu, dan lagi ngirim pasukan! Tetep hindarin sorotan lampu sorot selamanya kalo bisa!
+DES8_AA	4837E9AE	Tolong, jangan ada kekerasan lagi! Ambil kartu akses gue terus pergi!
+DES8_BA	631ABA6D	Kemungkinan penyusup terlihat. Status Biru! Ubah lampu sorot ke mode melacak!
+DES8_BB	FA13EBD7	Kode Biru! Ubah perimeter lampu sorot ke mode melacak!
+DES8_BC	8D14DB41	Instalasi ini dalam Status Biru! Mengubah lampu sorot ke mode melacak!
+DES8_BD	13704EE2	Kode Biru! Lampu sorot diubah ke mode melacak!
+DES8_CA	7A018B2C	Penampakan belum terkonfirmasi. Batalkan Status Biru!
+DES8_CB	E308DA96	Kagak ada tanda-tanda penyusupan lagi. Stand down, ulangi, stand down!
+DES8_CC	940FEA00	Perimeter aman. Membatalkan Kode Biru!
+DES8_CD	0A6B7FA3	Kagak ada penembusan perimeter terkonfirmasi. Batalkan Siaga Biru!
+DES8_DA	35401DEB	Kode Merah! Penampakan terkonfirmasi! Semua personel tembak di tempat!
+DES8_DB	AC494C51	Kode Merah! Ulangi Kode Merah! Peringatan penyusup!
+DES8_DC	DB4E7CC7	Ini kode merah! Semua personel jalankan protokol penyusup!
+DES8_DD	452AE964	Peringatan penyusup! Status Merah! Ulangi: Status Merah!
+DES8_EA	2C5B2CAA	Ubah pintu besi sama menara kontrol ke mode Lock Down!
+DES8_EB	B5527D10	Fasilitas ini dalam kondisi Lock Down!
+DES8_EC	C2554D86	Amankan pintu besi sama menara kontrol!
+DES8_ED	5C31D825	Protokol lock down dijalankan! Pintu besi sama menara keamanan diisolasi!
+DES8_EE	2B36E8B3	Semua menara diizinkan memakai kekuatan mematikan, ulangi, kekuatan mematikan!
+DES8_EF	B23FB909	Semua menara tembak di tempat, ulangi, tembak di tempat!
+DES8_FA	07767F69	Personel instalasi harap diperhatikan kita dalam Status Biru. Ini bukan latihan!
+DES8_FB	9E7F2ED3	Personel instalasi harap diperhatikan kita dalam Status Merah. Ini bukan latihan!
+DES8_FC	E9781E45	Fasilitas ini udah ditembus, semua personel keamanan menuju ke lab penelitian sekarang!
+DES8_HA	99F552E7	Kode merah, kode merah!
+DES8_HB	00FC035D	Penyusup udah menembus proyek! Semua personel militer ke area peluncuran SEKARANG JUGA!
+DES8_JA	ABC33065	Penyusup lagi mencuri jetpack! Semua personel militer ke luar terus bebas tembak!
+DES8_JB	32CA61DF	Bantai dia! Itu proyek senilai $60,000,000!
+DES8_JC	45CD5149	Hubungi General Mills di telepon!
+DES8_KA	B2D80124	Telepon Syracuse! Gue mau semua armada udara yang mereka punya buat ngejar tuh bajingan!
+DES8_LA	FD9997E3	Woy, Truth, kita punya rencana kagak sih di sini?
+DES8_LB	6490C659	Jalan, jalan, jalan!
+DES8_LC	1397F6CF	WOY! Tahan dulu, bro!
+DES8_MA	E482A6A2	Carl, bro, kawan!
+DES8_MB	7D8BF718	Woy, nih ambill. Mending lu sembunyiin di suatu tempat secepatnya!
+DES8_MC	0A8CC78E	Gokil banget, semoga perjalanan lu menyenangkan, bro!
+DES8_MD	94E8522D	Woy, tunggu bentar...
+DES8_ME	E3EF62BB	Ahh, berlebihan banget ya kalo gue cuma minta ditumpangin balik ke kota?
+DST8_1	A7ADCE41	~s~The Truth mau lu masuk ke lab penelitian Area 69 terus bawa balik Black Project yang lagi dikembangin di dalam sana.
+DST8_10	27A5EC64	Hancurin ~y~kisi-kisi ventilasi ~w~terus lompat ke dalam buat masuk.
+DST8_11	50A2DCF2	Gunakan aksi senyap buat masuk dan kalo bisa hindarin lampu sorot sama prajurit yang lagi patroli.
+DST8_12	C9AB8D48	Lu ketahuan! Tetep di luar lampu sorot!
+DST8_13	BEACBDDE	(PLACEHOLDER)Penampakan lu udah terkonfirmasi! Personel militer bakal menyadari keberadaan lu dan lampu sorot bakal terus mengincar posisi lu.
+DST8_14	20C8287D	~s~Menara kontrol udah dimatikan, lu harus nyari jalan masuk lain. Ada ~y~ventilasi~s~ yang tembus ke bagian dalam Area 69.
+DST8_15	57CF18EB	(PLACEHOLDER)Apaan tuh kemungkinan penyusup terlihat. Ubah lampu sorot ke mode melacak.
+DST8_16	CEC64951	(PLACEHOLDER)Laporan palsu, kembalikan lampu sorot ke mode normal.
+DST8_17	B9C179C7	(PLACEHOLDER)Kode Merah! Penampakan terkonfirmasi kirim prajurit ke dalam! Ubah pintu besi sama menara kontrol ke kondisi lock down!
+DST8_18	297E6456	~s~Cara paling gampang buat masuk ke kompleks bunker Area 69 tuh lewat pintu besi (*blast door*). Buat ngebuka pintunya pergi ke ~y~menara kontrol~s~.
+DST8_19	5E7954C0	~s~Ada lampu sorot yang lagi menyapu area. Perhatiin pola gerakan mereka terus rencanain jalur lu.
+DST8_2	3EA49FFB	~s~Jalan utama buat masuk ke bagian dalam Area 69 tuh lewat pintu besi, buat ngebuka pintunya pergi ke ~y~menara kontrol~s~.
+DST8_20	0C88BFA7	~s~Kalo lu diem di sorotan lampu terlalu lama atau nembak mati lebih dari dua lampu sorot, lu bakal ketahuan dan menara kontrol bakal mengunci (*lock down*) fasilitas. Ini bakal memaksa lu nyari jalur masuk alternatif.
+DST8_21	7B8F8F31	~s~Ada juga beberapa personel militer yang lagi patroli di area. Pake kacamata termal yang dikasih The Truth buat ngebantu lu ngeliat mereka di kegelapan.
+DST8_22	E286DE8B	Lu bisa pake aksi senyap buat ngindarin patroli atau naik ke atas menara kontrol terus pake senapan runduk (*sniper*) buat mbantai mereka.
+DST8_23	9581EE1D	~s~~y~Pintu~s~ menuju ruang peluncuran tempat black project disimpan lagi tertutup. Lu kudu dapet kartu akses buat masuk. Coba ancam ilmuwan di deket situ.
+DST8_24	0BE57BBE	~s~Lu harus dapet kartu akses buat ngebuka pintu ini.
+DST8_25	7CE24B28	~s~Ambil ~g~kartu akses ~S~terus buka ~y~pintu ~s~menuju Black Project.
+DST8_26	E5EB1A92	~s~Lu udah nemuin apa yang mau didapet The Truth. Lu harus kabur pake Jetpack buat terbang keluar dari ~y~ruang peluncuran ~s~tepat di atas lu.
+DST8_27	92EC2A04	Pencet terus tahan ~m~~widget_accelerate~ buat nambah dorongan - ini bakal bikin lu menanjak naik.
+DST8_28	02533795	Buat bergerak ke suatu arah pake jetpack, gunakan kontrol pergerakan pas lagi di udara.
+DST8_29	75540703	Buat turun dengan cepat pencet terus tahan ~m~~widget_brake~.
+DST8_3	49A3AF6D	~s~Coba jangan ampe ketahuan lampu sorot, perhatiin pola sama pergerakan mereka terus atur jalur pergerakan lu.
+DST8_30	15938EE6	Pencet terus tahan ~m~~widget_ped_move_left~ sama ~m~~widget_ped_move_right~ buat geser samping (*strafe*) pas lagi pake jetpack.
+DST8_33	8C9ADF5C	Lu bisa nembakin senjata satu tangan kek biasa pas lagi menerbangkan jetpack.
+DST8_34	12FE4AFF	~s~~g~Black Project ~s~ada di dasar ruang peluncuran.
+DST8_35	65F97A69	~s~Anterin jetpack-nya ke ~y~titik lokasi ~s~di dalam jurang.
+DST8_37	8BF71B45	Pas kacamata dipilih, ketuk ~m~~widget_attack~ buat nyalain sama matiin penglihatan termal.
+DST8_38	1B4806D4	~s~Lu harus berhasil masuk ke lab penelitian sebelum matahari terbit jam 0530.
+DST8_39	6C4F3642	~s~Lu pergi terlalu jauh dari Area 69. Kalo lu makin jauh misinya bakal gagal!
+DST8_4	D7C73ACE	~s~Lampu sorot bisa dimatikan lewat cara ditembak. Nembak hancur lebih dari dua lampu sorot bakal bikin menara kontrol mati dan lu kudu nyari jalur alternatif.
+DST8_40	5AD21821	~r~Lu terlalu jauh dari Area 69!
+DST8_41	2DD528B7	~r~Lu harus membobol lab penelitian Area 69 pas masih malam hari. Lain kali lebih cepat!
+DST8_42	B4DC790D	~s~Telusuri jalur Area 69 menuju lab penelitian yang bakal ngasih akses ke black project.
+DST8_43	C3DB499B	~s~Ada beberapa personel militer yang lagi patroli di seluruh instalasi.
+DST8_44	5DBFDC38	~s~Ruang kontrol bakal bikin lu bisa mematikan beberapa pertahanan luar Area 69, yang bakal ngebantu proses kabur lu.
+DST8_45	2AB8ECAE	~s~Pergi terus cari ~g~'black project'~s~.
+DST8_46	B3B1BD14	~s~~y~Pintu~s~ menuju ruang peluncuran tempat black project disimpan lagi terkunci. Cari kartu akses buat mengabsennya.
+DST8_47	C4B68D82	~s~Kalo lu berdiri di lampu sorot terlalu lama atau nembak mati lebih dari 2 lampu, lu bakal ketahuan.
+DST8_48	54099013	~s~Pintu besi bakal langsung terkunci (*lockdown*), dan jalur alternatif ke dalam kudu dicari.
+DST8_5	A0C00A58	~s~Ada juga beberapa personel militer yang lagi patroli di area, gunakan aksi senyap buat ngindarin mereka.
+DST8_6	39C95BE2	~s~Lu harus berhasil masuk ke lab penelitian sebelum matahari terbit.
+DST8_7	4ECE6B74	~s~Buka pintu besi lewat cara menekan sakelar di ~y~menara kontrol~s~.
+DST8_8	DE7176E5	~s~~y~Pintu besi ~s~udah terbuka, lu punya waktu terbatas buat ngelewatin pintunya sebelum menutup lagi!
+DST8_9	A9764673	~s~Pintu besi udah menutup balik lagi ke ~y~menara kontrol ~s~buat ngebuka lagi.
+TRUX_AS	76E534A8	Jalan, jalan, jalan!
+TRUX_BH	D7ADAE87	Carl, bro, kawan!
+TRUX_BI	A0AA9E11	Gokil banget, semoga perjalanan lu menyenangkan, bro.

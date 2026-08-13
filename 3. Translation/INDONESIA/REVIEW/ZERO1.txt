@@ -1,0 +1,72 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+ZER1@00	39E28557	Woy, ada apa, Zee?
+ZER1@01	4EE5B5C1	Nggak ada apa-apa, Carl, selain tekanan darahku yang naik,
+ZER1@02	D7ECE47B	serta kehancuran harapan dan impianku yang sudah di ambang pintu.
+ZER1@03	A0EBD4ED	Kenapa?
+ZER1@04	3E8F414E	Seperti biasa, kekuatan kegelapan telah berjaya mengalahkan kebaikan.
+ZER1@05	498871D8	Hidup ini tidak lain adalah penderitaan, yang diselingi sedikit kepedihan.
+ZER1@06	D0812062	Bro, kamu lagi teler apa? Apa pun itu, dosisnya mesti dikurangin.
+ZER1@07	A78610F4	Maaf saja, tapi aku tidak pernah memakai narkoba.
+ZER1@08	37390D65	Kita semua tahu narkoba itu buat para pecundang, dan/atau para maniak seks.
+ZER1@09	403E3DF3	Dan sekarang, seks adalah hal terakhir yang ada di pikiranku.
+ZER1@10	20F9B416	Syukurlah kalau begitu!
+ZER1@11	57FE8480	Berkley kembali!
+ZER1@12	CEF7D53A	Ooohhh. Berkley.
+ZER1@13	B9F0E5AC	Cuma seorang pria yang pernah kukalahkan dalam kompetisi adil.
+ZER1@14	2794700F	Seorang pria yang benar-benar terobsesi dengan balas dendam.
+ZER1@15	50934099	Oh, kamu sempat menghajarnya?
+ZER1@16	C99A1123	Tidak, tolonglah. Aku tidak pernah memulai kekerasan.
+ZER1@17	BE9D21B5	Oh, aku tahu — kamu merebut pacarnya (*knocked his bitch*)!
+ZER1@18	2E223C24	Bukan. Aku memenangkan hadiah di pameran sains. Hadiah pertama, tepatnya.
+ZER1@19	59250CB2	Terus sekarang dia mau menyerangmu?
+ZER1@20	0BD4E7D5	Dan orang-orang bilang anggota geng itu picik dan berpikiran sempit!
+ZER1@21	7CD3D743	Woy, bunyi apa yang kedengaran bip-bip itu?
+ZER1@22	E5DA86F9	Itu dia! Kita harus melawan sampai titik darah penghabisan!
+ZER1@23	92DDB66F	Ya.
+ZER1@24	0CB923CC	Siapa sih si Berkley itu?
+ZER1_13	AE8A01E1	MUSUH TERLIHAT DI ARAH JAM 9 DAN JAM 12!!
+ZER1_14	30EE9442	~s~Kamu harus melindungi 4 Pemancar (*Transmitter*) dari serangan pesawat. Kerusakan bakal menurunkan Sinyal Pemancar.
+ZER1_15	47E9A4D4	~s~Habisi pesawat musuh sebelum mereka menghancurkan Pemancar kita dan melumpuhkan sinyal kita.
+ZER1_19	4E5FE8FF	~r~Semua pemancar hancur.
+ZER1_20	1CAE0398	SINYAL:
+ZER1_22	F2A062B4	~s~Gunakan minigun untuk melenyapkan ancaman musuh.
+ZER1_23	85A75222	~s~Zero bakal berusaha mempertahankan Pemancar selama serangan berlangsung.
+ZER1_24	1BC3C781	Pencet terus tahan ~m~~widget_vc_shoot~ untuk menembakkan Minigun.
+ZER1_25	6CC4F717	~r~Zero tewas!
+ZER1_26	F5CDA6AD	WAKTU:
+ZER1_6	C50F3E78	Kamu telah mengalahkan pasukan Berkley!
+ZER1_AA	3FBE6807	Berkley melancarkan serangan besar-besaran!
+ZER1_AB	A6B739BD	Ini benar-benar gila!
+ZER1_AC	D1B0092B	Semua meriam mulai menembak!
+ZER1_AD	4FD49C88	Gampang bro, tapi itu kan cuma mainan.
+ZER1_AE	38D3AC1E	Itu bukan mainan! Ukurannya saja yang lebih kecil!
+ZER1_BA	14933BC4	Dia mengincar pemancar-pemancarku!
+ZER1_BB	8D9A6A7E	Kalau dia menghancurkan semuanya, aku nggak bakal bisa melancarkan serangan balasan!
+ZER1_BC	FA9D5AE8	Pesawat kamikaze di arah jam 6!
+ZER1_BD	64F9CF4B	RC Baron di atas arah jam 9, Carl!
+ZER1_BE	13FEFFDD	CJ, musuh di arah jam 12!
+ZER1_BF	8AF7AE67	Skuadron musuh di arah jam 3, Carl!
+ZER1_BG	FDF09EF1	Kita kehilangan satu pemancar!
+ZER1_BH	6D4F8360	Satu pemancar lagi hancur!
+ZER1_BJ	8341E24C	Pukulan telak lainnya bagi upaya perang kita!
+ZER1_BK	F446D2DA	Kita tidak boleh kehilangan pemancar lain!
+ZER1_BL	6A224779	Berkley mengincar pemancar terakhir,
+ZER1_BM	1D2577EF	kamu harus menghentikan pesawat-pesawat itu, Carl!
+ZER1_BN	842C2655	Katanya kamu jago nembak, Carl!
+ZER1_CA	0D880A85	Hebat, nak, jangan besar kepala!
+ZER1_DA	42C99C42	Woy, woy, woy! TEMBAKAN KAWAN SENDIRI (*FRIENDLY FIRE*)! TEMBAKAN KAWAN SENDIRI!
+ZER1_EA	5BD2AD03	Kutuk kau, Berkley, KUTUK KAAAUUU!
+ZER1_EB	C2DBFCB9	TIDAAAAK OOOO ooooo!
+ZER1_EC	B5DCCC2F	Penghinaanku sudah sempurna!
+ZER1_FA	70FFFEC0	Ha ha ha ha Berkley!
+ZER1_FB	E9F6AF7A	Selama kita masih punya jempol yang bisa digerakkan, KITA BAKAL MELAWANMU!
+ZER1_FC	9EF19FEC	...Kerja bagus, Carl.
+ZER1_FD	00950A4F	Sekarang pergi sana, aku harus bersiap untuk pertempuran berikutnya!
+ZER1_FE	77923AD9	Belum pernah ada begitu sedikit orang yang berutang pada begitu banyak...
+ZER1_FF	EE9B6B63	Kita bakal melawan mereka di pantai-pantai, yah, di atap-atap gedung...
+ZER1_FG	999C5BF5	terlalu sedikit, tiga.. bukan bukan itu, apa ya bunyinya?

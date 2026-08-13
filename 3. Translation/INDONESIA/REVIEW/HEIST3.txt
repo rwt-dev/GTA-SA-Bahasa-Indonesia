@@ -1,0 +1,106 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+HE3_AA	50E230E4	Untung aja, selalu ada satu titik lemah yang pasti di setiap sistem keamanan.
+HE3_AB	C9EB615E	Hati manusia.
+HE3_BA	7BCF6327	Gantian sif kerjaan selesai lagi! Sampai ketemu besok!
+HE3_BB	E2C6329D	Sif kerjaan yang panjang banget tadi! Sampai ketemu besok!
+HE3_CA	62D45266	Wah, ngepas dan ketat banget nih!
+HE3_CB	FBDD03DC	Gue yakin lu bakal muat pas masuk ke dalamnya!
+HE3_CC	8CDA334A	Coba gue liat.
+HE3_CD	12BEA6E9	Sempurna!
+HE3_CE	65B9967F	Oh halo, Benny...
+HE3_CF	FCB0C7C5	Iya tuan (*master*), gue cuma lagi nyobain pakaian ini doang kok.
+HE3_CG	8BB7F753	Lu udah punya punya lu?
+HE3_CH	1B08EAC2	Mantap, ntar gue nemuin lu di rumah gue bentar lagi.
+HE3_DA	2D95C4A1	Pintunya terbuka, Tuan!
+HE3_DB	B49C951B	Masuk aja, gue udah siap buat lu!
+HE3_DC	C39BA58D	Lu udah jadi cewek nakal ya!
+HE3_DD	5DFF302E	Oh gue tahu! Gue tahu!
+HE3_DE	2AF800B8	Woy sayang, gue butuh kartu akses keamanan sama kode masuk buat Caligula's.
+HE3_DF	B3F15102	Oh Benny, lu si genit!
+HE3_DG	C4F66194	Gue kagak bakal kasih tahu, lu cowok jahat, kagak bakal pernah, KAGAK BAKAL PERNAH!
+HE3_EA	348EF5E0	Di mana kartu aksesnya?
+HE3_EB	AD87A45A	Mengaku lu!
+HE3_EC	DA8094CC	Lu kagak bakal pernah bisa ngebikin gue menyerah!
+HE3_FA	1FA3A623	Cukup, tuan!
+HE3_FB	86AAF799	Kartunya ada di mobil gue di luar!
+HE3_FC	F1ADC70F	Nah sekarang, kasih gue kodenya!
+HE3_FD	6FC952AC	Muntahin kodenya, cacing kotor!
+HE3_FE	18CE623A	Woy, kalo lu nurut, gue bakal hukum lu lebih parah lagi.
+HE3_FF	81C73380	Gue bisa menahannya!
+HE3_FG	F6C00316	Lakukan hal terburuk lu!
+HE3_GA	06B89762	Jangan lagi! Lu udah ngebikin gue menyerah!
+HE3_GB	9FB1C6D8	Kasih gue kodenya, lu sampah kagak berguna!
+HE3_GC	E8B6F64E	Tuhan, lu jago banget ngerjain hal ini!
+HE3_GD	76D263ED	Gue tahu lu bukan Benny!
+HE3_GE	01D5537B	Kasih gue nomor lu, gue harus nemuin lu lagi.
+HE3_HA	81208BAD	KODE MASUK SEKARANG!
+HE3_HB	1829DA17	Oh! Itu...
+HE3_HC	6F2EEA81	A.
+HE3_HD	F14A7F22	B.
+HE3_HE	864D4FB4	C.
+HE3_HF	1F441E0E	D.
+HE3_HG	68432E98	E.
+HE3_HH	F8FC3309	F.
+HE3_HJ	16F25225	Ntar gue telepon lu ya tuan, gue janji!
+HEI3_01	14E7B273	~s~Si ~r~Bandar Kasino (Croupier) ~s~memegang kartu akses dan tahu kodenya, ikutin dia.
+HEI3_02	8DEEE3C9	~s~Kalo lu terlalu deket lu bakal bikin dia curiga, tapi kalo dia terlalu jauh di depan lu bakal kehilangan jejak.
+HEI3_03	FAE9D35F	~s~Dia masuk ke dalam ~y~toko alat dewasa (sex shop)~s~, ikutin dia ke dalam.
+HEI3_04	648D46FC	~s~Pergi terus ambil ~g~baju gimp (gimp suit)~s~.
+HEI3_05	138A766A	~s~Tunggu si gimp dateng, terus bantai dia dan ambil alih posisinya.
+HEI3_06	8A8327D0	~s~Masuk ke dalam ~y~rumah~s~.
+HEI3_07	FD841746	~s~Si gimp coba kabur, jangan biarin dia lolos!
+HEI3_08	6D3B0AD7	~s~Si gimp bakal dateng bentar lagi, tunggu di sekitaran sini dan pastiin dia kagak nyampe ke rumah si Bandar Kasino.
+HEI3_09	1A3C3A41	~s~~r~Bandar Kasino~s~ udah keluar dari toko. Ikutin dia tapi ingat jangan terlalu deket.
+HEI3_10	7AFBB3A4	~s~~r~Bandar Kasino~s~ udah hampir hilang dari pandangan, lu harus lebih deket!
+HEI3_11	0DFC8332	~s~Lu terlalu deket, mundur sebelum bikin dia curiga!
+HEI3_12	94F5D288	~s~Si gimp mau kabur, hentikan dia!
+HEI3_13	E3F2E21E	~s~Ambil kartu akses dari ~r~mobilnya~s~.
+HEI3_14	7D9677BD	~r~Lu ngebunuh si bandar kasino!
+HEI3_15	0A91472B	~r~Si gimp berhasil kabur!
+HEI3_16	93981691	~r~Lu kehilangan jejak dia!
+HEI3_17	E49F2607	~r~Lu terlalu deket!
+HEI3_18	74203B96	~r~Lu ngancurin mobilnya, dia kagak bakal ngebantu lu sekarang!
+HEI3_19	03270B00	~r~Lu ngancurin mobil sama kartu aksesnya!
+HEI3_20	51D6E067	INDIKATOR KECURIGAAN
+HEI3_21	26D1D0F1	~s~Si gimp lagi dalam perjalanan.
+HEI3_22	BFD8814B	~s~Sekarang pas si gimp udah disingkirin, pergi terus bunyikan ~y~bel pintu~s~.
+HEI3_23	C8DFB1DD	~s~Singkirin si gimp.
+HEI3_24	56BB247E	~r~Lu gagal memuaskan dia.
+HEI3_26	B8B54552	Indikator Cambukan
+HEI3_27	CFB275C4	~s~Lu harus bikin dia ngasih kartu aksesnya ke lu.
+HEI3_28	5F0D6855	~s~Lu harus bikin dia ngasih kodenya ke lu.
+HEI3_29	280A58C3	~s~Bandar Kasino ada di dalam sini di suatu tempat, temuin dia.
+HEI3_30	48CDD126	~s~Tinggalkan toko terus kejar si Bandar Kasino.
+HEI3_31	3FCAE1B0	~r~Ada sesuatu yang ngebikin si Bandar Kasino curiga!
+HEI3_32	A6C3B00A	~s~Pergi ke ~y~kasino~s~.
+HEI3_33	D1C4809C	~s~Pergi ke ~y~kasino Caligula's Palace~s~.
+HEI3_34	4FA0153F	~r~Lu udah kagak pake baju gimp lagi.
+HEI3_92	5C2C5880	~r~Si gimp udah nyampe ke rumah!
+HEI3_93	2B2B6816	~s~Si gimp udah hampir nyampe ke rumah!
+HEI3_94	B54FFDB5	INDIKATOR KECURIGAAN
+HEI3_95	C248CD23	Lu punya pacar baru. Lu harus ngajak dia kencan sama makan malam sebelum dia ngasih kartu aksesnya ke lu.
+HEI3_96	5B419C99	~s~Parkir di luar ~y~rumah Bandar Kasino.
+HST2A00	801BD94F	Pinter banget. Terus gimana analisanya?
+HST2A01	F71CE9D9	Ini cuma bakal sangat susah, atau emang hampir mustahil?
+HST2A02	6E15B863	Dengerin penjelasan gue dulu, bro.
+HST2A03	191288F5	Oke, ruang penyimpanan uang ada di lantai paling bawah.
+HST2A04	87761D56	Ada sekumpulan ruangan sama terowongan di bawah seluruh gedung
+HST2A05	F0712DC0	pake akses ke lantai kasino di kedua ujung kompleks. Oke?
+HST2A06	69787C7A	Nah, keamanannya terdiri dari CCTV, kode masuk, sama di beberapa tempat pake kartu gesek.
+HST2A07	1E7F4CEC	Woy, lu nunjuk-nunjuk lagi ya?
+HST2A08	8EC0517D	Oh, salah gue - kebiasaan.
+HST2A09	F9C761EB	Ah, kagak usah khawatir; itu latihan yang bagus pas kita
+HST2A10	9900E80E	akhirnya ngumpulin tim buat pekerjaan ini.
+HST2A11	EE07D898	Yoi, gue tahu.
+HST2A12	770E8922	Woy bos, barang ini dateng buat CJ nih.
+HST2A13	0009B9B4	Woy, woy woy woy! Tai lah bro - sekarang dia udah ngeliat denahnya!
+HST2A14	9E6D2C17	Yaa, kalo gitu kita dapet anggota pertama kita.
+HST2A15	E96A1C81	Masuk ke dalam terus tutup pintunya.
+HST2A16	70634D3B	Oke, mantap. Ini alat pembaca kartu keamanan yang dikirim sama Zero.
+HST2A17	07647DAD	Sekarang yang perlu kita lakuin tinggal ngedapetin salah satu dari kartu itu...
+HST2A18	97DB603C	Gue tahu lu buta, bro - tapi lu harus ngeliat hal ini.

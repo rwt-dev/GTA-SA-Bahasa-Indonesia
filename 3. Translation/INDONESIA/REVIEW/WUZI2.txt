@@ -1,0 +1,168 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	08B67B86	Pencet ~m~~widget_mission_start~ buat menanam alat penyadap (*bug*).
+	9B5AD276	Ketuk dua kali sudut kanan bawah layar buat melompat dan naik keluar dari air.
+W2ALT00	EB284751	Aku butuh sesuatu untuk diurus.
+W2ALT01	9C2F77C7	Apa? Woy, bro, berhenti mencoba mengalihkanku!
+W2ALT02	0526267D	Bagaimana kau bisa ada di dalam air?
+W2ALT03	722116EB	Maksudmu apa, aku bisa berenang?
+W2ALT04	EC458348	Ya. Bisa berenang dengan baik?
+W2ALT05	9B42B3DE	Tidak, aku tidak bisa!
+W2ALT06	024BE264	SIAL! Sialan, brengsek!
+W2ALT07	754CD2F2	Bagaimana caramu melakukannya?!!
+W2ALT08	E5F3CF63	Sial! Sialan!
+WOO2@00	736B3B2C	Tunggu dulu. Kau mau bilang padaku kalau kau tidak bisa berenang?
+WOO2@01	046C0BBA	Serius, pas aku berada di air dalam, aku jadi panik,
+WOO2@02	9D655A00	lagian, aku takut banget sama belut, cumi-cumi, rumput laut, dan...
+WOO2@03	EA626A96	Oke kawan, dengar — aku tahu kau cuma lagi cari-cari alasan sekarang!
+WOO2@04	7406FF35	Dengar, CJ, aku butuh seseorang dari luar Triad yang bisa kupercayai.
+WOO2@05	0301CFA3	Baiklah, jadi kubikin jelas ya.
+WOO2@06	9A089E19	Kau mau aku berenang di air dermaga yang kotor,
+WOO2@07	ED0FAE8F	menghindari kacang jeli cokelat kecil dan gangster Vietnam,
+WOO2@08	7DB0B31E	demi menanam alat penyadap di kapal yang ada di pelabuhan?
+WOO2@09	0AB78388	Kau pesimis banget sih!
+WOO2@10	6A700A6D	Dengar, bro — waktu aku masih anak-anak, berenang di Santa Maria,
+WOO2@11	1D773AFB	aku pernah kelamaan nempel kondom di muka.
+WOO2@12	847E6B41	Horor kayak gitu bakal melekat seumur hidup, percaya deh.
+WOO2@13	F3795BD7	Aku punya satu pengakuan...
+WOO2@14	6D1DCE74	Aku... Aku buta.
+WOO2@15	1A1AFEE2	Seriusan!
+WOO2@16	8313AF58	Ya, meskipun aku sudah melatih indraku yang lain ke tingkat
+WOO2@17	F4149FCE	di mana kau tidak bakal ngeh sama kekuranganku,
+WOO2@18	64AB825F	kalau di dalam air, indra itu bakal sama sekali tidak berguna.
+WOO2@19	13ACB2C9	Baiklah, Woozie, santai. Jangan terlalu menyalahkan dirimu sendiri.
+WOO2@20	415D59AE	Dengar, aku bakal melakukannya.
+WOO2@21	365A6938	Eh, satu hal terakhir. Kau tahu kan kalau aku ini orang kulit hitam? Dan bukan orang Tionghoa.
+WOO2@22	AF533882	Aku buta, Carl, bukan bodoh.
+WUZ2_AA	7F7AEF73	Sepertinya aku melihat sesuatu di dalam air!
+WUZ2_AB	E673BEC9	Hei, apa itu tadi? Di sebelah sana!
+WUZ2_AC	91748E5F	Ada yang lain lihat itu?
+WUZ2_BA	5457BCB0	Jangan bikin parno diri sendiri mulu deh!
+WUZ2_BB	CD5EED0A	Palingan cuma anjing laut atau semacamnya...
+WUZ2_BC	BA59DD9C	Pikiranku pasti lagi nge-prank aku nih.
+WUZ2_CA	4D4C8DF1	Sial, di sebelah sana! Ada orang di dalam air!
+WUZ2_CB	D445DC4B	Itu, ada orang di dalam air!
+WUZ2_CC	A342ECDD	Kita ada orang di dalam air di sini!
+WUZ2_DA	020D1B36	Dia ke mana perginya?
+WUZ2_DB	9B044A8C	Dia menyelam ke bawah!
+WUZ2_DC	EC037A1A	Dia barusan ada di sini!
+WUZ2_EA	1B162A77	Sial, paling cuma anjing laut...
+WUZ2_EB	821F7BCD	Bro, dia pasti sudah tenggelam sekarang!
+WUZ2_VC	94F70AC9	Nggak, dia pasti sudah kabur jauh atau mati.
+WUZ2_FA	303B79B4	Itu dia muncul lagi!
+WUZ2_FB	A932280E	Kudapat dia, dia di sebelah sana!
+WUZ2_FC	DE351898	Kulihat dia!
+WUZ2_GA	292048F5	Dapat!
+WUZ2_GB	B029194F	Oh yoi, kulihat dia!
+WUZ2_GC	C72E29D9	Oke, kita lihat dia!
+WUZ2_HA	AEB8543A	Apaan tuh?
+WUZ2_HB	37B10580	Woy!
+WUZ2_HC	40B63516	Sialan apa ini?
+WUZ2_JA	9C8E36B8	Paling aku salah dengar...
+WUZ2_JB	05876702	Nggak tahu lah, bukan apa-apa kayaknya...
+WUZ2_JC	72805794	Nggak ada apa-apa, nggak usah panik mulu...
+WUZ2_KA	859507F9	Sial, siapa tuh?
+WUZ2_KB	1C9C5643	Woy kamu!
+WUZ2_KC	6B9B66D5	Kamu sebenarnya siapa, keparat?
+WUZ2_LA	CAD4913E	Sial, kehilangan jejaknya!
+WUZ2_LB	53DDC084	Kehilangan jejaknya, awasi terus sekitar!
+WUZ2_LC	24DAF012	Sial, dia berhasil lolos!
+WUZ2_MA	D3CFA07F	Sialan, kita kehilangan satu orang!
+WUZ2_MB	4AC6F1C5	Sial, tetap waspada!
+WUZ2_MC	3DC1C153	Sialan, kawan, kita ada anak buah yang tumbang!
+WUZ2_NA	F8E2F3BC	Woy, ada orang di dalam air!
+WUZ2_NB	61EBA206	Lihat itu? Di sebelah sana!
+WUZ2_NC	16EC9290	Ada perenang mendekati kapal!
+WUZ2_OA	E1F9C2FD	Ah, aku pasti lagi halusinasi atau semacamnya.
+WUZ2_OB	78F09347	Sial, sumpah tadi kayaknya aku lihat sesuatu!
+WUZ2_OC	0FF7A3D1	Bro, sumpah tadi aku lihat sesuatu...
+WUZ2_PA	2CA3CC63	Itu dia!
+WUZ2_PB	B5AA9DD9	Kulihat dia!
+WUZ2_PC	C2ADAD4F	Itu si keparatnya!
+WUZ2_QA	35B8FD22	Dia menyelam ke bawah!
+WUZ2_QB	ACB1AC98	Dia menyelam lagi!
+WUZ2_QC	DBB69C0E	Dia ada di bawah kita!
+WUZ2_RA	1E95AEE1	Mana ada orang bisa nahan napas selama itu, bro!
+WUZ2_RB	879CFF5B	Dia pasti sudah mati...
+WUZ2_RC	F09BCFCD	Sial, dia sudah terlalu lama di bawah!
+WUZ2_SA	078E9FA0	Itu dia muncul lagi!
+WUZ2_SB	9E87CE1A	Kita lihat dia lagi!
+WUZ2_SC	E980FE8C	Di sini! Dia di sini!
+WUZ2_TA	48CF0967	Yo, kita dapet dia sekarang!
+WUZ2_TB	D1C658DD	Aku lihat dia juga!
+WUZ2_TC	A6C1684B	Hei, aku lihat si keparat itu juga!
+WUZ2_UA	51D43826	Siapa di situ?
+WUZ2_UB	C8DD699C	Jangan main-main sama aku, bro...
+WUZ2_UC	BFDA590A	Woy, siapa di sana?
+WUZ2_VA	7AF96BE5	Paling hantu!
+WUZ2_VB	E3F03A5F	Sialan burung camar ada di mana-mana!
+WUZ2_VC	94F70AC9	Sial, aku harus santai, sialan...
+WUZ2_WA	63E25AA4	Woy kamu, berhenti di situ!
+WUZ2_WB	FAEB0B1E	Kamu siapa, keparat!
+WUZ2_WC	8DEC3B88	Woy, kita ada orang mencurigakan di sini!
+WUZ2_XA	E47A466B	Sial, dia ke mana perginya?
+WUZ2_XB	7D7317D1	Bro, dia berhasil lolos dari genggaman!
+WUZ2_XC	0A742747	Sial, kehilangan jejaknya!
+WUZ2_XD	9410B2E4	Sial, ada mayat di sini!
+WUZ2_XE	E3178272	Bro, dia mati!
+WUZ2_XF	7A1ED3C8	Oh sial!
+WUZ2_YA	FD61772A	Sial, aku harus berhenti bikin parno diri sendiri!
+WUZ2_YB	64682690	Bro, tempat ini penuh sama hantu...
+WUZ2_YC	136F1606	Jangan bergerak sedikit pun!
+WUZ2_YD	8D0B83A5	Kawan-kawan! Woy kawan-kawan!
+WUZ2_YE	FA0CB333	Tetap di tempat kalian!
+WUZ2_YF	6305E289	Berhasil lolos dari kita!
+WUZ2_YG	1402D21F	Woy, dia lewat arah kalian nggak?
+WUZ2_YH	84BDCF8E	Aku kehilangan jejaknya, kalian lihat dia di sebelah sana?
+WUZ2_YJ	6AB3AEA2	Sial, kita kehilangan satu orang!
+WUZ2_YK	1DB49E34	Oh sial, kita kurang satu orang!
+WUZ2_YL	83D00B97	Woy! Oh sial...
+WUZ2_ZA	D64C24E9	Sial, kalian lihat itu tadi?
+WUZ2_ZB	4F457553	Woy, kita harus periksa ke sebelah sana!
+WUZ2_ZC	384245C5	Itu tadi orang di dalam air?
+WUZ2_ZD	A626D066	Palingan cuma salah satu anjing laut itu...
+WUZ2_ZE	D121E0F0	Sial, aku nggak tahu apa yang kulihat barusan...
+WUZ2_ZF	4828B14A	Bro, kamu lihat dia nggak? Nggak..?
+WUZ2_ZG	3F2F81DC	Kubilang juga apa, aku lihat seseorang tadi!
+WUZ2_ZH	AF909C4D	Itu! Lihat dia?
+WUZ2_ZJ	419EFD61	Tangkap si bajingan itu!
+WUZ2_ZK	3699CDF7	Dia nggak bakal bisa nahan napas selamanya!
+WUZ2_ZL	A8FD5854	Terus kelilingi area!
+WUZ2_ZM	DFFA68C2	Dia pasti bakal muncul ke permukaan buat ambil napas nanti!
+WUZ2_ZN	46F33978	Kita pasti sudah melukainya!
+WUZ2_ZO	31F409EE	Kita pasti sudah membunuhnya!
+WUZ2_ZP	BCFC041B	Dia pasti terjebak di bawah sana!
+WUZ2_ZQ	CBFB348D	Kubilang juga apa, kita bakal dapat dia!
+WUZ2_ZR	52F26537	Itu dia muncul lagi!
+WUZ2_ZS	25F555A1	Dia naik ke permukaan lagi!
+WUZ2_ZT	BB91C002	Woy, dia di sebelah sini!
+WUZ2_ZU	CC96F094	Kita dapet dia sekarang!
+WUZ2_ZV	559FA12E	Kalian semua, dia ada di sebelah sini!
+WUZ2_ZW	229891B8	Hei, apa itu tadi?
+WUZ2_ZX	B2278C29	Kamu dengar sesuatu?
+WUZ2_ZY	C520BCBF	Sialan burung camar, bakal kutembak satu nanti!
+WUZ2_ZZ	5C29ED05	Paling cuma nakutin apa pun itu tadi...
+WZI2_1	801BD691	~s~Pergi ke ~y~dermaga~s~.
+WZI2_2	1912872B	~s~Kapal tempat kamu harus menanam alat penyadap berlabuh di tengah laut.
+WZI2_3	6E15B7BD	~s~Kamu harus berenang ke sana, tapi ada anak-anak Da Nang Boys yang berpatroli di sepanjang rute.
+WZI2_30	9367EA2A	Ketuk ~m~~widget_mission_start~ buat menanam alat penyadap.
+WZI2_31	E460DABC	~s~Hilangkan kecurigaan para ~r~penjaga~s~ sebelum kamu menanam alat penyadap.
+WZI2_32	7D698B06	~s~Kamu berhasil menanam alat penyadap! Turun dari kapal tangker dan kembali ke ~y~dermaga~s~.
+WZI2_35	E30D1EA5	~s~Menyusup ke bagian belakang kapal tangker lalu tanam ~y~alat penyadapnya~s~, lakukan secuil mungkin tanpa suara agar tidak menarik perhatian para ~r~penjaga~s~ di atas kapal.
+WZI2_36	7A044F1F	Kamu ketahuan sama salah satu ~r~penjaga~w~, menyelamlah ke dalam air buat menghilangkan kecurigaan mereka.
+WZI2_37	0D037F89	Kalau ~r~penjaga~w~ melihatmu berenang cepat atau kamu tidak cepat menyelam, mereka bakal mulai menembak.
+WZI2_38	9DBC6218	Begitu kamu sudah lepas dari kecurigaan para ~r~penjaga~w~, naiklah kembali ke permukaan buat mengambil napas.
+WZI2_39	EABB528E	Pas kamu naik ke permukaan, para ~r~penjaga~w~ tidak bakal melihatmu sampai kamu bergerak.
+WZI2_40	DC267CED	Rute utama menyeberangi air dijaga oleh dua kapal patroli. Kalau mereka melihatmu, menyelamlah ke dalam air buat menghilangkan kecurigaan mereka.
+WZI2_41	AB214C7B	Jangan berenang di permukaan air atau kamu bakal ketahuan.
+WUZ2_AE	32281DC1	Kalau salah satu lampu sorot melihatmu di permukaan air, para ~r~penjaga~w~ bakal menembakmu.
+WZI2_5	87761288	~s~Rute di depan terhalang tapi ada terowongan bawah air! Kamu harus menyelam dan berenang melewatinya untuk melanjutkan.
+WZI2_50	C53D4DAC	Kamu butuh lebih banyak latihan di dalam air sebelum bisa memulai misi ini.
+WZI2_6	1E7F4332	~s~Kamu sekarang bisa naik ke permukaan air.
+WZI2_7	697873A4	~s~Ambil ~g~pisau~s~ di dasar gua.
+WZI2_8	F9C76E35	~s~Berenang menuju ~y~kapal tangker~s~ lalu naik ke atasnya.
+WZI2_C0	BC5893DC	Pencet ~m~~widget_explicit_jump~ untuk melompat dan naik keluar dari air.

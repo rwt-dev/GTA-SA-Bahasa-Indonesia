@@ -1,0 +1,98 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+SWE4_00	10003CF9	~s~Masuk ke dalam ~b~mobil~s~.
+SWE4_01	67070C6F	~s~Bawa kawan-kawanmu masuk ke ~y~wilayah Ballas~s~.
+SWE4_02	FE0E5DD5	~s~Tembaki lingkungan sekitar.
+SWE4_03	89096D43	~s~Pergi ke ~y~bengkel cat (spray shop)~s~, kau bisa menghilangkan kejaran polisi di sana!
+SWE4_04	176DF8E0	~r~Kawan-kawanmu tidak selamat.
+SWE4_05	606AC876	~r~Kau yakin siap membela blok ini?
+SWE4_06	F96399CC	Bawa kendaraanmu masuk ke bengkel cat untuk menghilangkan ~h~status buronan~w~, ~h~memperbaiki~w~ dan ~h~mengecat ulang~w~ kendaraanmu. Biaya - ~h~$100~w~. Kali ini gratis.
+SWE4_07	8E64A95A	Ikon bengkel cat ditandai di radar sebagai kaleng cat semprot.
+SWE4_08	1EDBB4CB	KETAHANAN MOBIL
+SWE4_09	69DC845D	~s~Kau meninggalkan ~b~Smoke~s~!
+SWE4_10	091B0DB8	~s~Kau meninggalkan ~b~Ryder~s~!
+SWE4_11	7E1C3D2E	~s~Kau meninggalkan ~b~Sweet~s~!
+SWE4_12	E7156C94	~s~Kau memiliki dua bintang buronan, polisi akan mengejarmu.
+SWE4_13	90125C02	Pencet terus tahan ~m~~widget_look_left~ atau ~m~~widget_look_right~ untuk melihat ke kiri atau kanan saat berada di dalam mobil.
+SWE4_14	0E76C9A1	~s~Bawa kawan-kawanmu kembali ke ~y~blok kita~s~.
+SWE4_15	7971F937	Ini akan memungkinkanmu melihat di mana musuh-musuhmu berada.
+SWE4_AA	012635E4	Kita mau ke mana, kawan?
+SWE4_AB	982F645E	Kawasan Rollin' Heights Ballas.
+SWE4_AC	EF2854C8	Kawasan Front Yard Ballas.
+SWE4_AD	714CC16B	Kawasan Kilo Trays.
+SWE4_AE	064BF1FD	Lakukan aksi *drive-by* kecil-kecilan untuk kita, hah?
+SWE4_AF	9F42A047	Tentu saja. Kau siap, Carl?
+SWE4_AG	E84590D1	Sial, aku bahkan tidak membawa senjata.
+SWE4_AH	78FA8D40	Mentalmu belum cukup kuat untuk hal itu, CJ.
+SWE4_AI	0FFDBDD6	Kau tahu sesuatu, pokoknya kau jadi sopir kita untuk urusan kecil ini. Ayo masuk.
+SWE4_AJ	96F4EC6C	Asyik, terima kasih banyak G.
+SWE4_AK	E1F3DCFA	Asal jangan menyetir seperti orang bodoh.
+SWE4_BA	2A0B6627	Yoi - wilayah Ballas. Kalian siap, kawan-kawan?
+SWE4_BB	B302379D	Yoi, pasti, aku siap.
+SWE4_BC	C405070B	Carl, konsentrasilah pada mengemudi dan kami yang akan mengurus penembakannya.
+SWE4_BD	5A6192A8	Dengarkan kata orang ini, bego! Dan usahakan jangan memarkir mobil kita ke atas pohon atau semacamnya.
+SWE4_BE	2D66A23E	Yoi, kalau mobilnya berhenti, kita jadi mangsa empuk.
+SWE4_CA	33105766	Apa kubilang? Sudah kubilang CJ menyetir seperti orang buta sialan.
+SWE4_CB	AA1906DC	CJ, kau payah. Jangan pernah meminjamkan kendaraan, jangan pernah.
+SWE4_CC	DD1E364A	Bego ini sengaja menabrakkan mobil - sumpah!
+SWE4_DA	7C51C1A1	Sial! Bawa kami keluar dari sini! Kita jadi sasaran empuk!
+SWE4_DB	E558901B	Sialan, bro, bergeraklah! GERAK!
+SWE4_DC	925FA08D	Apa yang kau lakukan! CJ?!
+SWE4_DD	0C3B352E	Bawa kami keluar dari tempat keparat ini!
+SWE4_DE	7B3C05B8	Bro, mereka mencoba membuat kita tewas!
+SWE4_DF	E2355402	Sialan apa yang kau lakukan, CJ? Cepat gerakkan!
+SWE4_EA	654AF0E0	Bro, apa kubilang - sudah kubilang dia itu payah!
+SWE4_EB	FC43A15A	Carl, jangan lari meninggalkan aku lagi!
+SWE4_EC	8B4491CC	Carl menyerah pada kita!
+SWE4_FA	4E67A323	Sial, dia berhasil lolos dari kita!
+SWE4_FB	D76EF299	Persetan denganmu, CJ! Aku ambil alih.
+SWE4_FC	A069C20F	Aku akan membawa kita keluar dari sini!
+SWE4_FD	3E0D57AC	Keparat! Aku pegang kendali setirnya!
+SWE4_GA	577C9262	Injak terus, Carl, injak!
+SWE4_GB	CE75C3D8	Sial, mobil ini panas! Semua polisi di South Central pasti lagi mencari mobil ini!
+SWE4_HA	D0E48EAD	Betul sekali! Sekarang mari kita kembali ke Grove!
+SWE4_HB	49EDDF17	Yoi, tunggu apa lagi, Carl?
+SWE4_KA	FBC9DD6E	Yoi, Grove kembali berkuasa, bro, Grove kembali!
+SWE4_KB	62C08CD4	Yoi pastinya. Mereka tadi sempat lengah, bro!
+SWE4_KC	15C7BC42	Bro. Aku kaget kau tidak membuat kita terbunuh, CJ!
+SWE4_KD	8BA329E1	Biar kulihat diriku sendiri. Apa aku sudah mati?
+SWE4_KE	FCA41977	Yoi, yoi, pastinya, kau tahu itu. Nanti kutemui kalian.
+SWE4_KF	65AD48CD	Woy, Carl, abaikan keparat itu, kau sudah bekerja bagus hari ini.
+SWE4_KG	12AA785B	Kau sudah berpihak pada Grove dan anak-anak Ballas tahu itu,
+SWE4_KH	821565CA	jadi waspadalah mulai sekarang, CJ.
+SWE4_KI	F512555C	Nih, ambil ini, pergi sana beli bir buat dirimu sendiri.
+SWE4_LA	B4884BA9	Kita habisi mereka! CJ, ayo kita buru lebih banyak lagi!
+SWE4_LB	2D811A13	Tadi itu terlalu gampang! Ayo kita bantai lagi para bego Ballas itu.
+SWE4_LC	5A862A85	Tunggu apa lagi, CJ? Cari lagi anak-anak Ballas biar kita bisa menghabisi mereka.
+SWE4_MA	AD937AE8	Beberapa dari mereka masih berdiri, kita harus putar balik melakukan serangan sekali lagi!
+SWE4_MB	349A2B52	Kita belum menghabisi semua keparat itu!
+SWE4_MC	439D1BC4	Ayo kita habisi mereka sampai tuntas! Woo Woo!
+SWE4_MD	DDF98E67	Mau ke mana CJ? Masih ada lagi anak-anak Ballas yang harus ditembak mati.
+SWE4_NA	86BE292B	CJ! Kau benar-benar bikin repot, bro!
+SWE4_NB	1FB77891	Polisi mengejar kita lagi!
+SWE4_NC	68B04807	CJ! Apa kau mau membuat kita tertangkap?
+SWE4_OA	9FA5186A	Ayolah, CJ, kita harus hilangkan perhatian polisi ini!
+SWE4_OB	06AC49D0	CJ, bawa kita ke bengkel cat!
+SWE4_OC	71AB7946	Ayolah, CJ, bawa kita ke tempat yang aman!
+SWE4_PA	52FF16F4	Tadi aku ngomong apa, ya?
+SWE4_PB	CBF6474E	Woy, tadi kita teriak-teriak soal apa, sih?
+SWE4_PC	BCF177D8	Oke, kita aman. Sekarang aku tadi ngomong apa?
+SWE4A00	06B8B283	Aku bisa menyetir sebaik CJ, bro, kubilang juga apa.
+SWE4A01	71BF8215	Woy, kawan, ada apa?
+SWE4A02	E8B6D3AF	Woy, apa yang kau bicarakan soal aku, bego?
+SWE4A03	9FB1E339	Aku bilang kalau masa tinggal di Pantai Timur bikin cara nyetirmu jadi kayak orang bodoh, bego!
+SWE4A04	01D5769A	Bro, kau selalu menabrakkan mobil dan semacamnya.
+SWE4A05	76D2460C	Dan entah kenapa sekarang setelah kau kembali,
+SWE4A06	EFDB17B6	yang terdengar cuma 'CJ setir ke sini, CJ setir ke situ.' Omong kosong!
+SWE4A07	98DC2720	Bro, kenapa kau tidak santai saja.
+SWE4A08	08633AB1	Bukannya bermaksud tidak sopan, bro, tapi kau memang payah menyetir!
+SWE4A09	7F640A27	Terima kasih, bro. Tidak, tidak, tidak, katakan apa maksudmu yang sebenarnya.
+SWE4A10	1FA383C2	Karena kau penembak jitu yang hebat, kawan, kau harus duduk di kursi penumpang.
+SWE4A11	68A4B354	Tunjukkan pada CJ kehebatanmu.
+SWE4A12	F1ADE2EE	Woy, kau tahu sesuatu - kau benar. Yoi, CJ, kau bisa menyetir, kawan.
+SWE4A13	86AAD278	Woy, ada apa, bro?
+SWE4A14	18CE47DB	Dia lagi halu.

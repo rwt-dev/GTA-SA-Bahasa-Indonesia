@@ -1,0 +1,134 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	90381B24	Menahan ~m~~widget_gang_hold~ selama beberapa detik saat tidak ada target, atau terlalu menjauh dari mereka akan membubarkan kelompokmu.
+	62F0B07B	Ketuk ~m~~widget_gang_follow~ untuk menyuruh gengmu mengikutimu atau ~m~~widget_gang_hold~ untuk menyuruh mereka tetap di posisi.
+	8E96CE07	Targetkan seorang anggota geng lalu pencet ~m~~widget_gang_recruit~ untuk merekrutnya ke dalam kelompokmu.
+	2F5F76CA	Pencet ~m~~widget_gang_follow~ untuk menyuruh gengmu mengikutimu atau ~m~~widget_gang_hold~ untuk menyuruh mereka tetap di posisi.
+SWE7_AA	13939A0A	Kita bakal butuh beberapa sekutu.
+SWE7_AB	8A9ACBB0	Yoi, aku bakal manggil anak-anak dan ngumpulin sedikit pasukan.
+SWE7_AC	FD9DFB26	Tapi udah kuperingatkan soal meluangkan waktu buat anak-anak kita.
+SWE7_AD	63F96E85	Reputasimu belum cukup tinggi buat mengumpulkan pasukan.
+SWE7_AE	14FE5E13	Apa yang bisa kulakukan soal itu sekarang?
+SWE7_AF	8DF70FA9	Pergilah ke wilayah Ballas, dan buat onar di sana.
+SWE7_AG	FAF03F3F	Kabar buruk cepat menyebar.
+SWE7_AH	6A4F22AE	Aku bakal nungguin kamu balik di sini.
+SWE7_BA	38BEC9C9	Mantap, kita naik kendaraanku aja.
+SWE7_BB	A1B79873	Woy, mau ke mana?
+SWE7_BC	D6B0A8E5	Cuma di sepanjang blok atas dekat jembatan sana.
+SWE7_BD	48D43D46	Aku tahu beberapa anak Grove yang bisa kita ajak.
+SWE7_BE	3FD30DD0	Pasukan Grove? Bro, kamu tahu aku siap banget buat itu.
+SWE7_CA	21A5F888	Keluar dan kumpulkan pasukannya, CJ!
+SWE7_CB	B8ACA932	Itu mereka — keluar dan ajak mereka ikut.
+SWE7_CC	CFAB99A4	Itu dia orangnya, jemput mereka!
+SWE7_DA	6EE46E4F	CJ, kamu habis ngisap rokok uapnya Ryder, ya?
+SWE7_DB	F7ED3FF5	Sialan apa yang kamu lakuin, CJ?
+SWE7_DC	80EA0F63	Oh, CJ, kamu benar-benar bajingan!
+SWE7_DD	1E8E9AC0	Suruh orang-orang itu pergi — aku sudah incar dua OG.
+SWE7_DE	6989AA56	Sudah kubilang aku incar dua G — suruh para bego ini jalan!
+SWE7_EA	77FF5F0E	Oke, kita potong jalan — kita harus ketemu sama beberapa kawan.
+SWE7_EB	EEF60EB4	Kita lewat belakang Los Sepulcros terus menyusup lewat tembok.
+SWE7_EC	99F13E22	Ayolah, CJ, kita harus ambil posisi sebelum pemakamannya mulai.
+SWE7_ED	0795AB81	Cepat gerak, CJ, kita bakal telat!
+SWE7_EE	70929B17	Kita harus sampai di sana lebih awal, CJ!
+SWE7_EF	E99BCAAD	Kita melewatkan pemakamannya sialan!
+SWE7_EG	9E9CFA3B	Terlambat, bro, pemakamannya sudah selesai.
+SWE7_EH	0E23E7AA	Di sinilah tempatnya.
+SWE7_EJ	E02D8686	Carl, kamu tetap di sini sementara kita melompati tembok buat mengintip.
+SWE7_EK	972AB610	Oke, CJ, ayo ke sini!
+SWE7_FA	5CD20CCD	Kalian semua kenal CJ, kan?
+SWE7_FB	C5DB5D77	Dua orang ini tadi memantau gerak-gerik anak-anak Front Yard Ballas.
+SWE7_GA	45C93D8C	Kalian ambil posisi masing-masing, dan tunggu Kane.
+SWE7_GB	DCC06C36	Kane? Bukankah anak itu petinggi Front Yard?
+SWE7_GC	ABC75CA0	Yoi, jadi kalau ada tanda-tanda masalah sedikit saja, dia bakal batal datang.
+SWE7_HA	C2512143	CJ, kamu bego, Kane nggak bakal muncul sekarang!
+SWE7_HB	5B5870F9	Aduh bro, Kane nggak bakal datang sekarang.
+SWE7_HC	2C5F406F	Kamu mengacaukan penyergapannya, CJ, kamu emang payah!
+SWE7_JA	F06743C1	Itu dia datang...
+SWE7_JB	696E127B	Kelihatannya si payah itu pakai baju pelindung.
+SWE7_JC	1E6922ED	Mungkin butuh satu-dua peluru buat melumpuhkannya.
+SWE7_KA	E97C7280	Oke, CJ, kamu urus Kane, dan kita habisi sisa anak-anak bego ini.
+SWE7_KB	7075233A	Kamu beresin Kane, CJ — kita urus ikan-ikan kecilnya.
+SWE7_KC	077213AC	CJ, kamu tangani Kane — kalian, habisi cecunguk-cecunguk lainnya!
+SWE7_LA	A63DE447	Kane lari menuju mobil Ballas itu!
+SWE7_LB	3F34B5FD	Ada mobil Ballas datang untuk menjemput Kane!
+SWE7_LC	4833856B	Kane kabur!
+SWE7_MA	BF26D506	Ayolah, kita rebut mobil yang di sebelah sana!
+SWE7_MB	262F84BC	Ayolah, kita pakai mobil ini!
+SWE7_MC	5128B42A	Kita bisa ambil mobil ini!
+SWE7_MD	CF4C2189	Cari mobil itu buat kita, CJ!
+SWE7_NA	940B86C5	Oke, pintunya sudah kubuka, ayo!
+SWE7_NB	0D02D77F	Ayolah, CJ, aku sudah membobol mobil rongsokan ini!
+SWE7_OA	8D10B784	Tabrak, CJ, tabrak! Kita harus mengejarnya sebelum dia sampai ke wilayah Front Yard!
+SWE7_OB	1419E63E	Injak pedalnya, CJ, kita harus kejar si bego itu sebelum dia sampai rumah!
+SWE7_PA	404AB91A	Bawa aku mendekat, CJ!
+SWE7_PB	D943E8A0	Jaga kestabilannya!
+SWE7_PC	AE44D836	Sejajarkan mobil kita!
+SWE7_PD	30204D95	Sejajarkan supaya aku bisa menghabisi si bego ini!
+SWE7_QA	5951885B	Sial, dia sekarang sudah aman sentosa.
+SWE7_QB	C058D9E1	Sial, dia sudah berhasil sampai ke tempat piza.
+SWE7_QC	B75FE977	Sialan! Dia berhasil melarikan diri dari kita, SIAL!
+SWE7_RA	727CDB98	Rasakan itu, KEPARAT Front Yard!
+SWE7_RB	EB758A22	Jangan main-main dengan GROVE STREET!
+SWE7_RC	9C72BAB4	Ayolah, kita kabur balik ke Ganton!
+SWE7_SA	6B67EAD9	Kerja bagus, CJ!
+SWE7_SB	F26EBB63	Aku bakal cari mobil pelarian, kalian beresin sisa anak-anak Ballas itu!
+SWE7_SC	85698BF5	Oke, semuanya masuk, ayo jalan!
+SWE7_TA	24267C1E	Man, kita tadi benar-benar kekuatan yang tangguh.
+SWE7_TB	BD2F2DA4	Semuanya pulang ke rumah, jangan mencolok, kita seharian ini nggak pernah saling ketemu, paham?
+SWE7_TC	CA281D32	Nanti kutemui kamu, Carl.
+SWE7A00	140D1D6D	Carl, ada apa, adik kesayangan?
+SWE7A01	630A2DFB	Ada cerita apa.
+SWE7A02	FA037C41	Dengar ini — Tenpenny baru saja mampir.
+SWE7A03	8D044CD7	Katanya salah satu anak Ballas yang dulu kamu sama Smoke
+SWE7A04	1360D974	habisi, yaitu Little Weasel, mau dimakamkan.
+SWE7A05	6467E9E2	Dan semua OG bakal datang ke sana.
+SWE7A06	FD6EB858	Di pemakaman?
+SWE7A07	8A6988CE	Yoi, kita bisa ringkus semua nigger sialan itu sekaligus dalam satu waktu!
+SWE7A08	1AD6955F	Di pemakaman.
+SWE7A09	6DD1A5C9	Pas banget kayak pemakaman Ibu. Ayo kita habisi para keparat ini.
+SWE7A10	0D162C2C	Woy, dengar, kita harus melakukan sesuatu yang benar-benar besar.
+SWE7A11	7A111CBA	Bikin Grove Street disegani selamanya. Seumur hidup (*4 life*)!
+SWE7A12	E3184D00	Baiklah, kawan. Ayo jalan.
+TWAR610	6077CD86	~s~Ikuti Sweet ke dalam ~b~mobil~s~ itu. Kamu harus menjemput bala bantuan untuk penyerangan ini.
+TWAR611	1770FD10	~s~Kamu butuh bantuan dalam penyerangan ini tapi sebelum bisa merekrut anggota geng, kamu harus dihormati dulu.
+TWAR612	8E79ACAA	~s~Pergi ke wilayah Ballas dan habisi beberapa ~r~anggota geng~s~ yang tangguh untuk mendapatkan rasa hormat.
+TWAR615	101D3909	~s~Bagus. Rasa hormatmu meningkat, terus habisi anggota geng musuh.
+TWAR617	FE135825	~s~Kamu sudah mendapatkan cukup rasa hormat. Kembali ke ~b~mobil~s~ bersama Sweet sekarang.
+TWAR618	6EAC45B4	~r~Berbuat kasar pada Sweet tidak akan memberimu rasa hormat!
+TWAR619	19AB7522	~r~Pemakamannya bakal selesai! Kane bakal lolos hidup di hari lain!
+TWAR620	4B5A9E45	Waktu
+TWAR625	3B306ACA	~r~Kamu memulai keributan terlalu cepat! Kane tidak bakal datang sekarang!
+TWAR626	A2393B70	~r~Kane~s~ berlari kencang menuju kendaraan itu! Tangkap dia!
+TWAR627	D53E0BE6	~r~Terlambat! Kane sudah ada di wilayah kekuasaannya sendiri! Tidak aman untuk melanjutkan pengejaran!
+TWAR628	45811677	~s~Kane tewas! Habisi sisa ~r~anak buahnya~s~ sekarang!
+TWAR629	328626E1	~s~Kane melarikan diri! Ikuti ~b~Sweet~s~, dia mau membajak mobil itu!
+TWAR630	5241AF04	~s~Masuk ke dalam ~b~mobil~s~ Sweet. Kamu harus sampai di pemakaman sebelum pemakamannya selesai.
+TWAR631	25469F92	~s~Semuanya sudah masuk. Nyetir ke bagian belakang ~y~pemakaman~s~ sebelum Kane tiba.
+TWAR632	BC4FCE28	~s~Cepat masukkan dirimu dan anggota gengmu kembali ke dalam ~b~mobil~s~.
+TWAR633	CB48FEBE	~r~Mobil Sweet hancur dan misinya belum selesai!
+TWAR635	222B5B8B	~s~Panjat tembok dan hampiri ~b~Sweet~s~ beserta anak buahnya.
+TWAR636	BB220A31	~s~Bunuh ~r~Kane~s~, jangan biarkan dia kabur!
+TWAR638	5C9A2736	~r~Sweet tewas! Itu bukan bagian dari rencana!
+TWAR640	1D0039C3	~s~Sweet berhasil membobol ~b~mobil~s~ itu! Masuk!
+TWAR641	6A070955	~s~Kejar ~r~Kane~s~ dan bunuh dia!
+TWAR643	84096879	~s~Akan lebih sulit mengejar Kane dengan berjalan kaki! Kembali ke ~b~kendaraan~s~ sekarang!
+TWAR644	1A6DFDDA	~s~Masuk ke dalam ~b~mobil~s~ dan antar Sweet pulang!
+TWAR645	6D6ACD4C	~s~Masuk ke dalam ~b~mobil~s~ dan tancap gas!
+TWAR646	F4639CF6	~s~Kane tewas, antar Sweet kembali ~y~pulang~s~ dengan selamat!
+TWAR647	8364AC60	~s~Antar Sweet kembali ~y~pulang~s~ dengan selamat sekarang!
+TWAR648	13DBB1F1	~r~Mobil itu tadinya bisa berguna! Tidak perlu menghancurkannya!
+TWAR649	64DC8167	~s~Jalankan mobil mendekati ~r~Kane~s~ supaya Sweet punya sudut tembak yang leluasa!
+TWAR650	041B0882	~s~Pergi ke tempat ~y~nongkrong~s~ Grove Street terdekat untuk mencari bantuan.
+TWAR652	EA1569AE	~s~Ajak ~b~anggota geng~s~ itu untuk bergabung denganmu. Mereka sudah cukup menghormatimu untuk memberikan bantuan.
+TWAR654	0376CC9B	~s~Masuk ke dalam ~b~mobil~s~ bersama gengmu lalu bawa mereka ke pemakaman.
+TWAR657	ED78ADB7	Semakin tinggi tingkat rasa hormat yang kau miliki dengan sebuah geng, semakin banyak anggota yang bisa kau rekrut ke kelompokmu.
+TWAR658	0AC080B0	~r~Misinya bakal makin berat kalau kekurangan orang!
+TWAR659	7DC7B026	~s~Kamu sudah punya dua anggota geng di kelompokmu tapi bukan orang yang dicari untuk misi ini! Pilih dua orang yang tepat kali ini!
+TWAR660	2F365B41	Ketuk seorang anggota geng untuk menargetkannya lalu ketuk ~m~~widget_gang_recruit~ untuk merekrutnya ke kelompokmu.
+TWAR664	285B9F58	~r~Mobil Sweet terbakar dan dia terlalu pintar untuk masuk kembali!
+TWAR800	73F2D1CD	Reputasimu sudah cukup tinggi untuk merekrut anggota geng ke kelompokmu.
+TWAR801	04F5E15B	Suruh gengmu mengikutimu dengan mengetuk ~m~~widget_gang_follow~.

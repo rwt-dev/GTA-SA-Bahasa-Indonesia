@@ -1,0 +1,31 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+KICK_10	D8EAF990	Pake Sanchez buat ngumpulin Lingkaran Cahaya (Corona). ~g~Lingkaran Hijau~s~ bernilai 1 poin. ~y~Lingkaran Kuning~s~ bernilai 2 poin. ~r~Lingkaran Merah~s~ bernilai 3 poin.
+KICK_11	AFEDC906	Cetak skor 26 poin buat menyelesain misi. Buat keluar dari stadion, berdiri di area bergaris ~r~merah~s~ jalan kaki.
+KICK_12	36E498BC	~r~Lu ciut nyali/menyerah!
+KICK_13	41E3A82A	~r~Lu terlalu lama!
+KICK_14	DF873D89	~s~Lu berhasil mengambil ~g~Lingkaran Hijau~s~ +1
+KICK_15	A8800D1F	~s~Lu berhasil mengambil ~y~Lingkaran Kuning~s~ +2
+KICK_16	31895CA5	~s~Lu berhasil mengambil ~r~Lingkaran Merah~s~ +3
+KICK_17	468E6C33	3
+KICK_18	D63171A2	2
+KICK_19	A1364134	1
+KICK_20	F3C7AA53	GAS!
+KICK_21	84C09AC5	Skor Tertinggi ~1~
+KICK_22	1DC9CB7F	Skor Tertinggi Baru ~1~
+KICK_23	6ACEFBE9	~s~Lu berhasil memecahkan rekor!
+KICK_24	F4AA6E4A	~r~Lu gagal memecahkan rekor!
+KICK_25	83AD5EDC	Skor lu ~1~
+KICK_26	1AA40F66	~s~Kumpulin poin sebanyak mungkin.
+KICK_27	6DA33FF0	~s~Lu punya waktu ~1~ detik buat naik balik ke ~b~motor~s~ lu sebelum didiskualifikasi.
+KICK_28	FD1C2261	~s~Lu punya waktu ~1~ detik buat naik balik ke ~b~motor~s~ lu sebelum didiskualifikasi.
+KICK1_1	16DA6905	~s~Selesain rute secepat mungkin.
+KICK1_2	8FD338BF	~r~Lu kagak balik ke motor dengan cukup cepat!
+KICK1_6	88BEFCA6	~s~Kerja bagus!
+KICK1_7	FFB9CC30	~r~Lu ngancurin motornya!
+KICK1_8	6F06D1A1	~s~Naik ke ~b~motor~s~!
+KICK1_T	2B02FCD2	WAKTU

@@ -1,0 +1,83 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	9830273F	Pencet ~m~~widget_nitro~ buat mengaktifkan nitro.
+STE2_01	C4F8211D	~s~Pergi terus ambil mobil-mobil dari ~y~ruang pameran mobil (showroom)~s~.
+STE2_02	5DF170A7	~s~Tempel terus ~b~Cesar~s~ pas lu balik ke bengkel garasi.
+STE2_03	2AF64031	Ketuk ~m~~widget_nitro~ buat mengaktifkan nitro.
+STE2_04	B492D592	~s~Ikutin ~b~Cesar~s~ ke dalam gang sempit.
+STE2_05	C395E504	~s~Nyetir balik ke ~y~bengkel garasi~s~.
+STE2_06	5A9CB4BE	~r~Lu kehilangan jejak Cesar!
+STE2_07	2D9B8428	~r~Cesar tewas.
+STE2_08	BD2499B9	~r~Mobil target hancur.
+STE2_09	CA23A92F	~r~Polisi berhasil menyita salah satu mobil!
+STE2_10	AAE420CA	~s~Lu ninggalin ~b~Cesar~s~ di belakang.
+STE2_11	DDE3105C	~s~Masuk balik ke dalam ~b~mobil~s~!
+STL2@00	A99597B7	Woy Carl, ada dua mobil di dalam daftar nih, bro (*ese*),
+STL2@01	DE92A721	sama mobilnya ada di ruang pameran (*showroom*) di seberang kota,
+STL2@02	479BF69B	ayo kita pergi ambil mobil-mobil itu!
+STL2@03	309CC60D	Gue selalu kagum sama pendekatan blak-blakan lu, bro (*hombre*).
+STL2_AA	AFC97AE7	Oke, ayo kita pergi ambil mobil-mobil itu!
+STL2_BA	84E42924	Gue demen sama tempat ini, lu tahu kagak.
+STL2_BB	1DED789E	Di mana?
+STL2_BC	6AEA4808	San Fierro, bro.
+STL2_BD	F48EDDAB	Rumah gue bakal selalu ada di Varrios sama El Corona,
+STL2_BE	8389ED3D	tapi kota ini, punya sesuatu yang terasa ramah gitu.
+STL2_BF	1A80BC87	Yoi, gue paham maksud lu.
+STL2_BG	6D878C11	Kendl kayaknya demen juga sama kota ini, lu tahu kan?
+STL2_BH	FD389180	Oh yoi, dia bener-bener lagi fokus mendalami urusan bisnis ini.
+STL2_BJ	1336F0AC	Baguslah kalo gitu, dia kan emang selalu jadi otak di keluarga kita.
+STL2_BK	6431C03A	Dia emang harus keluar dari area kumuh (*ghetto*) terus meraih kesuksesan.
+STL2_BL	FA555599	Gue rasa dia berambisi buat membimbing KITA SEMUA jadi sukses, hah!
+STL2_BM	8D52650F	Yoi, dia udah kek sosok ibu di keluarga kita sekarang...
+STL2_CA	9DFF1865	Woy, siapa sih si 'Truth' ini, bro (*holmes*)? Gue rasa otaknya agak geser tuh!
+STL2_CB	04F649DF	Dia cuma ngeliat segala hal dari sudut pandang beda aja, gitu doang kok.
+STL2_CC	73F17949	Awalnya gue kira dia cuma orang gila korban kebanyakan minum asam LSD.
+STL2_CD	ED95ECEA	Tapi beberapa hal yang dia omongin...
+STL2_CE	9A92DC7C	Gue kagak tahu lah, bro, kagak semuanya omong kosong....
+STL2_CF	039B8DC6	Woy, lu mau jadi pemburu alien juga, bro (*holmes*)?
+STL2_CG	749CBD50	Gue tunda dulu dah kalo buat yang satu itu.
+STL2_DA	D2BE8EA2	Ini tempatnya!
+STL2_DB	4BB7DF18	Ayo gaskan, bro (*holmes*).
+STL2_DC	3CB0EF8E	Ini dia tempatnya, CJ!
+STL2_DD	A2D47A2D	Mobil-mobilnya ada di lantai atas!
+STL2_DE	D5D34ABB	Mobil-mobilnya ada di lantai dua.
+STL2_DF	4CDA1B01	Mobilnya ada di ruang pameran lantai dua.
+STL2_DH	AB623606	Apaan? Gimana cara kita menurunkan mobil-mobil itu?
+STL2_DJ	456C572A	Lantai dua? Taik!
+STL2_DK	326B67BC	Ah mantap! Kenapa kagak ada hal yang pernah berjalan gampang sih?
+STL2_EA	CBA5BFE3	Ada yang bisa saya bantu buat kalian berdua, eerr, para tuan?
+STL2_EB	52ACEE59	Yoi, lu bisa ngebantu kita pake cara pergi melayani keparat lainnya sana.
+STL2_EC	25ABDECF	Y- yoi, kayaknya itu ide yang bagus!
+STL2_ED	BBCF4B6C	Sip lah, CJ, waktunya kita aksi!
+STL2_EE	CCC87BFA	Ini namanya permainan mengejar pemimpin, lu mending tempel terus jangan ketinggalan!
+STL2_EF	55C12A40	Ah, lu bener-bener orang gila, bro (*ese*)!
+STL2_FA	E088EC20	Woy, CJ, nih walkie talkie berfungsi kagak?
+STL2_FB	7981BD9A	Yoi, suara lu kedengeran jelas banget!
+STL2_FC	0E868D0C	Ayolah, CJ, coba liat apa lu bisa menempel kecepatan Cesar Vialpando!
+STL2_FD	90E218AF	Balapan mendahului trem naik ke atas bukit!
+STL2_FE	E7E52839	Gampang banget kek makan kue cokelat!
+STL2_FF	7EEC7983	Nih pengemudi trem pasti lagi ngompol di celana, bro (*holmes*)!
+STL2_FG	09EB4915	Halo polisi, dari mana aja kalian baru muncul, hah?
+STL2_FH	99545484	Woy, CJ, liat nih ... NITRO!
+STL2_FJ	775A35A8	Ikutin gue turun bukit, bro (*holmes*)!
+STL2_FK	005D053E	Ada sepeda motor di jalanan ... awas!
+STL2_FL	9E39909D	Oke, Cesar, udah cukup hura-huranya.
+STL2_FM	E93EA00B	Ayo kita bawa mobil-mobil ini balik ke bengkel garasi!
+STL2_FN	7037F1B1	Oke, CJ, woy, gue tahu rute jalan pintas!
+STL2_FO	0730C127	Halo. Polisi, muncul lagi kalian para bego (*idiotas*)?
+STL2_FP	8A38CCD2	Minggir dari jalanan bangsat!
+STL2_FQ	FD3FFC44	Ya Tuhannnn TAIKKKKK!
+STL2_FR	6436ADFE	Bangsat, bro (*holmes*), lu ngeliat hal itu kagak?
+STL2_GA	F993DD61	Bisa kagak kita mikirin cara balik
+STL2_GB	609A8CDB	sebelum gue berakhir tewas di dalam pesta panggangan kecelakaan mobil?
+STL2_HA	7E0BC1AE	Pasti lah, bro (*holmes*).
+STL2_HB	E7029014	Gue rasa kita udah berhasil menghilangkan jejak mereka.
+STL2_HC	9005A082	Ada jalan pintas ke arah sini!
+STL2_HD	0E613521	Uh-oh, ada polisi lagi!
+STL2_HE	796605B7	MUNDUR, BRO (*HOLMES*), MUNDUR! MUNDUR!
+STL2_HF	E06F540D	Oke, kita udah aman.
+STL2_HG	9768649B	Sampai ketemu balik di bengkel garasi, CJ!

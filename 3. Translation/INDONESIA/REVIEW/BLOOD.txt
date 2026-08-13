@@ -1,0 +1,18 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+BLOD_01	EE30D170	~s~Nyetir ngelewatin titik pemeriksaan (checkpoint) buat menambah waktu keseluruhan lu.
+BLOD_02	773980CA	~s~Lu bakal kalah kalo waktu keseluruhan lu menyentuh angka nol.
+BLOD_03	003EB05C	~s~Capai waktu keseluruhan lu di atas Waktu Target buat menang!
+BLOD_04	9E5A25FF	~s~Ambil peningkatan (upgrade) mobil buat menambah peluang kemenangan lu.
+BLOD_05	E95D1569	~r~Lu kehabisan waktu!
+BLOD_06	705444D3	Hasil
+BLOD_07	07537445	Waktu Terbaik Baru (menit)
+BLOD_08	97EC69D4	Mobil Dihancurkan
+BLOD_09	E0EB5942	~1~
+BLOD_10	802CD0A7	~s~Waktu keseluruhan dimulai dari 30 detik terus menghitung mundur.
+BLOD_11	F72BE031	~s~Waktu Target saat ini buat memenangkan Blood Ring itu 1 menit.
+BLOD_12	6E22B18B	~s~Waktu Target saat ini buat memenangkan Blood Ring itu ~1~ menit.

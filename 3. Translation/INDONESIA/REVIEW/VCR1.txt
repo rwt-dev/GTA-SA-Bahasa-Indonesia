@@ -1,0 +1,53 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+CRV1@00	20F7C8A9	Halo Carl. Sudah lama ya, kan?
+CRV1@01	57F0F83F	Yoi, aku mulai merindukan kalian semua.
+CRV1@02	CEF9A985	Kenapa aku tidak percaya padamu? Kemarilah!
+CRV1@03	B9FE9913	Sekarang situasinya sudah berkembang sejak terakhir kali kita bertemu.
+CRV1@04	279A0CB0	Meskipun kita sudah berusaha semaksimal mungkin, urusan ini hampir selesai.
+CRV1@05	509D3C26	Aku yakin kamu bakal cari cara untuk tetap mempertahankan lencananya, tipe sepertimu memang selalu begitu.
+CRV1@06	C9946D9C	Kamu masih belum paham juga, ya Carl?
+CRV1@07	BE935D0A	Ini bukan soal mempertahankan lencana sialan!
+CRV1@08	2E2C409B	Hei, dengarkan kata orang ini.
+CRV1@09	592B700D	Kita semua sama saja, Carl — kamu, aku.
+CRV1@10	39ECF9E8	Ini soal hal busuk yang sama yang kamu lakukan sepanjang hidupmu, Carl;
+CRV1@11	4EEBC97E	Kita semua berusaha mengeluarkan diri dari lubang kehancuran.
+CRV1@12	D7E298C4	Seseorang menginjakku, aku harus menginjakmu.
+CRV1@13	A0E5A852	dan aku sudah sangat dekat untuk menyingkirkan sepatu bajingan itu dari mukaku.
+CRV1@14	3E813DF1	Di mana Hernandez dengan daging sialan itu?
+CRV1@15	49860D67	Dia sudah pergi terlalu lama, Tenpenny.
+CRV1@16	D08F5CDD	Mulai merasa cemas, kawan-kawan?
+CRV1@17	A7886C4B	Bagaimana rasanya itu, seonggok sampah?
+CRV1@18	373771DA	Apakah itu memberimu gambaran seberapa cemasnya aku?
+CRV1@19	4030414C	Wah! Sialan apa ini?
+CRV1@20	12C1AA2B	Bangun, jalang!
+CRV1@21	65C69ABD	Kamu memperhatikan?
+CRV1@22	FCCFCB07	Yoi, aku mendengarkan.
+CRV1@23	8BC8FB91	Sekarang di sana ada kota hancur di sebelah barat sini, Aldea Malvada.
+CRV1@24	15AC6E32	Dan ada seorang pejabat DEA bajingan yang sedang mengadakan pertemuan
+CRV1@25	62AB5EA4	dengan agen FBI yang membawa berkas dokumen (*dossier*).
+CRV1@26	FBA20F1E	Sekarang pergilah ambil berkas itu dan buat mereka berdua lenyap selamanya.
+VCR1__1	AA03AF8D	~s~Habisi ~r~target~s~ dan ambil berkas dokumen buktinya.
+VCR1__2	330AFE37	~s~Kamu terlalu lambat. Salah satu penjaga sudah mengambil barang itu.
+VCR1__3	440DCEA1	~s~Target sudah tewas dan menjatuhkan ~g~berkas bukti~s~, ambil sebelum diambil orang lain.
+VCR1__4	DA695B02	~r~Berkas dokumen bukti jatuh ke dasar laut!
+VCR1__5	AD6E6B94	~r~Kamu menghancurkan berkas dokumen bukti dalam ledakan itu!
+VCR1__6	34673A2E	~s~Selamat, kamu berhasil mendapatkan berkas dokumen bukti.
+VCR1__7	43600AB8	~s~Target ~r~melarikan diri menggunakan helikopter.
+VCR1__8	D3DF1729	~s~Target ~r~sudah meninggalkan helikopternya.
+VCR1__9	A4D827BF	~s~Kejar target menggunakan ~b~helikopter~s~ yang tersisa.
+VCR1_10	267AD932	~s~Jangan biarkan ~r~target~s~ lolos!
+VCR1_11	517DE9A4	~s~Mereka sudah memergokimu! Target ~r~akan berusaha kabur, jangan biarkan dia lolos.
+VCR1_AA	2E47E16E	Woy, kamu siapa?
+VCR1_AB	B74Eb0D4	Berhenti di situ dan sebutkan identitasmu!
+VCR1_AC	C0498042	FBI! Apa urusanmu di sini?
+VCR1_AD	5E2D15E1	Pembunuh bayaran! Cari tempat berlindung!
+VCR1_AE	292A2577	Ada pembunuhan!
+VCR1_AF	B02374CD	Semuanya tiarap!
+VCR1_AG	C724445B	Bawa berkas dokumen itu keluar dari sini!
+VCR1_AH	579B59CA	Pergi dari sini, aku yang akan urus orang ini!
+VCR1_AI	209C695C	Pergi dari sini, aku akan melindungimu!

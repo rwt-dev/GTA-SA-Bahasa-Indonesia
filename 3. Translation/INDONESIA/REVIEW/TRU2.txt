@@ -1,0 +1,118 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	E846B6FB	Saat membidik, pencet ~m~~widget_attack~ untuk menembakkan roket.
+	F15D87BA	Pencet ~m~~widget_enter_targeting~ untuk membidik menggunakan peluncur roket.
+SYN3_22	1C35578F	Ketuk ~m~~widget_enter_targeting~ untuk membidik menggunakan peluncur roket.
+SYN3_23	6B326719	Saat membidik, ketuk ~m~~widget_attack~ untuk menembakkan roket.
+SYN3_24	F556F2BA	Gunakan kontrol pergerakan kamera untuk menggeser posisi bidikan.
+TRU2@00	D79BBFD7	Damai. Aku punya semua yang kamu butuhkan, pengelana sebatang kara.
+TRU2@01	A09C8F41	Barangnya ada di dalam Mothership di belakang sana.
+TRU2@02	3995DEFB	Terima kasih, bro. Nih, bayarannya.
+TRU2@03	4E92EE6D	Lingkaran karma berputar kembali.
+TRU2@04	D0F67BCE	Semuanya sudah berjalan sebagaimana mestinya.
+TRU2@05	A7F14B58	Kembali ke telur.
+TRU2@06	3EF81AE2	Oooommmmmm.
+TRU2@07	49FF2A74	Sialan, bro, pasti ada dua ton barang itu di belakang sana!
+TRU2@08	D94037E5	Tigaaaa. Ramayanaaaaa...
+TRU2@09	AE470773	Suara apa-apaan itu?
+TRU2@10	CE808E96	Hei, itu kedengaran kayak helikopter.
+TRU2@11	B987BE00	Ya ampun, polisi narkoba (*narcs*)! Kamu pengkhianat sialan!
+TRU2@12	208EEFBA	Bro, jangan timpakan itu padaku! Kaulah yang berurusan sama Tenpenny!
+TRU2@13	5789DF2C	Tenang, saudara; kepanikan membuka jalan menuju karma buruk.
+TRU2@14	C9ED4A8F	Kita harus membakar ladang-ladang itu. Aku cuma berharap Gaia bisa memaafkan kita!
+TRU2@15	BEEA7A19	Ada apa ini semua?
+TRU2@16	27E32BA3	Man...
+TRU2_01	B7E66B0C	~s~Pergi dan bantu The Truth menghancurkan ~r~tanaman ganja~s~.
+TRU2_02	2EEF3AB6	~s~Untuk membakar ladang ganja, selimuti dengan api.
+TRU2_03	59E80A20	~s~Ambil kendaraan lalu ikuti Mothership kembali ke San Fierro.
+TRU2_04	C78C9F83	~S~Ikuti ~b~Mothership~s~ kembali ke San Fierro.
+TRU2_06	2982FEAF	Kedatangan polisi
+TRU2_07	5E85CE39	Tingkat Buronan Truth
+TRU2_08	CE3AD3A8	~r~The Truth tewas!
+TRU2_09	B93DE33E	~r~Mothership hancur!
+TRU2_10	D9FA6ADB	~r~The Truth ditangkap!
+TRU2_12	37F40BF7	~s~Kendarai Mothership menuju ~y~garasi~s~ di San Fierro.
+TRU2_13	40F33B61	~s~Ada lebih banyak ~g~amunisi~s~ di dekat lumbung.
+TRU2_14	DE97AEC2	~s~Pergi dan bicara dengan ~b~The Truth~s~.
+TRU2_15	A9909E54	~s~Habisi ~r~helikopter~s~ itu.
+TRU2_16	3099CFEE	~s~Jauhkan ~r~mobil polisi~s~ dari ~b~Mothership~s~! The Truth bakal ditangkap kalau Bar Tingkat Buronan penuh!
+TRU2_17	479EFF78	~s~Masuk ke dalam ~b~Mothership~s~.
+TRU2_18	D721E2E9	~s~Cari ~b~kendaraan~s~ lalu ikuti Mothership kembali ke San Fierro.
+TRU2_19	A026D27F	~s~Jangan pergi terlalu jauh dari Truth!
+TRU2_AA	D1C75287	Keparat! Keparat sayap kanan!
+TRU2_AB	48CE033D	Aku nggak, aku nggak enak badan...
+TRU2_AC	3FC933AB	Sungguh disayangkan, ya.
+TRU2_AD	A1ADA608	Bukan maksudku, sepertinya aku mau pingsan!
+TRU2_AE	D6AA969E	Lawan lautan dan kamu bakal tenggelam, kawan!
+TRU2_BA	FAEA0144	Carl, bro, kita ambil Mothership terus bawa barang kita keluar dari sini!
+TRU2_BB	63E350FE	Pergi nyalakan mesinnya!
+TRU2_BC	14E46068	Aku selesaikan pembakarannya terus aku susul kamu!
+TRU2_CA	E3F13005	Hei, aku agak sibuk, nanti kuhubungi lagi.
+TRU2_CB	7AF861BF	Carl, ini aku! Singkirkan polisi-polisi sialan itu dari pantatku!
+TRU2_DA	ACB0A6C2	Kenapa malah berhenti?
+TRU2_DB	35B9F778	Sebaiknya kamu saja yang nyetir. Aku sudah 15 tahun nggak nyetir.
+TRU2_DC	42BEC7EE	Tadi kamu bawa kendaraannya lumayan kok.
+TRU2_DD	DCDA524D	Yoi, terus rasa takutnya mendadak datang menyerang.
+TRU2_DE	ABDD62DB	Sekarang aku lagi melinting ganja buat menenangkan pikiran!
+TRU2_EA	B5AB9783	Ya Tuhan, kita tamat, kapan kamu dapat kendaraan ini?
+TRU2_EB	2CA2C639	1967.
+TRU2_EC	5BA5F6AF	Bagaimana caramu bepergian kalau kamu tidak menyetir?
+TRU2_ED	C5C1630C	Aku punya kambing astral bernama 'Herbie'.
+TRU2_EF	2BCF0220	Dia lebih cepat dari kebanyakan, tapi sudah mulai tua...
+TRU2_EG	5CC832B6	Yoi, terserahlah bro, kamu cuma omong kosong.
+TRU2_FA	9E86C440	Hei, mau isap ini? Sedikit Temple Charas
+TRU2_FB	078F95FA	dicampur koktail dengan sedikit munga munga Nepal.
+TRU2_FC	7088A56C	Matikan benda itu, bro, aku tidak bisa lihat jalan.
+TRU2_FD	EEEC30CF	Hei, santai saja, kawan. Barangnya bagus kok.
+TRU2_FE	99EB0059	Matikan, keparat, aku memperingatkanmu!
+TRU2_FF	00E251E3	Wooah, santai dikit dong!
+TRU2_FG	77E56175	Pertama, kamu benar-benar pemusnah suasana, amigo.
+TRU2_FH	E75A7CE4	Dan kedua, aku tidak pernah bercinta dengan ibuku sendiri. Dia tidak mau.
+TRU2_FJ	09541DC8	Dan ketiga, kita berada di dalam kapal yang sama, jadi tetap tenanglah.
+TRU2_FK	7E532D5E	Sori, bro, aku cuma tidak bisa menyetir pas lagi teler.
+TRU2_GA	879DF501	Hei, kendaraan ini bisa jalan lebih cepat nggak?
+TRU2_GB	1E94A4BB	Bro, kita bawa 3 ton ganja di dalam,
+TRU2_GC	6993942D	blok mesinnya ditahan pakai tali makrame, dan bahan bakarnya pakai minyak goreng berumur 15 tahun.
+TRU2_GE	80F03118	Sial. Kamu bisa menembak nggak?
+TRU2_GF	19F960A2	Menembak? Aku kan seorang hippie!
+TRU2_GG	6EFE5034	Satu-satunya hal yang kutembak cuma asam (*acid*).
+TRU2_GH	FE414DA5	Aku pernah dengar tentang seseorang yang mengisap zat itu sekali.
+TRU2_GJ	104F2C89	Dia pikir hidungnya adalah kanguru dan bulannya adalah seekor anjing. Whooo!
+TRU2_HA	0005E9CE	Ada apa dengan semua aluminium foil ini, bro?
+TRU2_HB	990CB874	Perlindungan dari pengendalian pikiran, kawan.
+TRU2_HC	EE0B88E2	Pengendalian pikiran?
+TRU2_HD	706F1D41	Induksi gambar, suara, atau emosi menggunakan radiasi gelombang mikro (*microwave*).
+TRU2_HE	07682DD7	Kamu tahu berapa banyak satelit pemerintah
+TRU2_HF	9E617C6D	yang mengawasi warga sipil setiap detik?
+TRU2_HG	E9664CFB	Tidak.
+TRU2_HH	79D9516A	Dua puluh tiga.
+TRU2_HJ	97D73046	Kamu tahu berapa banyak peninggalan religius yang disimpan di Pentagon?
+TRU2_HK	E0D000D0	Tidak, aku tidak tahu.
+TRU2_HL	7EB49573	Dua puluh tiga.
+TRU2_HM	09B3A5E5	Kamu melihat suatu pola yang muncul di sini, bro?
+TRU2_HN	90BAF45F	Bro, aku melihat pola di mana-mana!
+TRU2_HO	E7BDC4C9	Singkirkan asap itu dari mukaku!
+TRU2_JA	32338B4C	Kita punya helikopter di belakang, kita tidak bakal bisa meloloskan diri dari mereka sekarang.
+TRU2_JB	AB3ADAF6	Tunggu, aku punya sedikit barang di belakang yang kusimpan buat hari darurat.
+TRU2_KA	2B28BA0D	Ya ampun keparat!
+TRU2_KB	B221EBB7	Dapat dari mana itu?
+TRU2_KC	C526DB21	Kutemukan di dalam seikat ganja Thailand (*Thai Sticks*).
+TRU2_KD	5B424E82	Sayang sekali sebenarnya, tadinya mau kubikin jadi lampu hias.
+TRU2_LA	64692CCA	Itu dia, kawan; San Fierro: Kota Keajaiban Psikedelik!
+TRU2_LB	FD607D70	Bro, aku nggak nyangka belum pernah ke sini sebelumnya.
+TRU2_LC	8A674DE6	Nggak ada tempat yang lebih baik buat kabur dari kejaran aparat, bro.
+TRU2_MA	7D721D8B	Oke, Pak San Fierro, di mana lokasinya?
+TRU2_MB	E47B4C31	Lokasinya ada di Doherty sebelah timur Fierro,
+TRU2_MC	937C7CA7	di antara Garcia dan Easter Basin.
+TRU2_NA	565F4E48	Di sinilah tempatnya.
+TRU2_NB	CF561FF2	Wah, ya ampun bro, sepertinya kamu dapat tempat yang mengenaskan.
+TRU2_OA	4F447F09	Sial, aku harus menelepon Cesar!
+TRU2_OB	D64D2EB3	(Memutar nomor telepon)
+TRU2_OC	A14A1E25	Hei Cesar, tidak ada waktu untuk ngobrol, bro!
+TRU2_OD	3F2E8B86	Aku sedang dalam perjalanan ke San Fierro, oke,
+TRU2_OE	4829BB10	aku bakal nemuin kamu dan Kendl di garasi yang kudapat dari balapan itu!
+TRU2_OF	D120EAAA	Nanti kutelpon lagi kalian semua!

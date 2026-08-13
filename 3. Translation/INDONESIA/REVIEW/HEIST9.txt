@@ -1,0 +1,203 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	AE87D487	~s~Pencet ~m~~widget_attack~ pas jatuh buat ngebuka parasut.
+	D1B8DE1E	Pilih kacamata malam (*night-vision goggles*) terus pencet ~m~~widget_explicit_NVG~ buat mengaktifkan.
+	D535A2AC	Pencet ~m~~widget_mission_start~ buat pake kartu akses.
+HE8_AA	87E3B7E5	Carl, lu bisa denger suara gue aman?
+HE8_AB	1EEAE65F	Kenceng dan jelas, bro!
+HE8_AC	69EDD6C9	Oke, kita lagi di jalan pake truk lapis baja.
+HE8_AD	F789436A	Sip, gue bakal mulai bergerak nih!
+HE8_BA	ACCEE426	Oke, ini saatnya. Tampil santai, Carl, tampil santai.
+HE8_BB	35C7B59C	Woy, gue santai kok!
+HE8_BC	42C0850A	Lu yakin? Suara lu kedengeran agak tegang menurut gue!
+HE8_BD	DCA410A9	Gue santai, oke?
+HE8_BE	ABA3203F	Oke, oke!
+HE8_BF	32AA7185	Sekarang, jalan menuju ke pintu khusus staf.
+HE8_CA	B5D5D567	Belum pernah ngeliat lu di sekitaran sini sebelumnya. Orang baru lu?
+HE8_CB	2CDC84DD	Yoi, gue, eerr nggantiin Jerry, dia lagi sakit.
+HE8_CC	5BDBB44B	Siapa si Jerry?
+HE8_CD	C5BF21E8	Diem lu.
+HE8_CE	B2B8117E	Apaan?
+HE8_CF	2BB140C4	Gue... kayaknya gue ketularan batuknya si Jerry deh
+HE8_DA	FA9443A0	Oke, kita udah masuk ke dalam!
+HE8_DB	639D121A	Mantap. Tujuan berikutnya, ruang generator cadangan.
+HE8_DC	149A228C	Harusnya tepat di bawah tangga terus lurus aja.
+HE8_DD	8AFEB72F	Posisinya turun satu lantai.
+HE8_EA	E38F72E1	Sip, gue udah di dalam Ruang Generator.
+HE8_EB	7A86235B	Oke, kisi-kisi ventilasi ada di dinding belakang.
+HE8_EC	0D8113CD	Lempar gasnya ke dalam salah satu saluran itu.
+HE8_ED	93E5866E	Siap, paham.
+HE8_FA	C8A22122	(Suara batuk/tersedak sama ambruk pas mereka jatuh ke lantai)
+HE8_FB	51AB7098	Kita kagak bakal tau itu berhasil atau kagak sampe kita nyampe bawah sana!
+HE8_FC	26AC400E	Yoi, ya udah, kagak usah terlalu dipikirin.
+HE8_FD	B8C8D5AD	Sekarang kita punya jadwal ketat yang kudu ditepatin!
+HE8_FE	CFCFE53B	Jalan ke pintu keamanan terus pake kartu aksesnya Millie!
+HE8_GA	D1B91063	Sip, gue udah berhasil lewat!
+HE8_GB	48B041D9	Oke bagus, gue udah meretas protokol penerangan darurat mereka.
+HE8_GC	3FB7714F	Gue bakal meledakin bom yang lu pasang di bendungan.
+HE8_GD	A1D3E4EC	Bismillah/Bismillah moga berhasil...
+HE8_GE	D6D4D47A	Wah! Gue kagak nyangka itu beneran berhasil!
+HE8_GF	4FDD85C0	Gue kagak bisa ngeliat apa-apa bangsat!
+HE8_GG	38DAB556	Lu yakin alat-alat ini bakal berfungsi?
+HE8_GH	A865A8C7	Carl, tolonglah! Tinggal tekan aja sakelarnya.
+HE8_GJ	466BC9EB	Sip!
+HE8_HA	56210CAC	Kita udah di area servis. Siapa aja tolong buka pintu bangsat ini!
+HE8_HB	CF285D16	Turun ke bawah menuju area servis!
+HE8_JA	64176E2E	Oke, listriknya udah kita matikan, yang artinya pintu gerbangnya kagak terkunci.
+HE8_JB	FD1E3F94	Tapi sekarang lu harus ngangkat pintunya sendiri.
+HE8_JC	8A190F02	Santai, gue punya ide buat hal itu.
+HE8_KA	7D0C5F6F	Kerja bagus, Carl.
+HE8_KB	E4050ED5	Sekarang waktunya buat kita ngelakuin bagian kita!
+HE8_KC	93023E43	Coba tetep bergerak deketan!
+HE8_KD	0D66ABE0	Oke tim, gue udah mempelajari denah tempat ini jadi gue paham luar dalam.
+HE8_KE	7A619B76	Semuanya ikutin gue!
+HE8_KF	E368CACC	Bangsat! Para keparat licik itu udah ngerubah denahnya!
+HE8_KG	946FFA5A	Gausah khawatir, biar gue yang memimpin di depan, bos.
+HE8_KH	04D0E7CB	Ide bagus, semuanya ikutin dia!
+HE8_LA	324DC9A8	Dikit lagi nyampe, tetep waspada.
+HE8_LB	AB449812	Woy, baru aja gue mau ngomong gitu!
+HE8_LC	DC43A884	Sori bos!
+HE8_LD	42273D27	Dikit lagi nyampe, semuanya!
+HE8_LE	35200DB1	Tetep waspada!
+HE8_LF	AC295C0B	Oh yoi, tetep waspada!
+HE8_MA	2B56F8E9	Oke, kita bakal memasang bomnya pas lu ngejaga pintunya!
+HE8_MB	B25FA953	Siap, bos!
+HE8_MC	C55899C5	Woy, serahin ke gue!
+HE8_NA	007BAB2A	Buru-buruan bapak-bapak, mereka curiga ada yang kagak beres.
+HE8_NB	9972FA90	Ada orang lain yang masuk ke dalam sistem!
+HE8_NC	EE75CA06	Woy ada masalah apaan?
+HE8_ND	70115FA5	Seseorang lagi nyoba nyalain lagi generator darurat!
+HE8_NE	07166F33	Gue bakal balik ke atas menuju ruang generator terus mematikan mereka selamanya!
+HE8_OA	19609A6B	Tunggu sebentar, ini si Berkley! Itu pasti dia, gue tahu pasti!
+HE8_OB	8069CBD1	Apaan?
+HE8_OC	F76EFB47	Carl, gue paham taktik musuh bebuyutan gue!
+HE8_OD	690A6EE4	BERKLEY LU KEPARAT BANGSAT!
+HE8_OE	1E0D5E72	Berhenti teriak-teriak di kuping gue kenapa!
+HE8_OF	87040FC8	Sori.
+HE8_OG	F0033F5E	Jadi Berkley mikir dia bisa mengalahkan retasan sang master, hah?
+HE8_OH	60BC22CF	Gue bakal pake peretas miliknya sendiri terus membalikkan balik ke jalurnya!
+HE8_OJ	8EB243E3	Ah, terserah lu dah bro, urus aja tuh orang bego!
+HE8_OK	F9B57375	Oke - gue bakal balik ke atas menuju ruang generator terus mematikan mereka selamanya!
+HE8_PA	D43A94F5	Ha, Berkley! Gimana rasanya mencicipi kode heksadesimal buatan lu sendiri!
+HE8_PB	4D33C54F	Lu udah dapet dia?
+HE8_PC	3A34F5D9	Carl, ini pertarungan antara dua raksasa pemrogram kode.
+HE8_PD	A450607A	Kek dua monster nuklir raksasa yang menginjak-injak kota di bawah kakinya,
+HE8_PE	D35750EC	kita bertarung memperebutkan kekuasaan atas bumi yang kecil dan lemah ini.
+HE8_PF	4A5E0156	Gimana ceritanya si Berkley bisa tahu lu mau ngelakuin ini semua?
+HE8_PG	3D5931C0	Yaa, gue-, um... No comment.
+HE8_PH	ADE62C51	Jawab gue jujur, Zero.
+HE8_PJ	43E84D7D	NO COMMENT!
+HE8_QA	CD21A5B4	Semuanya berlindung!
+HE8_QB	5428F40E	Awas ledakan!
+HE8_QC	232FC498	Oh tai! Gue harus lari ke mana nih? Ke mana gue harus lari?
+HE8_RA	E60CF677	Oke kawan-kawan, angkut duit tunainya!
+HE8_RB	7F05A7CD	Carl, lu kedatangan para pengawal gorilla Mafia yang lagi turun ke ruang brankas sama-
+HE8_RC	0802975B	TERKUTUKLAH LU BERKLEY, TERKUTUKLAH LU!
+HE8_RD	966602F8	Oke kalo gitu, kita bakal kedatangan tamu nih!
+HE8_RE	E161326E	Gue bareng lu, CJ!
+HE8_SA	FF17C736	Woozie, gimana perkembangannya?
+HE8_SB	661E968C	Kita dikit lagi kelar, CJ!
+HE8_TA	B05651F1	Oke tim, persis kek yang kita latih, berdua-dua.
+HE8_TB	295F004B	Aduh, memek!
+HE8_TC	5E5830DD	Lupakan rencana itu! Semuanya ikutin Carl!
+HE8_TD	C03CA57E	Semuanya ikutin Carl!
+HE8_TE	B73B95E8	Kita ada masalah nih!
+HE8_TF	2E32C452	Di depan, bantai mereka!
+HE8_TG	5935F4C4	Mereka ada di depan, robohin mereka!
+HE8_TH	C98AE955	Awasin sebelah kanan kita!
+HE8_TJ	27848879	Para tahi ada di sebelah kanan!
+HE8_TK	5083B8EF	Petugas keamanan di sebelah kiri kita!
+HE8_TL	CEE72D4C	CJ! Tungguin!
+HE8_TM	B9E01DDA	CJ! Lindungin kita!
+HE8_UA	A94D60B0	Gue udah menurunkan motor-motor polisinya.
+HE8_UB	3044310A	Semuanya masuk! Kalian berdua, ganti baju pake seragam polisi kalian!
+HE8_UC	4743019C	Woy, Zero, gimana soal si Berkley?
+HE8_UD	D927943F	Oh, kagak usah khawatir soal Berkley, dia udah dibikin berdarah-darah dari lubang aksesnya.
+HE8_UE	AE20A4A9	Sampai ketemu di titik kumpul, Carl!
+HE8_UF	3729F513	Semoga beruntung!
+HE8_UG	402EC585	Lu juga!
+HE8_VA	82603373	Oke, CJ, lu berjuang sendiri sekarang!
+HE8_VB	1B6962C9	Waktunya nunjukin ke para bajingan ini apa yang terjadi!
+HE8_VC	6C6E525F	Carl, mau gue pandu arah jalan menuju ke atap gedung?
+HE8_VD	F20AC7FC	Apa aja yang bisa ngebantu dah, bro!
+HE8_WA	9B7B0232	Oh, apa yang terjadi?
+HE8_WB	02725388	Terkutuklah lu Berkley, terkutuklah lu!
+HE8_WC	7575631E	Ah ayolah bro, ngomong sama gue!
+HE8_WD	EB11F6BD	Oh tai, uh, oke, oke, lu harus balik lagi ke lantai area permainan judi.
+HE8_WE	9C16C62B	Sekarang jalan ngelewatin kasino menuju ke lift di sisi seberang.
+HE8_WF	051F9791	Naik lift terus sampe ke atap gedung.
+HE8_XA	1CE31EFD	Gue dapet lu sekarang, keparat!
+HE8_XB	85EA4F47	Kita udah memojokkan dia sekarang!
+HE8_XC	F2ED7FD1	Mau lari ke mana lagi lu sekarang?
+HE8_YA	05F82FBC	Astaga tahi dia nekat melompat!
+HE8_YB	9CF17E06	Astaga ngentot, dia nekat melompat!
+HE8_YC	EBF64E90	Ngapain sih tuh orang bangsat?
+HE8_ZA	2ED57C7F	Zero, di mana lu sembunyi?
+HE8_ZB	B7DC2DC5	Gue kagak bermaksud ngasih tau Berkley, itu cuma kagak sengaja terucap aja... gitu doang.
+HE8_ZC	C0DB1D53	Woy, kagak masalah, kita udah berhasil ngelakuinnya, kasino Caligula's udah berhasil dikuras habis!
+HE8_ZD	5EBF88F0	Yoi, gue bakal minum-minum buat ngerayain itu!
+HE8_ZE	29B8B866	Woy, siapa lu?
+HE8_ZF	B0B1E9DC	Noh ada penyusupnya!
+HE8_ZG	C7B6D94A	Noh dia, sergap dia!
+HE8_ZH	5709C4DB	Nah itu target kita!
+HE8_ZJ	B907A5F7	Hentikan dia, sekarang juga!
+HM9_10	0712A31D	~s~Pergi ke ~y~lift servis~s~ - ingat, lu itu umpan pengalih perhatian!
+HM9_12	E91CC231	~s~Cari ~y~pintu kartu akses ~s~terus buka.
+HM9_13	9E1BF2A7	~r~Lu bego banget ngancurin forklif, satu-satunya cara buat ngebuka pintu besi rol!
+HM9_14	007F6704	~s~Buka ~y~pintu besi rol~s~.
+HM9_15	77785792	~r~Mobil van-nya udah ngilang, kagak ada cara lain buat mengangkut uangnya.
+HM9_1A	2010E2B7	WAKTU
+HM9_1B	B919B30D	~r~Lu kehabisan waktu.
+HM9_1C	CE1E839B	~s~Lu punya waktu ~1~ menit buat ngambil uang terus balik!
+HM9_1D	507A1638	~s~Lu punya waktu ~1~ menit buat ngemasukin tim ke dalam!
+HM9_1E	277D26AE	~s~Ikutin ~b~tim ~s~turun ke ruang brankas.
+HM9_1F	BE747714	~s~Balik terus bantai sisa petugas ~r~keamanan~s~ yang tersisa.
+HM9_1G	C9734782	~s~Ingat buat tetep bergerak deketan sama tim
+HM9_1H	59CC5A13	~s~Terjun parasut terus kabur pake ~b~helikopter~s~.
+HM9_1J	B7C23B3F	~s~Kabur menuju ke ~y~rumah aman~s~.
+HM9_2	E66E558E	~s~Cari terus buka ~y~pintu kartu akses~s~!
+HM9_21	5B38C048	~s~Bersihin koridor dari petugas ~r~keamanan ~s~biar tim bisa nyampe ke brankas.
+HM9_22	C23191F2	~s~Hancurin ~g~generator~s~ cadangan!
+HM9_23	B536A164	~s~Masuk balik ke dalam ~b~Forklif~s~!
+HM9_24	2B5234C7	~s~Ketuk dua kali bagian tengah layar pas jatuh buat ngebuka parasut.
+HM9_25	5C550451	~s~Susuri atap gedung terus ambil ~g~parasut~s~.
+HM9_26	C55C55EB	~s~Naik lift terus pergi ke atap gedung!
+HM9_28	22E478EC	~s~Masuk ke dalam ~y~Kasino Mafia~s~!
+HM9_29	55E3487A	Ketuk ~m~~widget_mission_start~ buat pake kartu akses.
+HM9_34	32490586	~s~Cari ~y~ventilasi ~s~buat meracun gas para penjaga.
+HM9_35	454E3510	~s~Lempar kaleng gas racun ke dalam ~y~Ventilasi~s~.
+HM9_36	DC4764AA	Racun gas para penjaga dulu!
+HM9_37	AB40543C	~r~Para penjaga ngeliat lu terus memicu alarm.
+HM9_40	7A655758	~s~Turun ke bawah terus cek kondisi ~b~tim~s~!
+HM9_44	7D089341	Tim lagi diserang, harusnya lu ngelindungin mereka!
+HM9_45	0A0FA3D7	~s~Pergi ke ~y~atap gedung~s~!
+HM9_48	74BEDF6A	~r~Lu bego banget ngebuang-buang semua granat!
+HM9_49	03B9EFFC	Pilih kacamata malam (*night-vision goggles*) terus ketuk ~m~~widget_explicit_NVG~ buat mengaktifkan.
+HM9_5	780AC02D	~s~Pake forklif buat ngebuka ~y~pintu besi rol~s~.
+HM9_51	1479568F	~s~Lu butuh sesuatu yang gede buat ngangkat pintu ini ke atas.
+HM9_52	8D700735	~r~Penyamaran lu terbongkar, batalkan misi!
+HM9_53	FA7737A3	Dorong ~m~~widget_auto_hydraulics~ buat ngangkat pintunya.
+HM9_54	6413A200	Hindarin memancing perhatian di dalam kasino atau penyamaran lu terbongkar
+HM9_55	13149296	Lu tau aturannya dilarang membawa senjata di dalam kasino
+HM9_56	8A1DC32C	~s~Tim butuh bantuan lu di ~y~Brankas~s~.
+HM9_57	FD1AF3BA	~s~Bantai para ~r~Mafia ~s~selagi tim ngambil uang tunainya.
+HM9_58	6DA5EE2B	~s~Masuk ke dalam ~y~Brankas~s~.
+HM9_60	485335DA	~r~Lu ngancurin motor polisi!
+HM9_61	3F54054C	~s~Pergi ke ~y~van~s~.
+HM9_62	A65D54F6	~r~Woozie tewas
+HM9_63	D15A6460	~r~Zero tewas
+HM9_8	06BBBC90	~s~Pimpin ~b~tim ~s~dengan selamat balik ke van.
+HM9_9	71BC8C06	~r~Lu gagal ngelindungin kawan-kawan lu!
+HM9_99	B61791B1	~s~Simpen senjata lu sampe lu ngelewatin pintu khusus staf!
+HM9_A	2F627508	~s~Tunggu ~b~tim ~s~dateng.
+HM9_PK	BC23514F	~s~Ambil ~g~bom tempel (satchel charge)~s~!
+HM9_X	4B09DDC8	~s~Terjun parasut terus kabur menuju ~y~rumah aman~s~.
+HST8A00	EFA6392B	Kita semua aman kan?
+HST8A01	98A109BD	Yoi kita aman.
+HST8A02	01A85807	Sip, ntar gue temuin lu di pintu belakang. Ayo gaskan!
+WUZX_AK	CB34110A	Mending lu anterin gue pulang, CJ!
+WUZX_BR	8472EA09	Woy, CJ, tenang dulu!

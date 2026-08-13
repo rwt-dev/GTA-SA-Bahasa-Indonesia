@@ -1,0 +1,78 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+DES1@00	33634B74	Carl, sayang, selamat datang.
+DES1@01	44647BE2	Selamat datang pantek, bro.
+DES1@02	DD6D2A58	Apa yang kamu tahu soal keluargaku?
+DES1@03	AA6A1ACE	Sekarang pertama-tama kita harus lihat seperti apa kemampuanmu.
+DES1@04	340E8F6D	Kira-kira aku kelihatan terbuat dari apa? Puding?
+DES1@05	4309BFFB	Bukan — kemarahan, dan kebencian. Dan itulah yang aku suka darimu.
+DES1@06	DA00EE41	Ada truk di garasi.
+DES1@07	AD07DED7	Bagaimana kalau kita mencobanya jalan-jalan sebentar.
+DES1_10	3D029E78	~s~Masuk ke dalam ~b~truk monster~s~.
+DES1_11	4A05AEEE	~r~Bagaimana kamu mau balapan kalau nggak pakai truk!
+DES1_25	66453934	~s~Kamu punya waktu ~1~ detik ~n~ untuk kembali ke dalam ~b~truk~s~.
+DES1_26	FF4C688E	~s~Kamu punya waktu ~1~ detik ~n~ untuk kembali ke dalam ~b~truk~s~.
+DES1_27	884B5818	~r~Kamu sudah terlalu lama keluar dari truk!
+DES1_28	18F44589	~r~Waktumu habis!
+DES1_32	E13A9DD6	~1~:0~1~ — Mari kita bandingkan waktumu...
+DES1_33	963DAD40	~1~:~1~ — Mari kita bandingkan waktumu...
+DES1_34	085938E3	Monster
+DES1_43	D97C3B87	~r~Kamu merusak truknya!
+DES1_44	4718AE24	~s~Capai ~r~titik pemeriksaan (checkpoint)~s~ berikutnya.
+DES1_45	301F9EB2	BEDDOES
+DES1_46	A916CF08	MCMAHON
+DES1_47	DE11FF9E	BOLT
+DES1_48	4EAEE20F	TAYLOR
+DES1_49	39A9D299	WONG
+DES1_50	596E5B7C	CJ
+DES1_51	2E696BEA	~1~.
+DES1_52	B7603A50	PERINGKAT
+DES1_53	C0670AC6	NAMA
+DES1_54	5E039F65	WAKTU
+DES1_58	57B5D34E	~s~Capai ~r~titik pemeriksaan (checkpoint)~s~ pertama.
+DES1_62	9C4D6993	~s~Kamu harus masuk dalam peringkat lima besar.
+DES1_63	EB4A5905	~1~
+DES1_64	752ECCA6	/~1~
+DES1_65	0229FC30	~1~:~1~
+DES1_66	9B20AD8A	~1~:0~1~
+DES1_67	EC279D1C	~1~/~1~
+DES1_68	7C98808D	~r~Kamu gagal masuk lima besar.
+DES1_69	0B9FB01B	~s~Kamu harus mendapatkan waktu yang lebih baik dari ~1~:~1~.
+DES1_70	6B5839FE	~s~Kamu harus mendapatkan waktu yang lebih baik dari ~1~:0~1~.
+DES1_AA	353FA624	Baiklah, Carl, mari kita lihat sedikit inisiatif itu!
+DES1_AB	AC36F79E	Apa-apaan ini — kamu ada di sini juga?
+DES1_AC	DB31C708	Nggak penting di mana aku berada,
+DES1_AD	455552AB	yang penting aku sudah mengawasimu selama beberapa waktu.
+DES1_AE	3252623D	Kamu penguntit (*stalker*) atau apa sih?
+DES1_AF	AB5B3387	Oooh, pas suasana hatiku pas aja.
+DES1_AG	DC5C0311	Sekarang mari kita fokus saja ke tugas yang ada, bagaimana?
+DES1_AH	4CE31E80	Kenapa? Kenapa aku harus melakukan ini?
+DES1_AJ	A2ED7FAC	Karena aku bisa membantumu dan saudaramu.
+DES1_AK	D5EA4F3A	Apa? Kenapa? Bagaimana kamu tahu soal saudaraku?
+DES1_AL	4B8EDA99	'Ba-ba-bagaimana kamu tahu saudaraku?' Kamu mulai kedengaran kayak kaset rusak, Carl.
+DES1_AM	3C89EA0F	Dengar, aku bakal membiarkanmu sendiri supaya bisa menyelesaikan tugas sebaik mungkin
+DES1_AN	A580BBB5	dan kalau kamu lulus penilaian, mungkin, barangkali saja,
+DES1_AO	D2878B23	Bagaimana aku bisa membantumu?
+DES1_AP	5F8F86D6	Halo?
+DES1_AQ	2888B640	Woy, keparat!.... Sial....
+DES1_AR	B181E7FA	Kita bisa saling membantu.
+DES1_BA	1E12F5E7	Begini tawarannya, ini semua soal kecepatan dan komitmen.
+DES1_BB	871BA45D	Ada GPS di dalam kabin. Datangi setiap titik koordinat peta secepat yang kamu bisa.
+DES1_BC	F01C94CB	Datangi semua koordinat lalu bawa truknya kembali ke sini.
+DES1_BD	6E780168	Hilangkan truknya maka kamu gagal.
+DES1_BE	197F31FE	Pertama, apa itu GPS? Kedua, gagal apa?
+DES1_BF	80766044	Sori, ini informasi rahasia yang hanya boleh diketahui yang berkepentingan!
+DES1_BG	F77150D2	Oh, satu hal lagi, kendaraan ini punya penggerak kemudi empat roda (*four-wheel steering*).
+DES1_BH	67CE4D43	Semoga beruntung!
+DES1_BJ	89C02C6F	Dan ketiga, siapa sebenarnya kamu?
+DES1_CA	0709C4A6	Oke, bos memang benar soal kamu!
+DES1_CB	9E00951C	Lumayan juga, aku agak bergairah dibuatnya.
+DES1_CC	E907A58A	Wah, hampir saja lolos dari maut.
+DES1_CD	77633029	Bos bakal segera menghubungi.
+DES1_CE	006400BF	Sori kawan, kamu bukan orang yang dicari oleh bos.
+DES1_CF	996D5105	Keberuntungan.
+DES1_CG	EE6A6193	Lumayan bagus untuk ukuran anak kampung kumuh...

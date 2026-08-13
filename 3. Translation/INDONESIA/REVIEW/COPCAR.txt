@@ -1,0 +1,18 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+C_BREIF	61CA6685	~r~Tersangka ~s~terakhir terlihat di sekitar ~a~.
+C_BREIS	0C17826E	~r~Para tersangka ~s~terakhir terlihat di sekitar ~a~.
+C_CANC	04641C01	~r~Misi Pengabdi Hukum (Vigilante) dibatalkan!
+C_COMP1	A5ABDC48	Misi Pengabdi Hukum level 12 selesai: Rompi Anti-Peluru (Body Armor) maksimal lu bertambah sampai 150%
+C_PASS	A4139808	ANCAMAN~n~DIELIMINASI:~n~~w~$~1~
+C_TIME	05F7D469	~r~Waktu lu sebagai penegak hukum udah habis!
+CLEVEL	6C6DDF20	Misi Pengabdi Hukum Level ~1~
+COPCA_T	78B1FC45	~s~Lu punya waktu ~1~ detik buat balik ke dalam kendaraan polisi sebelum misi berakhir.
+COPCART	CD1F8208	~s~Lu punya waktu ~1~ detik buat balik ke dalam kendaraan polisi sebelum misi berakhir.
+COPLEVL	E57567D0	LEVEL
+COPTIME	A92892FA	WAKTU TERSISA
+KILLS	27CC02EE	PEMBUNUHAN

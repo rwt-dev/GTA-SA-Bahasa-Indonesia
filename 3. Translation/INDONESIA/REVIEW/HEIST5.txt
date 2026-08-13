@@ -1,0 +1,52 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	B25928C7	Pake kontrol gerakan kamera buat ngarahin titik bidik (crosshair). Pencet ~m~~widget_attack~ buat nembak. Pencet ~m~~widget_mission_cancel~ buat keluar.
+	2B50797D	Pencet ~m~~widget_mission_start~ buat pake senapan.
+	C01B0C94	Lu harus melepas jetpack buat pake senapan.
+HE5_AA	75896F38	Woyyy, CJ, lu kagak pernah berhenti bikin gue takjub!
+HE5_AB	EC803E82	Heh heh, mantap bro, Woozie mana?
+HE5_AC	9B870E14	Kagak tau tuh. Dia ngotot mau nyetir ke sini sendiri. Dia bisa aja nyasar di mana tau.
+HE5_AD	05E39BB7	Ha ha, yoi kayaknya. Sip lah bro, gue cabut dulu. Sampai ketemu ntar ya kalian semua.
+HE5_BA	5EA43CFB	Ini area terlarang!
+HE5_BB	C7AD6D41	Harap pergi sekarang juga!
+HE5_BC	B0AA5DD7	Gue kagak bakal memperingatin lu lagi!
+HE5_BD	2ECEC874	GUE BAKAL buka tembakan!
+HM5_1	767DFD50	~s~Curi helikopter dari ~y~pangkalan bahan bakar militer,~s~ gerbang bakal terbuka buat kendaraan militer.
+HM5_10	4DC41CA5	~s~Ambil ~b~van bank~s~.
+HM5_11	3AC32C33	DARAH VAN
+HM5_12	A3CA7D89	~s~Van harus berdiri di atas roda-rodanya!
+HM5_13	D4CD4D1F	~s~Mendaratkan helikopter di ~y~zona yang ditentukan~s~.
+HM5_14	4AA9D8BC	~r~Van-nya kejebak di area yang kagak bisa dijangkau katrol (winch)!
+HM5_16	A4A7B990	~r~Anggota geng Triad tewas!
+HM5_19	3418A401	~s~Curi ~b~helikopternya~s~.
+HM5_2	EF74ACEA	~s~Bawa van bank ke ~y~Kuburan Pesawat~s~ di gurun.
+HM5_20	66E94F66	Ketuk ~m~~widget_mission_start~ buat pake senapan.
+HM5_21	11EE7FF0	Pake kontrol gerakan kamera buat ngarahin titik bidik. Ketuk ~m~~widget_attack~ buat nembak. Ketuk ~m~~widget_mission_cancel~ buat keluar.
+HM5_3	98739C7C	~r~Lu ngancurin helikopternya!
+HM5_6	E81968F3	~s~Mereka ngirim dua ~r~helikopter tempur (gunships)~s~ buat mencegat lu, pake ~y~senapan menara (gun emplacement)~s~ buat ngancurin mereka.
+HM5_7	9F1E5865	~s~Helikopter tempur berhasil dihancurin, pergi ke ~b~helikopter~s~ terus cabut dari sana.
+HM5_8	0FA145F4	~s~Pergi ke depo terus ambil ~b~van bank~s~ pake katrol helikopter.
+HM5_9	78A67562	~r~Lu ngancurin van-nya.
+HST6A00	0F794E18	Oke, motor udah dapet. Terus Woozie udah ngurusin seragam polisinya.
+HST6A01	787E7E8E	Sekarang, kita tinggal dapet van lapis baja (*armored van*)
+HST6A02	E1772F34	terus mengecat ulang pake logo Caligula's Casino.
+HST6A03	96701FA2	Kenapa kagak kita curi aja pas lagi jalan ngeronda?
+HST6A04	08148A01	Pake cara itu kita bisa ngedapetin duit juga kan.
+HST6A05	7F13BA97	Kagak, gue kagak mau tim kita kejebak baku tembak jalanan - bisa berantakan ntar.
+HST6A06	E61AEB2D	Gue... gue punya ide? Um...
+HST6A07	911DDBBB	Lu pada pernah ngeliat helikopter yang biasa dipake ngangkat beban berat kagak?
+HST6A08	01A2C62A	yang dipake ngangkut beban berat lewat udara?
+HST6A09	76A5F6BC	Yoi, mereka nyebutnya 'sky crane' (Cargobob).
+HST6A10	16627F59	Kita bisa ngangkat seluruh truknya terus dibawa ke tempat yang aman.
+HST6A11	61654FCF	Kalo gitu kita kudu mencuri helikopter sky crane.
+HST6A12	F86C1E75	Sayangnya gue bukan pilot.
+HST6A13	8F6B2EE3	Kagak, gue juga bukan.
+HST6A14	110FBB40	Woy, jangan ngeliatin gue.
+HST6A15	66088BD6	Atau gue.
+HST6A16	FF01DA6C	Taik lah. Kalo gitu gue yang bakal terbangin. Kita bisa cat ulang di bandara.
+HST6A17	8806EAFA	Yoi Carl. Ini bakal mirip kek pas lawan Berkley, cuma versi lebih gede aja!
+HST6A18	18B9F76B	Yoi, makasih banyak ya informasinya.

@@ -1,0 +1,57 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+CRV2@00	32426747	Carl! Semoga kami tidak membuatmu menunggu lama, kawan (*holmes*)!
+CRV2@01	454557D1	Nggak, aku tadi cuma santai-santai aja.
+CRV2@02	DC4C066B	Ha, aku yakin iya.
+CRV2@03	AB4B36FD	Mana berkas dokumen (*dossier*) itu? Serahkan ke sini.
+CRV2@04	352FA35E	Hei, semuanya sudah aman, kan?
+CRV2@05	422893C8	Aku nggak tahu, Carl. Eddie?
+CRV2@06	DB21C272	Anak kita sudah bekerja dengan bagus!
+CRV2@07	AC26F2E4	KAU SI PENGKHIANAT KEPARAT!
+CRV2@08	3C99EF75	KAU SI BAJINGAN LATINO (*VATO*)!
+CRV2@09	4B9EDFE3	KAU TELAH MENJUAL KAMI!
+CRV2@10	2B595606	Waktunya menggali kubur, Carl.
+CRV2@11	5C5E6690	Urus saja urusan kalian.
+CRV2@12	C557372A	Hah — kalian mau ke mana?
+CRV2@13	B25007BC	Mau pergi mabok sama cari perempuan — ada masalah dengan itu?
+CRV2@14	2C34921F	Nggak, Frank, santai saja.
+CRV2@15	5B33A289	Bagus. Nanti kutemui kamu lagi di kantor polisi.
+CRV2@16	C23AF333	Dan AKU bakal menemuimu di kehidupan berikutnya, Carl.
+CRV2@17	B53DC3A5	Baiklah, itu bagus — lubangnya sudah cukup dalam buat dua orang.
+CRV2@18	2582DE34	Eddie, Tenpenny cuma memanfaatkanmu, dia memanfaatkan kita semua.
+CRV2@19	5285EEA2	Kau orang berikutnya yang bakal dia lenyapkan, bro.
+CRV2@20	007405C5	Tutup mulut sialanmu, sampah! Dan panggil aku Petugas Pulaski!
+CRV2@21	77733553	Mati saja sana!!
+VCR2__1	B8B60063	~s~Habisi ~r~Pulaski!
+VCR2__2	21BF51D9	~r~Pulaski sedang kabur!
+VCR2__3	56B8614F	~r~Pulaski berhasil kabur!
+VCR2_AA	3CF24E80	Hei Eddie! Kau tahu kan Tenpenny bakal menyingkirkanmu juga!
+VCR2_AB	A5FB1F3A	Carl, kau salah paham seluruhnya, kawan!
+VCR2_AC	D2FC2FAC	Tenpenny adalah orang yang menyelamatkan pantatmu!
+VCR2_AD	4C98BA0F	Setiap kali aku ingin melenyapkanmu, dia selalu punya alasan untuk membiarkanmu tetap hidup!
+VCR2_AE	3B9F8A99	Nah, sekarang semuanya terserah padaku, dan aku bukan orang yang gampang melunak!
+VCR2_BA	17DF1D43	Jadi bagaimana kabar adik perempuanmu?
+VCR2_BB	8ED64CF9	Aku selalu naksir sama dia.
+VCR2_BC	F9D17C6F	Tenpenny dan aku punya beberapa foto bagus saat dia dan pacar gangsternya (*varrio*) bermesraan layaknya sepasang Chihuahua yang sedang birahi.
+VCR2_BD	67B5E9CC	bermesraan layaknya dua ekor Chihuahua birahi.
+VCR2_BE	10B2D95A	Bro, dia itu melayani di atas ranjang seperti profesional!
+VCR2_BF	89BB88E0	Persetan denganmu Pulaski!
+VCR2_BG	FEBCB876	Aku tahu apa yang sedang kauoba lakukan, dan kau tidak bakal bisa meracuni pikiranku.
+VCR2_BH	6E03A5E7	Aku tidak main-main!
+VCR2_BJ	800DC4CB	Itu pengintaian terbaik yang pernah kulakukan!
+VCR2_CA	0EC42C02	Carl, kau seharusnya melihat ibumu sebelum dia dimakamkan.
+CRV2_CB	97CD7DB8	Dia benar-benar hancur — sebagian besar wajahnya terkelupas!
+CRV2_CC	E0CA4D2E	Jangan pernah bicarakan soal Ibuku, keparat!
+CRV2_CD	7EAED88D	Anak-anak buah, kau tahu, mereka mempermainkan jenazahnya di tempat kejadian, tahu sendiri lah...
+CRV2_CE	09A9E81B	... menyentuhnya, bercanda-canda dan semacamnya.
+CRV2_CF	90A0B9A1	Persetan denganmu, Pulaski, PERSETAN DENGANMU!
+CRV2_CG	E7A78937	Heh heh heh!
+VCR2_DA	4185BAC5	Sekarang tidak merasa sok hebat lagi, kan?
+VCR2_DB	D88CEB7F	Yoi, ya sudahlah namanya juga nasib... sial...
+VCR2_DC	AF8BDBE9	Ada permintaan terakhir?
+VCR2_DD	31EF4E4A	Ya... bolehkah aku bercinta dengan adik perempuanmu?
+VCR2_DE	46E87EDC	Kau memang bajingan sampai akhir hayat. Bajingan keparat!

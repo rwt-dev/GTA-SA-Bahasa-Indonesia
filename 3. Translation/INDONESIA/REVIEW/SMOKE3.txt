@@ -1,0 +1,126 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+SMK3_1	62817DA9	~s~Nyetir ke ~y~Stasiun Unity~s~.
+SMK3_13	10B8FB27	~r~Lu kehilangan jejak mereka! Lain kali tempel terus keretanya!
+SMK3_14	8EDC6E84	~s~Maju ke sebelah gerbong depan kereta tempat ~r~anggota geng Vagos~s~ berdiri terus usahain tahan posisi di situ. Big Smoke bakal otomatis menembak pas udah masuk jangkauan.
+SMK3_18	876A22AF	~s~Lu ninggalin ~b~Big Smoke~s~ di belakang, balik jemput dia!
+SMK3_19	F06D1239	~s~Masuk balik ke dalam ~b~mobil~w~!
+SMK3_2	FB882C13	~s~Naik ke atas ~b~sepeda motor~s~ bareng Big Smoke, kejar para ~r~anggota geng Vagos~s~ terus bantai mereka!
+SMK3_20	A29CF95E	~r~Mereka berhasil kabur!
+SMK3_21	D59BC9C8	~r~Big Smoke tewas!
+SMK3_22	4C929872	~s~Antar Big Smoke balik ke ~y~rumahnya~s~.
+SMK3_25	D2F60DD1	~s~Tempel terus gerbong depan kereta biar Big Smoke bisa menembak para ~r~anggota geng Vagos~s~.
+SMK3_3	8C8F1C85	~s~Kejar para ~r~anggota geng Vagos~s~ terus bantai mereka!
+SMO3_AA	740C3401	Mau ke mana, Smoke?
+SMO3_AB	ED0565BB	Stasiun Unity.
+SMO3_AC	9A02552D	Lu tau perumpamaan soal domba yang bijak kagak, Carl?
+SMO3_AD	0466C08E	Kagak. Kayaknya gue kagak tau dah.
+SMO3_AE	7361F018	Yaa, lu kudu merhatiin apa yang mau gue omongin nih.
+SMO3_AF	EA68A1A2	Oke dah
+SMO3_AG	9D6F9134	Domba yang bijak menuruti apa katanya, sama cuma makan rumput yang paling hijau,
+SMO3_AH	0DD08CA5	sementara domba yang bego dimakan hidup-hidup sama orang kafir.
+SMO3_AJ	E3DEED89	Lu lagi ngomongin apaan sih?
+SMO3_AK	94D9DD1F	Gue lagi mikir mau masuk ke kementerian agama pas tua ntar.
+SMO3_AL	0ABD48BC	Cuma lagi ngetes-ngetes aja.
+SMO3_AM	7DBA782A	Terserah lu dah.
+SMO3_BA	5F2167C2	Apaan yang lagi kita cari, Smoke?
+SMO3_BB	C6283678	Beberapa anak Vagos lagi ketemuan sama San Fierro Rifa, lagi transaksi bisnis.
+SMO3_BC	B12F06EE	San Fierro?
+SMO3_BD	2F4B934D	Gue kira orang Meksiko Utara kagak pernah mau gaul sama anak jalanan Los Santos.
+SMO3_BE	584CA3DB	Taik, omongan lu ada benernya.
+SMO3_BF	C145F261	Itu keknya mereka!
+SMO3_BG	B642C2F7	Para keparat itu ngeliat kita!
+SMO3_BH	26FDDF66	Kita harus ngejar para bego itu!
+SMO3_CA	463A5683	Ikutin kereta itu!
+SMO3_CB	DF330739	Kejar kereta gila itu, CJ!
+SMO3_CC	A83437AF	Ikutin jalur relnya!
+SMO3_DA	097BC044	Nih motor kagak dirancang buat nahan beban segini berat!
+SMO3_DB	907291FE	Lu sendiri yang badannya makin melar, CJ!
+SMO3_DC	E775A168	Orang-orang kagak bakal nempatin kata "BIG" di nama lu kalo kagak ada sebabnya!
+SMO3_DD	791134CB	Sialan, gue emang udah bongsor dari lahir, bego!
+SMO3_DE	0E16045D	Sebaliknya, lu yang punya masalah sama pola makan!
+SMO3_EA	1060F105	Maju nempel ke mereka CJ, biar gue bisa dapet posisi nembak!
+SMO3_EB	8969A0BF	Deketin gue, CJ. Gue mau meletupkan para bego ini.
+SMO3_EC	FE6E9029	Majuin nih motor, bro gue mau membantai para bego ini, bro.
+SMO3_FA	3B4DA2C6	Oh bangsat! Kereta dari arah berlawanan!
+SMO3_FB	A244F37C	Kereta, CJ, kereta!
+SMO3_FC	D543C3EA	Awas bangsat, CJ! Ada kereta!
+SMO3_GA	22569387	Sialan, tuh bocah bakal boker ginjal seminggu penuh!
+SMO3_GB	BB5FC23D	Bro, dia kagak bakal bisa makan apa-apa buat sementara waktu.
+SMO3_GC	CC58F2AB	Satu keparat Vagos tewas!
+SMO3_HA	A5CE8F48	Ambil jalur tinggi di sebelah kanan, CJ!
+SMO3_HB	3CC7DEF2	Tetep di kanan, bawa kita naik selevel sama mereka!
+SMO3_HC	4BC0EE64	Ambil posisi tinggi di sebelah kanan, CJ! Di sebelah kanan!
+SMO3_JA	97F8EDCA	CJ, Tahan kita tetep di atas sini.
+SMO3_JB	0EF1BC70	Ikutin penyeberangannya, CJ!
+SMO3_JC	79F68CE6	Lompat, bego! Lompat!
+SMO3_KA	8EE3DC8B	Smoke! Oh bro...
+SMO3_KB	17EA8D31	Ah sialan, Big Smoke!
+SMO3_KC	60EDBDA7	Smoke, jangan pingsan/mati di depan gue, bro!
+SMO3_LA	C1A24A4C	Carl, bro, lu kagak apa-apa?
+SMO3_LB	58AB1BF6	CJ, bangun, bego!
+SMO3_LC	2FAC2B60	CJ! CJ, lu bisa denger gue kagak?
+SMO3_MA	D8B97B0D	Sialan, lu kehilangan jejak mereka CJ!
+SMO3_MB	41B02AB7	Kita mengacaukan semuanya!
+SMO3_MC	36B71A21	Satu-satunya hal yang perlu kita lakuin cuma mengejar kereta api bangsat itu, CJ!
+SMO3_NA	F39428CE	Sialan! Itu dia yang kita mau!
+SMO3_NB	6A9D7974	Bro, liat tuh tumpukan uangnya!
+SMO3_NC	1D9A49E2	Sh-ha ha ha! Ambil sesuka hati lu sayang! Ambil sesuka hati lu sayang!
+SMO3_ND	83FEDC41	Persetan lah, para psikopat itu kagak bakal berhenti sampe kita tewas!
+SMO3_OA	EA8F198F	Itu dia yang kita incar!
+SMO3_OB	73864835	Mereka nyerahin barangnya!
+SMO3_OC	048178A3	Ini dia incaran kita!
+SMO3_PA	27D51711	Woy, gue harus bawa barang ini balik ke rumah gue!
+SMO3_PB	BEDC46AB	Ayolah CJ, ayo kita balik ke tempat gue.
+SMO3_PC	C9DB763D	Woy, ayo kita cabut dari sini sebelum polisinya dateng, bro.
+SMO3_QA	3ECE2650	Kenapa Tenpenny mau paket itu?
+SMO3_QB	A7C777EA	Siapa-penny?
+SMO3_QC	D0C0477C	Jangan bohongin gue, Smoke!
+SMO3_QD	4EA4D2DF	Carl, bro, ada sesuatu dari diri lu bro, semacam
+SMO3_QE	39A3E249	Smoke, kapan lu mau berhenti sama omong kosong aneh ini?
+SMO3_QF	A0AAB3F3	Kenyataannya Carl, kita semua tersesat pas lu pergi,
+SMO3_QG	D7AD8365	tapi sekarang kita terselamatkan lagi.
+SMO3_QH	47129EF4	Ada apaan di dalam paket itu, Smoke?
+SMO3_QJ	A91CFFD8	Masalahnya itu, terlalu banyak 'orang terpilih' yang terbunuh sebelum waktunya, bro.
+SMO3_QK	DE1BCF4E	Kalo kehidupan setelah kematian artinya tenang dari omong kosong lu, kayaknya gue udah siap.
+SMO3_QL	407F5AED	Ada apaan di dalam paket bangsat itu, Smoke? Kagak usah banyak bacot lagi!
+SMO3_QM	37786A7B	Gue kagak tahu, bro.
+SMO3_QN	AE713BC1	Gue cuma lagi nyoba ngebantu para opsir ini menjaga jalanan tetep bersih, bro.
+SMO3_QO	D9760B57	Gue kagak percaya sama mereka.
+SMO3_QP	547E06A2	Kadang-kadang, rasa percaya itu bukan sebuah pilihan, bro.
+SMO3_QR	BA70678E	aura aneh gitu, bro.
+SMO3_RA	15E37593	Apa dari dulu emang udah kayak gini?
+SMO3_RB	8CEA2429	Apaannya yang dari dulu emang udah kayak gini?
+SMO3_RC	FBED14BF	Selalu hancur berantakan di sekitaran sini. Atau gara-gara narkoba?
+SMO3_RD	6589811C	Menurut lu gimana, bro?
+SMO3_RE	128EB18A	Gue kagak tahu. Makanya gue nanya ke lu.
+SMO3_RF	8B87E030	Yo, eh eh, jangan nanya ke orang bijak, kawan. Nanyanya ke orang bego.
+SMO3_RG	FC80D0A6	Lah itu yang lagi gue lakuin dari tadi.
+SMO3_RH	6C3FCD37	Yaa, kalo lu mau membawa masalah ini ke ranah pribadi, gue kagak bakal mau ngomongin hal ini lagi.
+SMO3_SA	0CF844D2	Woy, mending lu pergi cabut dari sini, CJ.
+SMO3_SB	95F11568	Gue kagak mau para orang bego C.R.A.S.H. itu nyoba menyeret lu ke dalam masalah!
+SMO3_SC	E2F625FE	Yaudah oke, bro. Lu hati-hati sama tuh orang-orang.
+SMO3_SD	7C92B05D	Ntar gue temuin lu lagi belakangan.
+SMO3A00	7392B366	Woy, Carl, tetap sibuk kan, gue harap.
+SMO3A01	049583F0	Lu kan kenal gue, Opsir Tenpenny.
+SMO3A02	9D9CD24A	Yoi, gue kenal lu, Carl. Gue tahu segalanya soal lu.
+SMO3A03	EA9BE2DC	Bener banget, Carl, mata gue selalu mengawasi lu.
+SMO3A04	74FF777F	Ada apaan tuh tadi, sayang?
+SMO3A05	03F847E9	Lu yang kasih tau gue.
+SMO3A06	9AF11653	Ah keparat lah, bro, mereka selalu ikut campur ke segala hal.
+SMO3A07	EDF626C5	Kagak bisa boker tanpa Tenpenny ikut-ikutan penasaran. Persetan lah sama dia.
+SMO3A08	7D493B54	Yoi, kayaknya emang gitu.
+SMO3A09	0A4E0BC2	Sebenarnya ada apaan nih?
+SMO3A10	6A898227	Woy, gue lagi mikir mau jalan-jalan bentar.
+SMO3A11	1D8EB2B1	Tiga orang tadi membocorkan sedikit informasi
+SMO3A12	8487E30B	yang bisa bikin posisi kita makin kuat di permainan.
+SMO3A13	F380D39D	Sip lah, gue ikut.
+SMO3A14	6DE4463E	Jangan sentuh gue. Jauhin tangan babi lu dari gue...
+SMO3A15	1AE376A8	Terus? Emangnya gue peduli.
+SMO3A16	83EA2712	Kita mengawasi lu, Carl!
+SMO3A17	F4ED1784	Keparat!
+SMO3A18	64520A15	Ayo kita jalanin misi ini, bro.

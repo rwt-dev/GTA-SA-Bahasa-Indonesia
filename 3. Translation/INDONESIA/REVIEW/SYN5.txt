@@ -1,0 +1,86 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+SYN5_01	92613B6B	~s~Naik ke lantai atas dan temui ~b~Cesar~s~.
+SYN5_02	0B686AD1	~s~Bersihkan area atap agar anak-anak Triad bisa maju.
+SYN5_03	7C6F5A47	~s~Masuk ke dalam ~y~pintu~s~ untuk mengakses bagian atap.
+SYN5_04	E20BCFE4	~r~Cesar tewas!
+SYN5_05	950CFF72	~r~Pemimpin Triad tewas!
+SYN5_06	0C05AEC8	~s~Cari dan habisi ~r~T-Bone~s~!
+SYN5_07	7B029E5E	~s~Lompat ke air dan berenang mengejar ~r~Ryder~s~.
+SYN5_08	EBBD83CF	~s~Habisi ~r~Ryder~s~.
+SYN5_09	9CBAB359	~r~Ryder berhasil kabur!
+SYN5_10	FC7D3ABC	~s~Kamu meninggalkan ~b~Cesar~s~ di belakang.
+SYN5_11	8B7A0A2A	~s~Naik ke dalam ~b~speedboat~s~.
+SYN5_12	12735B90	~s~Habisi ~r~Ryder~s~. Kamu bisa melakukan serangan *drive-by* ke kapalnya.
+SYN5_AA	F44002E0	Woy, kawan (*holmes*), aku ada di atas sini. Lewat jalur belakang!
+SYN5_BA	DF6D5123	Halo bro.
+SYN5_BB	46640099	Kerja bagus bisa dapetin pesan telepon itu.
+SYN5_BC	3163300F	Jadi, gimana nasib si Jizzy?
+SYN5_BD	AF07A5AC	Mati. Jadi, apa rencananya?
+SYN5_BE	D800953A	Pasukan pengaman T-Bone datang lebih cepat dari perkiraan.
+SYN5_BF	4109C480	Mereka menempatkan orang di atap-atap buat mengawasi dermaga.
+SYN5_BG	360EF416	Eh.
+SYN5_BH	A6B1E987	Oke, yoi, yoi, yoi, aku lihat kalian.
+SYN5_BJ	48BF88AB	Itu anak buah Woozie, mereka sudah di posisi.
+SYN5_BK	3FB8B83D	Lihat, di dekat pintu masuk samping.
+SYN5_BL	A1DC2D9E	Sial, mereka menuju ke atas atap!
+SYN5_BM	D6DB1D08	Sial!
+SYN5_BN	4FD24CB2	Lihat (*Mira*), kita harus membereskan anak buah T-Bone di atap sebelum situasinya kacau balau!
+SYN5_CA	C6766062	Tembak mereka, CJ, mereka bakal naik ke sana sebentar lagi!
+SYN5_CB	5F7F31D8	Sial, mereka langsung masuk perangkap!
+SYN5_CC	2878014E	Habisi mereka, CJ, mereka lagi di tengah-tengah pertempuran!
+SYN5_CD	B61C94ED	Salah satu anak Triad tumbang!
+SYN5_CE	C11BA47B	Hei, satu lagi anak Mountain Cloud Boy gugur!
+SYN5_CF	5812F5C1	Mereka dibantai habis-habisan, CJ, tembak anak-anak Rifa sialan itu!
+SYN5_DA	8937F6A5	Oh yoi, satu tumbang...
+SYN5_DB	103EA71F	Bagus, CJ, terus habisi anak-anak Rifa itu!
+SYN5_DC	67399789	Tinggal beberapa lagi, kawan (*holmes*)...
+SYN5_DD	F95D022A	Ada lagi di sebelah kanan...
+SYN5_DE	8E5A32BC	Hei, masih ada beberapa di sebelah kiri, CJ...
+SYN5_EA	902CC7E4	Wah, kamu malah membiarkan mereka dihabisi!
+SYN5_EB	0925965E	CJ, ada apa sih? Kamu membiarkan mereka dibantai begitu saja!
+SYN5_EC	7E22A6C8	Kita nggak bisa lanjut tanpa anak buah Woozie, bro...
+SYN5_ED	E046336B	Sampaikan sendiri berita duka itu ke Woozie, kawan (*holmes*).
+SYN5_FA	BB019427	Mantap, CJ!
+SYN5_FB	2208C59D	Ayo kita ke sana dan lihat situasi selanjutnya.
+SYN5_GA	A21AA566	Tembakan yang bagus, CJ.
+SYN5_GB	3B13F4DC	Kita mestinya bisa melihat semuanya dari atas sini.
+SYN5_GC	4C14C44A	Itu T-Bone datang...
+SYN5_GD	D27051E9	Dan itu si ular pengkhianat Ryder.
+SYN5_GE	A577617F	Lihat si bego itu, nongkrong bareng anak-anak Ballas seolah mereka udah temenan seumur hidup.
+SYN5_GF	3C7E30C5	CJ, turunlah ke bawah kalau kamu sudah siap,
+SYN5_GG	4B790053	kami bakal kasih perlindungan dari atas sini.
+SYN5_GH	DBC61DC2	Ada yang nggak beres. Di mana Toreno?
+SYN5_GJ	35C87CEE	Helikopter mendekat!
+SYN5_GK	42CF4C78	Itu pasti Toreno.
+SYN5_GL	DCABD9DB	Oh sial, dia bakal melihat mayat-mayat di atas atap!
+SYN5_GM	ABACE94D	Terlambat, bro, dia panik ketakutan!
+SYN5_GN	32A5B8F7	Gas air mata! Mereka kabur!
+SYN5_GO	45A28861	Turun ke bawah, kami lindungi kamu!
+SYN5_GW	56CE1037	Gagal sudah rencana kejutan, ayo, kita harus habisi para keparat ini sekarang juga!
+SYN5_GX	C6710DA6	Granat asap!
+SYN5_GY	B1763D30	Tunggu sebentar, ada yang nggak beres. Di mana Toreno?
+SYN5_GZ	287F6C8A	Bro, aksiku tadi bener-bener mantap!
+SYN5_HA	2582B9A9	Woy Ryder, si pemadat sialan (*sherm-head*),
+SYN5_HB	BC8BE813	mau ke mana kau sebenarnya?
+SYN5_HC	CB8CD885	A... Aku nggak bisa dihentikan...
+SYN5_HD	55E84D26	Mau diapakan dia, kawan (*holmes*)?
+SYN5_HE	22EF7DB0	Kamu sudah mengkhianati kami, Ryder. Kamu berbuat curang ke kita semua!
+SYN5_HF	BBE62C0A	Aku ini seorang jenius sialan!
+SYN5_HG	CCE11C9C	Aauuuauuughhhh...!
+SYN5_HH	5C5E010D	Mendez, kutahu kau, keparat Rifa!
+SYN5_HJ	B2506021	Yoi, aku bakal balik lagi buat ngurusin kamu, Johnson!
+SYN5_HK	C55750B7	Dia lari menuju ke arah kapal-kapal itu!
+SYN5_HL	5B33C514	Tenang saja, urusan ini kupegang.
+SYN5_JA	17B4DB2B	Woy, itu kapal sialanku!
+SYN5_JB	8EBD8A91	Ya Tuhan, kapalku!
+SYN5_JC	F9BABA07	Berhenti, kau keparat sialan (*pinche bastard*)!
+SYN5_KA	0EAFEA6A	Halo Cesar (*'Sup Cesar*).
+SYN5_KB	97A6BBD0	Kamu nggak apa-apa, kawan (*holmes*), kita ngeliatin dari dermaga pakai teropong binokuler tadi!
+SYN5_KC	E0A18B46	Yoi, aku baik-baik saja, kurasa.
+SYN5_KD	7EC51EE5	Dengar, sebaiknya kalian segera pergi dari sini. Polisi bakal segera mengepung tempat ini dalam sedetik.
+SYN5_KE	09C22E73	Tentu saja, sampai jumpa lagi di bengkel garasi!

@@ -1,0 +1,75 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+ALLRACE	A8C8A814	SEMUA BALAPAN BERHASIL DIMENANGKAN!~n~~w~$~1~
+LAPMTB	A67E4C6F	Catatan Waktu Terbaik Baru ~1~:0~1~
+LAPMTB2	157C5305	Catatan Waktu Terbaik Baru ~1~:~1~
+LAPTIM0	450506D0	Waktu Putaran Terbaik Baru ~1~:0~1~
+LAPTIME	656A8363	Waktu Putaran Terbaik Baru ~1~:~1~
+MTROUT1	B48ADE28	Rute Kuning Scotch Bonnet
+MTROUT2	2D838F92	Birdseye Winder
+MTROUT3	5A84BF04	Cobra Run
+MTWIN1	26DDCD00	Lu menang! Balapan 'Birdseye Winder' sekarang udah terbuka
+MTWIN2	BFD49CBA	Lu menang! Balapan 'Cobra Run' sekarang udah terbuka
+MTWIN3	C8D3AC2C	Lu udah menyelesaikan semua rute buat 'Tantangan Mount Chiliad'
+RACE_21	7A0AB686	~s~Lu punya waktu ~1~ detik buat naik balik ke ~b~kendaraan~s~ lu sebelum didiskualifikasi.
+RACE_49	228B9932	~s~Lu punya waktu ~1~ detik buat turun dari ~b~sepeda~s~ lu terus mulai berlari sebelum didiskualifikasi.
+RACE_51	354B2041	~s~Lu punya waktu ~1~ detik buat naik ke ~b~sepeda~s~ lu sebelum didiskualifikasi.
+RACES_0	D4446A9E	Balapan
+RACES_4	D329AE87	3
+RACES_5	A42E9E11	2
+RACES_6	3D27CFAB	1
+RACES_7	4A20FF3D	GAS!
+RACES_8	DA9FE2AC	Pecundang!
+RACES00	36211DF6	Balapan ~1~
+RACES08	38FA95C4	Waktu Terbaik: ~1~:~1~
+RACES09	4FFDA552	Hasil Terbaik: Ke-1
+RACES10	2F3A2CB7	Hasil Terbaik: Ke-2
+RACES11	583D1C21	Hasil Terbaik: Ke-3
+RACES12	C1344D9B	Hasil Terbaik: Ke-~1~
+RACES13	B6337D0D	Panjang Lintasan: ~1~.~1~ km
+RACES14	2857E8AE	Panjang Lintasan: ~1~.0~1~ km
+RACES15	5F50D838	Waktu Terbaik: Belum Ada
+RACES16	C6598982	Hasil Terbaik: Belum Ada
+RACES17	B15EB914	Panjang Lintasan: ~1~.0~1~ mil
+RACES18	21E1A485	Pemenang!
+RACES20	04177F74	~r~Lu udah didiskualifikasi gara-gara ninggalin kendaraan lu.
+RACES21	73104FE2	~s~Lu punya waktu ~1~ detik buat naik balik ke ~b~kendaraan~s~ lu sebelum didiskualifikasi.
+RACES22	EA191E58	Waktu Terbaik: ~1~:0~1~
+RACES23	9D1E2ECE	Panjang Lintasan: ~1~.~1~ mil
+RACES24	037ABB6D	~r~Lu udah didiskualifikasi gara-gara ngancurin kendaraan lu.
+RACES25	747D8BFB	~r~Lu udah didiskualifikasi dari balapan.
+RACES26	ED74DA41	KE-1
+RACES27	9A73EAD7	KE-2
+RACES28	0ACCF746	KE-3
+RACES29	7DCBC7D0	KE-~1~
+RACES30	1D0C4E35	Posisi:
+RACES31	6A0B7EA3	Waktu:
+RACES32	F3022F19	PUTARAN ~1~/~1~
+RACES33	84051F8F	Pencet ~m~~widget_race_left~ atau ~m~~widget_race_right~ buat milih balapan. Pencet ~m~~widget_store_accept~ Buat Mulai Balapan. Pencet ~m~~widget_store_cancel~ buat keluar.
+RACES34	1A618A2C	~1~.~1~ km
+RACES35	6D66BABA	~1~.0~1~ km
+RACES36	F46FEB00	Jarak Lintasan
+RACES37	8368DB96	Hasil Terbaik
+RACES38	13D7C607	Waktu Terbaik
+RACES39	64D0F691	~1~:~1~
+RACES40	524DD8F2	~1~:0~1~
+RACES41	254AE864	KE-1
+RACES42	BC43B9DE	KE-2
+RACES43	CB448948	KE-3
+RACES44	55201CEB	KE-~1~
+RACES45	22272C7D	Belum Ada
+RACES46	BB2E7DC7	~1~.~1~ mil
+RACES47	CC294D51	~1~.0~1~ mil
+RACES48	5C9650C0	~s~Lu punya waktu ~1~ detik buat turun dari ~b~sepeda~s~ lu terus mulai berlari sebelum didiskualifikasi.
+RACES50	4B56E9B3	~s~Lu punya waktu ~1~ detik buat naik ke ~b~sepeda~s~ lu sebelum didiskualifikasi.
+TIMER	627BE355	WAKTU
+TOP_POS	0945F897	Posisi Terbaik BARU:
+TOPTIME	0B5130BA	Catatan Waktu Terbaik BARU:
+TRAI1	9477B541	Lu dapet hadiah sebesar $~1~
+TRAI2	0D7EE4FB	Lari masuk ke dalam Air terus berenang
+TRAI3	7A79D46D	Naik ke sepeda buat melanjutin balapan
+TRAI4	E41D41CE	Turun dari sepeda terus lari ke titik pemeriksaan (checkpoint) buat melanjutin balapan

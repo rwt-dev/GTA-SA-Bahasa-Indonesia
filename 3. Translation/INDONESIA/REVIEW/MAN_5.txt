@@ -1,0 +1,102 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+BH5A@00	91604FE1	Tahan emosi lu, bro (*sunshine*), lu pasti bisa! Buat gue, ya? Orang Utara bangsat...
+BH5A@01	E6677F77	Jangan, Maccer! Lawan hasrat lu itu!
+BH5A@02	7F6E2ECD	Bayangin... Margaret Thatcher!
+BH5A@03	08691E5B	Lu tau ini udah waktunya gue buat bersinar lagi...
+BH5A@04	960D8BF8	Gue tau, bro. Jadi apaan yang menahan lu?
+BH5A@05	E10ABB6E	Woy, tahan dulu, ini videoklip dia? Gue kudu ngeliat si orang bego ini...
+BH5A@06	7803EAD4	Woy, bro, lu udah bersih (*sober*) sekarang.
+BH5A@07	0F04DA42	Kagak ada yang kudu lu khawatirin lagi.
+BH5A@08	9FBBC7D3	Bro, si LOC palsu bangsat itu!
+BH5A@09	E8BCF745	Loc? Tapi dia kan sampah banget!
+BH5A@10	887B7EA0	Bangsat...
+BH5A@11	FF7C4E36	Gue tau ada hal yang kagak asing sama lirik-lirik rima yang dia bawain.
+BH5A@12	66751F8C	Itu kan dari buku lirik rima gue!
+BH5A@13	11722F1A	Sama itu videoklip gue yang lagi dia garap hari ini.
+BH5A@14	8F16BAB9	Oke, gue saranin kita bikin penampilan dadakan (*cameo*).
+BH5A@15	F8118A2F	Langsung mampir aja, tanpa ngasih tau.
+BH5A@16	6118DB95	Oh, Maccer!
+BH5A@17	161FEB03	Woy, ada apaan, Dogg?
+BH5A@18	86A0F692	CJ, ada apaan, bro? Mantap.
+BH5A@19	F1A7C604	Itu kan duit gue! Sama itu cewek-cewek lonte gue!
+BH5A@20	A3562D63	...Thatcher...Thatcher...Thatcher...Thatcher...Thatcher...
+BH5A@21	D4511DF5	Yoi, itu baru gengster sejati.
+BH5A@22	4D584C4F	Ayolah.
+BH5A@23	3A5F7CD9	- Gue cinta lu, Maggie! Gue cinta lu, Maggie!~n~- Oh, Maccer!
+BH5A@24	A43BE97A	- Aduh, bro!- ~n~Otak lu beneran kagak beres, mate.
+BH5A@25	D33CD9EC	Otak lu beneran kagak beres, mate.
+BH5B@00	83D5E00F	Lu si penipu palsu!
+BH5B@01	F4D2D099	Bro, lu kagak bisa ngebuktiin apa-apa!
+BH5B@02	6DDB8123	Woy, Jeffrey, lu tuh pecundang (*buster*), murni lonte.
+BH5B@03	1ADCB1B5	Lu udah nusuk gue sama abang gue dari belakang.
+BH5B@04	84B82416	Bro, gue ini seniman (*artiste*)! Kita semua pernah bikin kesalahan, yagak si pemabuk?
+BH5B@05	F3BF1480	Lu bukan seniman bangsat! Lu itu pecundang! Lu itu penipu!
+BH5B@06	6AB6453A	Bro, tadinya gue mau mencantumkan nama lu di album berikutnya!
+BH5B@07	1DB175AC	Nih, uang royalti! Ambil tuh! Gue masih punya lebih banyak lagi!
+BH5B@08	8D0E683D	Yoi, lu si penipu! Heh heh heh heh!
+BH5B@09	FA0958AB	Pak Dogg, saya Jimmy Silverman dari Blastin' Fools Records.
+BH5B@10	9ACED14E	Tahan dulu, gue manajernya. Kalo lu mau ngomong, ngomong sama gue.
+BH5B@11	EDC9E1D8	Oh, oke. Senang bertemu kalian, tuan-tuan.
+BH5B@12	74C0B062	Ayo kita ngobrol, oke?. Gue butuh lagu-lagu hits. Maksud gue, lagu hits sejati!
+BH5B@13	03C780F4	Nah sekarang gimana soal orang ini... si penipu ini...
+BH5B@14	9DA31557	Gue ada niatan bagus buat menuntut nih orang sampe tahun depan.
+BH5B@15	EAA425C1	Woy, Loc - pergi beliin kita makan siang sana.
+BH5B@16	73AD747B	Permisi ya gengster - enak aja lu!
+BH5B@17	04AA44ED	Yo. Noh dia lari ke sana tuh.
+BH5B@18	9415597C	Gaskan - sergap tuh orang, bro.
+BH5B@19	E31269EA	Lonte kecil, harusnya gue tampar hancur pantat lu, gue pecahin muka lu di sini sekarang juga, bangsat!
+BH5B@20	B1E3828D	Tolong - jangan pukul gue!
+BH5B@21	C6E4B21B	Keparat, gue hajar pantat lu ntar...
+BH5B@22	5FEDE3A1	Bro, lepasin gue, si pemabuk!
+BH5B@23	28EAD337	Lu yang beli makan siang sana!
+BH5B@24	B68E4694	Bro - cabut dari sini.
+BH5B@25	C1897602	Jangan biarin dia dorong-dorong gue! Jangan dorong-dorong gue...
+MAN5_AA	2C246585	Ayo kita samperin OG Loc,
+MAN5_AB	B52D343F	Liat apa kita bisa ngacauin syuting videonya terus merebut balik royaltinya!
+MAN5_AC	C22A04A9	Sama buku lirik rima gue!
+MAN5_BA	07093646	Kita terbang pake gaya nih, sayang! Lu punya semua bakat jadi manajer hebat, Carl!
+MAN5_BB	9E0067FC	Simpen puji-pujian lu sampe kita ngabisin duit royaltinya Loc!
+MAN5_BC	E907576A	Maksud gue, kasih tau gue gimana ceritanya penipu pecundang kek si Loc tukang jilat itu bisa sukses di industri musik rap, CJ?
+MAN5_BD	7763C2C9	Bisnis musik udah berubah, Dogg.
+MAN5_BE	0064F25F	Sekarang semuanya soal koreografi tarian sama aksi panggung doang.
+MAN5_BF	996DA3E5	Orang bego mana aja bisa dapet kontrak rekaman zaman sekarang.
+MAN5_BG	EE6A9373	Terus gue harus ngapain dong?
+MAN5_BH	7ED58EE2	Dogg, lu punya jiwa/semangat.
+MAN5_BJ	90DBEFCE	Lu punya gaya alami.
+MAN5_BK	E7DCDF58	Ada darah gengster dingin yang mengalir di pembuluh darah lu!
+MAN5_BL	79B84AFB	Siapa aja bisa dapet kontrak rekaman,
+MAN5_BM	0EBF7A6D	tapi cuma seniman sejati yang bisa mengguncang panggung!
+MAN5_BN	97B62BD7	CJ, kawan gue, lu bener-bener manajer alami!
+MAN5_BO	E0B11B41	Ayo kita samperin para pecundang sok hebat itu.
+MAN5_CA	1E120707	Dia lagi diwawancarai, ya?
+MAN5_CB	871B56BD	Oke, ayo kita hancurin acara pesta ini!
+MAN5_DA	515391C0	Lu para penipu bangsat! Anak lonte!
+MAN5_DB	C85AC07A	Balikin buku lirik rima gue!
+MAN5_DC	BF5DF0EC	Balikin kalung rantai gue!
+MAN5_DD	2139654F	Balikin lonte-lonte gue!
+MAN5_EA	4848A081	Dia kabur tuh!
+MAN5_EB	D141F13B	Ayolah, Dogg, ayo kita kejar dia!
+MAN5_F0	4467B2E8	~r~Madd Dogg tewas.
+MAN5_F1	3360827E	~r~Lu kehilangan Madd Dogg sama OG Loc.
+MAN5_F2	AA69D3C4	~r~Lu kehilangan OG Loc.
+MAN5_F3	DD6EE352	~r~Lu ngebunuh OG Loc.
+MAN5_FA	6365F342	Jauh-jauh dari gue!
+MAN5_FB	FA6CA2F8	Gue kira kita berteman!
+MAN5_FC	8D6B926E	Lu itu cuma cerita masa lalu!
+MAN5_FD	130F07CD	Anak-anak zaman sekarang mau Loc! LOC!
+MAN5_FE	6408375B	Madd Dogg bukan siapa-siapa lagi!
+MAN5_FF	FD0166E1	Madd Dogg, lu itu pecundang pemabuk!
+MAN5_FG	8A065677	Anak-anak muda udah kagak mau lu lagi!
+MAN5_FH	1AB94BE6	Kalian berdua udah habis karirnya!
+MAN5_FJ	F4B72ACA	Smoke bakal ngebantai kalian para cewek penakut!
+MAN5_G0	5D7C83A9	~s~Bawa ~b~Madd Dogg~s~ ke ~y~lokasi syuting video~s~.
+MAN5_G1	2A7BB33F	~s~Jangan tinggalkan ~b~Madd Dogg~s~ lu kudu membawa dia ke ~y~lokasi syuting video~s~.
+MAN5_G2	B372E285	~s~Lu kudu membawa ~b~Madd Dogg~s~ ke ~y~lokasi syuting video~s~.
+MAN5_G3	C475D213	~s~Ikutin ~b~Madd Dogg~s~ terus bantu dia ngejar ~r~OG Loc~s~.
+MAN5_G4	5A1147B0	~r~OG Loc~s~ mencoba kabur, jangan biarin dia lolos.
+MAN5_G5	2D167726	~s~Kejar ~r~OG Loc~s~ jangan ampe kehilangan jejak dia.

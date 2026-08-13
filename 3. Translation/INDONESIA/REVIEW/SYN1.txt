@@ -1,0 +1,129 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+MCES10A	7C1CF3DD	CJ.
+MCES10B	E515A267	Kau dapat.
+MCES10C	921292F1	Woy, sepupuku baru saja meneleponku.
+MCES10D	0C760752	Dia memberiku bocoran tentang mobil Ballas yang pergi ke San Fierro buat ngambil kokain (*yay*).
+MCES10E	7B7137C4	Sialan, kita harus mencari tahu siapa yang menyuplai para keparat itu.
+MCES10F	E278667E	Sehati kita, kawan (*holmes*),
+MCES10G	957F56E8	Aku mencegat mereka di Persimpangan Mulholland dan sekarang sedang membuntuti mereka.
+MCES10H	05C04B79	Oke, aku ke sana menyusulmu.
+MCES10J	EBCE2A55	Sebaiknya cepatlah, kawan (*holmes*), anak-anak ini nggak main-main!
+MCES10K	9CC91AC3	Aku punya ide — aku bakal ke sana sebentar lagi.
+SYN1_01	1D03AC3C	~s~Pergi dan curi sebuah mobil.
+SYN1_02	840AFD86	~s~Pergi dan jemput ~b~Cesar~s~.
+SYN1_03	F30DCD10	~s~Lacak keberadaan ~r~mobil Ballas~s~ itu.
+SYN1_04	6D6958B3	~s~Potret ~r~wajahnya~s~!
+SYN1_05	1A6E6825	~s~Perbesar kamera lebih dekat.
+SYN1_06	8367399F	~r~Cesar tidak selamat.
+SYN1_07	F4600909	~s~Masuk ke dalam ~b~mobil~s~.
+SYN1_08	64DF1498	~r~Kamu menghancurkan mobilnya!
+SYN1_09	13D8240E	~r~Kamu tidak berhasil mengambil fotonya!
+SYN1_10	731FADEB	~s~Ambil foto ~r~wajahnya~s~!
+SYN1_11	04189D7D	~s~Dapat! Perhatikan target berikutnya!
+SYN1_12	9D11CCC7	~s~Potret wajah setiap target, tapi cepatlah dan pastikan untuk memperbesar kameranya!
+SYN1_13	EA16FC51	~s~Pergilah ke ~y~Angel Pine~s~.
+SYN1_14	747269F2	~s~Naiklah ke atas ~y~atap~s~.
+SYN1_15	03755964	~s~Masuk ke dalam mobil ~b~Cesar~s~.
+SYN1_44	09059DB7	~m~~widget_zoom_in~ Perbesar. ~m~~widget_zoom_out~ Perkecil.
+SYN1_AA	7B2295B7	Woy, kamu siapa?
+SYN1_AB	E22BC40D	Eh, Petugas Inspeksi Helm.
+SYN1_AC	952CF49B	Eh, kamu lihat itu? Coba lihat ke sebelah sana!
+SYN1_AD	0B486138	Di mana?
+SYN1_AE	7C4F51AE	Di situ!
+SYN1_AF	E5460014	Aduh! Ooomph!
+SYN1_BA	500FC674	Eh, Cesar, aku lagi menuju ke arahmu, posisi di mana?
+SYN1_BB	C90697CE	Lagi nongkrong di pinggir jalan tol sebelah Selatan Blueberry!
+SYN1_BC	BE01A758	Mereka memergokiku dan menembak hancur mobilku!
+SYN1_BD	206532FB	Baiklah, tunggu sebentar, aku bakal ke sana dalam sedetik!
+SYN1_CA	4914F735	Oke, anak manis, permainan sudah berakhir!
+SYN1_CB	D01DA68F	Kuharap itu moncong pistol di belakang kepalaku, dan bukan benda lain.
+SYN1_CC	A71A9619	Nggak, aku cuma senang banget bisa melihatmu!
+SYN1_CD	397E03BA	Mendaratkan benda ini!
+SYN1_DA	065561F2	Nikmati jalan kakinya, keparat!
+SYN1_EA	1F4E50B3	Wah! Kawan (*Holmes*)! Aku nggak tahu kalau kamu bisa nerbangkan pesawat!
+SYN1_EB	86470109	Aku nggak bisa. Aku lagi belajar, cepat masuk.
+SYN1_FA	34630370	Ada orang lagi tidur di bagian belakang nih, eh.
+SYN1_FB	AD6A52CA	Yoi. Biarkan saja dia, sepertinya dia bakal baik-baik saja.
+SYN1_FC	DA6D625C	Kita mau ke mana?
+SYN1_FD	4409F7FF	Mereka tadi menuju ke arah Angel Pine. Ikuti jalannya dan mungkin kita bisa menyusul mereka!
+SYN1_GA	2D783231	Kawan (*Holmes*), orang ini mulai bangun!
+SYN1_GB	B471638B	Aku sudah bangun sejak tadi, mendaratkan pesawat ini!
+SYN1_GC	C376531D	Bro, dia bawa pistol, kita sebaiknya mendarat...
+SYN1_HA	AAE02EFE	Persetan kalian semua!
+SYN1_HB	33E97F44	Sialan, aku kabur dari sini!
+SYN1_IA	B3FB1FBF	Itu dia, kawan (*holmes*)!
+SYN1_IB	2AF24E05	Nih, aku bawa kamera.
+SYN1_IC	5DF57E93	Entahlah, bro (*ese*), keliatannya rumit banget...
+SYN1_ID	C391EB30	Pegang kendalinya kalau begitu, biar aku yang ambil fotonya!
+SYN1_IE	B496DBA6	CJ! Ya ampun, ini malah jauh lebih rumit!
+SYN1_IF	2D9F8A1C	Tetap pegang kemudinya dengan stabil dan jangan sampai jatuh!
+SYN1_JA	98D64C7C	Pertemuan yang cukup meriah di bawah sana.
+SYN1_JB	01DF1DC6	Orang-orang ini kelihatan terorganisir.
+SYN1_JC	76D82D50	Anak-anak Latino (*cholos*) dari teluk atas — dari San Fierro, sepertinya.
+SYN1_JD	E8BCB8F3	Mereka bawa senjata berat;
+SYN1_JE	9FBB8865	MAC, Uzi, senapan laras panjang — orang-orang ini punya koneksi kuat.
+SYN1_JF	06B2D9DF	Perhatikan pria berbadan besar itu, kawan (*holmes*).
+SYN1_JG	71B5E949	Itu T-Bone Mendez.
+SYN1_JH	E10AF4D8	Dia pernah dipenjara karena menyelundupkan tar hitam dari Meksiko.
+SYN1_JI	960DC44E	Membunuh dua orang di dalam penjara, punya dendam kesumat sama anak-anak latino kita.
+SYN1_JJ	0F0495F4	Sialan, Ryder — si bego pemadat peler (*sherm-head*)!
+SYN1_JK	7803A562	Ya ampun, ternyata benar, anak-anak Ballas mengendalikan Families!
+SYN1_JL	E66730C1	T-Bone sedang merencanakan sesuatu...
+SYN1_JM	91600057	Lihat si badut itu!
+SYN1_JN	086951ED	Ha ha! Itu gaya pampas sejati banget.
+SYN1_JO	7F6E617B	Apa peran dia di sini, dia kan nggak beli barang?
+SYN1_JP	F2666C8E	Sekoper penuh kokain (*yay*) masing-masing...
+SYN1_JQ	85615C18	Kawan (*Holmes*), perhatikan si bule (*gringo*) itu.
+SYN1_JR	1C680DA2	Oh yoi, dia diam saja dari tadi.
+SYN1_JS	6B6F3D34	Bisa jadi cuma sopir,
+SYN1_JT	F50BA897	Tapi aku nggak suka melihat gerak-geriknya.
+SYN1_JU	820C9801	Sepertinya dia tahu kita mengawasi.
+SYN1_JV	1B05C9BB	Kita kan nggak bisa dibilang tidak mencolok, ya.
+SYN1_JW	6C02F92D	Cepatlah sedikit, kawan (*holmes*)!
+SYN1_JX	FCBDE4BC	SIALAN, dia beneran tahu kita mengawasi!
+SYN1_JY	8BBAD42A	Dan kita jadi sasaran empuk!
+SYN1_KA	81CD7D3D	Duh celaka (*Pope crap*)!
+SYN1_KB	18C42C87	Aku mau coba mendaratkan benda ini sebelum meledak!
+SYN1_LA	CE8CEBFA	Mereka pasti sudah lama kabur sekarang.
+SYN1_LB	5785BA40	Kita sebaiknya berpencar dan cabut dari sini. Aku bakal ketemu kamu lagi di bengkel garasi!
+SYN1_LC	20828AD6	Mantap (*Coolio*), kita sudah dapat apa yang kita cari.
+SYN1_YA	F9390DEE	Aku nggak suka melihat tampang orang itu.
+SYN1_YB	60305C54	Ah sial, sepertinya mereka mergokin kita.
+SYN1_YC	17376CC2	Ya kita kan memang nggak mencolok berada di atas sini.
+SYN1_YD	8953F961	Lagi pula, apa yang mau dia lakukan, hah, lempar batu ke arah kita?
+SYN1_YE	FE54C9F7	Oh sial! OH SIAL!
+SYN1_YF	675D984D	Bawa kita keluar dari sini!
+SYN1_YG	105AA8DB	Duh celaka (*Pope crap*)!
+SYN1_YH	80E5B54A	Kejadian tadi benar-benar gila!
+SYN1_YJ	6EEBD466	Kita sebaiknya berpencar dan cabut dari sini. Aku bakal ketemu kamu lagi di bengkel garasi!
+SYN1_YK	19ECE4F0	Keren (*Coolio*). Lagian kita sudah dapat apa yang kita cari.
+SYN1_ZA	D2145E2D	Itu benar-benar mobil Ballas kita.
+SYN1_ZB	4B1D0F97	Siapa yang ada di kursi belakang itu?
+SYN1_ZC	3C1A3F01	Ryder, kau si pemadat sialan!
+SYN1_ZD	A27EAAA2	Kenapa dia malah gabung sama anak-anak Ballas?
+SYN1_ZE	D5799A34	Urusan bisnis ini jauh lebih besar daripada sekadar geng, bro (*ese*).
+SYN1_ZF	4C70CB8E	Seseorang keluar dari pintu belakang rumah makan!
+SYN1_ZG	3B77FB18	Siapa orang ini, Aztecas? Vagos?
+SYN1_ZH	ABC8E689	Bukannya keduanya, kawan (*holmes*), dia anak San Fierro Rifa!
+SYN1_ZJ	45C687A5	Ryder keluar dari mobil!
+SYN1_ZK	32C1B733	Ryder, si pelacur kecil!
+SYN1_ZL	ACA52290	Itu pasti uang tunainya...
+SYN1_ZM	DBA21206	Mereka licik juga ya. Nggak ada transaksi atau hal mencurigakan apa pun.
+SYN1_ZN	42AB43BC	Terus sekarang gimana? Cuma gitu doang?
+SYN1_ZO	35AC732A	Woy, kawan (*holmes*), periksa mobil van itu!
+SYN1_ZP	B8A47EDF	Orang ini benar-benar menganggap serius dirinya!
+SYN1_ZQ	CFA34E49	Itu T-Bone Mendez.
+SYN1_ZR	56AA1FF3	Itu kurirnya bawa pasokan kokain segar buat Ryder dan kawan-kawan barunya.
+SYN1_ZS	21AD2F65	Siapa sebenarnya semua orang ini?
+SYN1_ZT	BFC9BAC6	Sepertinya mereka anak-anak San Fierro Rifa yang lain.
+SYN1_ZU	C8CE8A50	Keamanan mereka rapat banget!
+SYN1_ZV	51C7DBEA	Aku tadi nggak ngeliat gerombolan itu, kamu lihat?
+SYN1_ZW	26C0EB7C	Ini mah lebih dari sekadar preman jualan barang. Ini organisasi kriminal yang serius.
+SYN1_ZX	B67FF6ED	Berapa banyak sih badut di tempat ini?
+SYN1_ZY	C178C67B	Aku langsung tahu gembong pelacur (*pimp*) pas ngeliatnya!
+SYN1_ZZ	587197C1	Woy, siapa si bule (*gringo*) itu?

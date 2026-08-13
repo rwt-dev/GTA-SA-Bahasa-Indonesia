@@ -1,0 +1,81 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	A76292F0	Gunakan dinding rendah dan objek untuk berlindung. Pencet ~m~~widget_explicit_crouch~ untuk merunduk.
+	2E041003	Gunakan dinding rendah dan objek untuk berlindung. Ketuk dua kali pojok kiri bawah layar untuk merunduk.
+MSWE01A	08416691	Woy Sweet, aku tadi lagi nyariin kamu bro, ada apa?
+MSWE01B	9148372B	Aku tadi jalan sama cewek terus sekarang malah kejebak.
+MSWE01C	E64F07BD	Aku ogah datang buat misahin kalian berdua!
+MSWE01D	782B921E	Bukannya gitu, CJ, bukan itu maksudku.
+MSWE01E	0F2CA288	Dia anak Seville Boulevard Families,
+MSWE01E	9625F332	Dan kita kan udah nggak akur lagi..
+MSWE01G	E122C3A4	Mereka udah ngepung jalanan di luar rumahnya dan aku nggak bawa senjata!
+MSWE01H	719DDE35	Urusan selangkanganmu lagi-lagi bikin kamu susah, Bro!
+MSWE01J	9F93BF19	Nanti kulihat apa yang bisa kulakukan.
+MSWE01K	E8948F8F	Siap-siap lari pas aku teriak, oke?
+MSWE01L	76F01A2C	Itu baru kawan sejatiku! Aku bakal siap-siap!
+MSWE01M	01F72ABA	Oh ya, mampir dulu ke tempat Emmet, kamu mungkin butuh pistol!
+SW5_14	09E8A5C7	~s~Cari mobil berbadan empat untuk ~y~menjemput~s~ Sweet dan ceweknya.
+SW5_16	E7E6C4EB	Sweet butuh mobil pelarian, bukan mobil kayak gini!
+SW5_17	90E1F47D	~s~Pergi ke tempat ~g~Emmet~s~ kalau kamu butuh senjata.
+SW5_A1	56BD28BE	~S~Tunggu Sweet dan ceweknya naik ke dalam kendaraan.
+SW5_A2	CFB47904	~S~Datangi ~r~Sweet~s~ sebelum anak-anak Seville Boulevard menghabisinya.
+SW5_A3	B8B34992	SWEET
+SW5_C	E0E2FC28	~s~Habisi para ~r~anak buah Seville~s~ yang mengepung Sweet.
+SW5_E	0981591D	~s~Cari mobil yang ada di ~y~luar~s~ apartemen.
+SW5_G	E78F3831	~s~Cari mobil berbadan empat.
+SW5_I	00371536	~s~Kembali ke ~y~blok kita~s~.
+SW5_J	993E448C	~s~Anak-anak Seville Boulevard mengepung Sweet di apartemen ceweknya. Habisi para ~r~anak Seville~s~ itu!
+SW5_L	705DE1B9	~r~Sweet tewas!
+SW5_M	075AD12F	~r~Ceweknya Sweet tewas!
+SW5_P	645CBDF6	~S~Ponsel berdering.
+SW5_T	633179EF	~s~Kamu meninggalkan ~b~Sweet~s~! Kembali dan jemput dia.
+SW5_U	14364979	~s~Kamu meninggalkan ~b~ceweknya Sweet~s~! Kembali dan jemput dia.
+SWE5_AA	B99A5281	Lindungi cewekku, CJ!
+SWE5_AB	2093033B	Tundukin kepala mereka, cewekku mau keluar!
+SWE5_AC	579433AD	Cepatlah, CJ, kita harus bergerak!
+SWE5_AD	C9F0A60E	CJ, masuk ke mobil sialan ini terus jalan!
+SWE5_AE	BEF79698	CJ, ada senjata di dalam mobilku!
+SWE5_AF	27FEC722	CJ, ada senjata di bagasi belakang mobilku!
+SWE5_BA	92B70142	Jadi kita mau ke mana nih?
+SWE5_BB	0BBE50F8	Dia sebaiknya tinggal di tempat kita dulu, sampai anak-anak Seville itu reda marahnya.
+SWE5_BC	7CB9606E	Tapi biar kuperjelas ya, kita ini nggak pacaran atau semacamnya — nggak ada hubungan apa-apa, sayang.
+SWE5_BD	E2DDF5CD	Terus kejadian semalam itu apa, hah?
+SWE5_BE	95DAC55B	Dan apa maksud ucapan, "Sayang, kamu tuh spesial banget!"
+SWE5_BF	0CD394E1	Serta, "Ayolah sayang, kamu tahu kan aku cinta sama kamu!"
+SWE5_BG	7BD4A477	Ya emang aku cinta, cuma maksudku bukan berarti bakal langsung ada lonceng pernikahan dalam waktu dekat, gitu aja.
+SWE5_BH	EB6BB9E6	Kita bakal bahas ini berdua saja, Sweet Johnson!
+SWE5_BI	9C6C8970	Kamu kena masalah sekarang, Sweet.
+SWE5_BJ	0565D8CA	Fokus ke jalan, keparat!
+SWE_CA	8BAC3003	Kita diikuti anak-anak Seville, CJ!
+SWE_CB	12A561B9	Tambah kecepatan, CJ, kita nggak boleh menyerah!
+SWE_CC	65A2512F	Anak-anak Seville Families mengejar kita, bro!
+SWE_DA	C4EDA6C4	Sial, mereka mencoba menabrak kita!
+SWE_DB	5DE4F77E	CJ, mereka mencoba menabrak kita!
+SWE_EA	DDF69785	Kutemui kamu di dalam ya, sayang.
+SWE_EB	44FFC63F	Man, perseteruan antar kelompok ini benar-benar menghancurkan Families.
+SWE_EC	33F8F6A9	Kamu tadi main bagus banget!
+SWE_ED	AD9C630A	Heh, aku kan anak Johnson!
+SWE_EE	DA9B539C	Hei, aku masih ada urusan yang belum kelar. Salam sayang.
+SWE_EF	43920226	Salam sayang, bro, salam sayang.
+SWE_FA	F6DBC446	Itu baru saudaraku!
+SWE_FB	6FD295FC	Cari mobil terus kita ketemuan di depan!
+SWE_GA	EFC0F507	Tenang saja, sayang, cara nyetirku nggak seburuk CJ!
+SWE_GB	76C9A4BD	Dia punya saudara perempuan, CJ, mau minta nomornya?
+SWE_GC	01CE942B	Sial, Seville Families sudah keterlaluan kali ini!
+SWE_GD	9FAA0188	Seville mencoba memulai perang atau apa!
+SWE_GE	E8AD311E	Urusan selangkanganmu lagi-lagi bikin kita berdua repot, Sweet!
+SWE_GF	71A460A4	Situasinya gila banget, bro! Kita harus menyatukan kembali Families!
+SWE_GG	06A35032	Sesama anggota hijau saling tembak itu bukan cara memimpin Families!
+SWE_GH	961C4DA3	Bukannya 'waktu bersenang-senang' kayak gini yang kubayangkan, Sweet!
+SWE_GJ	78122C8F	Kamu harus menebus semua ini padaku, Sweet!
+SWE_GK	0F151C19	Aku nggak bakal bisa pulang ke rumah lagi sekarang!
+SWE_GL	917189BA	Sweet, kita harus balik buat ngambil barang-barangku!
+SWE5A00	BE04D5E6	Yo, Sweet!
+SWE5A01	C903E570	Sweet, Smoke?
+SWE5A02	500AB4CA	Sial, ke mana semua kawan-kawan kita?
+SWE5A03	270D845C	...di mana mereka pada ngumpul? Sialan!
+SWE5A04	B96911FF	Bodo amatlah.

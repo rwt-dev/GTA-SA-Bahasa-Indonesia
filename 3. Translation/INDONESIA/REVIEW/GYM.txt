@@ -1,0 +1,47 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	C5C7B831	Serang musuh yang tergeletak pake cara pencet ~m~~widget_attack~.
+	62F3833B	Sambil lari, pencet ~m~~widget_attack~.
+	8CFDE217	Lari terus pencet ~m~~widget_attack~!
+	FC971698	Pencet ~m~~widget_enter_targeting~ sama ~m~~widget_explicit_alt_attack~.
+BBOX_1	E3BB88D0	Woy, mau belajar beberapa jurus baru kagak?
+BBOX_2	7AB2D96A	Terserah lu dah bro (*holmes*), tapi jalanan tuh kejam, bro!
+BBOX_3	0DB5E9FC	Bro, lu bikin malu aja! Bikin berotot dulu badan lu sana!
+BBOX_4	93D17C5F	Woy, mau cobain bertanding satu ronde sama gue kagak?
+BBOX_5	E4D64CC9	Woy, perhatiin baik-baik ntar lu bisa belajar sesuatu.
+BBOX_6	7DDF1D73	Woy, menerjang maju terus mbejek musuh lu!
+BBOX_7	0AD82DE5	Pastiin musuh lu roboh DAN pingsan total!
+BBOX_8	9A673074	Jangan pernah ngasih waktu musuh lu buat bangkit!
+GYM1_83	EFE58515	Kalahin lawan lu buat belajar jurus baru!
+GYM1_84	718110B6	Lari terus ketuk ~m~~widget_attack~!
+GYM1_92	81F984C2	~r~Lu keluar ring dan dianggap menyerah.
+GYM1_93	F6FEB454	Jurus baru berhasil dipelajari!
+GYM1_94	689A21F7	Sambil lari, ketuk ~m~~widget_attack~.
+GYM1_95	1F9D1161	Serang musuh yang tergeletak pake cara pencet ~m~~widget_enter_targeting~ sama ~m~~widget_explicit_alt_attack~.
+GYM1_96	869440DB	Ketuk ~m~~widget_attack~ berkali-kali.
+GYM1_97	F193704D	Serangan Sambil Lari
+GYM1_98	612C6DDC	Serangan Bawah (Lawan Tergeletak)
+GYM1_99	162B5D4A	Serangan Kombo
+GYM1101	8B7B881B	Kalahin lawan lu buat belajar jurus-jurus baru!
+GYM1106	151F1DB8	Kalahin lawan lu buat belajar jurus-jurus baru. Kalo lu keluar dari ring lu kalah!
+KUNG_1	B9B211A2	Jadi, lu mau jadi seorang petarung!
+KUNG_2	20BB4018	Jalan petarung bakal membawa lu balik ke sini...
+KUNG_3	57BC708E	Lu lemah banget, kek rumput layu! Latih dulu badan lu!
+KUNG_4	C9D8E52D	Lu mau coba sparring sama guru lu?
+KUNG_5	BEDFD5BB	Resapi pake mata lu, murid muda, ntar lu paham!
+KUNG_6	27D68401	Menerjang kek kobra atom!
+KUNG_7	50D1B497	Kagak ada yang rumit di sini, tinggal tendang mereka pas lagi tergeletak!
+GYM1_98	612C6DDC	Serangan Bawah (Lawan Tergeletak)
+KUNG_8	C06EA906	Jadilah kek longsoran salju terus kubur musuh lu!
+WBOX_1	B0A01BF8	Woy, mau belajar beberapa jurus baru kagak?
+WBOX_2	29A94A42	Pilihan lu sih bro, tapi gue tahu lu bakal balik lagi!
+WBOX_3	5EAE7AD4	Lu butuh bentuk tubuh petarung! Pergi gedein otot lu sana!
+WBOX_4	C0CAEF77	Lu pikir lu bisa bertahan satu ronde lawan gue?
+WBOX_5	B7CDDFE1	Liat nih, ini bakal berguna banget ntar.
+WBOX_6	2EC48E5B	Terjang musuh lu terus pukul cepet!
+WBOX_7	59C3BECD	Lu harus manfaatin keunggulan lu!
+WBOX_8	C97CA35C	Maju terus kasih tekanan - jangan kasih waktu musuh lu buat ngebalas!

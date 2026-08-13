@@ -4,32 +4,32 @@
 
 
 
-MENU_10	84AEE8CC	Orang
+MENU_10	84AEE8CC	Pejalan Kaki
 MENU_11	F3A9D85A	~1~
 MENU_18	8A7560FE	Ya
 MENU_19	FD725068	Tidak
-MENU_26	46E01E3A	Batas Orang
-MENU_27	31E72EAC	Batas Motor
-MENU_28	A158333D	Batas Mobil
-MENU_29	D65F03AB	Batas Waktu
+MENU_26	46E01E3A	Batas pejalan kaki
+MENU_27	31E72EAC	Batas sepeda/motor
+MENU_28	A158333D	Batas mobil
+MENU_29	D65F03AB	Batas waktu
 MENU_30	B6988A4E	~1~ menit
 MENU_31	C19FBAD8	~1~ menit
-MENU_33	2F91DBF4	Orang ~1~
+MENU_33	2F91DBF4	Pejalan kaki ~1~
 MENU_34	B1F54E57	~1~
-MENU_36	5FFB2F7B	Membunuh ~1~ orang dalam ~1~ menit.
-MENU_38	B843027C	Menghancurkan ~1~ motor in ~1~ menit.
+MENU_36	5FFB2F7B	Bantai ~1~ pejalan kaki dalam waktu ~1~ menit.
+MENU_38	B843027C	Hancurkan ~1~ sepeda/motor dalam waktu ~1~ menit.
 MENU_41	8EDE2C1F	Mobil ~1~
-MENU_42	17D77DA5	Motor ~1~
+MENU_42	17D77DA5	Sepeda/Motor ~1~
 MENU_45	89B3E806	LEVEL ~1~
-MENU_46	10BAB9BC	Menembak ~1~ orang dalam ~1~ menit.
+MENU_46	10BAB9BC	Tembak ~1~ pejalan kaki dalam waktu ~1~ menit.
 MENU_47	67BD892A	~r~Pemain satu tewas
 MENU_48	F70294BB	~r~Pemain dua tewas
 MENU_49	8005A42D	~r~Kedua pemain tewas!
-MENU_50	E0C22DC8	~r~Kamu tidak mendapatkan cukup banyak pembunuhan tepat waktu!
-MENU_60	CBEF7E0B	Membunuh ~1~ orang dalam ~1~ menit.
-MENU_61	BCE84E9D	Menghancurkan ~1~ motor dalam ~1~ menit.
-MENU_62	25E11F27	Menembak ~1~ orang dalam ~1~ menit.
-MENU_63	52E62FB1	Menghancurkan ~1~ kendaraan dalam ~1~ menit
-MENU_64	CC82BA12	Menghancurkan ~1~ kendaraan dalam ~1~ menit
-MENU_65	BB858A84	Membunuh ~1~ orang dalam ~1~menit dan ~1~ detik.
+MENU_50	E0C22DC8	~r~Lu kagak dapet jumlah pembunuhan yang cukup dalam batas waktu!
+MENU_60	CBEF7E0B	Bantai ~1~ pejalan kaki dalam waktu ~1~ menit.
+MENU_61	BCE84E9D	Hancurkan ~1~ sepeda/motor dalam waktu ~1~ minute.
+MENU_62	25E11F27	Tembak ~1~ pejalan kaki dalam waktu ~1~ menit.
+MENU_63	52E62FB1	Hancurkan ~1~ kendaraan dalam waktu ~1~ menit
+MENU_64	CC82BA12	Hancurkan ~1~ kendaraan dalam waktu ~1~ menit
+MENU_65	BB858A84	Bantai ~1~ pejalan kaki dalam waktu ~1~ menit ~1~ detik.
 MENU_67	558BEBA8	Level selesai

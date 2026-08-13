@@ -1,0 +1,468 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	31C2533A	Nengok ke belakang lewat pencet terus tahan bagian tengah bawah layar, atau pake kontrol kamera buat ngarahin pandangan biar makin jelas.
+	4F2D3DEC	Tekan ~m~~widget_explicit_throw~ buat melempar ~h~bom tempel~w~. Pencet terus tahan ~m~~widget_explicit_throw~ lebih lama buat lemparan yang lebih jauh.
+	10C67717	Lihat ke belakang lewat tekan ~m~~widget_explicit_look_back_keyboard~, atau pake kontrol kamera buat ngarahin pandangan biar makin jelas.
+	63CEE2BB	Pas ~h~bom tempel~w~ udah nempet, pilih senjata ~h~detonator~w~ terus tekan ~m~~widget_explicit_detonator~ buat ledakin.
+CAT_AA	6954A95D	Mobil lu mana?
+CAT_AB	F05DF8E7	Mobil lu sendiri mana?
+CAT_AC	875AC871	Cewek tuh kagak nyetir sendiri, emang gunanya cowok buat apa!
+CAT_AD	193E5DD2	Busel! Makasih ya Cesar. Gue hargain nih, sob!
+CAT_BA	4279FA9E	Yoi, siapa nama lu? Terus kita mau ke mana nih?
+CAT_BB	DB70AB24	Nama gue Catalina dan kita bakal nguras habis duit di wilayah ini sampe sen terakhir!
+CAT_BC	AC779BB2	Oke, rencana bagus... kayaknya.
+CAT_BD	32130E11	Jelas lah rencana bagus, gausah banyak bacot!
+CAT_BE	45143E87	Gue udah mantau empat target empuk;
+CAT_BF	DC1D6F3D	pom bensin di Dillimore,
+CAT_BG	AB1A5FAB	bank di Palomino Creek,
+CAT_BH	3BA5423A	toko miras di Blueberry,
+CAT_BI	4CA272AC	sama tempat taruhan di Montgomery.
+CAT_BJ	D5AB2316	Bentar-bentar. Yang mana dulu nih?
+CAT_BK	A2AC1380	Lu kan supirnya, babi tolol, lu yang milih lah!
+CAT_CA	5B62CBDF	Lu emosian banget ya, mba.
+CAT_CB	C26B9A65	Napa? Lu sendiri apaan?
+CAT_CC	B56CAAF3	Sok santai ala anak gengster gitu?
+CAT_CD	2B083F50	Gue sih ga suka ngurusin hidup orang. Itu gaya gue.
+CAT_CE	5C0F0FC6	Kata Cesar saudara lu ada yang di penjara,
+CAT_CF	C5065E7C	saudara lu yang lain udah mati, emak lu baru aja dibunuh,
+CAT_CG	B2016EEA	terus lu lagi dincar polisi korup.
+CAT_CH	22BE737B	Males amat gue dengerin lu.
+CAT_CI	55B943ED	Lu pikir gitu namanya kagak ngurusin hidup orang, eh amigo?
+CAT_CJ	CCB01257	Gaya sok keren? Lu tuh cuma bego (*idiota*)!
+CAT_CK	BBB722C1	Lu juga ramah banget ya. Cewek terpelajar banget nih.
+CAT_EO	EA80415E	cewek gila itu.
+CAT_FA	26153F9A	Woy, yang tersisa tinggal apa aja nih?
+CAT_FB	BF1C6E20	Lu bego apa gimana? Udah lupa aja?
+CAT_FC	C81B5EB6	Pom bensin di Dillimore.
+CAT_FD	567FCB15	Bank di Palomino Creek.
+CAT_FE	2178FB83	Toko miras di Blueberry.
+CAT_FF	B871AA39	Tempat taruhan di Montgomery.
+CAT_FG	CF769AAF	Atau toko miras di Blueberry.
+CAT_FH	5FC9873E	Atau tempat taruhan di Montgomery.
+CAT_FI	28CEB7A8	Oke, nah kali ini kita main santai aja ya,
+CAT_FJ	B1C7E612	gausah pake drama psikopat gila, sayang.
+CAT_FK	C6C0D684	Ngomong aja sama tembok, bocah lembek.
+CAT_FL	58A44327	Hari ini gue lagi pengen ngebantai semua cowok yang gue temuin!
+CAT_FM	2FA373B1	Waduh sayang!
+CAT_FN	B6AA220B	Tenang aja, gue bikin pengecualian buat beberapa cowok di hidup gue.
+CAT_FO	C1AD129D	Sekarang tancap gas lebih kenceng!
+CAT_KA	93BB41D7	Gimana rasanya tadi?
+CAT_KB	0AB2106D	Beda aja...
+CAT_KC	7DB520FB	Gue udah tahu lu bakal demen!
+CAT_KD	E3D1B558	Gini ya sayang, gue pikir kita mau nyari duit gede.
+CAT_KE	94D685CE	Lama-lama gue bosen banget sama lu.
+CAT_KF	0DDFD474	Gue cuma butuh duitnya.
+CAT_KG	7AD8E4E2	Jadi gue cuma barang murahan gitu?
+CAT_KH	EA67F973	Lonte yang bahkan kagak lu bayar?!
+CAT_KI	9D60C9E5	Kagak, gue ga ngomong gitu.
+CAT_KJ	0469985F	Carl, gue udah bilang gue cinta sama lu, tapi lu malah nganggep gue kek orang bego.
+CAT_KK	736EA8C9	Gue tahu cara lu ngeliatin cewek lain.
+CAT_KL	ED0A3D6A	Gue paham tipe cowok kek lu, Carl. Gue serius nih.
+CAT_KM	9A0D0DFC	Gue matiin lu kalo sampe lu macem-macem di belakang gue.
+CAT_KN	03045C46	Gue kebiri dulu burung lu.
+CAT_KO	74036CD0	Terus gue suruh lu makan sendiri tuh burung!
+CAT_KP	F90B6125	Cukup! Gue butuh duit bangsat!
+CAT_KQ	8E0C51B3	Carl, bikin bosen banget lu lama-lama.
+CAT_KR	17050009	Tolonglah sayang. Gue lagi dalam masalah besar banget nih.
+CAT_KS	6002309F	Ya udah. Mungkin hari ini kita panen gede!
+CAT_KT	FE66A53C	Nyetir yang kenceng, kekasihku!
+CAT1@00	DF75EBFC	Lu mau babak belur, si gendut?
+CAT1@01	A872DB6A	Kencingan orang konyol lu.
+CAT1@02	317B8AD0	Orang kasim aja telornya masih lebih berani dari lu,
+CAT1@03	467CBA46	lu penakut, orang sampah, lu...
+CAT1@04	D8182FE5	Lu mau apaan sih bangsat?
+CAT1@05	AF1F1F73	Gak ada, gue cuma nyari sepupunya temen gue.
+CAT1@06	36164EC9	Orang Meksiko. Dia kagak ada di sini....
+CAT1@07	41117E5F	Lu? Tapi kata Cesar lu tuh laki sejati.
+CAT1@08	D1AE63CE	Maksud gue, liat tuh bentukan lu.
+CAT1@09	A6A95358	Mba, gue ini pria taat hukum, pencinta damai, dan merakyat.
+CAT1@10	C66EDABD	- Bodo amat, bangsat, ayo jalan.~n~- Astaga, santai dong sayang.
+CAT1@11	B169EA2B	Astaga, santai dong sayang.
+CAT1_AA	D92906AC	Tempat ini mah gampang banget diurusnya!
+CAT1_AB	40205716	Maksud lu gampang kek tempat yang terakhir?
+CAT1_AC	37276780	Oke, langsung aja kita
+CAT1_AD	A943F223	Siapa nih keparat sok koboi?
+CAT1_AE	DE44C2B5	Tahan dulu, pantau situasi.
+CAT1_AF	474D930F	Duitnya udah dapet, ayo cabut dari sini!
+CAT1_AG	304AA399	Tuh keparat-keparat banci bawa kabur duit kita!
+CAT1_AH	A0F5BE08	ITU DUIT GUE!
+CAT1_BA	F204556F	Carl, lu yang nyetir, gue yang nembak!
+CAT1_BB	6B0D04D5	Ayo, gerakin pantat lu bangsat!
+CAT1_BC	1C0A3443	Gaskan, yeehaa!
+CAT1_CA	EB1F642E	Mepet terus sama mereka!
+CAT1_CB	72163594	Lebih kenceng, bego!
+CAT1_CC	05110502	Lu nyetir kek nenek-nenek!
+CAT1_CD	9B7590A1	Mereka makin jauh!
+CAT1_CE	EC72A037	Mereka udah cuma keliatan titik di depan, LEBIH KENCENG!
+CAT1_DA	A45EF2E9	Lu kehilangan jejak mereka!
+CAT1_DB	3D57A353	Makin jauh tuh mereka!
+CAT1_DC	4A5093C5	Kita dibikin kek orang bego sama mereka!
+CAT1_DD	D4340666	Cara nyetir lu yang payah bikin mereka berhasil kabur!
+CAT1_EA	BD45C3A8	Polisi-polisi keparat itu udah ngendus keberadaan kita!
+CAT1_EB	244C9212	Malah ada polisi lagi, BANGSAT BANGET!
+CAT1_EC	534BA284	Sikap lebay lu bikin polisi tebalat ke sini!
+CAT1_ED	CD2F3727	Pake ada polisi segala lagi, MEMEK! MEMEK! MEMEK!
+CAT1_FA	9668906B	Oke Carl, ayo balik ke markas!
+CAT1_FB	0F61C1D1	Balik ke Fern Ridge, Carl!
+CAT1_GA	8F73A12A	Jangan tinggalin gue, Carl Johnson!
+CAT1_GB	167AF090	Lu tinggalin gue, GUE KEBIRI LU!
+CAT1_GC	617DC006	Balik ke sini lu, keparat tidak berguna!
+CAT1_GD	FF1955A5	Carl Johnson, awas aja kalo lu berani tinggalin gue!
+CAT1_HA	08EBBDE5	Berhenti nembak tepat di samping kuping gue!
+CAT1_HB	91E2EC5F	Apaan?
+CAT1_HC	E6E5DCC9	Kagak kedengeran apa-apa - kuping gue congek!
+CAT1_HD	7881496A	Gendang kuping gue pecah gegara lu!
+CAT1_HE	0F8679FC	Awasin kepala gue dong, cewek gila!
+CAT1_IA	11F08CA4	Gue harap cara nyetir lu kali ini lebih mendingan!
+CAT1_IB	88F9DD1E	Lu pernah nyetir motor ATV gak? Kagak gampang tau.
+CAT1_IC	FFFEED88	Apalagi pas ada cewek gila jejeritan di belakang sambil nembak-nembak di samping kuping!
+CAT1_ID	619A782B	nembak-nembak di samping kuping!
+CAT1_IE	169D48BD	Gue demen nih pas lu lagi marah sama gue, Carl.
+CAT1_IF	8F941907	Gue bakal lebih sering bikin lu emosi ah.
+CAT1_IG	F8932991	Nah kalo itu sih gue tunggu-tunggu...
+CAT108	34E0CE58	~s~Ambil ~g~tas koper~s~ itu.
+CAT111	542747BD	Catalina udah balik ke markas.
+CAT112	CD2E1607	~s~Anterin Catalina balik ke ~y~markas~s~.
+CAT137	8F72800A	Duit Berhasil Diambil
+CAT2@00	CDC04412	Woy Catalina, sayang. Ini gue, Carl Johnson.
+CAT2@01	BAC77484	Sayang, sorry ya tadi kita mulai hubungan pake emosi.
+CAT2@02	23CE253E	Gue lagi dapet ujian berat, sayang. Ya mungkin gue rada kelewatan tadi.
+CAT2@03	54C915A8	Maafin gue dong. Ayolah, sayang!
+CAT2@04	CAAD800B	Sayang, tanpa lu tuh gak ada yang namanya Carl Johnson.
+CAT2@05	BDAAB09D	Sayang, tolonglah!
+CAT2@06	24A3E127	Sayang, tolong dong. Jangan marah lagi! Ayolah.
+CAT2@07	53A4D1B1	Dah lah, mana sih nih cewek bego?
+CAT2@08	C31BCC20	Gue di sini, bajingan (*cabron*).
+CAT2@09	B41CFCB6	Oh sayang, sayang, sumpah gue minta maaf banget, sayang.
+CAT2@10	D4DB7553	Tolong maafin gue dong, sayang.
+CAT2@11	A3DC45C5	Tapi tolong jangan tembak gue! Plis!
+CAT2@12	3AD5147F	Lu pikir minta maaf doang cukup, hah?
+CAT2@13	4DD224E9	Gimana cara lu ngebuktiin kalo lu beneran nyesel?
+CAT2@14	D3B6B14A	Gue bakal mainan sama lu SAMPE PARAH BANGET, sayang.
+CAT2@15	A4B181DC	Terus gue bakal ajak lu ngerampok bank dan hal-hal gila lainnya.
+CAT2@16	3DB8D066	Gue biarin lu bantai siapa aja yang mau lu bantai.
+CAT2@17	4ABFE0F0	Gue bakal ngelakuin lu dengan manis, sayang.
+CAT2@18	DA00FD61	Cuma... ayolah... plis jangan tembak gue.
+CAT2@19	AD07CDF7	Carl, kayaknya gue jatuh cinta deh sama lu.
+CAT2@20	FFF62690	Anjrit, bagus deh. Mantap. Yoi, keren banget. Mantul.
+CAT2@21	88F11606	Lu mau jalan ngerampok sesuatu kagak, sayang?
+CAT2@22	11F847BC	Buka pintunya - tai lah.
+CAT2@23	66FF772A	Dia ada di sini gak sih? Kagak keliatan apa-apa gue.
+CAT2@24	F89BE289	Ayolah sayang, jangan marah, tolonglah sayang!
+CAT2@25	8F9CD21F	Sialan banget lah.
+CAT2@26	169583A5	Siapa yang cewek murahan sekarang, eh?
+CAT2@27	6192B333	Apaan tuh tadi?
+CAT2@28	F12DAEA2	Lu bener banget!
+CAT2@29	862A9E34	Ayolah sayang, ayo.
+CAT2@30	E6ED17D1	Ngomong terus!
+CAT2@31	91EA2747	Ohhh?
+CAT2@32	08E376FD	Hm-hmm?
+CAT2@33	7FE4466B	Hm-hmm, ha ha! Hm-hmm.
+CAT2_05	AAD054D0	~s~Arahin senjata lu ke para staf biar mereka ketakutan dan nurut.
+CAT2_06	33D9056A	~s~Jangan biarin mereka nurunin tangan atau mereka bakal menekan bel alarm.
+CAT2_14	C4CC5507	~s~Lu ninggalin ~b~catalina~s~ di belakang, balik lagi dan jemput dia.
+CAT2_16	2AC2342B	~s~Catalina dikepung polisi. Selamatkan ~b~dia~s~ terus balik ke ~y~markas~s~.
+CAT2_18	CD7A192C	~s~Bawa Catalina balik ke ~Y~markasnya~s~.
+CAT2_19	BA7D29BA	~s~Ikutin ~b~Catalina~s~.
+CAT2_A1	9B99D87E	~r~Lu membunuh Catalina.
+CAT2_AA	CB9CA942	Sial banget nasib kita, militer lagi patroli di kota!
+CAT2_AB	5295F8F8	Lu mau ngerampok tempat taruhan?
+CAT2_AC	2592C86E	Iya. Kenapa, lu kagak cukup jantan?
+CAT2_AD	BBF65DCD	Woy, liat noh cewek seksi!
+CAT2_AE	CCF16D5B	Hai cewek, mau ngerasain milik gue kagak? Heh heh heh!
+CAT2_AF	55F83CE1	Gue bakal potong telor mereka!
+CAT2_AG	22FF0C77	Dengerin, lu puji-puji aja mereka terus gue bakal bikin pengalihan isu.
+CAT2_AH	B24011E6	Halo, gue pendatang baru nih di sini...
+CAT2_AI	C5472170	mungkin abang-abang perkasa di sini mau nemenin gue bersenang-senang?
+CAT2_BA	E0B1FA81	Gokil banget dah!
+CAT2_BB	79B8AB3B	Ayo kita samperin!
+CAT2_CA	F9AACBC0	Lu bikin gue terkesan, Carl Johnson!
+CAT2_CB	60A39A7A	Ayo, gaskan eksekusi!
+CAT2_CC	17A4AAEC	Kayak nya gue demen deh sama lu!
+CAT2_DA	B6EB5D07	Buka pintu ruang belakang atau gue tembak hancur muka lu!
+CAT2_DB	2FE20CBD	Jangan sentuh tombol darurat atau anak-anak lu sekalian gue bantai!
+CAT2_DC	58E53C2B	Jalan! Masuk ke dalam terus buka brankasnya!
+CAT2_EA	AFF06C46	Buru jalan!
+CAT2_EB	36F93DFC	Berhenti pegang-pegang burung lu terus cepetan!
+CAT2_EC	41FE0D6A	Waktu kita kagak banyak bangsat!
+CAT2_FA	84DD3F85	Udah gue peringatin ya, cewek bego!
+CAT2_FB	1DD46E3F	Cewek bego bangsat!
+CAT2_FC	6AD35EA9	Sekarang lu mati!
+CAT2_GA	9DC60EC4	Oke, dapet nih!
+CAT2_GB	04CF5F7E	Lama amat bangsat, lambat kek kukang lu!
+CAT2_GC	73C86FE8	Bodo amat lah. Ayo cabut!
+CAT2_HA	1A5E120B	Carl, lu harus cepet dan bener-bener tega!
+CAT2_HB	835743B1	Jangan main-main kek di tempat taruhan tadi!
+CAT2_HC	F4507327	Lho? Kalo lu kagak ngamuk nembak-nembak duluan, semuanya bakal aman-aman aja!
+CAT2_HE	1D33D612	Mereka terpaksa mati gara-gara LU lambat dan bego,
+CAT2_HF	843A87A8	kek bocah gendut maruk yang maruk makan cokelat pas
+CAT2_HG	F33DB73E	bapaknya cuma ngasih roti basi ke anak tirinya!
+CAT2_HH	6382AAAF	Apaan sih? Kok ngomongnya jauh banget sampe ke situ?
+CAT2_HI	14859A39	Cukup! Gue kagak mau ngomong sama lu lagi!
+CAT2_HJ	8D8CCB83	Lu-lu ngomongin apaan sih sebenernya?
+CAT2_JA	28687089	Bom tempel?! Dari mana lu bisa dapet barang kek gitu?
+CAT3@00	757C2377	Woy, Catalina, ini gue Carl!
+CAT3@01	027B13E1	Ayolah jalan, masih ada bank yang harus dirampok nih sayang.
+CAT3@02	9B72425B	Ayo, gaskan cabut.
+CAT3@03	EC7572CD	Masuk ke dalam sini, cintaku.
+CAT3@04	7211E76E	Yowes, ayo. Cabut.
+CAT3@05	0516D7F8	Seret pantat lu yang gak berguna itu ke sini sekarang Carl Johnson,
+CAT3@06	9C1F8642	atau gue sumpal granat ke dalam silit lu.
+CAT3@07	EB18B6D4	Denger dulu sayang, gue butuh banget duitnya!
+CAT3@08	7BA7AB45	Ya Tuhan. Alat penyiksa apaan tuh?
+CAT3@09	0CA09BD3	Ini, kontol? Ini tuh alat pasung/siksa!
+CAT3@10	6C671236	Gue bakal menyiksa pantat lu yang kagak berguna itu!
+CAT3@11	1B6022A0	Lu kagak pernah ngirim surat! Kagak pernah nelpon!
+CAT3@12	8269731A	Lu ngelakuin gue kek lonte murahan!
+CAT3@13	F56E438C	Kek salah satu lonte koleksi LU!
+CAT3@14	6B0AD62F	Gue hancurin lu sekalian!
+CAT3@15	1C0DE6B9	Jangan, sayang. Jangan. Plis jangan.
+CAT3@16	8504B703	Gimana kalo kita pergi ngerampok aja sekarang?
+CAT3@17	F2038795	Oke-oke, gue masuk nih.
+CAT3@18	62BC9A04	Jangan sayang, plis, gue kagak demen sama hal-hal kek gitu!
+CAT3@19	15BBAA92	Aduh sayang, plis jangan. Tolonglah sayang, jangan!
+CAT3@20	474A41F5	Aduh! Eh! Ooh! Aw! Sakit! Anjrit! Oh memek!
+CAT3@21	304D7163	Iya! Lebih kenceng! Lebih keras! Lebih dalem!
+CAT3@22	A94420D9	Oh, iya! Iya! Iya!
+CAT3@23	DE43104F	(Hela napas)
+CAT3_01	1501F7AC	~s~Pergi dan jemput ~b~Catalina~s~.
+CAT3_02	8C08A616	~s~Masuk ke dalam ~b~truk/kepala truk~s~!
+CAT3_03	FB0F9680	Posisikan kepala truk di depan gandengan tangki.
+CAT3_05	126C33B5	~s~Bawa truk tangki keluar ke tempat ~y~pembeli~s~ Catalina. Hati-hati jangan sampe gandengan tangkinya terlepas.
+CAT3_06	8B65620F	~r~Catalina tewas.
+CAT3_07	FC625299	~r~Truk tangki hancur!
+CAT3_08	6CDD4F08	~r~Gandengan tangki terlepas!
+CAT3_09	1BDA7F9E	~r~Kepala truk hancur!
+CAT3_10	7B1DF67B	~s~Masuk balik ke ~b~truk~s~!
+CAT3_11	0C1AC6ED	DARAH
+CAT3_12	95139757	Nengok ke belakang lewat tekan ~m~~widget_look_left~ barengan sama ~m~~widget_look_right~, atau pake kontrol kamera buat ngarahin pandangan biar makin jelas.
+CAT3_13	E214A7C1	Buat masang gandengan tangki, mundurin truk perlahan tepat ke bagian depan gandengan.
+CAT3_14	7C703262	~s~Gandengan udah terpasang!
+CAT3_AA	7320CE27	Serahin hasil penghasilan lu, atau gue tembak hancur biji lu!
+CAT3_AB	EA299F9D	Di sini kacanaya tahan peluru, mba!
+CAT3_AC	9D2EAF0B	Mending lu cabut sana, cewek gila, sebelum gue panggil sheriff!
+CAT3_AD	034A3AA8	Lu ngapain sih nak, kasih aja napa duitnya ke dia!
+CAT3_AE	744D0A3E	Terserah lu dah, banci (*maricon*).
+CAT3_AF	ED445B84	Ubah rencana Carl, kita bawa kabur truk tangkinya!
+CAT3_AG	9A436B12	Woy! Mau ngapain lu?
+CAT3_BA	580D9DE4	Jalan, pemalas bangsat, pasangin tuh gandengan tangki!
+CAT3_BB	C104CC5E	Sabar, ini lagi gue garap!
+CAT3_BC	B603FCC8	Kagak bakal lolos lu pada!
+CAT3_BD	2867696B	Diem lu, bocah ingusan jerawatan!
+CAT3_CA	4116ACA5	Gas! Gue tau orang yang mau bayar mahal buat truk sama muatannya nih!
+CAT3_CB	D81FFD1F	Gue kagak mau kehilangan pekerjaan ampas ini lagi cuma gara-gara cewek gila!
+CAT3_CC	AF18CD89	Ayo Derek, kita kejar dan hentiin tuh keparat-keparat!
+CAT3_CD	317C582A	Harus banget ya gue ikut?
+CAT3_DA	0E573A62	Ikutin gue!
+CAT3_DB	975E6BD8	Gak bakal bisa, cewek gila!
+CAT3_DC	E0595B4E	Ayo Derek, kita bakal jadi pahlawan lokal!
+CAT3_DD	7E3DCEED	Gue mah mending diem di toko sambil menata rak barang!
+CAT3_EA	174C0B23	Ikutin gue!
+CAT3_EB	8E455A99	Lu ngapain aja sih lama amat?
+CAT3_ED	6726FFAC	Udah kagak jauh lagi nih!
+CAT3_EE	1021CF3A	Lewat sini!
+CAT3_EF	89289E80	Dari mana aja lu?
+CAT3_EG	FE2FAE16	Katanya lu bisa nyetir!
+CAT3_FA	3C6158E0	Tahan posisi mobilnya biar bidikan gue pas!
+CAT3_FB	A568095A	Mepet ke sampingnya!
+CAT3_FC	D26F39CC	Mepet terus sama mereka!
+CAT3_FD	4C0BAC6F	Balap mereka!
+CAT3_FE	3B0C9CF9	Hadang jalur jalan mereka!
+CAT3_FF	A205CD43	Tahan... tahan...
+CAT3_GA	257A69A1	Kagak sepadan nih!
+CAT3_GB	BC73381B	Gue takut!
+CAT3_GC	CB74088D	Ini mah bukan urusan gue!
+CAT3_GD	55109D2E	Bisa-bisa kita mati konyol!
+CAT3_GE	2217ADB8	Gue kagak mau ngelakuin ini!
+CAT3_GF	BB1EFC02	Ya Tuhan, gue bakal mati nih!
+CAT3_GG	CC19CC94	Truk segede gitu bakal nggiles kita!
+CAT3_HA	A2E2756E	Parkir di depo sebelah depan itu!
+CAT3_HB	3BEB24D4	Nah itu tempatnya, di depan!
+CAT3_HC	4CEC1442	Yeehaa, itu tempatnya, gaskan Carl, gaskan!
+CAT3_JA	90D417EC	Halo, Pak Whittaker!
+CAT3_JB	09DD4656	Catalina! Bawa apaan lu hari ini buat gue?
+CAT3_JC	7EDA76C0	Truk sama tangki, isinya penuh sama bensin kualitas premium!
+CAT3_JD	E0BEE363	Gue kagak pernah liat truk ini, kagak pernah ketemu lu, dan kagak pernah ngasih lu segepok duit ini!
+CAT3_JE	97B9D3F5	Senang tidak berbisnis dengan lu!
+CAT3_JF	0EB0824F	Sama-sama. Sekarang cabut dari sini sebelum polisi datang ngendus-ngendus.
+CAT3_JG	79B7B2D9	Kalo lu berhasil dapet truk lain, anterin aja ke sini,
+CAT3_JH	E908AF48	Gue bakal selalu kasih harga mantap!
+CAT3_JJ	0706CE64	Kalo lu mau ngirim muatan kargo buat gue, mampir aja.
+CAT3_JK	7001FEF2	Gue selalu punya barang yang perlu dipindahin.
+CAT4@00	E8AB1BCE	Bangsat!
+CAT4@01	9FAC2B58	Sialan, gue salah apaan lagi nih!?
+CAT4@02	06A57AE2	Lu pada emang sama aja bangsatnya, hah.
+CAT4@03	71A24A74	Gue liat di TV. Gue baca di buku. Gue denger di musik.
+CAT4@04	EFC6DFD7	Lu pada sama aja. Entot ini, entot itu. Nah, ngentot lu!
+CAT4@05	98C1EF41	Sayang, maafin gue...
+CAT4@06	01C8BEFB	Gue udah ngasih segalanya buat lu sebagai cewek. Kagak! Kagak lagi!
+CAT4@07	76CF8E6D	Mulai sekarang, kita cuma rekan bisnis doang. Oke?
+CAT4@08	E67093FC	Eh, kalo itu mau lu sih. Tapi jujur lu bikin hati gue hancur...
+CAT4@09	9177A36A	Tapi jujur lu bikin hati gue hancur...
+CAT4@10	F1B02A8F	Gue ingetin ya. Mood gue lagi ancur-ancuran banget nih.
+CAT4@11	86B71A19	Hari ini gue bakal bantai siapa aja yang macem-macem sama gue!
+CAT4@12	1FBE4BA3	Terutama LU! Jalan!
+CAT4_01	88D6CF15	~s~ Masuk ke dalam Tempat Taruhan Kuda (Inside Track Betting Shop).
+CAT4_13	7FC39F78	~s~Pergi ke markas!
+CAT4_14	E1A70ADB	~r~Lu ninggalin Catalina!
+CAT4_15	96A03A4D	~r~Catalina mati!
+CAT4_16	0FA96BF7	~s~Balik lagi ke ~b~Catalina
+CAT4_2	309B92C5	~r~Lu kehabisan Bom Tempel!
+CAT4_27	538308A2	~s~Pergi ke ~h~Pay 'n' Spray.
+CAT4_3	479CA253	(SUARA BUNYI ALARM)
+CAT4_32	3AF2CD6C	~s~Lu dapet bintang buronan. Pergi ke ~w~Pay 'n' Spray buat ngilangin bintangnya.
+CAT4_37	4A9839E3	~S~Parkir kendaraan di dalam ~h~Pay 'n' Spray.
+CAT4_38	DA272472	~S~Parkir mobil di dalam ~h~Pay 'n' Spray.
+CAT4_42	75B35BAB	~s~Pake Bom Tempel buat ledakin pintunya biar terbuka.
+CAT4_43	02B46B3D	Pencet ~m~~widget_explicit_throw~ buat melempar ~h~bom tempel~w~. Pencet terus tahan ~m~~widget_explicit_throw~ lebih lama buat lemparan yang lebih jauh.
+CAT4_44	9CD0FE9E	~s~Mundur ke jarak aman dari bom tempel yang udah dipasang.
+CAT4_45	EBD7CE08	Pas ~h~bom tempel~w~ udah nempet, pilih senjata ~h~detonator~w~ terus pencet ~m~~widget_explicit_detonator~ buat ledakin.
+CAT4_46	72DE9FB2	Pake ~h~bom tempel~w~ buat ngebuka brankas.
+CAT4_AA	EEF7F69E	Sialan, gue baru aja beli donat lagi! Penjahat kagak punya simpati apa ya?
+CAT4_AB	77FEA724	Duit suapnya bisa kita ambil ntar. Mending sekalian aja kita cek ke sana.
+CAT4_AC	00F997B2	Kita tahu lu pada ada di dalam!
+CAT4_AD	9E9D0211	Pemainan usai! Keluar lu pada!
+CAT4_AE	E99A3287	Keluar baik-baik dan damai!
+CAT4_AF	7093633D	Nyerah aja lu, udah dikepung!
+CAT4_AG	079453AB	Gue tahu lu pasti coba lewat pintu belakang!
+CAT4_AH	972B4E3A	Kita udah nungguin lu dari tadi!
+CAT4_AI	E02C7EAC	Jangan cengengesan terus lepas baju lu!
+CAT4_AJ	79252F16	Kalian berdua, JANGN BERGERAK!
+CAT4_BA	C5DAA55D	Sialan, gue baru aja beli donat lagi! Penjahat kagak punya simpati apa ya?
+CAT4_BB	5CD3F4E7	Duit suapnya bisa kita ambil ntar. Mending sekalian aja kita cek ke sana.
+CAT4_BC	2BD4C471	Kita tahu lu pada ada di dalam!
+CAT4_BD	B5B051D2	Permainan usai! Keluar lu pada!
+CAT4_BE	C2B76144	Keluar baik-baik dan damai!
+CAT4_BF	5BBE30FE	Nyerah aja lu, udah dikepung!
+CAT4_BG	2CB90068	Gue tahu lu pasti coba lewat pintu belakang!
+CAT4_BH	BC061DF9	Kita udah nungguin lu dari tadi!
+CAT4_BI	CB012D6F	Jangan cengengesan terus lepas baju lu!
+CAT4_BJ	52087CD5	Kalian berdua; JANGAN BERGERAK!
+CAT4_BK	250F4C43	Perhatian untuk semua unit - ada orang gila ngerampok bank di Palomino Creek!
+CAT4_CA	DCC1941C	Lu bagian ngontrol kerumunan, jadi jangan toleransi macem-macem!
+CAT4_CB	45C8C5A6	Siap Nona Catalina.
+CAT4_CC	32CFF530	Terus jangan sok ngelawak, lu KAGAK lucu, Carl Johnson!
+CAT4_CD	ACAB6093	Jangan coba-coba ngelakuin hal aneh, bangsat!
+CAT4_CE	DBAC5005	Serahin semua duit lu sampe dolar terakhir, SEKARANG, ANJING!
+CAT4_CF	42A501BF	Gue bakal ngosongin isi brankas.
+CAT4_CG	35A23129	Tetep todongin senjata ke orang-orang bego ini!
+CAT4_CH	A51D2CB8	Yoi, lu denger sendiri kan kata bos cewek, jangan sok pahlawan!
+CAT4_DA	938002DB	Jangan pernah mikir buat macem-macem!
+CAT4_DB	0A895361	Ngapain lu ngeliatin gue?
+CAT4_DC	7D8E63F7	Lu punya anak?
+CAT4_DD	E3EAF654	Nganggep diri lu pahlawan?
+CAT4_DE	94EDC6C2	Jangan pancing emosi gue!
+CAT4_DF	0DE49778	Hari gue lagi suram banget nih!
+CAT4_DG	7AE3A7EE	Ini kagak keren sama sekali, tolol!
+CAT4_DH	EA5CBA7F	Gue ngomong apaan tadi?
+CAT4_DI	9D5B8AE9	Gue kagak bakal ngulang pertanyaan gue lagi!
+CAT4_DJ	0452DB53	Lu mau mati, hah?
+CAT4_DK	7355EBC5	Lu bener-bener mancing emosi gue, bangsat!
+CAT4_DL	ED317E66	Gue udah cukup muak sama drama lu!
+CAT4_DM	9A364EF0	Gue serius nih, SERIUS BANGET!
+CAT4_EA	8A9B339A	Oh anjrit!
+CAT4_EB	13926220	Mba, kan udah gue peringatin!
+CAT4_EC	649552B6	Sialan! Gue ngasih lu satu tugas sepele doang padahal!
+CAT4_ED	FAF1C715	Bego banget (*idiota*)!
+CAT4_FA	A1B66059	Polisi-polisi anjing itu bakal sampe ke sini sebentar lagi!
+CAT4_FB	38BF31E3	Hancurin mesin ATM terus ambil duit sebanyak-banyaknya!
+CAT4_FC	4FB80175	Gue bakal mantau di luar!
+CAT4_FD	D1DC94D6	Cepat, waktu kita gak banyak!
+CAT4_GA	B8AD5118	Tai! Orang-orang bego (*idiotas*) lokal udah rame di jalanan!
+CAT4_GB	21A400A2	Mending lewat pintu belakang!
+CAT4_HA	3F354DD7	Carl, di belakang lu!
+CAT4_HB	A63C1C6D	Awas, Carl!
+CAT4_HC	D13B2CFB	Awas belakang lu, Carl!
+CAT4_HD	4F5FB958	Sebelah kiri kita!
+CAT4_HE	385889CE	Ada polisi (*policia*) di sebelah kanan kita!
+CAT4_HF	A151D874	Polisi! Berlindung!
+CAT4_HG	D656E8E2	Maju terus!
+CAT4_HH	46E9F573	Ikutin gue!
+CAT4_HI	31EEC5E5	Lindungin gue!
+CAT4_HJ	A8E7945F	Jalan Carl, gue cover dari belakang!
+CAT4_JA	0D032F55	Ambil motor terus ikutin gue!
+CAT4_JB	940A7EEF	Lu pikir lu sanggup ngimbangin kecepatan cewek sejati?
+CAT4_KA	14181E14	Lu ngapain aja sih lelet amat?
+CAT4_KB	8D114FAE	Lambat banget lu keparat!
+CAT4_KC	FA167F38	Takut kenceng lu ya, Carl?
+CAT4_KD	6472EA9B	Jangan nyasar-nyasar mulu napa!
+CAT4_KE	1375DA0D	Lu terlalu lemas, pemalas kagak guna!
+CAT4_KF	8A7C8BB7	Tancap gas dikit kenapa, bego amat lu bangsat!
+CAT4_KG	FD7BBB21	Tambah kecepatannya, kurangi begonya (*idiota*)!
+CAT4_LA	5B5988D3	Gue ngerasa bergairah banget hari ini, kek terlahir kembali!
+CAT4_LB	C250D969	Bagus deh, berarti lu kagak bakal ngamuk-ngamuk gila kan, hah?
+CAT4_LC	B557E9FF	Oh gue tetep bakal ngamuk gila, tapi ntar pas gue bener-bener emosi!
+CAT4_LD	2B337C5C	Oh, Lega banget gue denger hal itu!
+CAT4_LE	5C344CCA	Moga-moga kali ini kagak ada keparat sok koboi yang ngalangan jalan kita!
+CAT4_LF	C53D1D70	Setuju banget gue buat yang itu!
+CATDEAD	E413842B	~r~Catalina tewas!
+CATLEFT	73512A67	~s~Lu ninggalin ~b~Catalina~s~ di belakang. Balik lagi terus jemput dia.
+CATX_AA	9F07BE25	Lebih kenceng, Carl, lebih kenceng!
+CATX_AB	060EEF9F	Gue demen cowok yang main kenceng!
+CATX_AC	7109DF09	Injek gasnya, lemah amat lu!
+CATX_AD	EF6D4AAA	Tancap gaspol, CJ, gaspol!
+CATX_AG	76641B10	Gue pernah ketemu babi yang nyetirnya bisa lebih kenceng dari lu!
+CATX_AH	E6DB0681	Carl, lu lambat banget, plus lemot banget anjing.
+CATX_BF	2A4E7845	Masuk ke mobil bangsat!
+CATX_DE	E51D8E79	Bawa kita balik ke markas!
+CATX_JA	7CF367EE	Carl, berani-beraninya lu ninggalin gue!
+CATX_JB	E5FA3654	Tungguin gue, Carl!
+CATX_JC	92FD06C2	Tungguin gue, dasar lu bego (*idiota*)!
+CATX_JD	0C999361	Woy, kalo lu tinggalin gue, keluarga lu gue bantai!
+CATX_JF	E297F24D	Woy, di sini cuma gue yang berhak pemutus hubungan!
+CATX_JG	9590C2DB	Lu mau kabur dari gue ya?
+CATX_JH	052FDF4A	Lu gak bakal bisa jauh tanpa gue!
+CATX_NA	189FA2EA	Carl, cariin kendaraan dong bangsat!
+CATX_RA	FEE8FFB7	Nih ambill
+CATX_SA	E7F3CEF6	Mati lu, anjing-anjing bego (*idiota*)!
+CATX_SB	7EFA9F4C	Gue bantai lu semua anjing polisi!
+CATX_SC	09FDAFDA	Gue udah ngebunuh ratusan anjing kek lu pada!
+CATX_SD	97993A79	Makan nih, anjing (*perro*) bangsat!
+CATX_SE	E09E0AEF	Moga-moga rasanya sakit banget!
+CATX_SF	79975B55	Moga-moga lu matinya lama dan menyiksa!
+CATX_SG	0E906BC3	Gue penggal kepala lu bangsat!
+CATX_SH	9E2F7652	Gue goreng biji lu terus gue makan!
+CATX_TA	A8B25831	Gue bakal bantai lu semua polisi bego!
+CATX_TB	31BB098B	Lu mau kena juga, hah?
+CATX_TC	46BC391D	Rasain nih terus pusing lu!
+CATX_TE	AFDF9C28	Gue bakal membantai dan membantai!
+CATX_TF	36D6CD92	Kagak ada yang boleh macem-macem sama gue, KAGAK ADA!
+CATX_TG	41D1FD04	Keluarga lu sekalian gue bantai ntar!
+CATX_TH	D16EE095	Gue kulitin lu kek anjing (*perro*)!
+CATX_TK	4867B12F	Minum nih kencing gue!
+CATX_TL	D603248C	Untung lu kagak gue sodok pake nih senjata!
+CATX_TM	A104141A	Lu ngetawain gue?
+CATX_TN	380D45A0	Gue liat lu ngetawain gue ya!
+CATX_TO	4F0A7536	Kagak ada yang bisa selamat dari Catalina, KAGAK ADA!
+CATX_TP	C20278C3	lu lagi urusan sama cewek paling gila di kota ini, keparat
+CATX_TR	2C0C19EF	lu ngomong apaan tadi, hah?
+CATX_TS	5B0B2979	jangan ngetawain gue lu!
+CATX_TT	C56FBCDA	kagak ada rasa hormatnya sama cewek!
+CATX_UC	5FA7085C	Bajingan (*cabron*) kagak guna!
+CATX_UD	C1C39DFF	Mubazir banget lu punya telor!
+CATX_UE	B6C4AD69	Mending gue potong aja telor lu!
+CATX_UG	58CACC45	Lu ngapain sih, anjing (*perro*) bego!
+CATX_UH	C875D1D4	Gue kagak bakal mau ngentot sama lu lagi!
+CATX_VA	9A843AB3	Kita mau ke mana nih?
+CATX_VB	038D6B09	Kenapa lama banget sih?
+CATX_VC	748A5B9F	Lu yakin ini jalannya?
+CATX_VD	EAEECE3C	Ini sih bukan jalan pintas!
+CATX_VE	9DE9FEAA	Jangan bilang kalo kita nyasar!
+CATX_VF	04E0AF10	Lu piker kita mau ke mana sih?
+CATX_VG	73E79F86	Lu nyasar, dasar bego!
+CAT4_VH	E3588217	Gue minta lu nyetir, tapi lu malah main-main!
+CATX_VJ	0D56E33B	Carl, lu ngapain sih?
+CATX_VK	7A51D3AD	Ayolah, Carl.
+CATX_VL	E435460E	Tolonglah Carlito, nyetir yang bener.
+CATX_VM	93327698	Ayolah Carl, lu ngapain sih buang-buang waktu?
+CATX_VN	0A3B2722	Carl, tolonglah, ayolah
+CATX_VO	7D3C17B4	Cepetan dikit kenapa, Carlito.
+CATX_VP	F0341A41	Tolonglah Carl, ayolah, buruan nyetirnya bangsat
+CATX_VQ	87332AD7	Di mana lagi nih bangsat?
+LEFTC	4D016CAD	~s~Lu ninggalin Catalina di belakang, balik terus jemput dia!
+LOSE	E39FB613	~r~Lu kehilangan jejak para perampok.
+LOSE2	4C8A8FE8	~r~Catalina cuma tinggal kenangan.

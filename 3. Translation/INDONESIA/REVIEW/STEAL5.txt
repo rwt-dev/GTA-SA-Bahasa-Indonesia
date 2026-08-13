@@ -1,0 +1,51 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	05E71F86	Pencet ~m~~widget_stinger~ buat menjatuhkan Stinger (paku ranjau).
+STE5_01	592F19A4	~s~Bocorkan ban ~r~mobil target~s~ nggunain stinger (paku ranjau).
+STE5_02	C026481E	~s~Lu cuma punya ~1~ stinger (paku ranjau) tersisa.
+STE5_03	B7217888	Ketuk ~m~~widget_stinger~ buat menjatuhkan Stinger (paku ranjau).
+STE5_04	2945ED2B	Stinger (Paku Ranjau)
+STE5_05	5E42DDBD	~r~Lu kehabisan stinger (paku ranjau).
+STE5_06	C74B8C07	~s~Lu harus ada di dalam ~b~mobil~s~ yang udah dimodifikasi buat nggunain stinger.
+STE5_07	B04CBC91	~s~Bocorkan ban ~r~mobil target~s~.
+STE5_08	20F3A100	~s~Masuk balik ke dalam ~b~mobil~s~.
+STE5_09	57F49196	~r~Mobil target hancur!
+STE5_10	37331873	~r~Mobil pembawa stinger hancur!
+STE5_11	403428E5	~s~Bawa mobilnya balik ke ~y~bengkel garasi~s~.
+STE5_12	D93D795F	~s~Masuk ke dalam ~b~mobil~s~. ~b~Mobil~s~ ini udah dimodifikasi buat nggunain stinger.
+STE5_13	AE3A49C9	~s~Masuk ke dalam ~b~mobil~s~.
+STE5_14	305EDC6A	~r~Lu kehilangan target mobilnya!
+STL5@00	3442AF0E	Woy bro, dari mana aja lu?
+STL5@01	43459F98	Gue berhasil melacak salah satu mobil di dalam daftar belanjaan kita,
+STL5@02	DA4CCE22	tapi tuh cewek gila, cara nyetirnya kek setan!
+STL5@03	AD4BFEB4	Gue udah mengikutin dia berjam-jam, tapi dia kagak mau berhenti buat apa pun!
+STL5@04	332F6B17	Lu terpaksa harus menabrak mobilnya keluar dari jalanan biar dapet kesempatan
+STL5@05	44285B81	buat mengambil mobilnya, sama lu tahu sendiri mobil ringsek kagak ada gunanya buat kita!
+STL5@06	DD210A3B	Gue sumpah dia lagi mempermainkan gue!
+STL5@07	AA263AAD	Bro, tenang dulu!
+STL5@08	3A99273C	Kalo dia lagi mempermainkan lu,
+STL5@09	4D9E17AA	berarti dia kemungkinan kagak bakal mau melibatkan polisi (*one-time*) sebelum situasinya makin parah.
+STL5@10	2D599E4F	Kita kudu nemuin cara buat menghentikan dia, atau memperlambat dia.
+STL5@11	5A5EAED9	Sayang banget kita kagak bisa melibatkan polisi,
+STL5@12	C357FF63	soalnya ntar mereka bisa membelah bocor ban tuh cewek gila
+STL5@13	B450CFF5	terus memasukkan pantat tuh cewek gila ke dalam penjara
+STL5@14	2A345A56	gara-gara udah membahayakan kesehatan mental gue!
+STL5@15	5D336AC0	Bro, santai!
+STL5@16	C43A3B7A	Lu tahu kagak, kayaknya gue punya ide...
+STL5_AA	321E425E	Woy, CJ, gimana perkembangannya sama tuh cewek gila?
+STL5_AB	AB1713E4	Udah gue bocorin bannya!
+STL5_AC	DC102372	Ini baru mau nambal bannya, bentar lagi juga balik.
+STL5_AD	4274B6D1	Oke, hati-hati sama cairan penambal ban bocor itu, CJ, barangnya pekat bangsat!
+STL5_AE	35738647	Siap dilaksanakan. Ntar lagi ya, bro.
+STL5_AF	AC7AD7FD	Bro, barang ini menjijikkan banget.
+STL5_AG	DB7DE76B	Ah taik, kena ke seluruh baju gue!
+STL5_BA	1933119D	Lu gila bego (*loco idiota*)!
+STL5_BB	803A4027	Woy keparat (*cabron*), apa yang lagi lu nyoba lakuin, hah?
+STL5_BC	F73D70B1	Lu nyoba ngebunuh gue, keparat?
+STL5_BD	6959E512	Mundur lu, orang gila!
+STL5_BE	1E5ED584	Bangsat, lu bisa bikin gue tewas!
+STL5_BF	8757843E	Persetan sama lu, keparat!

@@ -1,0 +1,248 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	949B79D5	Buat ngeliat ke sekeliling mobil pake kontrol gerakan kamera. Buat nembak pencet ~m~~widget_attack~.
+FIN1_AA	4D122445	Ini Kepolisian Los Santos (LSPD); Tetap berada di posisi kalian!
+FIN1_AB	D41B75FF	Tetap berada di posisi kalian!
+FIN1_AC	A31C4569	Jangan bergerak atau kami buka tembakan!
+FIN1_AD	3D78D0CA	Maju! Maju! Maju!
+FIN1_AE	4A7FE05C	Mengambil posisi!
+FIN1_AF	D376B1E6	Mundur!
+FIN1_AG	A4718170	Posisi bertahan!
+FIN1_AH	34CE9CE1	Tunggu tim bantuan!
+FIN1_AI	43C9AC77	Anak-anak gengster bangsat ini!
+FIN1_AJ	DAC0FDCD	Bantai para kelinci kumuh (*ghetto bunnies*) ini!
+FIN1_AK	ADC7CD5B	Kita bakal ngentot/mbantai mayat dingin kalian!
+FIN1_AL	33A358F8	Bantai dia!
+FIN1_AM	44A4686E	Lumpuhkan target (*tango*) itu!
+FIN1_AN	DDAD39D4	Robohkan orang itu!
+FIN1_AO	AAAA0942	Target (*tango*) jatuh!
+FIN1_AP	27A204B7	Tewas satu keparat!
+FIN1_AQ	50A53421	Satu lagi masuk kantong mayat!
+FIN1_AR	C9AC659B	Dobrak pintu itu!
+FIN1_AS	BEAB550D	Maju Maju Maju!
+FIN1_AT	20CFC0AE	Kiri aman!
+FIN1_AU	57C8F038	Target (*tango*) di sebelah kanan!
+FIN1_AV	CEC1A182	Kanan aman!
+FIN1_AX	29798C85	Target (*tango*) di sebelah kiri!
+FIN1_AY	5E7EBC13	Ruangan aman!
+FIN1_AZ	C777EDA9	Aman!
+FIN1_BA	663F7786	Tembak hancur kuncinya!
+FIN1_BB	FF36263C	Di mana shotgun itu?
+FIN1_BC	883116AA	Gue kena tembak, lindungin gue!
+FIN1_BD	16558309	Kasih tembakan penekan (*suppressing fire*) di dalam sana!
+FIN1_BE	6152B39F	Kasih gue tembakan perlindungan bangsat!
+FIN1_BF	F85BE225	Bawa tameng-tameng bangsat itu ke dalam sini!
+FIN1_BG	8F5CD2B3	Di mana tameng-tameng itu?
+FIN1_BH	1FE3CF22	Diem lu terus masuk!
+FIN1_BI	68E4FFB4	Awasin kepala lu.
+FIN1_BJ	F1EDAE0E	Tatap kebebasan kalian buat terakhir kalinya, bocah-bocah!
+FIN1_BK	86EA9E98	Kejutan, bro (*homeboy*)!
+FIN1_BL	188E0B3B	Awas kepala, bro!
+FIN1_BM	6F893BAD	Lu kagak bisa ngumpet selamanya!
+FIN1_BN	F6806A17	Mending lu keluar aja!
+FIN1_BO	81875A81	Buzzard 1, sorot cahaya ke atap gedung!
+FIN1_BP	0C8F5774	Buzzard 1, ada target (*tango*) di atap gedung!
+FIN1_BQ	7B8867E2	Kita punya target di atap gedung, di mana helikopter itu?
+FIN1_BR	E2813658	Diterima (*roger*), gue dapet mereka!
+FIN1_BS	958606CE	Siap dipahami (*wilco*), ketua tim, target terlihat di pandangan!
+FIN1_BT	0BE2936D	Ini Buzzard 1, mata gue udah ngunci mereka!
+FIN1_BU	7CE5A3FB	Bantai target-target (*tango*) ini!
+FIN1_BV	E5ECF241	Sorot cahaya ke bawah sana!
+FIN1_BW	92EBC2D7	Sialan!
+FIN1_BX	0254DF46	Kita kehilangan lampu sorot!
+FIN1_BY	7553EFD0	Ini Buzzard 1, kita kena tembakan dari darat!
+FIN1_BZ	EC5ABE6A	Turunin Tim Charlie di atas atap, sekarang!
+FIN1_CA	7F2446C7	Kita kudu nurunin Tim Charlie di bawah sana!
+FIN1_CB	E62D177D	Empat gengster di dalam mobil biru 4-pintu menuju balik ke South Central.
+FIN1_CC	912A27EB	Hadang dia!
+FIN1_CD	0F4EB248	Pepet mobilnya!
+FIN1_CE	784982DE	Maju ke depan mobilnya!
+FIN1_CF	E140D364	Kita jebak mereka kek ikan di dalam bak mandi!
+FIN1_CG	9647E3F2	Hantam mobil itu pake semua yang lu punya!
+FIN1_CH	06F8FE63	Bantai/brondong para keparat itu!
+FIN1_CI	71FFCEF5	Semua unit gaskan (*Rock'n'roll*)!
+FIN1_CJ	E8F69F4F	Astaga tahi! Unit Echo tumbang!
+FIN1_CK	9FF1AFD9	Unit tumbang, diulang, unit tumbang!
+FIN1_CL	01953A7A	Mayday, mayday! Helikopter Buzzard 1 mau jatuh!
+FIN1_CM	76920AEC	Ini Buzzard 1, kita mendarat darurat!
+FIN1_CN	EF9B5B56	Buzzard 1 pamit dari pesta, dadah, bocah-bocah!
+FIN1_CO	989C6BC0	Mobil biru 4-pintu di East Los Santos menuju ke Ganton!
+FIN1_DA	3065D000	Lu udah nyelamatin gue, nih rasain kehangatan gue!
+FIN1_DB	A96C81BA	Pahlawan gue berhak dapet belaian manis gue!
+FIN1_DC	DE6BB12C	Oh sayang, lu terluka!
+FIN1_EA	297EE141	Ini Kepolisian LSPD jangan, WOY! APA-APAAN BANGSAT? TERLALU RENDAH, LU BAKAL NGEBUNUH KITA SEMUA!
+FIN1_EB	B077B0FB	LSPD, berhenti di tempat, LU GILA YA, LU BAKAL NGEBUNUH KITA SEMUA!
+FIN1_FA	0253B282	Apa-apaan nih ast-AAAARGGH!
+FIN1_FB	9B5AE338	TUHAN JANGAN, AAIIEEEGHH!
+FIN1_FC	EC5DD3AE	OH KRISTUS, AARRGGHH!
+FIN1_FD	7239460D	Woo-Woo-WOO-AAIIEEGGH!
+FIN1_GA	1B4883C3	Omong-omong, CJ, lu mau nabrakin mobilnya lagi kagak nih?
+FIN1_GB	8241D279	Ngentot lu, Ryder.
+FIN1_GC	F546E2EF	Ryder, kasih jeda buat CJ kenapa, bro. Dia praktis udah membangkitkan Grove balik sendirian.
+FIN1_GD	6B22774C	Bro, gue kan cuma bercanda doang sama si bocah kecil ini.
+FIN1_GE	1C2547DA	Semua hal yang lu lakuin itu lelucon, Ryder.
+FIN1_GF	852C1660	Bener banget, itu baru adik gue!
+FIN1_GG	F22B26F6	Kagak bener tuh!
+FIN1_GH	62943B67	Kasih tau mereka, Smoke - dukung gue! Itu kagak bener!
+FIN1_GI	15930BF1	Ryder... santai aja kenapa bangsat!
+FIN1_GJ	8C9A5A4B	Inget, kita mau menyatukan lagi kubu Families, jadi kagak ada omong kosong.
+FIN1_GK	FB9D6ADD	Tetep santai.
+FIN1_GL	65F9FF7E	Lu tau gue lah, Sweet, santai kek biksu Shaolin!
+FIN1_GM	12FECFE8	Terutama lu, Ryder.
+FIN1_GN	8BF79E52	Maksud lu apaan? Gue tersinggung sama sindiran lu bangsat.
+FIN1_GO	FCF0AEC4	Sweet cuma mau bilang lu itu pembunuh alami, sayang.
+FIN1_GP	71F8A331	Lu harus kontrol diri lu terus tetep santai.
+FIN1_GQ	06FF93A7	Yoi, anggap aja kek gini - gue paham apa yang coba dia omongin,
+FIN1_GR	9FF6C21D	tapi gue selalu santai, bego!
+FIN1_GS	E8F1F28B	Woy kita semua setuju soal itu, sayang.
+FIN1_GT	76956728	Oke, kita udah hampir nyampe. Kalian semua santai?
+FIN1_GU	019257BE	Kawan-kawan semua santai?
+FIN1_GV	989B0604	Santai banget, sayang.
+FIN1_GW	EF9C3692	Pasti lah, bro.
+FIN1_HA	9CD09F0C	Oke, syaratnya cuma satu perwakilan tiap kubu geng - kalian harus nunggu di sini.
+FIN1_HB	05D9CEB6	Kita nunggu di sini jaga-jaga aja, bro.
+FIN1_HC	72DEFE20	Makasih, bro, tapi gue aman bareng anak-anak ini.
+FIN1_HD	ECBA6B83	Gue kagak demen nih, bro. Liat tuh semua kubu geng Families lain! Dulu mereka anak Grove Street.
+FIN1_HE	9BBD5B15	Santai. Kita aman, mereka aman. Kalo lu gimana, Smoke?
+FIN1_HF	02B40AAF	Kalo lu gimana, Smoke?
+FIN1_HG	75B33A39	Woy, gue ngerasa agak kagak terlindungi sih, tapi gue aman.
+FIN1_HH	E50C27A8	Ini Kepolisian Los Santos (LSPD); Semuanya tetap berada di posisi kalian!
+FIN1_HI	920B173E	Oh tai!
+FIN1_HJ	0B024684	Bro, ngapain lu?
+FIN1_HK	7C057612	Carl, masuk balik, bro kita cabut dari sini!
+FIN1_HL	E261E3B1	Gue kagak bakal ninggalin abang gue, gue bukan pecundang (*buster*)!
+FIN1_HM	9566D327	Bro, sekarang urus diri masing-masing!
+FIN1_JA	AEE6FD8E	Taik, woy bro, lu aman?
+FIN1_JB	37EFAC34	Kagak, gue kena tembak parah bangsat, bro
+FIN1_JC	40E89CA2	Di mana para pimpinan senior (*OG*) - gue harus nemuin abang gue, Sweet.
+FIN1_JD	DE8C0901	Mereka lagi rapat di bagian belakang motel di suatu tempat...
+FIN1_JE	A98B3997	Sip, bro. Tahan dulu di situ.
+FIN1_JF	3082682D	Families! Polisi pada masuk dari belakang!
+FIN1_JG	478558BB	Ngentot lu polisi! Ngentot buat kalian semua!
+FIN1_JH	D73A452A	Lama banget lu? Mana Smoke sama Ryder?
+FIN1_JI	A03D75BC	Mereka kabur ninggalin kita!
+FIN1_JJ	39342406	Apa!?
+FIN1_JK	4E331490	Bodo amat lah, ayo cabut dari sini!
+FIN1_JL	D0578133	CJ, helikopter itu ngincar kita mulu! Tembak!
+FIN1_JM	A750B1A5	CJ, berondong helikopter itu!
+FIN1_JN	3E59E01F	Ayolah, CJ, gaskan!
+FIN1_JO	495ED089	Adik kecil, ayo gaskan!
+FIN1_KA	B7FDCCCF	Ah tai, apaan lagi nih?
+FIN1_KB	2EF49D75	Itu Smoke sama Ryder!
+FIN1_KC	59F3ADE3	Masuk!
+FIN1_KD	C7973840	Seneng bisa ngeliat kalian lagi!
+FIN1_KE	B09008D6	Injek gasnya!
+FIN1_KF	2999596C	Woy bro, peluru gue mau habis nih.
+FIN1_KG	5E9E69FA	Gue punya AK-47 di sini!
+FIN1_KH	CE21746B	Barang antik bangsat ini?
+FIN1_KI	B92644FD	Yoi, mau gimana lagi... Emmet kan bukan pabrik Pentagon!
+FIN1_KJ	202F1547	Lu dapet senjata ini dari Emmet? Tai lah...
+FIN1_KK	572825D1	Astaga tahi! Lihat tuh!
+FIN1_KL	C94CB072	Sialan! Dikit lagi tuh!
+FIN1_KM	BE4B80E4	Bro, mereka terbakar hancur! Lu liat kagak tadi?
+FIN1_KN	2742D15E	Lu liat kagak tadi?
+FIN1_KO	5045E1C8	Bro, makin tegang nih! Makin parah keadaan di luar!
+FIN1_KP	DD4DEC3D	Ini mah kek Perang Dunia ke-8!
+FIN1_KQ	AA4ADCAB	Kita bener-bener ada di tengah-tengah kekacauan ini malam ini!
+FIN1_KR	33438D11	Harusnya gue diem di rumah aja nonton pertandingan bola bangsat!
+FIN1_KS	4444BD87	Woy, CJ, awasin sebelah kiri!
+FIN1_KT	DA202824	Kiri lu apa kiri gue?
+FIN1_KU	AD2718B2	Mana gue tahu bangsat, tembak aja semua orang, keparat!
+FIN1_KV	342E4908	Sisi gue! SISI GUE!
+FIN1_KW	4329799E	CJ! Sebelah kanan kita!
+FIN1_KX	D396640F	CJ, awasin sebelah kanan kita!
+FIN1_KY	A4915499	Lindungin sebelah kanan, Carl!
+FIN1_LA	F8BC5A08	Mata lurus ke depan, CJ!
+FIN1_LB	61B50BB2	Ada masalah di depan!
+FIN1_LC	16B23B24	Mereka ada di depan kita!
+FIN1_LD	88D6AE87	Masalah di depan!
+FIN1_LE	FFD19E11	Ngebuang-buang donat enak aja.
+FIN1_LF	66D8CFAB	Ayo jalan
+FIN1_LG	11DFFF3D	Semua kekacauan pecah malam ini!
+FIN1_LH	8160E2AC	Kayaknya mending kita bantu tembak deh...
+FIN1_LI	F667D23A	Smoke, APA-APAAN BANGSAT yang lagi lu lakuin?
+FIN1_LJ	6F6E8380	Gue demen hal yang bersih!
+FIN1_LK	1869B316	Oh, bro, kaca gue pecah!
+FIN1_LL	860D26B5	Naiikkin kaca jendela kalian!
+FIN1_LM	F10A1623	Smoke, otak lu di mana sih bro?
+FIN1_LN	68034799	Aduh bro, kaca jendela gue lagi turun bangsat!
+FIN1_LO	1F04770F	Mata gue kemasukan busa sabun!
+FIN1_LP	920C7AFA	Bangsat lu Smoke, mata gue kemasukan sabun!
+FIN1_LQ	E50B4A6C	Woy, bukannya kita tadi udah lewat sini ya?
+FIN1_LR	7C021BD6	Kita cuma muter-muter di tempat yang sama!
+FIN1_LS	0B052B40	Smoke, berhenti muter-muter gajelas!
+FIN1_LT	9561BEE3	Woy, gue cuma ngambil pilihan jalan yang ada, oke?
+FIN1_LU	E2668E75	Ini bukan jalan-jalan santai hari Minggu, CJ!
+FIN1_LV	7B6FDFCF	Mungkin kalo lu ngomong baik-baik sama opsir polisi ini mereka bakal biarin kita jalan!
+FIN1_LW	0C68EF59	Woy, bro, ada orang gila gelantungan di belakang mobil!
+FIN1_LX	9CD7F2C8	Siapa aja tembak dia!
+FIN1_MA	E1A76B49	OH TAI! Ada barikade jalan di depan!
+FIN1_MB	78AE3AF3	Pistol AK-nya macet bangsat!
+FIN1_MC	0FA90A65	Senjata murahan sampah buatan Emmet!
+FIN1_MD	91CD9FC6	Bodo amat lah, gue terobos!
+FIN1_ME	E6CAAF50	CJ, ada helikopter polisi (*ghetto bird*) di depan!
+FIN1_MF	7FC3FEEA	Kan udah gue bilang tempat peluru gue udah kosong!
+FIN1_MG	08C4CE7C	Ngapain tuh orang gila bangsat?
+FIN1_MH	987BD3ED	Mundur, Smoke, Mundur!
+FIN1_MI	EF7CE37B	Kagak bakal, gue terobos!
+FIN1_MJ	7675B2C1	Oh, bro, di mana gue naro air minum gue?
+FIN1_MK	01728257	Smoke, lu bener-bener gila!
+FIN1_ML	9F1617F4	Oooooooh TAAAAAAIIIII!
+FIN1_MM	E8112762	Oh bro, jijik/menjijikkan banget!
+FIN1_MN	711876D8	Agh! Ada potongan telinga nempel di pangkuan gue!
+FIN1_MO	061F464E	CJ! Buang benda ini dari gue! Buang dari gue!
+FIN1_MP	8B174BBB	Ah bro, gue kagak sudi megang potongan bangsat di pangkuan lu!
+FIN1_MQ	FC107B2D	Woy, gue kagak bisa ngeliat apa-apa gara-gara kehalangan darah bangsat ini!
+FIN1_MR	65192A97	Pelan-pelan, Smoke, PELAN-PELAN!
+FIN1_MS	121E1A01	Oh tai, remnya blong!
+FIN1_MT	8C7A8FA2	Oh bro kita bakal matiiii!
+FIN1_MU	FB7DBF34	Sialan! Ini bakal jadi cerita yang mantap banget pas kita lagi hisap ganja ntar!
+FIN1_MV	6274EE8E	Bro, itu tadi gila banget asli! Woo!
+FIN1_MW	1573DE18	Memek lah! Kita harus cabut dari sini!
+FIN1_MX	85CCC389	Ryder bener, semuanya mencar, ntar kita kumpul lagi belakangan.
+FIN1_ZA	E424EFDF	Oh tai! Yang ada di kaca spion gue cuma musuh semua!
+FIN1_ZB	7D2DBE65	Carl, di belakang kita! Di belakang kita!
+FIN1_ZC	0A2A8EF3	CJ, lindungin bagian belakang!
+FIN1_ZD	944E1B50	Carl, mereka ngeroyok belakang kita, bro!
+FIN1A00	4A8CA322	Ada apaan nih, kalian semua!
+FIN1A01	3D8B93B4	Ada apaan CJ!
+FIN1A02	A482C20E	Matiin TV itu buruan. Dengerin, kawan-kawan,
+FIN1A03	D385F298	kek yang udah kita omongin. Kagak ada lagi narkoba di jalanan kita.
+FIN1A04	4DE1673B	Akhirnya.
+FIN1A05	3AE657AD	Perhatiin nih - kita bakal menyatukan kubu Families sekali lagi.
+FIN1A06	A3EF0617	Gara-gara geng Ballas udah nyuapin anak-anak kita pake narkoba terlalu lama,
+FIN1A07	D4E83681	selagi kita malah saling berantem sendiri.
+FIN1A08	44572B10	Jadi semua fraksi Families bakal kumpul di Jefferson Motel.
+FIN1A09	33501B86	Gue bilang udah waktunya kita ke sana terus meresmikan hal ini.
+FIN1A10	53979263	Jauhin barang haram itu dari jalanan kita!
+FIN1A11	2490A2F5	Gue milih gue sendiri yang jadi perwakilan di acara ini.
+FIN1A12	BD99F34F	Woy, mantap lah.
+FIN1A13	CA9EC3D9	Kalo Sweet mikir dia sanggup ngatasin itu, gue dukung dia, bro.
+FIN1A14	54FA567A	Sip - ayo gaskan cabut, kawan-kawan.
+FIN1A15	23FD66EC	Sialan, cewek itu seksi banget!
+FIN1A16	BAF43756	Oh, yoi!
+FIN1A17	CDF307C0	Ada apaan, bro!
+FIN1A18	5D4C1A51	Tepat banget.
+FIN1A19	2A4B2AC7	Ayo kita selesain ini.
+FIN1A20	78BAC1A0	Yoi, ayo jalan, bro.
+LAF1_1	A41F2C55	~s~Masuk ke dalam ~b~mobil ~s~terus antar tim ke tempat kumpul di motel.
+LAF1_17	A3181F58	~s~Masuk ke dalam ~y~motel ~w~terus bawa Sweet keluar dari sana dengan selamat!
+LAF1_2	3D167DEF	~s~Masuk balik ke dalam ~b~mobil~s~!
+LAF1_20	1651D938	Sweet
+LAF1_21	6156E9AE	Bantai semua pasukan SWAT terdekat. Baru aman buat kabur bareng ~b~Sweet~s~.
+LAF1_3	4A114D79	~s~Antar tim ke tempat kumpul di ~y~motel~s~.
+LAF1_38	0191604B	Mobil
+LAF1_4	D475D8DA	~r~Lu ngancurin mobilnya!
+LAF1_5	A372E84C	~s~Lindungin ~b~Sweet ~s~terus hancurin ~r~helikopter SWAT~s~.
+LAF1_50	59104FFF	Buat ngeliat ke sekeliling mobil pake kontrol gerakan kamera. Buat nembak ketuk ~m~~widget_attack~.
+LAF1_6	3A7BB9F6	~s~Jalan ngelewatin motel terus temuin ~b~Sweet~s~.
+LAF1_69	0BE1A498	~s~Ikutin ~b~Sweet~s~.
+LAF1_7	4D7C8960	Lu bisa membeli minuman di ~h~mesin penjual otomatis ~w~ini bakal me-refill darah lu.
+LAF1_70	6B262D7D	~r~Sweet tewas!
+LAF1_71	1C211DEB	~r~Kawan-kawan lu tewas!
+LAF1_72	85284C51	~r~Mobilnya hancur
+LAF1_95	85CFF47C	~s~Bantai para penembak SWAT sama helikopternya!

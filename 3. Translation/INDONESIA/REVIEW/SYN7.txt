@@ -1,0 +1,58 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+SYN7@00	5815273B	Carl! Kau adalah pahlawan sejati di LS, aku baru saja ngobrol sama sepupuku.
+SYN7@01	2F1217AD	Bukan di hadapan orang-orangku sendiri. Situasinya masih kacau balau.
+SYN7@02	B61B4617	Bro, aku punya kawan-kawan seperjuangan dulu yang malah berbalik memusuhiku, gara-gara masalah ini.
+SYN7@03	C11C7681	Yoi, terus, apa yang bakal kamu lakukan, hah?
+SYN7@04	5F78E322	Sialan si Ryder! Padahal dia itu kawan baikku.
+SYN7@05	287FD3B4	Dan aku sudah membunuhnya!
+SYN7@06	B176820E	Si cebol keparat itu memang pantas mendapatkannya, ya.
+SYN7@07	C671B298	Si bodoh itu sempat-sempatnya mencoba mendekati adik perempuanmu, kamu tahu itu?
+SYN7@08	56CEAF09	Mungkin kamu benar kalau begitu, bro. Tapi...
+SYN7@09	21C99F9F	Santai sedikitlah. Kamu jadi kelihatan lembek di depanku, bro.
+SYN7@10	410E167A	Kamu sudah melakukan hal yang hebat, kan?
+SYN7@11	360926EC	Ya, kamu memang melakukannya. Tapi ini belum berakhir.
+SYN7@12	AF007756	Maksudmu apa?
+SYN7@13	D80747C0	Begini, mantan teman-temanmu itu punya sebuah pabrik. Dan menurutku, kalau kamu menghancurkannya
+SYN7@14	4663D263	kamu bakal membuat mereka gulung tikar selamanya.
+SYN7@15	3164E2F5	...Enggak... Seriusan...? Sialan.
+SYN7_01	3868F3E0	~s~Pergi dan ambil mobil yang sudah dipasangi bahan peledak dari ~y~Bengkel Bom~s~.
+SYN7_03	D66692CC	~s~ Parkir mobilnya di dalam ~y~pabrik narkoba (Crack Lab)~s~.
+SYN7_05	3F0537F9	~s~Bom diaktifkan.
+SYN7_13	CF7DA38D	~s~Mereka menutup gerbangnya!
+SYN7_18	58AF7A05	Bom ~1~
+SYN7_20	7D59A1F4	~m~~widget_vehicle_bomb~ Aktifkan bom.
+SYN7_23	E450F04E	~s~Kabur lewat ~y~Gerbang Utama~s~.
+SYN7_24	7A3465ED	~r~Kamu terjebak dalam ledakan!
+SYN7_29	04851950	~s~Masuk kembali ke dalam ~b~mobil~s~ dan pasang bomnya!
+SYN7_32	8A4CF199	~s~Masuk kembali ke dalam ~b~mobil~s~!
+SYN7_34	632F54AC	~s~Parkir mobilnya di dekat ~y~wadah bahan kimia~s~.
+SYN7_35	1428643A	~s~Gunakan ~y~tanjakan (ramp)~s~ untuk menerobos masuk ke dalam pabrik narkoba.
+SYN7_36	8D213580	~r~Mobilnya hancur!
+SYN7_37	FA260516	~s~Keluar dari gudang sebelum waktu habis.
+SYN7_38	6A991887	~s~Gunakan ~b~mobil~s~ untuk melompati tembok.
+SYN7_39	1D9E2811	~s~Kembali ke ~y~Garasi~s~.
+SYN7_52	DC16561F	~s~Habisi para ~r~penjaga~s~, itu akan memancing perhatian mereka.
+SYN7_53	AB116689	~s~Cari ~b~mobil~s~ lain supaya kamu bisa melakukan lompatan aksi ekstrem keluar dari halaman!
+SYN7_8	BEEAACA1	~s~Menjauhlah sejauh mungkin dari pabrik narkoba!
+SYN7_9	C9ED9C37	~r~Ledakannya tidak menghancurkan pabrik narkoba!
+SYN7_AA	5E49CA6B	Woy bro, apa sudah siap?
+SYN7_AB	C7409BD1	Semuanya sudah siap. Masuklah.
+SYN7_AC	B047AB47	Muatannya cukup kuat untuk meluluhlantakkan pabrik narkoba itu.
+SYN7_AD	2E233EE4	Sudah kupasang pengatur waktu tunda, buat memberimu waktu melarikan diri.
+SYN7_AE	59240E72	Mantap. Terima kasihinfonya.
+SYN7_BA	756499A8	Woy, ada keparat gila yang menyerang anak-anak kita!
+SYN7_BB	EC6DC812	Kita diserang!
+SYN7_BC	9B6AF884	Kita sedang diserang!
+SYN7_CA	6C7FA8E9	Keluar sana dan habisi si bodoh itu!
+SYN7_CB	F576F953	Buka gerbangnya dan bantai si keparat bodoh itu, kawan (*holmes*)!
+SYN7_CC	8271C9C5	Tembak si bodoh itu, buka gerbangnya!
+SYN7_DA	233E3E2E	Kamu sebenarnya siapa, bangsat!
+SYN7_DB	BA376F94	Sialan apa yang dia lakukan?
+SYN7_DC	CD305F02	Ini bukan tempat parkir!
+SYN7_DD	5354CAA1	Sial, aku teler berat sampai-sampai berhalusinasi!
+SYN7_DE	2453FA37	Apa aku melewatkan sesuatu di sini?

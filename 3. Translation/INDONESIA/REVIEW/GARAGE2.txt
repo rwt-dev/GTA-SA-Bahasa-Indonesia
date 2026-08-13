@@ -1,0 +1,61 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+GAR2_01	D6B2417A	~s~Takut-takutin perusahaan konstruksi.
+GAR2_02	4FBB10C0	~s~Hancurin semua ~g~kantor rakitan (portabel)~s~ terus bantai mandornya.
+GAR2_05	D1DF8563	~s~Alat berat konstruksi bisa ngebantu ngancurin ~g~kantor rakitan~s~.
+GAR2_06	48D6D4D9	Siram.....
+GAR2_10	B8AE40AD	~s~Kubur si ~r~mandor~s~ bareng sama toiletnya.
+GAR2_11	CFA9703B	~s~Dorong ~r~toilet portabel~s~ ke dalam lubang.
+GAR2_12	56A02181	~s~Terus kubur dia pake semen cair.
+GAR2_13	21A71117	~s~Mundurin truk molen/semen ke posisi di depan lubang.
+GAR2_14	BFC384B4	~s~Lurusin posisi terus mundurin truk semen ke arah lubang.
+GAR2_19	C172F809	~s~Hancurin semua ~g~kantor rakitan~s~. Lu bakal butuh buldoser.
+GAR2_20	9383136E	~s~Lu butuh truk semen!
+GAR2_29	EA5FABCA	~s~Tersisa 5 ~g~kantor rakitan~s~ lagi buat dihancurin.
+GAR2_30	8A98222F	~s~Tersisa 4 ~g~kantor rakitan~s~ lagi buat dihancurin.
+GAR2_31	FD9F12B9	~s~Tersisa 3 ~g~kantor rakitan~s~ lagi buat dihancurin.
+GAR2_32	64964303	~s~Tersisa 2 ~g~kantor rakitan~s~ lagi buat dihancurin.
+GAR2_33	13917395	~s~Tersisa 1 ~g~kantor rakitan~s~ lagi buat dihancurin.
+GAR2_34	8DF5E636	~s~Buruan! Polisi bakal sampe sebentar lagi!
+GAR2_35	FAF2D6A0	~r~Lu terlalu lama ngekubur mandornya.
+GAR2_36	63FB871A	~s~Masuk ke dalam ~b~truk semen~s~.
+GAR2_37	14FCB78C	~s~Mundurin posisi tepat di depan ~y~lubang~s~.
+GAR2_38	8443AA1D	~s~Tabrak terus!
+GAR2_39	F3449A8B	~s~Kendaraan berat lain juga bisa ngancurin ~g~kantor rakitan~s~.
+GAR2_40	C5D9B4E8	~r~Lu terlalu lama. Polisi udah ngincar lu!
+GAR2_41	B2DE847E	~s~Hancurin semua ~g~kantor rakitan~s~ sebelum polisi mendarat!
+GAR2_42	2BD7D5C4	Hati-hati hindarin tong peledak!
+GAR2_AA	B09378F1	Suara kegaduhan apaan tuh bangsat?
+GAR2_AB	299A294B	Astaga tahi! Gue kagak ngeliat apa-apa!
+GAR2_AC	5E9D19DD	Oh Tuhan, jangan!
+GAR2_AD	C0F98C7E	Ya Tuhan! Argh, gue mau muntah nih!
+GAR2_AE	B7FEBCE8	Aduh, jas gue hancur ternoda!
+GAR2_AF	2EF7ED52	Ya Tuhan baunya busuk banget!
+GAR2_AG	59F0DDC4	Tolong, siapa aja tolongin gue!
+GAR2_AH	C94FC055	Gue mau muntah - huurrgghh!
+GAR2_AJ	2741A179	Aduh, tahi gue sendiri!
+GAR2_AK	504691EF	Harusnya gue kagak makan kari bangsat itu tadi!
+GAR2_AL	CE22044C	Ya Tuhan, itu jagung bukan sih?
+GAR2_AM	B92534DA	Urgh, masuk ke mulut gue semua bangsat!
+GAR2_BA	9BBE2B32	Woy, mana helm proyek lu?
+GAR2_BB	02B77A88	Harusnya lu ada di sini kagak?
+GAR2_BC	75B04A1E	Woy, area proyek ini bahaya!
+GAR2_CA	82A51A73	Berhenti di tempat lu!
+GAR2_DB	54EDDD0E	Mundur jauh-jauh dari toilet!
+GAR2_EC	3AF1DCD9	Udah cukup!
+GAR3A00	0FB198F3	Woy, bro!
+GAR3A01	78B6A865	Ada apaan, Carl?
+GAR3A02	E1BFF9DF	Ada apaan sih bangsat?
+GAR3A03	96B8C949	Keliatan kek lonte gue di mata lu, hah?
+GAR3A04	08DC5CEA	Apaan?
+GAR3A05	7FDB6C7C	Para keparat itu pada catcalling/ngomong kurang ajar ke gue mulu!
+GAR3A06	E6D23DC6	Siapa yang ngomong gitu ke lu?
+GAR3A07	91D50D50	Tuh kuli-kuli bangunan di atas bukit itu.
+GAR3A08	016A10C1	Kagak, tahan dulu, biar gue yang urus. Gue harus ngajarin mereka sopan santun dikit, yagak?
+GAR3A09	766D2057	Lagian gue emang udah ada niatan mau ngembat tanah baru buat bengkel.
+GAR3A10	16AAA9B2	Gue hancurin mereka sekalian...
+GAR3A11	61AD9924	Sikat habis.

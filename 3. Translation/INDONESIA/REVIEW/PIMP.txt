@@ -1,0 +1,124 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+PIMP_1	7E6F8362	~s~Kamu punya ~1~ detik buat masuk balik ke ~b~mobil~s~ atau sesi germo ini selesai!
+PIMP_10	851B5F5B	~s~Pergi ke ~y~Dermaga~s~ buat nemuin calon pelanggan buat cewek kamu.
+PIMP_11	F21C6FCD	~s~Menuju ke ~y~Bandara Los Santos~s~ buat nemuin pelanggan.
+PIMP_12	6B153E77	~s~Pergi ke ~y~Willowfield~s~ sekarang.
+PIMP_13	1C120EE1	~s~Menuju ke kawasan ~y~Bluffs~s~.
+PIMP_14	82769B42	~s~Nyetir ke distrik ~y~Commerce~s~.
+PIMP_15	F571ABD4	~s~Bawa cewek kamu ke ~y~Pusat Kota (Downtown)~s~ sekarang.
+PIMP_16	6C78FA6E	~y~Glen Park~s~ adalah tujuan kamu berikutnya.
+PIMP_17	1B7FCAF8	~s~Pergi ke ~y~Little Mexico~s~ buat pelanggan lainnya.
+PIMP_18	8BC0D769	~s~Menuju ke gereja di ~y~Jefferson~s~ sekarang.
+PIMP_19	FCC7E7FF	Berikutnya ke ~y~East Los Santos~s~.
+PIMP_2	E766D2D8	~s~Ada ~b~cewek~s~ di dekat sini - pergi jemput dia.
+PIMP_20	AE360C98	~s~Nyetir ke ~y~Los Flores~s~ buat nemuin pelanggan lainnya.
+PIMP_21	D9313C0E	~s~Kali ini turunin cewek kamu di ~y~East Beach~s~.
+PIMP_22	40386DB4	~s~Menuju ke ~y~Pusat Konferensi (Conference Center)~s~ di pusat kota.
+PIMP_23	373F5D22	~s~Kali ini menuju ke ~y~Verona Beach~s~.
+PIMP_24	A95BC881	~y~Santa Maria Beach~s~ adalah tujuan kamu berikutnya.
+PIMP_25	DE5CF817	~s~Nyetir ke ~y~Marina~s~ buat nemuin pelanggan lainnya buat cewek kamu.
+PIMP_26	4755A9AD	~s~Menuju ke kawasan ~y~Pasar (Market)~s~ sekarang.
+PIMP_27	3052993B	Pusat ~y~Rodeo~s~ adalah tujuan kamu berikutnya.
+PIMP_28	A0ED84AA	~s~Kali ini menuju ke tangga ~y~Rodeo~s~.
+PIMP_29	D7EAB43C	~s~Menuju ke ~y~Richman~s~ buat nemuin pelanggan lainnya buat cewek kamu
+PIMP_3	9061E24E	~w~Mobil mantap! Jaga aku tetap aman dan kamu bakal dapet bagian persenan!
+PIMP_30	B72D3DD9	~s~Bagus! Pergi dan jemput ~b~cewek~s~ lainnya.
+PIMP_31	C02A0D4F	~w~Perlakuin aku dengan baik!
+PIMP_32	59235CF5	~w~Ini bagian kamu ganteng!
+PIMP_33	2E246C63	~w~Ini dia pelangganku. Berhenti di dekat sini. Aku bakal telepon kamu pas siap buat janji berikutnya.
+PIMP_35	C747C956	~w~Tolong aku! Orang gila ini mulai kasar! Dia pikir aku nularin penyakit ke dia!
+PIMP_36	5E4E98EC	~s~Seorang ~r~pelanggan~s~ bertindak terlalu kasar sama cewek kamu! Hajar dia!
+PIMP_37	2949A87A	~s~Kejar ~r~orang gila~s~ itu secepatnya
+PIMP_38	B9F6B5EB	~s~Kerja bagus! Nyetir balik dan jemput ~b~cewek~s~ kamu buat melanjutkan.
+PIMP_39	CEF1857D	~w~Aku dapet pelanggan pelit yang kagak mau bayar! Aku butuh teknik bujukan kamu!
+PIMP_40	F86CAB1E	0 dari 10 sesi germo berhasil!
+PIMP_41	8F6B9B88	1 dari 10 sesi germo berhasil!
+PIMP_42	1662CA32	2 dari 10 sesi germo berhasil!
+PIMP_43	6165FAA4	3 dari 10 sesi germo berhasil!
+PIMP_44	FF016F07	4 dari 10 sesi germo berhasil!
+PIMP_45	88065F91	5 dari 10 sesi germo berhasil!
+PIMP_46	110F0E2B	6 dari 10 sesi germo berhasil!
+PIMP_47	66083EBD	7 dari 10 sesi germo berhasil!
+PIMP_48	F6B7232C	8 dari 10 sesi germo berhasil!
+PIMP_49	81B013BA	9 dari 10 sesi germo berhasil!
+PIMP_50	E1779A5F	Pekerjaan Germo Selesai!
+PIMP_51	9670AAC9	~r~Cewek kamu kagak bisa melayani pelanggan di rumah sakit! Kamu bukan germo sejati!
+PIMP_52	0F79FB73	~r~Hormati pelanggan kamu! Mereka kagak bakal mau pake cewek kamu lagi kalo kamu bertindak kasar sama mereka!
+PIMP_53	787ECBE5	~s~Pergi ke ~y~area~s~ pelanggan sekarang!
+PIMP_54	E61A5E46	~s~Jemput ~b~cewek~s~ kamu sekarang!
+PIMP_55	911D6ED0	~s~~r~Pelanggan~s~ itu memanfaatkan layanan kamu tanpa bayar. Hancurkan dia!
+PIMP_56	08143F6A	~w~Woy, aku udah selesai. Mampir dan jemput aku!
+PIMP_57	7F130FFC	~s~~b~Cewek~s~ kamu udah selesai sama pelanggan. Pergi dan jemput dia.
+PIMP_59	98AB22FB	~r~Sesi germo selesai.
+PIMP_6	E00B16C1	~w~Oke! Ini dia pelangganku! Biarin aku keluar dan aku bakal telepon kamu pas udah selesai!
+PIMP_60	CA5AC99C	~s~Kerja germo yang luar biasa! Kamu berhasil menjaga cewek-cewek kamu tetap aman.
+PIMP_7	970C2657	~w~Ini bagian kamu!
+PIMP_70	D341F8DD	Bisnis Germo
+PIMP_71	A446C84B	Pembayaran:
+PIMP_72	3D4F99F1	Bagian Pelanggan
+PIMP_73	4A48A967	Pengali
+PIMP_74	D42C3CC4	Total Uang
+PIMP_75	A32B0C52	X ~1~
+PIMP_80	54D9E412	~s~Nyetir ke ~y~Mulholland~s~ buat nemuin pelanggan lainnya.
+PIMP_81	23DED484	~s~Berikutnya menuju ke tempat cuci mobil di ~y~Mulholland~s~.
+PIMP_82	BAD7853E	~s~Kali ini bawa cewek kamu ke ~y~Vinewood~s~.
+PIMP_83	CDD0B5A8	~s~Bawa cewek kamu ke dekat pemakaman ~y~Temple~s~.
+PIMP_84	53B4200B	~s~Kembali ke ~y~Idlewood~s~ buat pelanggan cewek kamu lainnya.
+PIMP_85	24B3109D	~s~Kali ini nyetir ke ~y~Ganton~s~.
+PIMP_86	BDBA4127	~s~Menuju ke ~y~El Corona~s~ buat nemuin pelanggan lainnya.
+PIMP_87	CABD71B1	~s~Menuju ke arah ~y~Little Mexico~s~ buat nemuin pelanggan lainnya.
+PIMP_90	4DC2D553	WAKTU
+PIMP_91	3AC5E5C5	~r~Kamu kehabisan waktu! Seorang germo harus cepat buat menjaga cewek-ceweknya!
+PIMP_92	A3CCB47F	~r~Pelanggan kagak bakal nunggu selamanya! Antarkan cewek kamu lebih cepat lain kali!
+PIMP200	DC0F3669	~s~Pergi ke ~y~Calton Heights~s~ buat nemuin pelanggan buat cewek kamu.
+PIMP201	AB0806FF	~s~Menuju ke taman di ~y~Juniper Hill~s~ sekarang.
+PIMP202	32015745	~s~Nyetir ke ~y~Juniper Hill~s~ dengan cepat.
+PIMP203	450667D3	~s~Pergi ke ~y~Esplanade North~s~ buat pelanggan lainnya.
+PIMP204	DB62F270	Berikutnya ke ~y~Bayside Marina~s~.
+PIMP205	AC65C2E6	~s~Nyetir ke ~y~Bayside~s~ buat nemuin pelanggan lainnya.
+PIMP206	356C935C	~s~Turunin cewek kamu di ~y~Battery Point~s~ sekarang.
+PIMP207	426BA3CA	~y~Palisades~s~ adalah tujuan kamu berikutnya.
+PIMP208	D2D4BE5B	~s~Pergi ke ~y~Chinatown~s~ buat nemuin pelanggan buat cewek kamu.
+PIMP209	A5D38ECD	~s~Menuju ke ~y~Pusat Kota (Downtown)~s~ sekarang.
+PIMP210	C5140728	~s~Nyetir ke ~y~Distrik Keuangan (Financial District)~s~ dengan cepat.
+PIMP211	B21337BE	~s~Pergi ke ~y~Esplanade East~s~ buat pelanggan lainnya.
+PIMP212	2B1A6604	Berikutnya ke ~y~Queens~s~.
+PIMP213	5C1D5692	~s~Nyetir ke ~y~Hashbury~s~ buat nemuin pelanggan lainnya.
+PIMP214	C279C331	~s~Turunin cewek kamu di ~y~Ocean Flats~s~ sekarang.
+PIMP215	B57EF3A7	~y~Avispa Country Club~s~ adalah tujuan kamu berikutnya.
+PIMP216	2C77A21D	~s~Turunin cewek kamu di ~y~King's~s~ sekarang.
+PIMP217	5B70928B	~y~Garcia~s~ adalah tujuan kamu berikutnya.
+PIMP218	CBCF8F1A	~s~Pergi ke ~y~Doherty~s~ buat nemuin pelanggan buat cewek kamu.
+PIMP219	BCC8BF8C	~s~Menuju ke ~y~Easter Basin~s~ sekarang.
+PIMP220	EE3954EB	~s~Nyetir ke ~y~Missionary Hill~s~ dengan cepat.
+PIMP221	993E647D	~s~Pergi ke ~y~Foster Valley~s~ buat pelanggan lainnya.
+PIMP222	003735C7	Berikutnya ke ~y~Bandara Easter Bay~s~.
+PIMP223	77300551	~s~Nyetir ke ~y~Palisades~s~ buat nemuin pelanggan lainnya.
+PIMP224	E95490F2	~s~Turunin cewek kamu di ~y~Paradiso~s~ sekarang.
+PIMP225	9E53A064	~y~Santa Flora~s~ adalah tujuan kamu berikutnya.
+PIMP226	075AF1DE	~y~Balaikota (City Hall)~s~ adalah tujuan kamu berikutnya.
+PIMP300	DDCD5C5E	~s~Pergi ke ~y~Pink Swan~s~ buat nemuin pelanggan buat cewek kamu.
+PIMP301	AACA6CC8	~s~Menuju ke ~y~Four Dragons~s~ sekarang.
+PIMP302	33C33D72	~s~Nyetir ke ~y~Camel's Toe~s~ dengan cepat.
+PIMP303	44C40DE4	~s~Pergi ke ~y~Come-A-Lot~s~ buat pelanggan lainnya.
+PIMP304	DAA09847	Berikutnya ke ~y~Pirates in Men's Pants~s~.
+PIMP305	ADA7A8D1	~s~Nyetir ke ~y~Royal Casino~s~ buat nemuin pelanggan lainnya.
+PIMP306	34AEF96B	~s~Turunin cewek kamu di ~y~Caligula's Palace~s~ sekarang.
+PIMP307	43A9C9FD	~y~The High Roller~s~ adalah tujuan kamu berikutnya.
+PIMP308	D316D46C	~s~Pergi ke ~y~Pilgrim~s~ buat nemuin pelanggan buat cewek kamu.
+PIMP309	A411E4FA	~s~Menuju ke ~y~Starfish Casino~s~ sekarang.
+PIMP310	C4D66D1F	~s~Nyetir ke kawasan ~y~Strip~s~ dengan cepat.
+PIMP311	B3D15D89	~s~Pergi ke ~y~Visage~s~ buat pelanggan lainnya.
+PIMP312	2AD80C33	Berikutnya ke ~y~Emerald Isle~s~.
+PIMP313	5DDF3CA5	~s~Nyetir ke ~y~Roca Escalante~s~ buat nemuin pelanggan lainnya.
+PIMP314	C3BBA906	~s~Turunin cewek kamu di dekat ~y~Old Venturas Strip~s~ sekarang.
+PIMP315	B4BC9990	~y~The Clown's Pocket~s~ adalah tujuan kamu berikutnya.
+PIMP316	2DB5C82A	~s~Pergi ke ~y~Gereja Blackfield (Blackfield Chapel)~s~ buat nemuin pelanggan buat cewek kamu.
+PIMP317	5AB2F8BC	~s~Menuju ke ~y~Greenglass College~s~ sekarang.
+PIMP318	CA0DE52D	~s~Nyetir ke ~y~Bandara Las Venturas~s~ dengan cepat.
+PIMP319	BD0AD5BB	~s~Pergi ke ~y~Motel Last Dime~s~ buat pelanggan lainnya.

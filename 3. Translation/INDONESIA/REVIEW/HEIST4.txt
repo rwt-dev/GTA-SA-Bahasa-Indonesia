@@ -1,0 +1,47 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+HE4_AA	CD35085D	Oke, itu udah cukup buat kita.
+HE4_AB	543C59E7	Urus motor-motor itu.
+HE4_AC	233B6971	Sekarang cabut dari sini!
+HE4_BA	E6185B9E	Lapor ke pusat; gue lagi tes tes jalan ke pemabuk di kedai pizza
+HE4_BB	7F110A24	terus motor gue dicuri bangsat!
+HE4_BC	08163AB2	Larry, ada keparat yang lagi nyoba pamer motor lu tuh!
+HE4_BD	9672AF11	Tangkap dia!
+HE4_BF	787CCE3D	Gue lagi di rumah sakit terus, yah, ada pelawak yang nyolek/nyuri motor gue!
+HE4_BG	0F7BFEAB	Semua unit, ini DPO (pencarian) buat pencuri spesialis motor patroli polisi.
+HE4_BJ	71CA8216	Tersangka pria kulit hitam, tinggi sekitar 180cm, perawakan kurus,
+HE4_BK	06CDB280	Tersangka pria kulit hitam, tinggi sekitar 180cm, perawakan sedang,
+HE4_BL	98A92723	Tersangka pria kulit hitam, tinggi sekitar 180cm, perawakan kekar/gemuk,
+HE4_BM	EFAE17B5	Oh, sama potongan rambut bego!
+HE4_CA	FF036ADF	Lu bawa truk Packer, masuk ke jalan tol Julius Thruway terus jalan terus.
+HE4_CB	660A3B65	Gue bakal mencuri motor-motornya terus bawa ke tempat lu.
+HEI4_01	89308ACA	~s~Kita kudu mencuri empat ~g~motor polisi~s~ terus bawa dengan selamat ke atas bagian belakang truk Packer.
+HEI4_02	1039DB70	~s~Kemudikan motor naik ke atas truk ~b~Packer~s~.
+HEI4_03	673EEBE6	~s~Naik balik ke atas ~g~motor~s~.
+HEI4_04	F95A7E45	~r~Kita butuh semua motor itu dalam kondisi bagus sama bisa dipakai!
+HEI4_05	8E5D4ED3	~r~Truk Packer-nya hancur! Gimana cara kita mengantar motor-motornya sekarang?
+HEI4_06	17541F69	~s~Cari ~g~motor polisi~s~ lain buat pekerjaan ini.
+HEI4_07	60532FFF	~s~Semua empat motor udah berhasil diantar dengan selamat!
+HEI4_08	F0EC326E	~s~Sisa dua ~g~motor~s~ lagi.
+HEI4_09	87EB02F8	~s~Sisa satu ~g~motor~s~ lagi.
+HEI4_10	E72C8B1D	~r~Kehabisan waktu! Truk Packer udah berangkat!
+HEI4_11	902BBB8B	~s~Truk Packer lagi muterin pinggiran kota tapi lu harus cepet, truknya bakal berangkat bentar lagi.
+HEI4_12	0922EA31	waktu
+HEI4_13	7E25DAA7	~s~Noh ada truk ~b~Packer~s~ di depan. Naik ke rampanya pake kecepatan stabil biar bisa diikat.
+HST5A00	1DCCE1F6	Oke, ini rencananya. Semuanya soal seni penyamaran/pengalihan.
+HST5A01	6ACBD160	Pas gue memancing perhatian polisi sebanyak mungkin ke gue,
+HST5A02	F3C280DA	Kalian semua kabur bawa duitnya.
+HST5A03	84C5B04C	Pertanyaan: gimana cara mafia biasanya memindahkan duit tunai keluar dari Caligula's?
+HST5A04	1AA125EF	Tepat banget! Nilai plus buat Tuan Zero di sini.
+HST5A05	6DA61579	Ha hei! Kerja bagus, si tukang penjilat!
+HST5A06	F4AF44C3	Jadi, kita bakal mencuri mobil lapis baja (*armored car*)
+HST5A07	83A87455	terus ngecat ulang biar keliatan kek salah satu truk langganan mereka.
+HST5A08	131769C4	Terus gimana soal pengawalan polisinya?
+HST5A09	64105952	Tiap kali mereka memindahkan duit, mereka selalu pake motor patroli polisi buat pengawal.
+HST5A10	04D7D0B7	Persis kek apa yang lagi gue pikirin.
+HST5A11	73D0E021	Ayolah, ikut gue, terus kita bakal ngambil beberapa motor polisi...
+HST5A12	EAD9B19B	Ha ha, nah... Aduh... Aduh?

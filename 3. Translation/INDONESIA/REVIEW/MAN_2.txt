@@ -1,0 +1,167 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	1029964E	Pas sasaran berubah warna jadi merah itu artinya udah terkunci. Pencet ~m~~widget_rocket~ buat meluncurkan rudal pelacak.
+	B3FAA59E	Pencet ~m~~widget_explicit_flight_primary_attack~ buat meluncurkan suar pengecoh (countermeasures) mengalihkan rudal musuh.
+	EF737ACB	Pencet ~m~~widget_explicit_flight_descend~ buat beralih antara mode jet (terbang cepat) sama mode hover (terbang melayang).
+	99AB91A3	Kunci target ke kapal-kapal terus pencet ~m~~widget_rocket~ buat nembak. Tiap kapal butuh beberapa kali hantaman buat dihancurin.
+BH2@00	B7095D06	Bisa kagak lu berhenti ngocok/mencet-mencet sendiri!
+BH2@01	C00E6D90	Oh, lu anjing blasteran kotor!
+BH2@02	59073C2A	Ooh, sori bro (*geez*).
+BH2@03	2E000CBC	Harusnya lu dari awal kagak usah ngocok/mencekik tokek (*choking the gecko*) di sini!
+BH2@04	B064991F	Inget kagak apa yang terjadi pas konsil di Hamburg?!
+BH2@05	C763A989	Pengekor cewek (*groupie*) itu demen kok!
+BH2@06	5E6AF833	Itu bukan cewek pengekor, itu kru panggung (*roadie*) cowok!
+BH2@07	296DC8A5	Tapi dia punya tetek mantap.
+BH2@08	B9D2D534	Tetek COWOK! Itu TETEK COWOK!
+BH2@09	CED5E5A2	Woy, ada apaan nih? Woy, ke mana suaranya/musiknya?
+BH2@10	AE126C47	Kagak tau gue, bro (*bruv*), mendadak mati semua!
+BH2@11	D9155CD1	Lu bener-bener sampah banget sih lu, P.
+BH2@12	401C0D6B	Gue kagak bisa disalahin gara-gara alat rusaknya, oke?
+BH2@13	371B3DFD	Ayolah, fokus dikit kenapa bro - kita kagak boleh ngacauin ritme dia.
+BH2@14	A97FA85E	Akhirnya! Gue kira kagak bakal pernah tersambung ke lu.
+BH2@15	DE7898C8	Apa-apaan- Toreno? Ini lu?
+BH2@16	4771C972	Dengerin; lu harus ngelakuin satu tugas terakhir buat gue, oke?
+BH2@17	3076F9E4	Para komunis udah di depan gerbang, Carl.
+BH2@18	A0C9E475	Gue udah capek sama hal ini, Toreno.
+BH2@19	D7CED4E3	Gue di luar. Ayo kita jalan-jalan naik mobil.
+BH2@20	853F3F84	Woy, gue harus cabut dari sini. Lu bisa pegang kendali kan?
+BH2@21	F2380F12	Woy, Dogg, gue harus pergi rapat pemasaran nih,
+BH2@22	6B315EA8	ntar gue temuin lu lagi belakangan!
+BH2@23	1C366E3E	Ayo... Ayo.... Ayolah... Ayolah.... Ayo...
+BH2@24	8252FB9D	Ayolah:... Ayolah... Ayolah... Ayolah...
+BH2@25	F555CB0B	Oh, ngentot!
+BH2@26	6C5C9AB1	Nah gitu dong Dogg!
+BH2@27	1B5BAA27	Apaan nih?
+BH2@28	8BE4B7B6	Ada apaan nih di sini?
+BH2@29	FCE38720	Toreno?
+BH2@30	9C240EC5	Tahan dulu, sob, dengerin, tahan sebentar.
+BH2@31	EB233E53	Sekarang gue mulai halusinasi suara - ngentot lah!
+BH2@32	722A6FE9	Sip, hati-hati di jalan ya, sayang.
+BH2@33	052D5F7F	Yoi, mantap... Ayolah. Lu ngerasain itu kagak, Maccer, lu ngerasain kagak?
+HYDHLP1	5FC0E531	Pake kontrol kemudi buat memiringkan pesawat ke depan sama ke belakang.
+HYDHLP2	C6C9B48B	Lu bisa ngedapetin kuncian target pake cara mengarahkan moncong pesawat ke kapal musuh. Bintik bidik bakal berubah dari hijau jadi merah pas terkunci.
+HYDHLP3	B1CE841D	Kunci target ke kapal-kapal terus ketuk ~m~~widget_rocket~ buat nembak. Tiap kapal butuh beberapa kali hantaman buat dihancurin.
+MAN2_00	A0D55421	~s~Pergi menuju ke ~y~kapal induk (aircraft carrier)~s~ di San Fierro.
+MAN2_01	D7D264B7	~s~Cari jet Hydra.
+MAN2_02	4EDB350D	~s~Hati-hati jangan sampe ketahuan sama para ~r~penjaga~s~!
+MAN2_03	39DC059B	~s~Bawa jet Hydra ke ~y~landasan pacu~s~.
+MAN2_04	A7B89038	~s~Jet-jet ~r~Hydra~s~ ada di belakang lu. Bantai mereka!
+MAN2_05	D0BFA0AE	~r~Lu udah ngancurin semua jet Hydra!
+MAN2_07	3EB1C182	~s~Masuk balik ke dalam Hydra!
+MAN2_08	AE0EDC13	~r~Jet Hydra lu hancur jadi arang!
+MAN2_09	D909EC85	~s~Masuk ke dalam perahu
+MAN2_10	B9CE6560	~s~Cari cara buat mematikan sistem rudal darat-ke-udara (SAM sites)
+MAN2_11	CEC955F6	~s~Hancurin armada ~r~kapal mata-mata
+MAN2_20	92E336A3	~s~Ada pistol berperedam suara sama pisau di dalam ~b~kapal cepat (speedboat)~s~.
+MAN2_21	E5E40635	~s~Menuju ke ~y~kapal induk~s~.
+MAN2_22	7CED578F	~s~Cari ~y~ruang kendali (control room)~s~ buat mematikan sistem rudal SAM.
+MAN2_23	0BEA6719	~s~Usahain jangan memicu alarm para ~r~penjaga~s~.
+MAN2_24	958EF2BA	~s~Sistem rudal SAM masih aktif.
+MAN2_25	E289C22C	~s~Curi salah satu jet tempur militer.
+MAN2_26	7B809396	~s~Bawa jet ke lapangan terbang gurun terus mendarat di mana aja di ~y~landasan pacu~s~.
+MAN2_27	0C87A300	~s~Jet tempur musuh hancur. ~1~ masih aktif.
+MAN2_28	9C38BE91	~s~Semua jet tempur musuh berhasil dihancurin. Sekarang hancurin ~y~kapal mata-mata~s~.
+MAN2_29	EB3F8E07	~s~Kapal mata-mata hancur. Tersisa ~1~ kapal lagi.
+MAN2_30	8BF807E2	~s~Kapal mata-mata hancur. Tersisa ~1~ kapal lagi.
+MAN2_31	FCFF3774	~s~Pintu belakang Kapal Induk lagi tertutup.
+MAN2_32	65F666CE	~s~Masuk ke dalam ~y~kapal induk~s~ sebelum pintu belakang tertutup. Berenang bakal ngebantu menghindari deteksi para penjaga.
+MAN2_33	12F15658	~s~Arahkan pesawat masuk ke dalam Hangar.
+MAN2_34	8C95C3FB	~s~Jet Hydra sekarang bakal selalu tersedia di dalam hangar ini.
+MAN2_35	FB92F36D	~s~Ada ~r~jet-jet tempur militer~s~ di belakang lu. Bantai mereka!
+MAN2_36	629BA2D7	~s~Ada ~r~jet tempur militer~s~ yang ngejar lu. Bantai dia!
+MAN2_37	159C9241	~s~Masuk balik ke dalam ~b~jet~s~ lu.
+MAN2_38	85238FD0	~s~Lu bikin suara terlalu berisik pas masuk ke Kapal Induk. Para ~r~penjaga~s~ sekarang siaga.
+MAN2_39	F224BF46	~s~Lu ketahuan sama teknisi. Kapal Induk sekarang siaga.
+MAN2_40	C4B99125	~s~Lu ketahuan sama para ~r~penjaga~s~. Kapal Induk sekarang siaga.
+MAN2_41	B3BEA1B3	~s~Teknisi nemuin mayat. Kapal Induk sekarang siaga.
+MAN2_42	2AB7F009	~s~Para ~r~penjaga~s~ nemuin mayat. Kapal Induk sekarang siaga.
+MAN2_43	5DB0C09F	~s~Terjadi ledakan. Kapal Induk sekarang siaga.
+MAN2_44	C3D4553C	~s~Semua kapal mata-mata hancur. Sekarang bantai sisa ~r~jet-jet tempur~s~ yang tersisa.
+MAN2_45	B4D365AA	~s~Lu ketahuan sama teknisi. Dia lagi lari buat menekan tombol alarm.
+MAN2_46	2DDA3410	~s~Lu bikin suara terlalu berisik pas masuk ke Kapal Induk.
+MAN2_47	5ADD0486	~s~Para ~r~penjaga~s~ sekarang siaga.
+MAN2_48	CA621917	~s~Teknisi nemuin mayat. Dia lagi lari buat menekan tombol alarm.
+MAN2_49	BD652981	~s~Teknisi udah memicu alarm. Kapal Induk sekarang siaga.
+MAN2_70	EF94C2E6	Pake kontrol kemudi buat memiringkan pesawat ke depan sama ke belakang.
+MAN2_71	9893F270	Pas sasaran berubah warna jadi merah itu artinya udah terkunci. Ketuk ~m~~widget_rocket~ buat meluncurkan rudal pelacak.
+MAN2_72	019AA3CA	Pas lu mendekati tanah, roda pendaratan bakal turun secara otomatis.
+MAN2_80	680CDE29	~r~Mobilnya Toreno hancur.
+MAN2_81	1F0BEEBF	~r~Toreno tewas.
+MAN2_82	8602BF05	~r~Kagak ada sisa jet di Kapal Induk.
+MAN2_83	F1058F93	~r~Jet tempur hancur.
+MAN2_84	6F611A30	~r~Lu gagal masuk ke dalam kapal induk!
+MAN2_98	7FCC675A	Suar pengecoh (countermeasures) diluncurkan secara otomatis buat mengalihkan rudal musuh.
+MAN2_AA	B1F35D3C	Wah, kagak ada undangan syukuran rumah baru nih, ya bocah?
+MAN2_AB	28FA0C86	Gue tahu lu pasti tetep dateng kok.
+MAN2_AC	5FFD3C10	Yoi, ya udah, itu kagak penting sekarang.
+MAN2_AD	C199A9B3	Gue bakal jelasin situasi singkat di jalan, masuk mobil.
+MAN2_AE	B69E9925	Masuk mobil.
+MAN2_BA	9ADE0EFF	Bakal berapa lama nih ngerjainnya?
+MAN2_BB	03D75F45	Gue punya urusan sendiri yang kudu dipikirin.
+MAN2_BC	74D06FD3	Lu mau ketemu abang lu minggu ini kagak?
+MAN2_BD	EAB4FA70	Yoi, apa yang bisa gue bantu?
+MAN2_BE	9DB3CAE6	Lu cuma kudu mencuri jet tempur militer dari kapal serbu amfibi
+MAN2_BF	04BA9B5C	terus pake tuh jet buat ngancurin armada kapal mata-mata, hal sepele kok.
+MAN2_BG	73BDABCA	Aduh bro, lu ngelawak ya.
+MAN2_BH	E302B65B	Masa gue ngelawak sama lu, Carl?
+MAN2_BJ	0D0CD777	Tuh ada kapal perahu.
+MAN2_BK	7A0BE7E1	Semua perlengkapan yang lu butuhin ada di dalam. Gue bakal tetep ngasih pengarahan lewat radio pas lu jalan.
+MAN2_BL	E46F7242	Gue kagak bakal balik hidup-hidup dari tugas ini kan?
+MAN2_BM	936842D4	Balik lah, gausah konyol--nih pake earphone ini. Percaya sama gue, lakuin kata-kata gue,
+MAN2_BN	0A61136E	lu bakal udah di rumah sambil diisap cewek sama makan roti lapis daging.
+MAN2_CA	83C53FBE	Oke Carl, kapalnya berlabuh di pangkalan angkatan laut Easter Basin.
+MAN2_DA	CC84A979	Menyusup masuk dari belakang tanpa ketahuan.
+MAN2_DB	558DF8C3	Pas lu udah ada di dalam, gue kagak bisa ngebantu lu lagi.
+MAN2_DC	228AC855	Nah, lu bisa ngebantu gue sekarang kagak?
+MAN2_DD	BCEE5DF6	Uh, yaa, kagak bisa. Beneran kagak bisa.
+MAN2_EA	D59F9838	Lu liat kan? Lu liat kan? Apa gue bilang? Gampang banget!
+MAN2_EB	4C96C982	Pesawat curian; Bersiaplah buat dihancurkan!
+MAN2_EC	3B91F914	Lu denger itu kagak?
+MAN2_ED	A5F56CB7	Yoi. Cuekin aja mereka.
+MAN2_EE	D2F25C21	'Bersiaplah buat dihancurkan', omong kosong banget. Cuekin aja. Kalo mereka nembak lu itu bakal pemicu insiden internasional.
+MAN2_EF	4BFB0D9B	Lu kan bukan tank Inggris, jadi lu harusnya aman-aman aja.
+MAN2_EG	3CFC3D0D	Beneran nih?
+MAN2_EH	AC43209C	Yoi, yaa, mungkin aja sih.
+MAN2_EJ	424D41B0	Sekarang terbang menuju ke armada kapal terus tenggelamin para keparat itu!
+MAN2_FA	FEB2CBFB	Lu liat kan? Permainan anak kecil!
+MAN2_FB	67BB9A41	Ngentot lu TORENO, gue kagak bakal sudi ngelewatin hal kek gini lagi!
+MAN2_FC	10BCAAD7	Kayaknya gue mau muntah...
+MAN2_FD	8ED83F74	Ooh, si tukang ngeluh gede, mau keju tambahan buat anggurnya? Woy, aksi lu spektakuler banget tadi.
+MAN2_FE	F9DF0FE2	Lu tahu kagak, gue mulai mikir si Carl kecil gue ini agen ganda. Oooh.
+MAN2_FF	60D65E58	Diem lu, Toreno. Di mana lu mau gue naro barang ini?
+MAN2_FG	17D16ECE	Barang apaan? Gue kagak tahu apa yang lagi lu omongin - lu yang mencuri itu. Kagak ada urusannya sama gue, gue kagak tahu lu ngomongin apaan. Sampai ketemu lagi.
+MAN2_FH	876E735F	Kagak ada urusannya sama gue.
+MAN2_FJ	69601273	Sampai ketemu lagi.
+MAN2_FK	1E6722E5	Toreno? TORENO!
+MAN2_FL	8003B746	TAIK!
+MAN2_GA	E7A9FABA	Gue kagak percaya gue biarin si gila itu ngebujuk gue buat ngelakuin ini...
+MAN2_GB	7EA0AB00	Makin tenggelam dalam masalah, makin dalam...
+MAN2_GC	09A79B96	Bro, gue pasti udah gila...
+MAN2_GD	97C30E35	Gimana cerita dia ngarepin gue terbangin salah satu dari barang-barang itu.
+MAN2_GE	E0C43EA3	Bro, gue mampus, bener-bener mampus...
+MAN2_GF	79CD6F19	Gue cuma kudu fokus bertahan hidup dari semua ini.
+MAN2_GG	0ECA5F8F	Bro, mati kek gini?
+MAN2_GH	9E75421E	Kagak boleh mati kek pecundang.
+MAN2_HA	6031E675	Semua pasukan ke geladak!
+MAN2_HB	F938B7CF	Bunyiin alarm!
+MAN2_HC	8E3F8759	ALAARRM!
+MAN2_HD	105B12FA	Dia mencuri jet Hydra!
+MAN2_HE	675C226C	Siapa tuh orang?
+MAN2_HF	FE5573D6	Siapa aja hentikan dia!
+MAN2_JA	520784F7	Woy, dia bukan pilotnya!
+MAN2_JB	CB0ED54D	Penyusup!
+MAN2_JC	BC09E5DB	Seret dia keluar dari sana!
+MAN2_JD	226D7078	Dia kagak bisa menerbangkan itu!
+MAN2_JE	556A40EE	Bocah kumuh (*ghetto boy*) lagi mencuri jet Hydra!
+MAN2_JF	CC631154	Kita kudu ngapain nih?
+MAN2_KA	4B1CB5B6	Siapa si orang bego itu?
+MAN2_KB	D215E40C	Ini lelucon bukan sih?
+MAN2_KC	A512D49A	Harus kita tembak kagak nih?
+MAN2_KD	3B764139	Dia pasti bakal jatuh nabrak!
+MAN2_KE	4C7171AF	Bro, dia kagak bakal bertahan lama!
+MAN2_KF	D5782015	Kita yang bakal kena masalah gara-gara hal ini!
+MAN2_ZZ	92A05F4A	~r~Lu gagal mencuri Hydra!

@@ -1,0 +1,99 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+FIN2_AA	5FA78BAB	Gue harus memperingatkan Sweet!
+FIN2_AB	C6AEDA11	(Suara nada panggil)
+FIN2_AC	B1A9EA87	Bangsat, Sweet, angkat! Angkat!
+FIN2_AD	2FCD7F24	(Suara nada panggil)
+FIN2_AE	58CA4FB2	Halo, ada apaan? Lu nelpon gue tapi gue lagi kagak bisa ngangkat, jadi tinggalkan pesan abis suara...
+FIN2_AF	C1C31E08	Taik! Taik! Taik!
+FIN2_BA	748AD868	Woy, Sweet bro, lu aman? Lu kena tembak!
+FIN2_BB	ED8389D2	CJ... Dari mana aja lu?
+FIN2_BC	9A84B944	Cesar nelpon, melaporin sesuatu ke gue.
+FIN2_BD	04E02CE7	Itu si Smoke, dan dia main belakang bareng Tenpenny sama anak-anak Ballas!
+FIN2_BE	73E71C71	Dia udah ngejual/mengkhianati kita!
+FIN2_BF	EAEE4DCB	Kagak penting lagi bro - lu harus cabut dari sini. Polisi bakal mendarat sebentar lagi.
+FIN2_BG	9DE97D5D	Kagak bakal bro, gue kagak bakal kabur ninggalin abang gue!
+FIN2_BH	0D5660CC	Woy, Ballas! Gue bantai kalian semua keparat, denger kagak lu?
+FIN2_BJ	E35801E0	GUE BANTAI KALIAN SEMUA, LONTE!
+FIN2_CA	6D91E929	Kan udah gue bilang seret pantat lu cabut dari sini, CJ...
+FIN2_CB	F498B893	Gue kagak mau kehilangan abang gue lagi...
+FIN2_CC	839F8805	Bro, gue salah, Carl. Lu bukan pecundang (*buster*).
+FIN2_CD	1DFB1DA6	Jangan bergerak sedikit pun bangsat!
+FIN2A00	58390CCC	Jadi ini saatnya - ini waktunya kita tunjukin ke anak-anak Ballas apa arti gengster sejati.
+FIN2A01	2F3E3C5A	Grove Street itu raja! Ngomong bareng gue bro, Grove Street itu RAJA! Yoi!
+FIN2A02	B6376DE0	Ada apaan, CJ. Dari mana aja lu?
+FIN2A03	C1305D76	Woy sori, bro, gue tadi ada urusan mendesak.
+FIN2A04	5F54C8D5	Yoi, lu palingan lagi mbejek salah satu tikus Ballas itu. Yoi gue tahu apa yang lagi lu kerjain, bro!
+FIN2A05	2853F843	Dengerin semuanya - kalian semua setuju bareng CJ, kan?
+FIN2A06	B15AA9F9	Dia udah ngelewatin banyak hal, maksud gue kita semua udah ngelewatin banyak hal.
+FIN2A07	C65D996F	Tapi CJ udah ngebantu kita membersihkan lingkungan (*hood*). Dia membawa pertempuran ke musuh -
+FIN2A08	56E284FE	nunjukkan ke kita semua gimana cara kita bertarung dulu,
+FIN2A09	21E5B468	apa artinya dulu menjadi anggota Grove Street Family.
+FIN2A10	41223D8D	CJ, lu abang gue, kawan sejati gue (*running dog*).
+FIN2A11	36250D1B	Harusnya gue kagak pernah meragukan lu.
+FIN2A12	AF2C5CA1	Tapi lu udah di rumah sekarang, kawan - di rumah.
+FIN2A13	D82B6C37	Dengerin semuanya! Gue mau kalian semua pergi ambil senjata,
+FIN2A14	464FF994	terus nemuin gue di Pusat Kota (*Downtown*) di bawah simpang susun Mulholland Intersection.
+FIN2A15	3148C902	Kita bakal melibas para keparat Ballas ini!
+FIN2A16	A84198B8	Sampai ketemu di jalanan.
+FIN2A17	DF46A82E	Lu ikut kagak?
+FIN2A18	4FF9B5BF	Gas lah, gue ikut. Gue kawan sejati lu, Sweet.
+FIN2A19	38FE8529	Nah gitu dong, bro...
+FIN2A20	6A0F6E4E	Sip, lu pergi siapin senjata, terus gue temuin lu di persimpangan jalan.
+FIN2A21	1D085ED8	Si licik anak muda!
+FIN2A22	84010F62	Ha ha! Yoi, lu tau sendiri lah!
+FIN2A23	F3063FF4	Tepat banget.
+FIN2A24	6D62AA57	Yoi.
+FIN2A25	1A659AC1	Kagak ada apa-apa.
+FIN2A26	836CCB7B	Pasti lah.
+FIN2A27	F46BFBED	GROVE STREET ITU RAJA!
+FIN2A30	73145F0F	- Sip, sip!~n~- Sampai ketemu di jalanan.
+FIN2A31	04136F99	Yoi, gaskan cabut!
+FIN2B00	5A7FB295	Pas banget waktunya, bro (*ese*), liat baik-baik ke sebelah sana tuh.
+FIN2B01	2D788203	Jadi lu nyeret gue jauh-jauh melintasi kota cuma buat ngeliat... apaan?
+FIN2B02	B471D3B9	Perhatiin aja dulu, bro.
+FIN2B03	C376E32F	Terus, beberapa anak Ballas lagi nongkrong di sarang narkoba, emang napa?
+FIN2B04	5D12768C	Apa-apaan bangsat?
+FIN2B05	2A15461A	Sshh, bro (*ese*), liat tuh mobil...
+FIN2B06	B31C17A0	Itu mobil Green Sabre bangsat!
+FIN2B07	C41B2736	Oh, jangan! Taik, Smoke, mainan apaan lu bangsat?
+FIN2B08	54A43AA7	Taik, Smoke ... C.R.A.S.H. ngebikin lu mengkhianati kita!
+FIN2B09	23A30A31	Ibu!
+FIN2B10	436483D4	Sori bro (*ese*), gue denger rumor terus gue selidiki.
+FIN2B11	3463B342	Gue sendiri awalnya kagak percaya tapi...
+FIN2B12	AD6AE2F8	Kagak, kagak, tindakan lu udah bener.
+FIN2B13	DA6DD26E	Gue harus pergi ngasih tau Sweet soal -
+FIN2B14	440947CD	Dengerin, pergi jemput Kendl terus bawa dia ke tempat aman!
+FIN2B15	330E775B	Lu mau ngapain?
+FIN2B16	AA0726E1	Ini soal Sweet, gue mikir dia sama kawan-kawan lagi masuk ke dalam jebakan!
+FIN2B17	DD001677	Pergi aja, CABUT!
+FIN2B18	4DBF0BE6	Gue utang budi sama lu, Ces.
+FIN2B19	3AB83B70	Oh, memek! Sweet!
+LA1_15	ECADD06A	~r~Lu ngebunuh Cesar!
+LA1_16	75A481D0	~r~Sweet tewas
+LA1_31	D9F676F1	~s~Tahan serangan ~r~Ballas~s~ sampe polisi mendarat.
+LA1_33	37F817DD	~s~Pergi ke tempat Cesar nunggu di ~y~bawah jalan tol~s~.
+LA1_35	DE9BB2E8	~s~Masuk ke dalam ~b~mobil~s~ di gang.
+LA1_36	4792E352	~S~Anak-anak Ballas mendatangkan pasukan bantuan.
+LA1_37	3095D3C4	~S~Makin banyak anak Ballas mendekat.
+LA1_38	A02ACE55	~S~Mobil-mobil Ballas ikut bergabung ke dalam aksi!
+LA1_4	BE48B87B	SWEET
+LA1_8	B7FEF450	~s~Pergi ke lokasi ~y~jebakan~s~ sebelum abang lu tewas.
+LA1_9	C0F9C4C6	~s~Pergi ke tempat ~b~Cesar~s~ nungguin lu.
+MCES03A	56F3CA29	Eh
+MCES03B	CFFA9B93	Woy, CJ, ini Cesar, bro.
+MCES03C	B8FDAB05	Gue lumayan sibuk sekarang, ada hal gede yang lagi terjadi.
+MCES03D	26993EA6	Bro (*ese*), gue harus nemuin lu, bro (*holmes*), mau ngasih tau sesuatu.
+MCES03E	519E0E30	Dengerin, kalo ini soal Kendl, kagak usah khawatir, kita udah aman, oke?
+MCES03F	C8975F8A	Kagak. CJ lu harus dateng terus ngeliat sesuatu.
+MCES03G	BF906F1C	Sesuatu yang penting, bro (*eh*).
+MCES03H	2F2F728D	Yaa ini kudu nunggu dulu sih...
+MCES03J	C12113A1	Ini kagak bisa nunggu, bro (*holmes*). Kalo gue kasih tau, lu kagak bakal percaya, bro (*ese*), gue bersumpah.
+MCES03K	B6262337	Jadi lu harus dateng terus ngeliat sekarang juga
+MCES03L	2842B694	Ahh, OKE, gue punya waktu sekitar lima menit, jadi ini harus hal bagus, lu di mana?
+MCES03M	5F458602	Gue ada di bawah jalan tol sebelah utara Verdant Bluffs.
+MCES03N	C64CD7B8	Jaga kerahasiaan ini bro (*homie*)

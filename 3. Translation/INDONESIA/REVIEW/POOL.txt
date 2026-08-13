@@ -4,49 +4,49 @@
 
 
 
-	625D51AA	Gunakan kontrol gerakan untuk memposisikan bola putih. Tekan ~m~~widget_gambling_continue~ untuk melanjutkan. Tekan ~m~~widget_minigame_cancel~ untuk keluat.
-	3B90AF45	Tekan dan tahan ~m~~widget_place_bet~ untuk menambah taruhan. Tekan dan tahan ~m~~widget_remove_bet~ untuk menurunkan taruhan. Tekan ~m~~widget_minigame_cancel~ untuk keluar.
-	E6F02C57	Geser jari kamu ke bawah pada dan lepaskan untuk menembak. Tap ~m~~widget_minigame_cancel~ to go back to aiming.
-	D59ECE69	Tekan ~m~~widget_gambling_continue~ to continue.
-	A299FEFF	Gunakan kontrol gerakan untuk mengarahkan tongkat. Tekan ~m~~widget_camera~ untuk mengubah pandangan. Tekan ~m~~widget_gambling_continue~ untuk menembak. tekan ~m~~widget_minigame_cancel~ untuk keluar.
-	0095D2E2	Tekan ~m~~widget_attack~ untuk menembak. Tekan ~m~~widget_minigame_cancel~ untuk kembali membidik.
-	1E63AF39	Tekan ~m~~widget_gambling_continue~ untuk melanjutkan.
+	625D51AA	Gunakan kontrol arah pergerakan buat mengatur posisi bola putih (cue ball). Pencet ~m~~widget_gambling_continue~ buat melanjutkan. Pencet ~m~~widget_minigame_cancel~ buat keluar.
+	3B90AF45	Pencet terus tahan ~m~~widget_place_bet~ buat menambah taruhan. Pencet terus tahan ~m~~widget_remove_bet~ buat mengurangi taruhan. Pencet ~m~~widget_minigame_cancel~ buat keluar.
+	E6F02C57	Geser jari lu ke bawah layar terus lepas buat menembak/mewadok. Ketuk ~m~~widget_minigame_cancel~ buat balik ke posisi membidik.
+	D59ECE69	Pencet ~m~~widget_gambling_continue~ buat melanjutkan.
+	A299FEFF	Gunakan kontrol arah pergerakan buat membidik stik biliar. Pencet ~m~~widget_camera~ buat mengubah sudut pandang kamera. Pencet ~m~~widget_gambling_continue~ buat lanjut ke proses menembak. Pencet ~m~~widget_minigame_cancel~ buat keluar.
+	0095D2E2	Pencet ~m~~widget_attack~ buat menembak. Pencet ~m~~widget_minigame_cancel~ buat balik ke posisi membidik.
+	1E63AF39	Pencet ~m~~widget_gambling_continue~ buat melanjutkan.
 COMMA	D9B73CCD	~1~,
-FOUL1	4A7C0108	Pelanggaran! Melewatkan semua bola!
-FOUL2	D37550B2	Pelanggaran! Mengenai bola yang salah!
-FOUL3	A4726024	Pelanggaran! Memasukan bola putih!
-FOUL4	3A16F587	Pelanggaran! Memasukan warna yang salah!
-FOUL5	4D11C511	Pelanggaran! Mengantongi warna hitam di luar belokan!
-FOUL6	D41894AB	Pelanggaran! Tidak ada bola yang membentur rel!
+FOUL1	4A7C0108	Pelanggaran! Meleset kagak kena bola apa pun
+FOUL2	D37550B2	Pelanggaran! Kena bola yang salah duluan!
+FOUL3	A4726024	Pelanggaran! Bola putih masuk ke dalam lubang!
+FOUL4	3A16F587	Pelanggaran! Memasukkan bola warna yang salah!
+FOUL5	4D11C511	Pelanggaran! Memasukkan bola hitam bukan pada giliran yang bener!
+FOUL6	D41894AB	Pelanggaran! Kagak ada bola yang mengenai dinding pembatas (rail)!
 NUM	B51B121B	~1~
 PL_01	39747FE8	CJ
 PL_02	A07D2E52	Pemain 2
 PL_03	D77A1EC4	Lawan
 PL_04	491E8B67	Pelanggaran!
-PL_05	3E19BBF1	Memasukan Bola!
-PL_06	A710EA4B	Memasukan Bola!
-PL_07	D017DADD	Kamu Menang!~n~~w~$~1~
+PL_05	3E19BBF1	Bola Berhasil Masuk!
+PL_06	A710EA4B	Bola-Bola Berhasil Masuk!
+PL_07	D017DADD	Lu Menang!~n~~w~$~1~
 PL_08	40A8C74C	Pemain 1 Menang!
 PL_09	37AFF7DA	Pemain 2 Menang!
-PL_10	57687E3F	~r~Kamu Kalah!~n~~w~-$~1~
-PL_11	206F4EA9	PERMAINAN SELESAI
-PL_12	B9661F13	Bola solid
-PL_13	CE612F85	Bola belang
-PL_14	5005BA26	Hitam
-PL_15	27028AB0	Open Table
-PL_16	BE0BDB0A	Scratch
-PL_17	C90CEB9C	Bola di tangan
-PL_H1	DE928C16	Tekan dan tahan ~m~~widget_place_bet~ untuk menambah taruhan. Tekan dan tahan ~m~~widget_remove_bet~ untuk mengurangi taruhan. Tekan ~m~~widget_minigame_cancel~ untuk keluar.
-PL_H3	309CED3A	Gunakan kontrol gerakan untuk mengarahkan tongkat. Tekan ~m~~widget_camera~ untuk mengubah pandangan. Tekan ~m~~widget_gambling_continue~ untuk menembak. Tekan ~m~~widget_minigame_cancel~ untuk keluar.
-PL_H4	AEF87899	Gunakan kontrol gerakan untuk mengarahkan tongkat. Gulirkar ~m~~widget_camera~ untuk mengubah pandangan. Tekan ~m~~widget_gambling_continue~ untuk menembak. Tekan ~m~~widget_minigame_cancel~ untuk keluar.
-PL_H5	D9FF480F	Tekan ~m~~widget_gambling_continue~ untuk melanjutkan.
-PL_H6	40F619B5	Seret bola putih untuk memposisikannya. Tekan ~m~~widget_gambling_continue~ untuk melanjutkan. Tekan ~m~~widget_minigame_cancel~ untuk keluar.
-PL_H8	A74E34B2	Tekan ~m~~widget_gambling_continue~ untuk melanjutkan.
-POOL_B1	40581DA2	Ayo kita taruhan sedikit.
-POOL_B2	D9514C18	Permainan biliar gak akan akan sama kalo kagak pake sedikit duit.
-POOL_B3	AE567C8E	Tunjukin ke gua warna duit lu
-POOL_B4	3032E92D	Gua cuma mempermainkan lu kalo lu pengen membuatnya menarik.
-POOL_B5	4735D9BB	Lu pengen pasang taruhan kecil?
-POOL_B6	DE3C8801	Ayo taruh uangmu di tempat yang tepat, bro.
-POOL01	AC7F9335	Lu pengen bermain biliar, pilih taruhan lu.
-SCORE	3A320A1E	Info
+PL_10	57687E3F	~r~Lu Kalah!~n~~w~-$~1~
+PL_11	206F4EA9	Game Over
+PL_12	B9661F13	Bola Polos (1-7)
+PL_13	CE612F85	Bola Bergaris (9-15)
+PL_14	5005BA26	Bola Hitam (8)
+PL_15	27028AB0	Meja Bebas
+PL_16	BE0BDB0A	Pelanggaran Bola Putih (Scratch)
+PL_17	C90CEB9C	Bebas Atur Bola Putih (Ball in hand)
+PL_H1	DE928C16	Pencet terus tahan ~m~~widget_place_bet~ buat menambah taruhan. Pencet terus tahan ~m~~widget_remove_bet~ buat mengurangi taruhan. Ketuk ~m~~widget_minigame_cancel~ buat keluar.
+PL_H3	309CED3A	Gunakan kontrol arah pergerakan buat membidik stik biliar. Ketuk ~m~~widget_camera~ buat mengubah sudut pandang kamera. Ketuk ~m~~widget_gambling_continue~ buat lanjut ke proses menembak. Ketuk ~m~~widget_minigame_cancel~ buat keluar.
+PL_H4	AEF87899	Gunakan kontrol arah pergerakan buat membidik stik biliar. Gulir ~m~~widget_camera~ buat mengubah sudut pandang kamera. Pencet ~m~~widget_gambling_continue~ buat lanjut ke proses menembak. Pencet ~m~~widget_minigame_cancel~ buat keluar.
+PL_H5	D9FF480F	Ketuk ~m~~widget_gambling_continue~ buat melanjutkan.
+PL_H6	40F619B5	Geser bola putih buat mengatur posisinya. Ketuk ~m~~widget_gambling_continue~ buat melanjutkan. Ketuk ~m~~widget_minigame_cancel~ buat keluar.
+PL_H8	A74E34B2	Ketuk ~m~~widget_gambling_continue~ buat melanjutkan.
+POOL_B1	40581DA2	Ayo kita pasang taruhan kecil-kecilan.
+POOL_B2	D9514C18	Permainan biliar kagak bakal seru tanpa ada taruhan uang.
+POOL_B3	AE567C8E	Tunjukin ke gue warna lembaran uang lu
+POOL_B4	3032E92D	Gue cuma mau main sama lu kalo lu mau bikin permainannya jadi menarik.
+POOL_B5	4735D9BB	Lu mau pasang taruhan kecil-kecilan kagak?
+POOL_B6	DE3C8801	Ayolah, buktikan gertakan lu pake uang tunai, bro.
+POOL01	AC7F9335	Kalo lu mau main biliar, pilih besaran taruhan lu.
+SCORE	3A320A1E	Informasi

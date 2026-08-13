@@ -1,0 +1,21 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+A_CANC	49ACBD0A	~r~Misi Petugas Medis dibatalkan!
+A_COMP1	3234CD61	Misi Petugas Medis selesai: $~1~
+A_COMP2	AB3D9CDB	Lu kagak bakal pernah merasa kelelahan!
+A_COMP3	DC3AAC4D	~s~Darah (health) maksimal lu udah bertambah!
+A_FAIL1	FB75C0A3	Misi Petugas Medis berakhir
+A_FAIL2	627C9119	~r~Kelambatan lu berakibat fatal buat keselamatan pasien!
+A_FAIL3	157BA18F	~r~Pasien tewas!!
+A_FULL	C7D43987	~s~Mobil Ambulans penuh!!
+A_PASS	E9DB3903	Berhasil Diselamatkan!
+A_SAVES	36718721	ORANG DISELAMATKAN: ~1~
+ALEV	8B95249E	LEVEL
+ALEVEL	21A57E2B	Misi Petugas Medis Level ~1~
+AMBSEAT	3B974819	KURSI KOSONG
+AMBTIME	695FE63A	WAKTU TERSISA
+ATUTOR2	98F06848	~s~Antar para ~b~pasien~s~ ke ~y~Rumah Sakit~s~ DENGAN HATI-HATI. Tiap benturan mengurangi peluang mereka bertahan hidup.

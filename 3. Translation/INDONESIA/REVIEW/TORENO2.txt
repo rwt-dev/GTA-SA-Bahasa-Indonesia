@@ -1,0 +1,98 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+DES2@00	21D6E49A	Woy, sialan banget sih, bro! Woy, Toreno, udah kubilang aku cuma salah paham, bro.
+DES2@01	56D1D40C	- Apa yang bisa kukatakan? Aku sudah menjerumuskanmu.~n~- Tenanglah, nak.
+DES2@02	CFD885B6	Tenanglah, nak.
+DES2@03	B8DFB520	- Kalau begitu bunuh saja aku sekarang kalau begitu.~n~- Tenang!
+DES2@04	26BB2083	- Bro, kau kan tidak lebih dari sekadar pengedar kokain sialan, Toreno.~n~- Diam dan duduk!
+DES2@05	51BC1015	Diam dan duduk.
+DES2@06	C8B541AF	Apa, kau pikir aku seorang pengedar narkoba?
+DES2@07	BFB27139	Kau pikir kau seorang pejuang kebaikan?
+DES2@08	2F0D6CA8	Apa kau tahu apa yang sedang terjadi? Punya bayangan sedikit pun? Tahu tidak? TAHU TIDAK?
+DES2@09	580A5C3E	Tidak. Aku tidak peduli pada hal-hal sebisa mungkin.
+DES2@10	38CDD5DB	Jangan bertingkah sok pintar di depanku, keparat.
+DES2@11	4FCAE54D	Aku bekerja untuk sebuah badan pemerintah. Tidak penting yang mana.
+DES2@12	D6C3B4F7	Aku akan berusaha untuk tidak membuatmu bingung.
+DES2@13	A1C48461	Ya, saat terakhir kita bertemu, aku terlibat dalam memerangi ancaman di Amerika Latin,
+DES2@14	3FA011C2	DENGAN SEGALA CARA YANG DIBUTUHKAN.
+DES2@15	48A72154	Itu tidak menjadikanku seorang pengedar narkoba.
+DES2@16	D1AE70EE	Sekarang, uang yang berhasil kami kumpulkan, kawan-kawan yang berhasil kami menangkan,
+DES2@17	A6A94078	telah sangat membantu kepentingan kami di luar negeri.
+DES2@18	36165DE9	Badan pemerintah?
+DES2@19	41116D7F	Anak-anak sepertimu. Kalian mengharapkan pahlawan.
+DES2@20	13E08618	Kita sedang berjuang dalam sebuah perang di luar sana.
+DES2@21	64E7B68E	Aku jadi pahlawan lalu aku kalah, dan kita bakal dapat apa?
+DES2@22	FDEEE734	Komunisme di Ohio. Orang-orang berbagi. Tidak ada yang belanja barang.
+DES2@23	8AE9D7A2	Omong kosong semacam itu.
+DES2@24	148D4201	Jadi santai saja, dan dengarkan.
+DES2@25	638A7297	Baiklah, baiklah, aku mendengarkan.
+DES2@26	FA83232D	Aku tahu orang seperti apa dirimu.
+DES2@27	8D8413BB	Aku butuh orang sepertimu.
+DES2@28	1D3B0E2A	Untuk melakukan hal-hal yang tidak boleh ketahuan kalau aku yang melakukannya.
+DES2@29	6A3C3EBC	Seperti apa?
+DES2@30	0AFBB759	Aku butuh kau untuk membajak sebuah truk.
+DES2@31	7DFC87CF	Badan saingan, dengan agenda sosial yang membingungkan.
+DES2@32	E4F5D675	Mereka punya barang-barang yang kita butuhkan.
+DES2@33	93F2E6E3	Sekarang ini adalah tugas dua orang. Kau butuh seorang kawan.
+DES2@34	0D967340	Gunakan pacar saudaramu itu, tapi jangan beritahu dia apa pun.
+DES2@35	7A9143D6	Ingat. Aku akan mengawasimu.
+DES2@36	E398126C	Hei, Carl.
+DES2@37	949F22FA	Tenanglah.
+DES2_AA	278A09CA	Aku langsung ke sini secepat kubisa, CJ.
+DES2_AB	BE835870	Yoi, beneran cepet banget. Emangnya darimana tau kalau aku butuh bantuan?
+DES2_AC	C98468E6	Bro, kau mulai stres, kawan (*holmes*).
+DES2_AD	57E0FD45	Kau meneleponku setengah jam yang lalu, bro!
+DES2_AE	20E7CDD3	Aku menelepon? Maksudku, oh iya, aku emang nelepon.
+DES2_AF	B9EE9C69	Sori bro, pikiranku lagi penat banget.
+DES2_BA	0CA75A09	Kita harus membajak sebuah truk di jalan tol (*freeway*).
+DES2_BB	95AE0BB3	Truk itu menuju ke San Fierro.
+DES2_BC	E2A93B25	Kita bisa naik ke jalan tol dari sini, kawan (*holmes*).
+DES2_CA	15BC6B48	Bro, kau gila, ini kan jembatan rel kereta!
+DES2_CB	8CB53AF2	Jembatan jalan rayanya ada di sebelah sana!
+DES2_CC	FBB20A64	Kita mau membajak kereta, kawan (*holmes*)?
+DES2_DA	5AFDFD8F	Kau terlewat belokan jalan tolnya, kawan (*holmes*)!
+DES2_DB	C3F4AC35	Jalan tolnya ada di belakang sana!
+DES2_DC	B4F39CA3	Bro, kau terlewat belokannya!
+DES2_EA	43E6CCCE	Itu truk gandengnya ada di depan!
+DES2_EB	DAEF9D74	Rencananya gimana?
+DES2_EC	ADE8ADE2	Aku akan memepet sejajar dan kau harus melompat naik ke atasnya!
+DES2_ED	338C3841	Ya ampun, kau tidak menyebutkan hal itu di telepon tadi.
+DES2_EE	448B08D7	Itu cuma segampang jalan-jalan di taman!
+DES2_EF	DD82596D	Katakan pada Kendl kalau aku mencintainya!
+DES2_FA	68CB9F0D	Lebih dekat, CJ, lebih dekat!
+DES2_FB	F1C2CEB7	Cuma sedikit lebih dekat lagi!
+DES2_FC	86C5FE21	Kau pikir aku ini katak loncat Meksiko? Lebih dekat lagi!
+DES2_GA	71D0AE4C	Pegang kendalinya tetap stabil, CJ!
+DES2_GB	E8D9FFF6	Stabil... stabil!
+DES2_GC	9FDECF60	Biar aku cari keseimbangannya dulu!
+DES2_HA	F648B283	Tambah kecepatan, CJ!
+DES2_HB	6F41E339	Samakan kecepatan truknya!
+DES2_HC	1846D3AF	Jaga posisinya tetap sejajar, CJ, tetap sejajar!
+DES2_JA	C47ED001	Pelankan kecepatan, CJ!
+DES2_JB	5D7781BB	Cuma sedikit lebih pelan!
+DES2_JC	2A70B12D	Tenangkan sedikit, CJ, kau terlalu ngebut!
+DES2_KA	DD65E140	Oke, CJ, ayo bawa truk gandeng ini kembali ke garasi!
+DES2_KB	446CB0FA	Kita mau bawa benda ini ke mana?
+DES2_KC	336B806C	Ada perusahaan angkutan di wilayah Whetstone. Kita bisa membawanya ke sana dan dapat uang dari situ.
+DES2_KD	AD0F15CF	Kita bisa membawanya ke sana dan dapat uang tunai dari situ.
+DES2_KE	DA082559	Oke, turunkan aku di sini dan aku akan jalan sendiri kembali ke garasi.
+DES2_LA	92247787	Sampai jumpa lagi, kawan (*holmes*)!
+HOLD_1	BD399AFD	Pertahankan posisi ini!
+TOR1_01	A83B09B7	~s~Kau harus menggunakan ~b~motor~s~ itu agar bisa membuat Cesar cukup dekat dengan truk.
+TOR1_02	3132580D	~r~Motornya hancur.
+TOR1_03	4635689B	~r~Cesar tewas.
+TOR1_04	D851FD38	~s~~r~Truk~s~ datang dari arah Las Venturas menuju Foster Valley melewati Jembatan Garver.
+TOR1_05	AF56CDAE	~s~Kejar ~r~truk~s~ itu.
+TOR1_06	365F9C14	~s~Bawa truknya kembali ke ~y~garasi~s~.
+TOR1_10	C6270860	~s~Pepet sisi sebelah kiri ~r~truk~s~ dan tahan posisi motornya sampai Cesar siap melompat.
+TOR1_11	B12038F6	~s~Masuk ke dalam ~b~truk~s~ lalu kemudikan kembali ke garasi.
+TOR1_12	2829694C	~r~Kau gagal mencuri truknya!
+TOR1_13	5F2E59DA	~s~Kau meninggalkan ~b~Cesar~s~ di belakang.
+TOR1_14	C14ACC79	~r~Kendaraan angkutnya hancur.
+TOR1_16	2F44AD55	~s~Jemput Cesar lalu kejar ~r~truk~s~ itu.
+TOR1_20	ED0A5BA3	~s~Naik ke atas ~b~motor~s~.
+TOR1_21	9A0D6B35	~s~Sambungkan kembali ke ~b~tangki truk~s~.

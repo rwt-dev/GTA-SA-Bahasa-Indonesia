@@ -1,0 +1,28 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+LOW_03	BDA852A0	~s~Pergi ke ~y~kumpul-kumpul lowrider~s~.
+LOW_04	23CCC703	~r~Acara kumpul-kumpul dibubarin gara-gara lu nyerang salah satu anggota kelompok.
+LOW_05	54CBF795	~s~Lu butuh mobil yang pake suspensi hidrolik buat bertanding.
+LOW_06	CDC2A62F	Lu lagi!
+LOW_07	BAC596B9	Pilih taruhan lu
+LOW_08	2A7A8B28	Gue kagak bakal kalah kali ini
+LOW_15	4DD0C6D4	Pake Kontrol Spesial buat ngaktifin hidrolik mobil.
+LOW_23	8F9E3022	~s~Masuk balik ke dalam ~b~lowrider~s~.
+LOW_24	11FAA581	Mobil mantap! Boleh gue ikut bareng lu buat acara ini?
+LOW_25	66FD9517	Lu harus menggerakkan hidrolik pas sesuai irama musik
+LOW_26	FFF4C4AD	Dorong kontrol suspensi ke arah yang ditunjukin.
+LOW_27	88F3F43B	Coba gerakkin suspensinya pas sesuai sama irama musik.
+LOW_28	184CE9AA	Ambil tuh duit gue kalo gitu lonte.
+LOW_29	6F4BD93C	Kalo lu mau cobain lagi, ada kontak di kedai tako, dia bakal ngasih tau lokasi sama waktunya ke lu.
+LOW_30	0F8C50D9	Goyangan mobil lu sampah banget asli.
+LOW_31	788B604F	Balik lagi pas lu udah siap kehilangan duit lebih banyak.
+LOW_32	E18231F5	~r~Acara kumpul-kumpul dibubarin gara-gara lu ngusilin salah satu mobil mereka.
+LOW_33	96850163	~r~Lu kalah dalam tantangan lowrider.
+LOW_34	08E194C0	~r~Mobil lowrider lu tinggal kenangan.
+LOW_35	7FE6A456	~r~Acara kumpul-kumpul lowrider udah dibubarin.
+LOW_36	E6EFF5EC	~s~Lu butuh mobil lowrider yang ada hidroliknya.
+LOW_38	0157D8EB	~s~Lu butuh $~1~ buat bertanding.

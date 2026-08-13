@@ -1,0 +1,126 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+DRI2_1	3529ED65	~s~ Masuk ke dalam ~b~mobil~s~.
+DRI2_12	F53AEDBA	~s~ Bantai para ~r~penjahat~s~ itu.
+DRI2_17	85501935	SINYAL
+DRI2_18	15EF04A4	~s~Pake petunjuk dari indikator ~b~SINYAL~s~ buat nemuin van-nya.
+DRI2_21	471EEFC3	Pencet tombol Esc buat jeda game terus ngeliat peta lu.
+DRI2_22	DE17BE79	~r~Toreno tewas!
+DRI2_24	37741B4C	~s~Bawa Toreno jauh-jauh dari van yang terbakar sebelum polisi dateng.
+DRI2_25	40732BDA	Balik lagi ke ~y~The Pleasure Domes~s~.
+DRI2_26	D97A7A60	~r~Lu kabur ninggalin Toreno di belakang!
+DRI2_3	DB278C49	~s~ Lu ninggalin ~b~Toreno~s~ di belakang. Balik terus jemput dia.
+DRI2_31	5E05DE82	~r~T-Bone tewas!
+DRI2_32	C70C8F38	~s~ Lu ninggalin ~b~T-Bone~s~ di belakang. Balik terus jemput dia.
+DRI2_33	B00BBFAE	~s~ Hancurin ~r~Van-nya~s~.
+DRI2_34	2E6F2A0D	~s~ Keluar dari Bandara.
+DRI2_4	454319EA	~s~ Cabut dari sini sebelum polisi dateng!
+DRI2_46	8F20DDE6	~s~Hilangin bintang buronan! Pergi ke Pay 'n' Spray.
+DRI2_47	F827ED70	~s~Balik lagi ke Toreno sama ~r~van-nya~s~!
+DRI2_5	3244297C	~r~ Toreno tewas
+DRI2_9	3BF26557	BATERAI
+FAR3_AA	AE581420	Kita ada masalah di bawah sini!
+FAR3_AB	3751459A	Gue kagak tau, kirim tim bantuan ke sini!
+FAR3_AC	4056750C	Tersangka bersenjata sama berbahaya!
+FAR3_BA	857547E3	Kita ada masalah di bawah sini!
+FAR3_BB	1C7C1659	Gue kagak tau, kirim tim bantuan ke sini!
+FAR3_BC	6B7B26CF	Tersangka bersenjata sama berbahaya!
+FAR3_CA	9C6E76A2	Dia bilang dia denger suara burung camar!
+FAR3_CB	05672718	Mike denger burung camar!
+FAR3_CC	7260178E	Dia denger suara mesin berat!
+FAR3_CD	EC04822D	Dia bilang tempatnya rame, kek depo kargo barang atau semacamnya.
+FAR3_CE	9B03B2BB	Mike denger suara lonceng pelabuhan!
+FAR3_CF	020AE301	Dia bilang dia denger suara truk lagi mundur.
+FAR3_CG	750DD397	Suaranya kek klakson kapal laut!
+FAR3_CH	E5B2CE06	Mike denger pesawat lepas landas sama mendarat.
+FAR3_CJ	0BBCAF2A	Taik, dia bilang mereka berhenti, terus dia denger suara tembakan.
+FAR3_CK	7CBB9FBC	Dia mikir mereka baru aja nerobos gerbang keamanan pake tembakan!
+FAR3_DA	D32FE065	Burung camar? Taik lah, itu sih bisa di mana aja di nih kota.
+FAR3_DB	4A26B1DF	Camar sama mesin berat? Tempat apaan tuh? Area proyek, tempat pembuangan sampah, atau apaan?
+FAR3_DC	3D218149	Kargo barang? Wah, mereka pasti ada di pelabuhan!
+FAR3_DD	A34514EA	Di pelabuhan mah kagak ada penjagaan ketat,
+FAR3_DE	D442247C	tapi di depo kargo bandara ada!
+FAR3_EA	CA34D124	Ada lokasi proyek bangunan di Doherty!
+FAR3_EB	533D809E	Pergi ke pelabuhan di Easter Basin!
+FAR3_EC	243AB008	Ke bandara, cepetan (*rapido*)!
+FAR3_FA	E11982E7	Harus cepetan nih, baterai HP si Mike kagak tersisa banyak lagi!
+FAR3_FB	7810D35D	Baterai HP si Mike udah mau habis!
+FAR3_FC	0F17E3CB	HP-nya Mike udah hampir mati nih!
+FAR3_FD	91737668	Sialan, HP-nya Mike mati!
+FAR3_GA	F802B3A6	Woy gausah khawatir Mike, kita udah dikit lagi nyampe!
+FAR3_GB	610BE21C	Woy, kita nyampe semenit lagi Mike!
+FAR3_GC	160CD28A	Woy, tahan dulu di situ Mike, bantuan lagi jalan ke sana!
+FAR3_HA	7F9AAF69	Noh gerbangnya!
+FAR3_HB	E693FED3	Sama ada beberapa satpam yang tewas!
+FAR3_HC	9194CE45	Woy, ini tempatnya, pasang mata lu lebar-lebar cari van itu!
+FAR3_JA	4DACCDEB	Oke, penanda sinyalnya (*tags*) harusnya udah jalan sekarang, bro.
+FAR3_JB	D4A59C51	Penanda sinyal? Alat apaan tuh?
+FAR3_JC	A3A2ACC7	Pas masalah terakhir kemarin, Mike ngesembunyiin pemancar (*transponder*) di dalam paket kokain.
+FAR3_JD	3DC63964	Tadinya kita mau ngikutin tuh sinyal ke markas gengnya, tapi ada hal yang ngacau
+FAR3_JE	4AC109F2	dan sekarang kita kudu pake tuh alat buat melacak van sama nyelamatin Mike!
+FAR3_JF	D3C85848	Gimana cara kerjanya?
+FAR3_JG	A4CF68DE	Gampang. Makin deket kita sama posisinya, makin kuat sinyalnya.
+FAR3_KA	54B7FCAA	Nah itu van-nya!
+FAR3_KB	CDBEAD10	Di sebelah sana, bro!
+FAR3_KC	BAB99D86	Nah itu dia!
+FAR3_KD	24DD0825	Taik, mereka ada di sana!
+FAR3_LA	1BF66A6D	Kita butuh mobil yang lebih gede, ayo gerak!
+FAR3_LB	82FF3BD7	Kekecilan nih, ayo mikir pake otak!
+FAR3_LC	F5F80B41	Kagak muat kita di mobil itu, mikir dikit kenapa nak!
+FAR3_MA	02ED5B2C	Berapa lama lu udah kerja buat Jizzy, gue kagak pernah ngeliat lu sebelumnya?
+FAR3_MB	9BE40A96	Baru nyampe kota minggu kemarin. Gue ngerjain beberapa tugas di sana-sini.
+FAR3_MC	ECE33A00	Baru nyampe kota, ya? Sebelum itu lu di mana?
+FAR3_MD	7287AFA3	Woy, apaan nih maksudnya?
+FAR3_ME	05809F35	Bro, jawab aja pertanyaan bangsat gue.
+FAR3_MF	9C89CE8F	Dengerin bro, santai. Gue di Los Santos bareng keluarga gue, oke?
+FAR3_MG	EB8EFE19	Kasih dompetnya ke gue.
+FAR3_MH	7B31E388	Apaan? Woy, lepasin!
+FAR3_MJ	953F82A4	Gausah banyak ngelawan terus fokus ke jalan!
+FAR3_MK	E238B232	Nih, Mike.
+FAR3_ML	7C5C2791	Carl Johnson, ya?
+FAR3_MM	0B5B1707	Oke. Gue udah dapet bukti yang cukup. Nih.
+FAR3_MN	925246BD	Woy, ada duit 20 dolar di dalam situ. Awas aja kalo ilang pas gue cek ntar.
+FAR3_MO	E555762B	Diem lu bangsat.
+FAR3_NA	29C008EF	Oke, Carl Johnson, kerja lu bagus hari ini.
+FAR3_NB	B0C95955	Sekarang cabut dari sini, kita punya hal penting yang kudu dibahas.
+FAR3A00	A9C69347	T-Bone! Injek rem lu dulu, sayang. Santai dikit napa,
+FAR3A01	DEC1A3D1	dan duduk santai terus hilangin emosi lu, bro!
+FAR3A02	47C8F26B	Woy bro (*holmes*), buka mata lu. Lu kagak liat apa kita lagi dikerjain di sini?
+FAR3A03	30CFC2FD	Woy kawan! T-Bone, liat noh, ada Carl!
+FAR3A04	AEAB575E	Dia mah pahlawan sejati di luar sana.
+FAR3A05	D9AC67C8	Apaan, lu pada bego ya (*vatos*)? Ada orang yang lagi ngincer kita.
+FAR3A06	40A53672	Kita kudu balik terus mikir ulang.
+FAR3A07	37A206E4	Gue pikir mereka cuma lagi adu nasib untung-untungan doang.
+FAR3A08	A71D1B75	Mike? Mike! Gue dari tadi nyoba ngubungin lu.
+FAR3A09	D01A2BE3	Apaan? Oh aduh. Lu ada di mana?
+FAR3A10	B0DDA206	Oke, ngomong terus aja!
+FAR3A11	C7DA9290	Woy bro, Mike lagi dalam masalah. Ayo cabut.
+FAR3A12	5ED3C32A	Masalah apaan? Terus siapa si Mike?
+FAR3A13	29D4F3BC	Bro, barang kokainnya dilarikan, bareng van-nya
+FAR3A14	B7B0661F	dan si Mike masih kejebak di belakang!
+FAR3A15	C0B75689	Terus, kita mau ngapain nih?
+FAR3A16	59BE0733	- Gimana cerita kita bisa tau posisi dia ada di mana?~n~- Dia memegang HP-nya,
+FAR3A17	2EB937A5	Dia memegang HP-nya,
+FAR3A18	BE062A34	dia bakal terus ngomong sama kita sampe baterai HP-nya habis.
+FAR3A19	C9011AA2	Ayolah, kita kudu gasken!
+FAR3A20	9BF0F1C5	Ada apaan nih?
+FAR3A21	ECF7C153	Sip, ayo jalan!
+FAR3A22	75FE90E9	Liat kan? Kondisi kita masih aman.
+FAR3B00	AB802D1E	Woy bro, ayolah, buruan.
+FAR3B01	DC871D88	Akhirnya nyampe juga lu T-Bone... Siapa nih bangsat?
+FAR3B02	458E4C32	Santai, ini salah satu anak buahnya Jizzy, kalem aja, bro (*güero*).
+FAR3B03	32897CA4	Lu denger itu kagak? Kita kudu ngebakar van ini bareng sama kokain di dalamnya.
+FAR3B04	ACEDE907	Apa-apaan nih?!
+FAR3B05	DBEAD991	Woy, Charlie, bro (*güero*), kita kagak bakal ngebakar apa pun (*nada*)!
+FAR3B06	42E3882B	Ini emang musibah,
+FAR3B07	35E4B8BD	tapi dikurung penjara 20 tahun ampe seumur hidup tuh jauh lebih parah dari itu,
+FAR3B08	A55BA52C	paham kagak lu (*comprende amigo*)?
+FAR3B09	D25C95BA	Woy dia bener bro, ayo bakar terus cabut dari sini.
+FAR3B10	B29B1C5F	Woy, siapa yang nanya pendapat lu, badut (*payaso*)?
+FAR3B11	C59C2CC9	Ini bukan rapat panitia!
+FAR3B12	5C957D73	Tepat banget. Gue yang ngambil keputusan di sini. Sekarang diem terus ayo jalan.
+FAR3B13	2B924DE5	Cepat, cepat (*apurate, apurate*)!

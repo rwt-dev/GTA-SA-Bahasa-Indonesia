@@ -1,0 +1,120 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+CRA1_00	E54D6776	~s~Tenpenny udah nyiapin ~g~bom molotov~s~ di gang daerah Downtown Los Santos. Ambil tuh barang.
+CRA1_01	924A57E0	~s~Lu udah dapet molotovnya. Pergi ke ~y~markas geng~s~ terus bakar tuh rumah.
+CRA1_02	0B43065A	~s~Bakar rumahnya. Lempar molotov ke ~r~5 jendela lantai bawah~s~ - biar hangus terbakar.
+CRA1_03	7C4436CC	~s~Ada beberapa stok ~g~molotov~s~ lagi di deket sini.
+CRA1_04	E220A36F	~s~Mantap. Tuh rumah bakal rata sama tanah terbakar.
+CRA1_05	952793F9	~s~Lu kejebak cewek di dalam bangunan yang lagi terbakar. Lu harus nyelamatin dia.
+CRA1_06	0C2EC243	~s~Masuk lewat ~y~pintu depan~s~.
+CRA1_07	7B29F2D5	Tuh cewek ada di lantai atas. Waktu lu gak banyak sebelum dia hangus terbakar.
+CRA1_08	EB96EF44	~s~Ada ~g~alat pemadam api~s~ di dapur lantai bawah.
+CRA1_09	9C91DFD2	~s~Bawa alat pemadam api ke lantai atas terus selamatin tuh ~b~cewek~s~.
+CRA1_10	FC565637	~s~Lu ninggalin tuh ~b~cewek~s~ di belakang. Balik lagi terus jemput dia.
+CRA1_11	8B5166A1	~s~Anterin tuh ~b~cewek~s~ balik ke ~y~rumahnya~s~.
+CRA1_12	1258371B	~s~Lu ninggalin tuh ~b~cewek~s~ di belakang. Balik lagi terus antar dia pulang.
+CRA1_30	CE6034B5	~s~Udah lalap api! Bakar jendela selanjutnya.
+CRA1_31	B9670423	~s~Awas meledak! Lanjutin terus.
+CRA1_32	206E5599	~s~Lemparan mantap! Tinggal beberapa lagi beres nih.
+CRA1_33	5769650F	~s~Bakal terbakar mantap tuh. Bakar yang lain lagi.
+CRA1_34	C90DF0AC	~s~Bakar, bro, bakar. Sekarang gempur ruangan berikutnya.
+CRA1_35	BE0AC03A	Arahin alat pemadam api ke titik bawah api buat padamin.
+CRA1_50	983A9333	~r~Tuh cewek udah jadi gosong!
+CRA1_51	EF3DA3A5	~r~Tuh cewek mati!
+CRA1_70	AA0CF1B1	Cewek
+CRA1_AA	F46B6E6B	Ya Tuhan, tolongin!
+CRA1_AB	6D623FD1	Siapa aja tolongin gue, tolong!
+CRA1_AC	1A650F47	Asapnya, bikin gue pengap!
+CRA1_AD	84019AE4	Tolong, siapa aja, tolongin gue!
+CRA1_AE	F306AA72	Woy! Ada yang bisa denger gue gak?
+CRA1_AF	6A0FFBC8	Demi Tuhan, siapa aja, TOLONGIN!
+CRA1_AG	1D08CB5E	KEBAKARAN! Tolong, KEBAKARAN!
+CRA1_AH	8DB7D6CF	PANGGIL 911!
+CRA1_AJ	63B9B7E3	Ya Tuhan, apinya! APINYA!
+CRA1_BA	DF463DA8	(TERIAK)
+CRA1_BB	464F6C12	(TERIAK)
+CRA1_BC	31485C84	(TERIAK)
+CRA1_BD	AF2CC927	(TERIAK)
+CRA1_BE	D82BF9B1	(TERIAK)
+CRA1_BF	4122A80B	(TERIAK)
+CRA1_BG	3625989D	(TERIAK)
+CRA1_BH	A69A850C	(TERIAK)
+CRA1_BJ	4894E420	(TERIAK)
+CRA1_BK	3F93D4B6	(TERIAK)
+CRA1_CA	C65D0CE9	Tahan neng, gue dateng nih!
+CRA1_CB	5F545D53	Tetep di deket jendela, gue naik ke atas!
+CRA1_DA	891C9A2E	Siapa lu bangsat?
+CRA1_DB	1015CB94	Lu yang mulai semua ini!
+CRA1_DC	6712FB02	Eh, bocah Grove Street bangsat nih yang ngebakar!
+CRA1_DD	F9766EA1	Anak senior Grove Street nih yang bikin kebakaran!
+CRA1_EA	9007AB6F	Sist, lu aman di situ?
+CRA1_EB	090EFAD5	Iya, tapi apinya panas banget! Gue takut!
+CRA1_EC	7E09CA43	Tahan bentar, kayaknya ada alat pemadam api di dapur!
+CRA1_ED	E06D5FE0	Gue balik lagi bentar!
+CRA1_FA	BB2AF8AC	Mundur dikit!
+CRA1_FB	2223A916	Padamin! Padamin apinya!
+CRA1_GA	A231C9ED	Ya Tuhan, gue takut banget!
+CRA1_GB	3B389857	YATUHAN, apaan tuh tadi?
+CRA1_GC	4C3FA8C1	Woy, bangunannya mulai ambruk nih, kita harus cabut dari sini, cepetan!
+CRA1_HA	25A9D522	Cepetan, padamin apinya, padamin!
+CRA1_HB	BCA08498	Ya Tuhan, kita kagak bakal bisa kabur nih!
+CRA1_HC	CBA7B40E	Cepat, CEPETAN!
+CRA1_HD	55C321AD	Padamin apinya, cepat, cepat!
+CRA1_HE	22C4113B	Mundur, tenang ada gue!
+CRA1_HF	BBCD4081	Bentar sist, jangan panik dulu!
+CRA1_HG	CCCA7017	Gausah panik, lagi gue urus nih! Santai!
+CRA1_HH	5C756D86	Tahan, dikit lagi nyampe keluar!
+CRA1_HJ	B27B0CAA	Taik! Taik! Rumahnya mau ambruk!
+CRA1_HK	C57C3C3C	Ya Tuhan, rumahnya bakal hancur!
+CRA1_HL	5B18A99F	Lantai bawahnya udah mau rubuh nih!
+CRA1_JA	179FB7A0	Woy bro, gue utang nyawa sama lu...
+CRA1_JB	8E96E61A	Tadi gue dikit lagi mampus, asli!
+CRA1_JC	F991D68C	Sist, lu keliatan syok banget. Mau gue anterin pulang kagak?
+CRA1_JD	67F5432F	Iya, tolong ya, makasih banyak.
+CRA1_KA	0E8486E1	Rumah lu di mana?
+CRA1_KB	978DD75B	Di daerah pinggiran Grove Street.
+CRA1_KC	E08AE7CD	Seriusan?! Ngapain lu keluyuran di sarang geng Vagos?
+CRA1_KD	7EEE726E	Gue demen aja hidup penuh tantangan.
+CRA1_KE	09E942F8	Lu CJ, kan?
+CRA1_KF	90E01342	Yoi, tau dari mana lu?
+CRA1_KG	E7E723D4	Semua orang di Grove kenal lu sama kakak lu,
+CRA1_KH	77583E45	tapi gue pikir lu udah kabur.
+CRA1_KJ	99565F69	Gue kagak pernah 'kabur' ya, gue cuma butuh... menenangkan diri dari masalah aja.
+CRA1_LA	41C51026	Nah ini rumah gue!
+CRA1_MA	58DE2167	Woy, nama lu siapa?
+CRA1_MB	C1D770DD	Denise. Denise Robinson. Nelpon gue kapan-kapan ya, ntar kita bisa jalan bareng atau gimana gitu.
+CRA1_MC	B6D0404B	Yoi, boleh juga tuh.
+CRA1_MD	28B4D5E8	Oke, ketemu lagi ntar ya, CJ.
+CRA1A00	F3F5E90C	WOY! CARL JOHNSON! CJ!
+CRA1A01	84F2D99A	Geser lu, kasih dia duduk, bangsat!
+CRA1A02	1DFB8820	Akhirnya lu punya waktu juga buat mampir.
+CRA1A03	6AFCB8B6	Bro, gue lagi sibuk banget. Gue baru aja nguburin emak gue, bro.
+CRA1A04	F4982D15	Alasan ngentot banget menurut gue mah.
+CRA1A05	839F1D83	Opsir Pulaski mikir lu lagi nyoba main-main sama kita, Carl.
+CRA1A06	1A964C39	Sekarang lu dengerin baik-baik. Lu tuh milik kita. Lu punya kita.
+CRA1A07	6D917CAF	Kita bisa ngelakuin hal paling tai ke lu dari ketinggian
+CRA1A08	FD2E613E	sampe lu mikir Tuhan sendiri yang lagi ngeberakin lu.
+CRA1A09	8A2951A8	Paham lu?
+CRA1A10	EAEED84D	Dia hrs bener-bener paham lah, anjing.
+CRA1A11	9DE9E8DB	Yoi, emang kudu paham dia.
+CRA1A12	04E0B961	Saatnya kerja, CJ, dan bayar kebebasan lu.
+CRA1A13	73E789F7	Ada orang lagi ngumpet di seberang kota.
+CRA1A14	ED831C54	Lu pegang alamatnya kan, Pulaski?
+CRA1A15	9A842CC2	Tuh orang cuma sampah gengster, pengedar narkoba, pembunuh polisi, persis kek lu.
+CRA1A16	038D7D78	Kita kagak demen sama dia dan dia juga kagak demen sama kita.
+CRA1A17	748A4DEE	Sekarang lu pastiin dia kagak bakal bisa keluar dari lingkungan situ lagi -
+CRA1A18	E435507F	bahkan dalam peti mati sekalipun.
+CRA1A19	933260E9	Sekarang cabut lu dari sini, bangsat!
+CRA1A20	C1C38B8E	Pelayan, kita mau pesen makanan nih di sini!
+CRA1A21	B6C4BB18	Kagak sudi gue. Gue cabut dulu...
+CRA1A22	2FCDEAA2	- Oh, tai lah...~n~- Sini lu, nak!
+CRA1A23	58CADA34	Sini lu, nak!
+FIRE_EX	0C5804C9	Pencet terus tahan ~m~~widget_explicit_extinguisher~ buat pake pemadam api. Arahin ke titik bawah api buat nemadamkannya.
+MOLOTOV	796950C5	Pencet terus tahan ~m~~widget_explicit_throw~ buat melempar molotov. Makin lama lu tahan ~m~~widget_explicit_throw~, makin jauh lemparannya. Hati-hati! Kalo lemparan lu kagak cukup jauh lu bakal kena ledakannya sendiri.
+NEWSHAG	05EA70E2	Denise sekarang resmi jadi pacar lu. Balik ke sini kapan aja buat ngajak dia kencan.
+RUMBLE	BF92DB43	Gemuruh... Gemuruh... (suara bangunan ambruk)
+WINDOWS	235D847E	Buat memecahkan jendela, pukul pake senjata atau lempar molotov ke arah jendela.

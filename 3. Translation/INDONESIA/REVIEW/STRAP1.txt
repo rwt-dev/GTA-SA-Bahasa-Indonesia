@@ -1,0 +1,193 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+BEXIT1	62452B6A	Terserah lu dah.
+BEXIT2	FB4C7AD0	Terserah. Sampai ketemu lagi.
+DNCEF1	353AA04F	Lu kudu latihan lebih banyak lagi di lantai dansa!
+DNCEF2	AC33F1F5	Bro, cara joget lu jelek banget!
+DOFFE1	16EF9457	Nah, kenapa lu kagak ikut dansa aja sekalian?
+DOFFE1N	647D4754	Makasih, tapi gue lagi kagak minat buat dansa sekarang.
+DOFFE1Y	E7AEC293	Yoi, pasti lah!
+DOFFE2	8FE6C5ED	Nah, kenapa lu kagak ikut dansa aja sekalian?
+DOFFE2N	4F501497	Gue hargai tawarannya, neng, tapi ada hal lain yang kudu gue urus nih.
+DOFFE2Y	CC839150	Oke, ayo kita lakukan!
+DOFFE3	F8E1F57B	Nah, woy, ayo kita dansa, manis!
+DOFFE3N	564B25D6	Makasih, tapi gue lagi kagak minat buat dansa sekarang.
+DOFFE3Y	D598A011	Yoi, pasti lah!
+DOFFE4	668560D8	Nah, woy, ayo kita dansa, manis!
+DOFFE4N	190AB311	Gue hargai tawarannya, neng, tapi ada hal lain yang kudu gue urus nih.
+DOFFE4Y	9AD936D6	Oke, ayo kita lakukan!
+DSTAR1	4923E3D3	Ayolah, kawan, bikin gue kagum.
+DSTAR2	D02AB269	Coba kita liat sehebat apa keahlian lu...
+GEXIT1	3288BAD9	Ya udah, balik lagi ke sini pas lu kagak terburu-buru.
+GEXIT2	AB81EB63	Kalo lu berubah pikiran, lu tahu harus nemuin gue di mana.
+HI1	0E520EE3	Woy, ada cerita apaan nih?
+HI1N	A8698D5B	Denger ya, gue lagi sibuk, oke?
+HI1Y	2BBA089C	Cuma lagi nyari hiburan aja...
+HI2	975B5F59	Woy, ada cerita apaan nih?
+HI2N	8344DE98	Kagak ada waktu buat ngobrol, sayang!
+HI2Y	00975B5F	Cuma lagi nongkrong santai, lu tahu lah...
+HI3	E05C6FCF	Ada apaan nih?
+HI3N	9A5FEFD9	Denger ya, gue lagi sibuk, oke?
+HI3Y	198C6A1E	Cuma lagi nyari hiburan aja...
+HI4	7E38FA6C	Ada apaan nih?
+HI4N	D51E791E	Kagak ada waktu buat ngobrol, sayang!
+HI4Y	56CDFCD9	Cuma lagi nongkrong santai, lu tahu lah...
+HI5	093FCAFA	Woy, ada cerita apaan nih?
+HI5N	CC05485F	Denger ya, gue lagi sibuk, oke?
+HI5Y	4FD6CD98	Cuma lagi nyari hiburan aja...
+HI6	90369B40	Woy, ada cerita apaan nih?
+HI6N	E7281B9C	Kagak ada waktu buat ngobrol, sayang!
+HI6Y	64FB9E5B	Cuma lagi nongkrong santai, lu tahu lah...
+HI7	E731ABD6	Woy, gue kira lu bakal balik lagi, hah?
+HI7N	FE332ADD	Denger ya, gue lagi sibuk, oke?
+HI7Y	7DE0AF1A	Cuma lagi nyari hiburan aja...
+HI8	778EB647	Woy, gue kira lu bakal balik lagi, hah?
+HI8N	79AB3612	Kagak ada waktu buat ngobrol, sayang!
+HI8Y	FA78B3D5	Cuma lagi nongkrong santai, lu tahu lah...
+LOC1_AA	C7AB5CA7	Udah dua bulan di sini sama yang gue lakuin cuma main film porno.
+LOC1_AB	5EA20D1D	Enak banget rasanya santai setelah seharian syuting.
+LOC1_AC	29A53D8B	Pesta yang mantap!
+LOC1_AD	B7C1A828	Ini romantis banget!
+LOC1_AE	C0C698BE	Gue suka nongkrong di deket api unggun!
+LOC1_AF	59CFC904	Lautnya keliatan indah banget!
+LOC1_AG	2EC8F992	Awalnya gue kesusahan, tapi sekarang gue bisa nahan penuh dua belas inci.
+LOC1_AH	BE77E403	Agan syuting rame-rame yang paling gue nikmatin.
+LOC1_AJ	5079852F	Dari rasa sakit sampai kenikmatan, lengkap semuanya!
+LOC1_AK	277EB5B9	Hai, lu mau dansa kagak?
+LOC1_AL	B91A201A	Jangan malu-malu, ikut gabung aja!
+LOC1_AM	CE1D108C	Ayolah ikut dansa!
+LOC1_AN	57144136	Duduk aja terus nikmatin pestanya.
+LOC1_AO	201371A0	Ini bener-bener nikmat banget!
+LOC1_AP	AD1B7C55	Biarkan semua masalah lu melayang pergi.
+LOC1_AQ	DA1C4CC3	Terus dia keluar di muka gue, oh, halo!
+LOC1_AR	43151D79	Yang penting itu ritmenya...
+LOC1_AS	34122DEF	Paling bagus itu bayangin kalo dia orang yang lu suka!
+LOC1_AT	AA76B84C	Buat sekarang, film porno yang ngebayar tagihan-tagihan gue.
+LOC1_AU	DD7188DA	Ada yang mau bir lagi kagak?
+LOC1_AV	4478D960	Woy, siapa nih orang?
+LOC1_BA	EC860F64	Pasirnya masuk ke dalam celana pendek gue!
+LOC1_BB	758F5EDE	Latihan aerobik yang mantap!
+LOC1_BC	02886E48	Goyangkan kaki-kaki itu!
+LOC1_BD	9CECFBEB	Ini murni banget, lu tahu kagak?
+LOC1_BE	EBEBCB7D	Api unggun yang bikin pesta pantai makin meriah...
+LOC1_BF	72E29AC7	Bisa betah di sini berjam-jam...
+LOC1_BG	05E5AA51	Jadi gue bilang ke dia, "Anaerobik, lu lonte"!
+LOC1_BH	955AB7C0	Lautnya keliatan indah banget...
+LOC1_BJ	7B54D6EC	Ada yang punya minuman olahraga isotonik kagak?
+LOC1_BK	0C53E67A	Ayolah, gerakkan tubuh itu!
+LOC1_BL	923773D9	Ayo dansa, lu orang kaku!
+LOC1_BM	E530434F	Masa lu kagak bisa ngerasain ritme kehidupan sih?
+LOC1_BN	7C3912F5	Lu mau duduk di deket api unggun kagak?
+LOC1_BO	0B3E2263	Ayolah, duduk, tempatnya masih luas kok!
+LOC1_BP	86362F96	Pesta yang mantap, kan?
+LOC1_BQ	F1311F00	Woy, siapa nih orang?
+LOC1_BR	68384EBA	Lu mau gabung sama kita kagak, kawan?
+LOC1_BS	1F3F7E2C	Duduk aja terus ambil birnya!
+LOC1_BT	815BEB8F	Pesta ini keren juga ya, hah?
+LOC1_BU	F65CDB19	Ada yang kenal sama orang ini kagak?
+LOC1_BV	6F558AA3	Cara terbaik buat santai di hari kek gini.
+LOC1_CA	F59D3E25	Langitnya keren banget!
+LOC1_CB	6C946F9F	Nih cewek jago banget memainkan meja DJ-nya bro
+LOC1_CC	1B935F09	Bro, kenapa kagak makin banyak orang yang dansa sih?
+LOC1_CD	85F7CAAA	Kayakny gue kebanyakan minum deh...
+LOC1_CE	F2F0FA3C	Kayaknya gue kudu pergi muntah deh...
+LOC1_CF	6BF9AB86	Bir yang terakhir tadi kebanyakan bro...
+LOC1_CG	1CFE9B10	Woy, gue denger Madd Dogg lagi rekaman album baru!
+LOC1_CH	8C418681	Pasirnya masuk ke dalam celana dalam gue!
+LOC1_CJ	624FE7AD	Bro, gue lagi melayang banget ngerasain lagu-lagu ini!
+LOC1_CK	1548D73B	Ayolah, bro, dansa!
+LOC1_CL	8B2C4298	Jangan ganggu gaya gue!
+LOC1_CM	FC2B720E	Ngapain lu ngeliatin gue?
+LOC1_CN	652223B4	Lu mau duduk kagak?
+LOC1_CO	12251322	Jangan terlalu deket sama api unggunnya, bro!
+LOC1_CP	9F2D1ED7	Ada yang kenal sama nih orang kagak?
+LOC1_CQ	E82A2E41	Ada orang lain lagi nih, gabung di pinggir api unggun!
+LOC1_CR	71237FFB	Duduk aja, bro!
+LOC1_CS	06244F6D	Duduk terus ikut gabung pestanya!
+LOC1_CT	9840DACE	Anak-anak Seville selalu bikin acara yang mantap.
+LOC1_CU	EF47EA58	Seville Families lagi mengawasi kita...
+LOC1_CV	764EBBE2	Seville Boulevard yang selalu bikin pesta paling mantap, bro.
+LOC1_YA	45B0C4FE	Gue suka gaya lu, kawan, mau pergi ke tempat yang lebih privat kagak?
+LOC1_YO	A208E9F9	Mantap, kita bisa pake ruangan kantor gue!
+LOC1_YP	2F00E40C	Mobil van yang keren, lu lagi minum apaan tuh?
+LOC1_YQ	5807D49A	Tunggu bentar, gue bakal pergi ngambilin minum buat kita!
+LOC1_YR	C10E8520	Sori ya, neng, tapi gue butuh sound system ini buat pesta rumah kawan gue!
+LOC1_YS	B609B5B6	Lu keparat muka dua gila!
+LOC1_YT	286D2015	Dia mencuri sound system-nya!
+LOC1_ZT	034073D6	Keren.
+LOC1_ZU	74474340	Ayolah kalo gitu.
+MLOC01A	8F3A5540	LOC! Lu mau bawa sound system ini ke mana, ke The Grove?
+MLOC01B	163304FA	Kagak mungkin lah, kita harus mencopot sound system-nya dari van dulu!
+MLOC01C	6134346C	Terus apa saran lu?
+MLOC01D	FF50A1CF	Jeffrey! Lu di sini bukan buat telponan!
+MLOC01E	88579159	Liat tuh kondisi tempat buang air kecilnya!
+MLOC01F	115EC0E3	Bro, tunggu sebentar CJ, ntar gue telpon balik.
+MLOC01G	6659F075	Loc? LOC!
+MLOC01H	F6E6EDE4	BANGSAT!
+MLOC02A	A4170683	Loc, bro, jangan bercanda sama gue!
+MLOC02B	3D1E5739	Tenang, CJ, tenang.
+MLOC02C	4A1967AF	Separuh kota Los Santos lagi nyariin nih van bangsat.
+MLOC02D	D47DF20C	Oke, oke. Taruh vannya di garasinya LB di Commerce.
+MLOC02E	A37AC29A	TERIMA, KASIH!
+MLOC02F	3A739320	Kagak usah sungkan,
+MLOC02G	4D74A3B6	Kalian semua terlalu panik.
+MLOC02H	DDCBBE27	Pas umur lu udah lewat enam puluh,
+MLOC02J	33C5DF0B	Lu kudu - matikan telpon.
+MLOC02K	44C2EF9D	Ah bacot lu. Keparat.
+MUS1_1	9DE4691F	~s~Pergi ke pesta pantai terus ngobrol sama ~y~DJ.
+MUS1_18	A5975102	~r~DJ-nya tewas!
+MUS1_19	D2906194	~s~Bawa mobil van balik ke ~y~bengkel garasi.
+MUS1_2	04ED38A5	~s~Pas lu nyampe di pesta pantai, pergi terus ngobrol sama ~y~DJ~s~.
+MUS1_20	80618AF3	~r~Mobil vannya hancur!
+MUS1_21	F766BA65	~r~Lu mengacaukan pestanya!
+MUS1_3	73EA0833	~s~Kalo lu ngobrol sebentar, DJ-nya bakal minta lu berdansa buat dia.
+MUS1_4	ED8E9D90	~s~Dapatkan skor 2500 atau lebih besar buat dapet akses ke mobil van sound system.
+MUS1_5	9A89AD06	~s~Pergi ke ~y~pesta pantai~s~.
+MUS1_6	0380FCBC	~s~Masuk balik ke dalam ~b~mobil van sound system~s~.
+MUS1_7	7487CC2A	~s~Curi ~b~mobil van sound system.
+MUS1_8	E438D1BB	~r~Lu butuh lebih banyak latihan!
+MUS1_C	23EF790F	Gerakan benar (%)
+MUS1_H2	BBBF7AA3	Pas tanda panah ada di penanda hijau, pencet tombol arah yang sesuai buat berdansa.
+STR1A00	65327B8D	Woy, tahan pintunya buat gue, bro?
+STR1A01	12354B1B	Keliatan teknis banget, gangsta!
+STR1A02	8B3C1AA1	Carl? Lu belum kabur lagi kan?
+STR1A03	FC3B2A37	Kagak, gangsta, gue di sini selamanya.
+STR1A04	625FBF94	Yoi? Yaa, persetan lah sama pekerjaan ini, bro.
+STR1A05	15588F02	Gue lagi menyusun pesta mendengarkan lagu buat album gue,
+STR1A06	8C51DEB8	tapi pertama-tama gue butuh sound system...
+STR1A07	FB56EE2E	Woy, gue siap bantu, asalkan gue kagak harus datang ke pestanya.
+STR1A08	6BE9F3BF	Omong apaan lu, bego?
+STR1A09	1CEEC329	Gue jamin pas gue mulai menyanyi, semua orang bakal berdatangan.
+STR1A10	7C294ACC	Jujur aja ya, OG, gue beneran udah kagak demen musik rap lagi.
+STR1A11	0B2E7A5A	Gue lebih demen lagu-lagu gangster hardcore gitu.
+STR1A12	92272BE0	Nah itu kan gue banget, bro, itu gue! OG Loc, sayang!
+STR1A13	E5201B76	Yoi, yoi, pasti lah. Tapi gue cuma suka kalo rima lagunya bener-bener bagus...
+STR1A14	7B448ED5	Lu tahu lah... Yaa pokoknya, lu mau gue mencuri apaan nih?
+STR1A15	0C43BE43	Nah itu baru kawan gue, rasa sayang buat kawan sendiri...
+STR1A16	954AEFF9	Sekarang coba cek nih,
+STR1A17	E24DDF6F	Gue ngeliat ada sound system yang keren banget lagi lewat di area drive-thru.
+STR1A18	72F2C2FE	Gue rasa mereka lagi menuju ke pantai buat pesta pantai.
+STR1A19	05F5F268	Sekarang coba dengerin nih,
+STR1A20	5704190F	Gue bakal jalan bareng lu, terus di jalan gue bakal nyanyiin beberapa lagu gaya bebas (freestyle)...
+STR1A21	20032999	Ini OG Loc di tempatnya, Kalian semua mau menghentikan gue pake pistol di depan muka kalian, OG! OG!
+STR1A22	B90A7823	Kayakny gue kudu ngelakuin hal ini sendirian deh.
+STR1A23	CE0D48B5	Gue percaya sama lu. Gangster seumur hidup, bro. Seumur hidup!
+STR1A24	5069DD16	Yoi - seumur hidup, bro...
+STR1A25	276EED80	Yoi yoi yoi yoi, bro, dengerin, diamlah lu bangsat.
+VLATE	F6751FB4	Yaa, gue ada di sini sebentar kok, kalo lu berubah pikiran!
+VOFFE1	58F137C7	Goyangan lu jago juga, mau datang terus ngobrol kagak?
+VOFFE1Y	17EF4F74	Sip lah. Jalan duluan di depan.
+VOFFE2	C1F8667D	Goyangan lu jago juga, mau datang terus ngobrol kagak?
+VOFFE2Y	3CC21CB7	Yoi, pasti lah, kayaknya menyenangkan tuh.
+VSURE1	A462BE99	Lu yakin?
+VSURE1N	181325C9	Kagak. Lu berhasil membujuk gue.
+VSURE1Y	9BC0A00E	Yoi, buat sekarang. Ntar lagi ya.
+VSURE2	3D6BEF23	Lu yakin?
+VSURE2N	333E760A	Oke, lu berhasil membujuk gue, jalan duluan di depan.
+VSURE2Y	B0EDF3CD	Yoi, kayaknya emang gitu. Sampai ketemu ntar.
+VYES1	8E923327	Ayolah, kawan.
+VYES2	179B629D	Biarkan gue membawa lu ke dalam ruangan kantor gue...

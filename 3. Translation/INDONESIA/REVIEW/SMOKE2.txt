@@ -1,0 +1,97 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	E8F24EED	Pencet terus tahan pojok kanan bawah layar buat berlari cepat (sprint).
+SMK2_1	6343179E	~s~Masuk ke dalam ~b~mobilnya Big Smoke~s~.
+SMK2_10	310DCDF8	~s~Kejar ~r~anggota geng ~s~sebelum dia nyampe ke tujuannya!
+SMK2_11	460AFD6E	~r~Dia berhasil kabur!
+SMK2_12	DF03ACD4	~r~Mobilnya Big Smoke hancur!
+SMK2_15	41673977	~s~Antar Big Smoke ke ~y~lokasi pertemuan~s~.
+SMK2_16	D86E68CD	~s~Ambil senjata, terus masuk balik ke dalam ~b~mobilnya Big Smoke~s~.
+SMK2_17	AF69585B	~s~Kejar terus bantai ~r~anggota geng~s~ itu.
+SMK2_2	FA4A4624	~s~Antar Big Smoke ke ~y~lokasi pertemuan.~N~~s~Kalo lu butuh senjata, pergi ke rumahnya Emmet.
+SMK2_3	8D4D76B2	~s~Masuk balik ke dalam ~b~mobilnya Big Smoke~s~.
+SMK2_4	1329E311	~s~Kejar terus bantai anggota geng ~r~Los Santos Vagos~s~ itu.
+SMK2_7	8A20B2AB	~r~Big Smoke tewas!
+SMK2_8	1A9FAF3A	~s~~r~Anggota geng~s~ itu lagi kabur naik mobil!~N~Cari kendaraan terus kejar bantai dia.
+SMK2_9	6D989FAC	~s~~r~Anggota geng~s~ itu lagi kabur naik mobil!~N~Kejar dia sebelum dia berhasil kabur.
+SMK2_H1	B8F73FD1	Pencet terus tahan ~m~~widget_sprint~ buat berlari cepat.
+SMK2_H2	21FE6E6B	Lu cuma bisa nggunain Lari Super buat waktu singkat sebelum lu kelelahan.
+SMO2_AA	CCB05364	Kenapa lu selalu nyuruh gue yang nyetir mulu, Smoke?
+SMO2_AB	55B902DE	Orang kek gue demen memantau situasi jalanan sesekali, lu tau maksud gue kan?
+SMO2_BA	E79D00A7	Ngomong-ngomong, ngapain lu mau jalan bareng gue?
+SMO2_BB	7E94511D	Kagak ada alasan khusus. Gue cuma mau ngelewatin jalur khusus mobil berpenumpang banyak aja.
+SMO2_BC	0993618B	Oh yoi?
+SMO2_BD	97F7F428	Yoi bro, santai aja kenapa, santai.
+SMO2_BE	E0F0C4BE	Sepupu lu mau dateng ke sini? Dari Meksiko?
+SMO2_BF	79F99504	Yoi, gue sama dia udah kenal lama banget, lama banget.
+SMO2_BG	0EFEA592	Ah Smoke, omong kosong lu.
+SMO2_BH	9E41B803	Jangan prasangka buruk lagi di depan gue, Carl.
+SMO2_BJ	704FD92F	Semua orang itu sepupu gue.
+SMO2_BK	0748E9B9	Saudara dari beda ibu, saudari dari beda bapak.
+SMO2_BL	992C7C1A	Sama segala jenis omong kosong kek gitu.
+SMO2_CA	FE8631E6	Bro, gue menyerah!
+SMO2_CB	678F605C	Gue kagak bakat buat hal kek gini!
+SMO2_CC	108850CA	CJ, yang satu ini serahin ke lu sepenuhnya, sayang.
+SMO2_DA	B1C7A721	CJ, ngapain lu malah bengong di situ?
+SMO2_DB	28CEF69B	Kejar dia, CJ!
+SMO2_DC	5FC9C60D	CJ, lakuin hal yang berguna kenapa. Kejar tuh orang.
+SMO2_EA	A8DC9660	CJ, masuk!
+SMO2_FA	83F1C5A3	Ayolah CJ!
+SMO2_FB	1AF89419	Bro, ada apaan sih sama dunia ini, bro?
+SMO2_FC	6DFFA48F	Bro, orang-orang udah kagak punya harga diri lagi!
+SMO2_FD	F39B312C	Nih orang bener-bener bikin emosi gue naik bangsat.
+SMO2_GA	9AEAF4E2	Ayo balik ke rumah, gue harus makan nih, bro.
+SMO2_GB	03E3A558	Oke. Ngomong-ngomong, Smoke, ada apaan cerita lu sama Tenpenny?
+SMO2_GC	74E495CE	Siapa?
+SMO2_GD	EA80006D	Tenpenny.
+SMO2_GE	9D8730FB	Bro, gue kagak pernah denger nama dia.
+SMO2_GF	048E6141	Pasti pernah lah. Gue ngeliat dia keluar dari apartemen lu.
+SMO2_GG	738951D7	Oh, itu toh nama dia?
+SMO2_GH	E3364C46	Yoi. Lu tau sendiri kok.
+SMO2_GJ	0D382D6A	Bro, itu mah kagak ada apa-apanya. Dia cuma pecundang (*busta*),
+SMO2_GK	7A3F1DFC	demen bikin emosi orang, lu tau itu kan Carl. Tapi lu kan tau gue kek gimana.
+SMO2_GL	E45B885F	Butuh lebih dari sekadar orang bego kek dia buat bikin gue kepikiran.
+SMO2_HA	1D72E82D	Woy Carl, ntar gue temuin lu lagi belakangan, oke?
+SMO2_HB	847BB997	Sama, dengerin nih, jangan biarin si Pentenbury atau siapa pun nama dia itu ngasih omong kosong ke lu.
+SMO2_HC	F37C8901	Gue lagi usahain, bro.
+SMO2_HD	6D181CA2	Yaa usahain lebih keras lagi. Liat gue nih, bro.
+SMO2_HE	1A1F2C34	Lu itu orang hebat, Carl. Orang hebat!
+SMO2A00	CB2ED403	BAA!
+SMO2A01	BC29E495	Para keparat kepo itu kagak mau ninggalin gue sendirian!
+SMO2A02	2520B52F	Mikir gue ini Bos Besar (*Mr Big*), atau apaan gitu.
+SMO2A03	522785B9	Tapi gue kagak bakal ngasih tau mereka apa-apa.
+SMO2A04	CC43101A	Buat gue, yang paling penting itu kawan gue, Carl.
+SMO2A05	BB44208C	Yoi, terserah apa kata lu dah.
+SMO2A06	224D7136	Yo, geng kita itu penting banget, CJ, lu tau itu kan!
+SMO2A07	554A41A0	Lu siap membela geng kan, sayang?
+SMO2A08	C5F55C31	Yoi.
+SMO2A09	B2F26CA7	Dengerin, sepupu gue mau dateng ke kota dari Meksiko,
+SMO2A10	D235E542	gue kudu pergi menjemput dia.
+SMO2A11	A532D5D4	Yaudah oke kalo gitu, ayo.
+SMO2A12	3C3B846E	Keparat.
+SMO2A13	4B3CB4F8	Ngapain juga sih para keparat itu di sekitaran sini? Polisi pecundang.
+SMO2A14	D558215B	Yo Carl, sampai ketemu lagi...
+SMO2B00	C9686A5A	Oke, sepupu gue Mary ada di dalam sana,
+SMO2B01	BE6F5ACC	ganja legkit manis yang baru dipetik dari perkebunan.
+SMO2B02	27660B76	Nih, berhenti di sini, biarin gue yang ngobrol.
+SMO2B03	50613BE0	Woy - permisi (*excuso me*), Jose, gue ini El Grando Smokio,
+SMO2B04	CE05AE43	sama gue mau beli rumput ganjanya? Paham (*Comprende*)?
+SMO2B05	B9029ED5	Woy, ngentot lu keparat (*cabron*)
+SMO2B06	200BCF6F	Nah itu kagak sopan namanya. Serahin rumput ganjanya (*Coughio up el weedo*),
+SMO2B07	570CFFF9	sebelum gue tembak hancur otak lu ke seluruh teras.
+SMO2B08	C7B3E268	Persetan ibu lu, keparat (*Chinga a tu madre, pendejo*).
+SMO2B09	B0B4D2FE	Ini baru orang suruhannya doang, bro!
+SMO2B10	D0735B1B	Keparat yang satunya lagi bakal nuntun kita langsung ke tempat ganjanya!
+SMO2B11	A7746B8D	Kita harus nempel terus sama dia!
+SMO2B12	3E7D3A37	Bro, harusnya gue udah tau dari awal.
+SMO2B13	497A0AA1	Apaan?
+SMO2B14	D71E9F02	Oh, ada apaan sih sama masalah bangsat ini? Persetan lah, persetan.
+SMO2B15	A019AF94	Bro, biarin gue ngeluarin pistol di masalah ini...
+SMO2B16	3910FE2E	Bantai dia, Smoke.
+SMO2B17	4E17CEB8	Yoi, yoi, lu pergi bantai tuh barang, bro...
+SMO2B18	DEA8D329	Sialan!
+SMO2B19	A9AFE3BF	Yoi, keparat bangsat, Big Smoke! Inget tuh nama!

@@ -1,0 +1,100 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+TRU1@00	C52E1039	Halo? Halo, ada orang di dalam?
+TRU1@01	B22920AF	Di sini.
+TRU1@02	2B207115	Yo, Carl! Ada apa, kawan?
+TRU1@03	5C274183	Hei, ada apa nih? Oh, ini pelatihan penyamaran ya? Oh bukan, kamu pasti lagi libur tugas (*off duty*).
+TRU1@04	C243D420	Yoi, yoi, terserah lah, diam dulu bro.
+TRU1@05	B544E4B6	Tuan Truth di sini yang bakal nyediain barang paling berkualitas buat kamu... ganja,
+TRU1@06	2C4DB50C	dan kamu yang bakal mengantarkannya buat kita.
+TRU1@07	5B4A859A	Woy, bro, kamu udah mulai stres, kamu halusinasi nggak jelas.
+TRU1@08	CBF5980B	Hah? Oh — Yo, Truth, kemari, bro.
+TRU1@09	BCF2A89D	Selamat datang kawan.
+TRU1@10	DC352178	Carl di sini yang bakal bayar uangmu.
+TRU1@11	AB3211EE	Apa yang kamu bicarakan?
+TRU1@12	323B4054	Dengar, Carl, ada orang sok suci yang lagi cari masalah sama aku,
+TRU1@13	453C70C2	dan aku mau kamu ambil racun hijau terkutuk ini, terus taruh ke dia.
+TRU1@14	DB58E561	Itu bakal menghancurkan karier si keparat itu.
+TRU1@15	AC5FD5F7	Ah omong kosong.
+TRU1@16	3556844D	Kalian, mau jamur (*mushrooms*)? Ludes? Mau coba DMT?
+TRU1@17	4251B4DB	Nggak, bukan buat aku, bro. Aku harus segera pergi.
+TRU1@18	D2EEA94A	Yo, Carl, bayar orangnya.
+TRU1@19	A5E999DC	Wah bro! Aku nggak nyangka bakal lihat hal kayak gini.
+TRU1@20	F71872BB	Seorang agen federal (*fed*) ngisap ganja lebih banyak dariku. Kamu sebenarnya siapa, bro? FBI? DEA?
+TRU1@21	801F422D	Bukan, aku lebih mirip penyelidik swasta (*private investigator*).
+TRU1@22	19161397	Kawan, kamu memancarkan energi positif. Mau coba opium Vietnam?
+TRU1@23	6E112301	Nggak, aku nggak mainan barang begitu.
+TRU1@24	F075B6A2	Tapi gimana caranya aku tahu kalau aku bisa percaya sama kamu kalau gitu?
+TRU1@25	87728634	Apa, aku sekarang kerja buat kamu?
+TRU1@26	1E7BD78E	Aku adalah seorang pecinta damai
+TRU1@27	697CE718	tapi beberapa orang radikal di seberang bukit itu tidak menghormati kedamaianku.
+TRU1@28	F9C3FA89	Maksudku para maniak penumpuk barang (*survivalist*). Para sayap kanan. Fasis!
+TRU1@29	8EC4CA1F	Mereka punya mesin pemanen (*harvester*) dan aku butuh satu.
+TRU1@30	EE0343FA	Ambil itu, baru setelah itu kamu bisa bayar aku.
+TRU1@31	9904736C	Namaste, Carl.
+TRU1@32	000D22D6	Coba lihat ini. Apa yang kita punya di sini?
+TRU1@33	770A1240	Ada apa?
+TRU1@34	E96E87E3	Oh, sial... Aku teler parah.
+TRU1@35	9E69B775	Maksudnya apa tuh? Duluan ya, orang aneh.
+TRU1_1	2E76B980	Pergi ke ~y~peternakan~s~ tempat mesin pemanen gabungan (*combine harvester*) berada.
+TRU1_16	222C6000	~r~Mesin pemanen gabungan hancur!
+TRU1_2	B77FE83A	~s~Mesin pemanen gabungan ~s~berada di ladang bagian belakang peternakan.
+TRU1_3	C078D8AC	~s~Ada beberapa kelompok penyintas (*survivalist*) yang berjaga, mereka tidak bakal ramah pada orang asing.
+TRU1_4	5E1C4D0F	~s~Menyusup masuk ke peternakan lalu curi ~b~mesin pemanen gabungan~s~ itu.
+TRU1_5	291B7D99	~s~Bawa balik mesin pemanen gabungan ke ~y~peternakan The Truth~s~.
+TRU1_7	C7151CB5	~s~Masuk kembali ke ~b~mesin pemanen gabungan~s~ dan bawa ke tempat The Truth!
+TRU1_AA	C372FD69	Siapa orang ini?
+TRU1_AB	5A7BACD3	Entah tapi tampangnya mencurigakan!
+TRU1_AC	2D7C9C45	Tangkap hama sialan itu!!
+TRU1_AD	B31809E6	Gulingkan dia ke dalam kotoran babi!
+TRU1_AE	C41F3970	Oh, harta karun kesayanganku!
+TRU1_AF	5D1668CA	Dia nggak bakal kubiarkan tidur sama adikku!
+TRU1_AG	2A11585C	Kamu bukan orang sini!
+TRU1_AH	BAAE45CD	Kita kedatangan penyusup, kawan-kawan!
+TRU1_BA	E85FAEAA	Siapa pembuat onar ini?!
+TRU1_BB	7156FF10	Dia nggak punya niat baik sama sekali!
+TRU1_BC	0651CF86	Bantai si kakek linglung itu!
+TRU1_BD	98355A25	Nggak ada yang tahu kalau dia ada di sini!
+TRU1_BE	EF326AB3	Dia bawa mobil kesayanganku (*nooky wagon*)!
+TRU1_BF	763B3B09	Apa pun yang kamu cari, nggak ada di sini, anak muda!
+TRU1_BG	013C0B9F	Kita nggak pesan pengiriman kotoran!
+TRU1_BH	9183160E	Beri dia makan babi!
+TRU1_CA	F1449FEB	Siapa koboi pengurus ayam ini?!
+TRU1_CB	684DCE51	Keliatannya dia cuma bikin masalah doang, kawan!
+TRU1_CC	1F4AFEC7	Kita kedatangan pengejar, putar musik banjo!
+TRU1_CD	812E6B64	Itu dia orangnya, tangkap dia!
+TRU1_CE	F6295BF2	Tangkap dia! Dia bawa Betsy!
+TRU1_CF	6F200A48	Kamu nggak bakal dapet apa-apa selain masalah di sini, nak!
+TRU1_CG	18273ADE	Kamu nggak diterima di sini, dengan cara apa pun!
+TRU1_CH	8898274F	Dia pemadat gila, tangkap dia!
+TRU1_DA	BE05092C	Siapa anak kota ini?
+TRU1_DB	270C5896	Dia bahkan nggak tahu lagi ada di mana!
+TRU1_DC	500B6800	Demi hidung babi, dia mau kabur!
+TRU1_DD	CE6FFDA3	Lempar dia ke lubang bersama yang lainnya!!
+TRU1_DE	B968CD35	Dia pencuri mesin pemanen!! Keparat itu lagi nyuri Betsy!
+TRU1_DF	20619C8F	Kamu datang ke peternakan yang salah, nak.
+TRU1_DG	5766AC19	Ini bukan klub malam, kawan!
+TRU1_DH	C7D9B188	Dia sakau keparat, hajar sampai ingat Tuhan!
+TRU1_EA	A71E386D	Siapa penguntit usil ini?
+TRU1_EB	3E1769D7	Dia tersesat dan lagi apes!
+TRU1_EC	49105941	Karungin buat dijadiin sup!
+TRU1_ED	D774CCE2	Cincang dia!
+TRU1_EE	A073FC74	Woy, itu kan tempat tidurku!
+TRU1_EF	397AADCE	Kamu salah ambil jalan, nak?
+TRU1_EG	4E7D9D58	Kamu budek ya, nak, kamu nggak diterima di sini!
+TRU1_EH	DEC280C9	Kasihan malang banget pasti budek sama bisu!
+TRU1_FA	8C336BAE	Woy, siapa orang ini?
+TRU1_FB	153A3A14	Keliatannya otaknya nggak beres!
+TRU1_FC	623D0A82	Ada yang mau tolong panggilkan pak sheriff!
+TRU1_FD	FC599F21	Hajar dia, cuma itu gunanya orang kayak dia!
+TRU1_FE	8B5EAFB7	Dia bawa mobil keluarga!
+TRU1_FF	1257FE0D	Ini tanah pribadi, orang asing.
+TRU1_FG	6550CE9B	Ada apa nih, apa yang lagi dia lakuin?
+TRU1_FH	F5EFD30A	Jangan abaikan kita, si bisu bodoh!
+TRU1_ZA	6A4436F3	Bro, kamu sudah membawa kedamaian kembali ke lembahku, terima kasih, kawan.
+TRU1_ZB	F34D6749	Nanti kutelpon kalau pestanya sudah siap,
+TRU1_ZC	844A57DF	pastikan saja kamu bawa uang tunainya.

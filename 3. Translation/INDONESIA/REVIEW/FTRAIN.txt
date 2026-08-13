@@ -1,0 +1,20 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+FREI_02	0270074E	~r~Misi Kereta Barang dibatalkan!
+FREI_03	757737D8	~s~Antarkan muatan kargo ke stasiun-stasiun dalam batas waktu!
+FREI_04	EB13A27B	Misi Kereta Barang Level ~1~
+FREI_05	9C1492ED	+~1~ Detik
+FREI_06	051DC357	~r~Lu melewatkan pengantaran lu!
+FREI_07	721AF3C1	KARGO BERHASIL DIANTAR! $~1~
+FREI_10	F5655723	Jarak
+FREI_11	826267B5	Kecepatan
+FREI_12	1B6B360F	~s~Kalo lu jalan terlalu kenceng kereta lu bakal anjlok keluar rel!
+FREI_13	6C6C0699	~s~Remeh lebih awal atau lu bakal kelewatan stasiunnya!
+FREI_14	F208933A	Waktu
+FREI_15	850FA3AC	Level ~1~ Selesai
+FREI_16	1C06F216	Pekerjaan sampingan kereta barang berhasil diselesaikan. Lu bisa memainkannya lagi buat nyari uang tambahan.
+FREI_X	5EFDAD9B	Misi Kereta Barang

@@ -1,0 +1,52 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+CM2_10	BAD4D4DF	~s~Ini Glen Park, yang mana merupakan wilayahnya Ballas.
+CM2_11	CDD3E449	~s~Lu harus habisin geng musuh buat merebut wilayah ini jadi milik lu.
+CM2_12	54DAB5F3	~s~Wilayah ini sekarang dikuasai sama Grove Street Families dan ditandai warna hijau di radar.
+CM2_13	23DD8565	~s~Anggota geng lu sekarang bisa ditemuin di wilayah ini.
+CM2_14	BDB910C6	~s~Wilayah lu bakal terus diserang sama geng musuh dan lu harus mempertahankannya.
+CM2_15	CABE2050	~s~Pas ada serangan, wilayahnya bakal kedap-kedip merah dan ada ikon di radar.
+CM2_16	53B771EA	~s~Serang anggota geng musuh buat mulai perebutan wilayah!
+CM2_17	24B0417C	~s~Musuh udah merebut balik wilayah ini!
+CM2_18	B40F5CED	Wilayah Ballas ditandai warna ungu di radar.
+CM2_19	C3086C7B	Ikon radar nunjukin wilayah yang harus diserang, bakal tetep ada di radar sampe lu menguasai wilayah itu.
+CM2_20	91F9871C	Lu bakal dapet respek sama duit pas ngerebut wilayah, duitnya bakal muncul di Grove Street.
+CM2_21	E6FEB78A	~s~Pergi ke ~b~Ammu-Nation~s~ terus beli senjata.
+CM2_22	7FF7E630	~s~Masuk ke ~b~toko~s~ terus beli senjata.
+CM2_3	EAECBBE8	~s~Pergi ke ~y~Glen Park, wilayah Ballas~s~ terus rebut wilayahnya, kalo butuh senjata pergi ke ~b~Ammu-Nation~s~.
+CM2_5	038F1EDD	~s~Serang anggota geng musuh pas lu lagi jalan kaki.
+CM2_6	9A864F67	~s~Balik lagi ke ~y~Glen Park~s~!
+CM2_8	7D3E6260	~s~Lu berhasil memancing si ~r~pengkhianat~w~ keluar, bantai dia!
+CRA2_ZA	4FE80A1F	Tenpenny ngejebak gue!
+CRA2_ZB	D6E15BA5	C.R.A.S.H. bangsat ngejebak gue!
+CRA2_ZC	A1E66B33	Tenpenny ngejual/ngelalap gue!
+CRA2A00	E14046E2	CARL! SINI LU!
+CRA2A01	96477674	Sekarang dengerin gue ya, lu bajingan sok suci,
+CRA2A02	0F4E27CE	Poncho itu orang gue
+CRA2A03	78491758	dan DEA kagak boleh menyentuh aset gue, itu udah hukumnya bangsat!
+CRA2A04	E62D82FB	Oh, gue kagak peduli ngentot sama target-target lu,
+CRA2A05	912AB26D	Sana jebak pengedar narkoba lain aja.
+CRA2A06	0823E3D7	Bodo amat lah, pembohong bangsat!
+CRA2A07	7F24D341	Dengerin gue!
+CRA2A08	EF9BCED0	Lu biarin dia tetep berkeliaran di jalanan, paham lu?
+CRA2A09	989CFE46	CARVER, LU SAMPAH TIKUS BANGSAT! LONTE!
+CRA2A10	F85B77A3	Hari lu lagi suram ya, Opsir Tenpenny?
+CRA2A11	8F5C4735	Woy, jangan mikir itu lucu ya, Johnson.
+CRA2A12	1655168F	Sama lu Hernandez; jangan pernah ketawain gue lagi.
+CRA2A13	61522619	Sana ambil HP gue bangsat.
+CRA2A14	FF36B3BA	Gerak cepetan!
+CRA2A15	8831832C	Kalo Carver nangkep Poncho, dia pasti ngaku dan buka suara.
+CRA2A16	1138D296	Yah, untungnya kita punya si Doberman kita di sini buat ngurusin hal itu.
+CRA2A17	663FE200	Lu dengerin kagak, Carl?
+CRA2A18	F680FF91	Kagak, gue kagak denger apa-apa.
+CRA2A19	8187CF07	Woy, jangan maenin emosi gue, Carl.
+CRA2A20	D3762460	Lu pergi ke sana terus gagalkan penangkapan di East Los Santos
+CRA2A21	A47114F6	Dan pastiin Poncho kagak ampe ketangkep - paham lu?
+CRA2A22	3D78454C	Iya, terserah lu lah.
+CRA2A23	4A7F75DA	Seret pantat lu cabut dari sini!
+CRA2A24	D41BE079	Harusnya ada beberapa ganja yang lagi dibungkus buat barang bukti -
+CRA2A25	A31CD0EF	anggap aja itu kesempatan kecil yang kita kasih buat lu.

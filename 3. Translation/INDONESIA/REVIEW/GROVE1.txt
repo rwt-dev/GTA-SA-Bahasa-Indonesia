@@ -1,0 +1,150 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+GM1_1	F324C25D	~s~Pergi ke ~y~Glen Park~s~.
+GM1_12	DDFE580B	~r~Big Bear tewas!
+GM1_15	439ACDA8	~s~Pergi terus labrak ~y~B Dup~s~.
+GM1_16	DA939C12	~s~Balik lagi ke ~y~Glen Park~s~ terus rebut ~y~wilayahnya~s~!
+GM1_17	AD94AC84	~s~Musuh udah merebut balik wilayah ini!
+GM1_18	3D2BB115	~s~Pergi ke rumah ~y~B Dup~s~.
+GM1_2	6A2D93E7	~s~Lu ninggalin ~b~Sweet~s~ di belakang, balik terus jemput dia.
+GM1_3	1D2AA371	~s~Serang geng Ballas terus rebut wilayah mereka.
+GM1_4	834E36D2	~r~Sweet tewas!
+GM1_7	1A476768	SWEET
+GM1_9	FDFF4A6F	~s~Bantai ~r~Pengawal~s~ B Dup!
+GR1A@00	9495E77B	Cuma pesta kecil-kecilan doang. Gue denger lu lagi stres.
+GR1A@01	E392D7ED	Jadi gue ada hadiah nih dari B Dup.
+GR1A@02	7A9B8657	Ayolah, gue kagak bisa ngelakuin itu.
+GR1A@03	0D9CB6C1	Ayolah Sweet, ayo - pastiin lu nikmatin ini.
+GR1A@04	93F82362	Ini kenikmatan kelas atas. Semua pemain gedean pada pake kok.
+GR1A@05	E4FF13F4	Gue tau lu bakal nikmatin ini. Bikin hilang rasa sakitnya...
+GR1A@06	7DF6424E	Ayolah, Sweet...
+GR1A@07	0AF172D8	Oh, ngapain lu bangsat!?
+GR1A@08	9A4E6F49	Bro, semuanya serba kokain, kokain, kokain.
+GR1A@09	ED495FDF	Bro, gue cuma mau tau apaan sih enaknya.
+GR1A@10	8D8ED63A	Kenapa lu bro?
+GR1A@11	FA89E6AC	Bro, barang haram ini udah menghancurkan seluruh lingkungan kita.
+GR1A@12	6380B716	Gue... mending gue biarin barang ini menghancurkan gue sekalian.
+GR1A@13	14878780	Bro, lu kagak butuh barang haram itu, Sweet.
+GR1A@14	8AE31223	Tau apaan lu soal masalah ini?
+GR1A@15	FDE422B5	INI ujung-ujungnya situasi kita sekarang.
+GR1A@16	64ED730F	Ayolah Sweet. Hisap asapnya.
+GR1A@17	13EA4399	Woy mba, barang haram itu bakal nyolong hati lu.
+GR1A@18	83555E08	Lu kagak liat apa?
+GR1A@19	F4526E9E	- Nih lonte ngomong manis ke lu terus begini balasan lu?~n~- Ah, memek lah!
+GR1A@20	A6A385F9	Lu harus ngelabrak B Dup nih.
+GR1A@21	D1A4B56F	Apaan? B DUP? Bisa kita selesain tuh masalah sekarang juga, bro.
+GR1A@22	48ADE4D5	Ayolah, Sweet.
+GR1A@23	3FAAD443	Yoi. Bangsat. Mikir apaan sih gue tadi?
+GR1A@24	A1CE41E0	Yaa, kata B DUP narkobanya harus dihisap,
+GR1A@25	D6C97176	jadi kayaknya gue kudu pake sendiri nih.
+GR1A@26	4FC020CC	Oh, gitu?
+GR1A@27	38C7105A	Tai.
+GR1A@28	A8780DCB	Ah, bangsat lah!
+GR1A@29	DF7F3D5D	Seret pantat lu cabut dari sini. Lonte!
+GR1B@00	86204895	Woy, B Dup! Buka pintunya!
+GR1B@01	F1277803	Yo, Dup kagak ada di sini. Udah pindah dari kemarin-kemarin.
+GR1B@02	682E29B9	Pindah ke mana dia, si kepala kontol?
+GR1B@03	1F29192F	Yo yo yo, lu ngerusak pakaian/warna khas orang nih, bro!
+GR1B@04	814D8C8C	Yo, gue punya sesuatu, barang bagus, persis kek yang lu butuhin...
+GR1B@05	F64ABC1A	Gue kagak butuh barang haram itu bangsat!
+GR1B@06	6F43EDA0	Mending gue belah kepala lu sekarang juga!
+GR1B@07	1844DD36	Sweet, jangan, lu gila lu emosian bro - ayolah, turunin senjatanya!
+GR1B@08	88FBC0A7	Dia ini pecandu narkoba, bro!
+GR1B@09	FFFCF031	Bangsat. Dia pake warna khas Families,
+GR1B@10	9F3B79D4	harusnya itu bikin dia jadi orang yang dihormatin.
+GR1B@11	E83C4942	Dengerin, si bego, kasih tau kita B Dup di mana,
+GR1B@12	713518F8	terus kita cabut dari sini.
+GR1B@13	0632286E	Dia tinggal di daerah Glen Park - anak buahnya selalu ada di sana,
+GR1B@14	9856BDCD	ngasih apa aja yang orang butuhin.
+GR1B@15	EF518D5B	B Dup!
+GR1B@16	7658DCE1	Woy, buka pintunya, keparat!
+GR1B@17	015FEC77	Orang bego!
+GR1B@18	91E0F1E6	Ngomong yang jelas, bego!
+GR1B@19	E6E7C170	Jangan-jangan! Kagak! Ah! Jangan!
+GR1B@20	B4162A17	Beruntung lu.
+GR1C@00	3E9C2FF0	Ngomong lu bangsat!
+GR1C@01	499B1F66	Woy, woy, jangan! Gue kagak punya pilihan. Gue diancem!
+GR1C@02	D0924EDC	Perintahnya langsung dari atasan, bro!
+GR1C@03	A7957E4A	Tembak mati aja nih keparat, bro. Gue udah muak denger omong kosongnya.
+GR1C@04	39F1EBE9	Jangan bro! Gue minta maaf, bro - si Smoke emang gila bangsat.
+GR1C@05	4EF6DB7F	Dia paranoid - cuma duduk doang di rumahnya,
+GR1C@06	D7FF8AC5	ngira orang-orang bego lain mau ngerebut bisnisnya!
+GR1C@07	A0F8BA53	Smoke di mana?
+GR1C@08	3047A7C2	Gue kagak bisa kasih tau lu.
+GR1C@09	47409754	Kalo gitu lidah lu yang bakal gue copot bangsat!
+GR1C@10	27871EB1	Bro, gue kagak bisa ngomong apa-apa, bro, soalnya gue emang kagak tahu!
+GR1C@11	50802E27	Cuma tangan kanannya doang yang tau dia ada di mana!
+GR1C@12	C9897F9D	Tetep aja baju lu harus gue banjirin darah!
+GR1C@13	BE8E4F0B	Bear! Woy, Bear! Keluar lu ke sini bangsat!
+GR1C@14	20EADAA8	Ada apaan, wahai bos besar?
+GR1C@15	57EDEA3E	Bantai nih keparat-keparat terus gue kasih seplastik paket narkoba. Sekarang urus tuh!
+GR1C@16	CEE4BB84	Tembak mereka! Kenapa lu bangsat? Lu kagak denger apa yang gue ngomongin barusan?
+GR1C@17	B9E38B12	Gue udah muak ngobat, gue udah muak sama narkoba
+GR1C@18	295C9683	sama gue udah muak ngerjain tugas rumah tangga lu bangsat.
+GR1C@19	5E5BA615	CJ, bro, ayolah, masukin gue balik ke tim.
+GR1C@20	0CAA4D72	Kasih gue dua puluh dolar, terus gue jadi punya lu sepenuhnya, bro.
+GR1C@21	7BAD7DE4	Nostalgia masa lalu nih.
+GR1C@22	E2A42C5E	Woy, ayo kita jalan, bro - gue bakal nganter lu ke tempat yang pasti lu demen.
+GR1C@23	95A31CC8	Bear, ngapain lu bangsat? Ayolah bro. Kan gue yang ngejamin lu!
+GR1C@24	0BC7896B	Oh, tai! Bro, ngapain lu tonjok gue bangsat?
+GR1C@25	7CC0B9FD	Gue bebas!
+GRO1_AA	BF14F419	CJ, lu yang urus si Bear ya, oke?
+GRO1_AB	261DA5A3	Yoi, siap. Ayo Bear, waktunya pemulihan/detoks!
+GRO1_AC	511A9535	Aduh bro, harus banget ya?
+GRO1_AD	CF7E0096	Lu pernah ngeliat diri lu di kaca kagak akhir-akhir ini?
+GRO1_AE	B8793000	Ini diet paling sukses yang pernah gue jalanin tau!
+GRO1_BA	9439A7DA	Gue yang ngejagain si Bear, bro.
+GRO1_BB	0D30F660	Sip. Ketemu lagi bentar lagi ya Bear!
+GRO1_BC	7A37C6F6	Kita mau ke mana, Sweet?
+GRO1_BD	E4535355	Ke tempat di mana kita bisa nemuin diri Big Bear yang dulu lagi!
+GRO1_BE	935463C3	Sip. Gue setuju banget tuh...
+GRO1_CA	8D22969B	Gimana cerita B Dup bisa ngejerat lu, Bear?
+GRO1_CB	142BC721	Bro, Grove Street Families dulu tuh solid banget, bro.
+GRO1_CC	632CF7B7	Terus pas Brian kecil mati, lu malah kabur.
+GRO1_CD	FD486214	Gue bukannya mau ngina lu ya bro, tapi emang kenyataannya gitu.
+GRO1_CE	8A4F5282	Gue tau, tapi sekarang gue udah balik.
+GRO1_CF	13460338	Bener banget bro, mantap lah.
+GRO1_CG	644133AE	Lagian bro, si Sweet tuh jadi orang yang susah diajak kompromi, tau gak?
+GRO1_CH	F4FE2E3F	Terus kita perang saudara sama Seville Boulevard Families dan
+GRO1_CJ	1AF04F13	mereka memisahkan diri dari Grove. Terus Temple, tai lah,
+GRO1_CK	6DF77F85	mereka juga jalan sendiri-sendiri
+GRO1_CL	F393EA26	Si Sweet bro, dia kagak ngelakuin apa-apa sama sekali.
+GRO1_CM	8494DAB0	Tiba-tiba yang gue tau B Dup udah kaya dapet duit banyak, terus anak-anak Grove Street malah saling sikut.
+GRO1_CN	1D9D8B0A	Jalanan bukan tempat yang aman pas semua orang bego lagi pada maen adu gengsi.
+GRO1_CO	6A9ABB9C	Jadi gue nyobain isap narkoba pertama gue - pengen tau hebohnya kek apa, yagak?
+GRO1_CP	E792B669	Sekarang liat gue, kek bintang pemabuk...
+GRO1_CQ	909586FF	Kagak ada yang bisa dibanggain dari itu, bro.
+GRO1_CR	099CD745	Kita bakal tinggalin semua masa lalu ini, Bear.
+GRO1_CS	7E9BE7D3	Grove bakal bangkit lagi dan geng senior (*OG*) bakal balik menguasai!
+GRO1_DA	C263005C	Masuk sana, Bear, lu tau kan kita selalu ada buat lu, oke?
+GRO1_DB	5B6A51E6	Sehidup semati, CJ.
+GRO1_EA	DB78311D	Si lonte B Dup bakal dapet penderitaan parah yang datang ngincar dia.
+GRO1_EB	427160A7	Ayo kita samperin rumahnya, liat tuh orang bego lagi ngapain.
+GRO1_FA	F05562DE	Lu tadi mikirin apaan sih di sana, bro?
+GRO1_FB	695C3364	Gue capek, bro, gue bener-bener capek.
+GRO1_FC	1E5B03F2	Capek udah berusaha keras tapi keadaan tetep kagak membaik.
+GRO1_FD	803F9651	Capek ngeliat keluarga gue berantakan.
+GRO1_FE	F738A6C7	Sweet, bro, lu punya mental yang lebih kuat dari itu.
+GRO1_FF	6E31F77D	Memang sih situasi lagi hancur sekarang, tapi kita dikit lagi bakal bangkit, bro.
+GRO1_FG	1936C7EB	Bakal tiba harinya pas keluarga Johnson ada di puncak lagi.
+GRO1_FH	8989DA7A	Dan itu bakal terjadi bentar lagi.
+GRO1_FJ	6787BB56	Gue paham CJ, lu selalu ada buat kita, gue tahu itu.
+GRO1_GA	E94E539F	Woy bro, tahan emosi, kita kagak bisa ngadepin itu!
+GRO1_GB	70470225	Kagak bakal, haram hukumnya!
+GRO1_HA	6ED64F50	Nyampe juga kita.
+GRO1_HB	F7DF1EEA	Moga-moga tuh orang bego ada di rumah.
+GRO1_JA	5CE02DD2	Waduh bro, Glen Park!
+GRO1_JB	C5E97C68	Pusat wilayahnya geng Kilo Trays (Ballas).
+GRO1_JC	B2EE4CFE	Bodo amat, gue gaskan, dan tuh orang bego udah terlalu lama menikmati dosanya.
+GRO1_JD	2C8AD95D	Bakal kita obrak-abrik seluruh wilayah ini!
+GRO1_JE	5B8DE9CB	Yoi - gaskan cabut.
+GRO1_KA	45FB1C93	Gempur tuh anak-anak Ballas sekeras-kerasnya!
+GRO1_KB	DCF24D29	Anak-anak Johnson lagi beraksi nih!
+GRO1_LA	0ABA8A54	Oke, wilayah ini udah berhasil dikuasai.
+GRO1_LB	93B3DBEE	Tapi kagak ada tanda-tanda si B Dup nih, bro.
+GRO1_LC	E4B4EB78	Coba cek rumah sebelah sana tuh.
+GRO1_LD	7AD07EDB	Nah itu dia tempatnya, gue tahu pasti!

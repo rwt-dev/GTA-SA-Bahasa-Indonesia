@@ -1,0 +1,145 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+TX_ADDS	DDDBAFAE	TIPS
+TX_ANYP	B62917DE	~s~Kamu punya waktu ~1~ detik untuk naik ke taksi ~r~mana pun~s~.
+TX_ANYS	2F204664	~s~Kamu punya waktu ~1~ detik untuk naik ke taksi ~r~mana pun~s~.
+TX_BC1	BBBBCA11	~s~TUJUAN ~y~The Big Spread Ranch.
+TX_BC2	22B29BAB	~s~TUJUAN ~y~The Sherman Dam.
+TX_BC3	55B5AB3D	~s~TUJUAN ~y~Desert Airfield.
+TX_BC4	CBD13E9E	~s~TUJUAN ~y~Tempat Latihan Menembak.
+TX_BC5	BCD60E08	~s~TUJUAN ~y~Lil' Probe Inn.
+TX_CABP	BE4A53F2	~s~Kamu punya waktu ~1~ detik untuk kembali ke dalam ~r~taksi~s~.
+TX_CABS	27430248	~s~Kamu punya waktu ~1~ detik untuk kembali ke dalam ~r~taksi~s~.
+TX_DONE	E86BEDA6	Misi Taksi Selesai!
+TX_END	2B35276A	Misi taksi selesai
+TX_F1	6AEAC790	~r~Tidak di dalam taksi!
+TX_F2	F3E3962A	~r~Waktu habis!
+TX_F3	84E4A6BC	~r~Taksi hancur!
+TX_FAST	DD2044C9	BONUS KECEPATAN!
+TX_FLED	D4D77229	~r~Penumpangnya mau kabur!
+TX_H1	F469EA1E	Berhenti di dekat pejalan kaki yang disorot untuk menjemput mereka laluantar ke tujuan sebelum waktu habis.
+TX_JUNK	FEBD9134	~r~Mobilmu hancur berantakan. Perbaiki sana.
+TX_LS1	FBE7F54A	~s~TUJUAN ~y~Liquor Mart.
+TX_LS10	B02B7FD7	~s~TUJUAN ~y~Bioskop Mama's.
+TX_LS11	C72C4F41	~s~TUJUAN ~y~Motel 24 jam.
+TX_LS12	5E251EFB	~s~TUJUAN ~y~The Well Stacked Pizza Co.
+TX_LS13	29222E6D	~s~TUJUAN ~y~Pangkas Rambut Reece.
+TX_LS14	B746BBCE	~s~TUJUAN ~y~Toko Tato.
+TX_LS15	C0418B58	~s~TUJUAN ~y~Area Parkir Truk.
+TX_LS16	5948DAE2	~s~TUJUAN ~y~Stasiun Unity.
+TX_LS17	2E4FEA74	~s~TUJUAN ~y~Bandara.
+TX_LS18	BEF0F7E5	~s~TUJUAN ~y~Bandara.
+TX_LS19	C9F7C773	~s~TUJUAN ~y~Observatorium.
+TX_LS2	62EEA4F0	~s~TUJUAN ~y~Stadion.
+TX_LS20	9B062C14	~s~TUJUAN ~y~Kantor Polisi.
+TX_LS21	EC011C82	~s~TUJUAN ~y~Pershing Square.
+TX_LS22	75084D38	~s~TUJUAN ~y~Taman Skateboard.
+TX_LS23	020F7DAE	~s~TUJUAN ~y~Rumah Sakit Umum Kabupaten.
+TX_LS24	9C6BE80D	~s~TUJUAN ~y~Ammu-Nation.
+TX_LS25	EB6CD89B	~s~TUJUAN ~y~Rumah Sakit Umum All Saints.
+TX_LS26	72658921	~s~TUJUAN ~y~Toko Donat.
+TX_LS27	0562B9B7	~s~TUJUAN ~y~Stasiun Market.
+TX_LS28	95DDA426	~s~TUJUAN ~y~The Country Club.
+TX_LS29	E2DA94B0	~s~TUJUAN ~y~Bar & Grill Brown Starfish.
+TX_LS3	15E99466	~s~TUJUAN ~y~Glen Park.
+TX_LS30	821D1D55	~s~TUJUAN ~y~Pantai Santa Maria.
+TX_LS31	F51A2DC3	~s~TUJUAN ~y~Toko Pro Laps.
+TX_LS32	6C137C79	~s~TUJUAN ~y~Burger Shot.
+TX_LS33	1B144CEF	~s~TUJUAN ~y~Burger Shot.
+TX_LS34	8570D94C	~s~TUJUAN ~y~Bioskop Legal.
+TX_LS4	8B8D01C5	~s~TUJUAN ~y~Taman Patung.
+TX_LS5	FC8A3153	~s~TUJUAN ~y~Gereja.
+TX_LS6	658360E9	~s~TUJUAN ~y~Motel Jefferson.
+TX_LS7	1284507F	~s~TUJUAN ~y~Minimarket Pik 'n' Go.
+TX_LS8	823B4DEE	~s~TUJUAN ~y~Leon Diamonds.
+TX_LS9	F53C7D78	~s~TUJUAN ~y~Ten Green Bottles.
+TX_NONE	87D60DC2	~s~Nggak ada penumpang di sekitar sini. Cari lagi.
+TX_NTRO	9107F510	Semua taksi punya Nitro.
+TX_OOPS	1FFFE029	~s~Oops! Mending cari ~b~penumpang~s~ lain deh.
+TX_PAY	D54636E7	$~1~
+TX_PKUP	F4F2AAC3	~s~Cari ~b~penumpang~s~.
+TX_REP	CB729F29	~r~Mobilmu hancur berantakan. Harus diperbaiki.
+TX_SEQ	BDB7C588	Bonus ~1~ BERUNTUN! $~1~
+TX_SF1	DB28F713	~s~TUJUAN ~y~Gencat Pencakar Langit Downtown.
+TX_SF10	A2BC5985	~s~TUJUAN ~y~Hotel Vank Hoff in the Park.
+TX_SF11	D5BB6913	~s~TUJUAN ~y~Hotel Biffin Bridge.
+TX_SF12	4CB238A9	~s~TUJUAN ~y~Hashbury Tengah.
+TX_SF13	3BB5083F	~s~TUJUAN ~y~Titik Pandang Missionary Hill.
+TX_SF14	A5D19D9C	~s~TUJUAN ~y~Gencat Pencakar Langit Downtown.
+TX_SF15	D2D6AD0A	~s~TUJUAN ~y~Pangkalan Angkatan Laut Easter Basin.
+TX_SF16	4BDFFCB0	~s~TUJUAN ~y~Dermaga Easter Basin.
+TX_SF17	3CD8CC26	~s~TUJUAN ~y~Bandara.
+TX_SF18	AC67D1B7	~s~TUJUAN ~y~Di Bawah Jembatan Gant.
+TX_SF19	DB60E121	~s~TUJUAN ~y~Alun-Alun Downtown.
+TX_SF2	4221A6A9	~s~TUJUAN ~y~Pencakar Langit di King's.
+TX_SF20	89910A46	~s~TUJUAN ~y~Puncak jalur berkelok-kelok.
+TX_SF21	FE963AD0	~s~TUJUAN ~y~Burger Shot.
+TX_SF22	679F6B6A	~s~TUJUAN ~y~Donat Tuff Nut.
+TX_SF23	10985BFC	~s~TUJUAN ~y~Dermaga 69.
+TX_SF24	8EFCCE5F	~s~TUJUAN ~y~Gerbang Chinatown.
+TX_SF25	F9FBFEC9	~s~TUJUAN ~y~The Well Stacked Pizza Co.
+TX_SF26	60F2AF73	~s~TUJUAN ~y~Gereja.
+TX_SF27	17F59FE5	~s~TUJUAN ~y~Jembatan.
+TX_SF3	3526963F	~s~TUJUAN ~y~Pusat Perbelanjaan (Mall).
+TX_SF4	AB42039C	~s~TUJUAN ~y~Stasiun Cranberry.
+TX_SF5	DC45330A	~s~TUJUAN ~y~Stadion.
+TX_SF6	454C62B0	~s~TUJUAN ~y~Klub Janapada (Country Club).
+TX_SF7	324B5226	~s~TUJUAN ~y~Katedral.
+TX_SF8	A2F44FB7	~s~TUJUAN ~y~Perpustakaan.
+TX_SF9	D5F37F21	~s~TUJUAN ~y~Balai Kota.
+TX_TIME	97D29548	WAKTU
+TX_TIP	634AAC97	Bar tip makin berkurang seiring waktu dan kerusakan.
+TX_TOTL	7183F846	TARIF
+TX_TR1	F0C936C3	~s~TUJUAN ~y~Kafe Art-Deco.
+TX_TR2	69C06779	~s~TUJUAN ~y~The Smokin' Beef Grill.
+TX_VE1	F6CE663B	~s~TUJUAN ~y~Kilang minyak.
+TX_VE10	972417EE	~s~TUJUAN ~y~Greenglass College.
+TX_VE11	E0232778	~s~TUJUAN ~y~Bandara Las Venturas.
+TX_VE12	792A76C2	~s~TUJUAN ~y~Depot bahan bakar militer.
+TX_VE13	0E2D4654	~s~TUJUAN ~y~Klub golf.
+TX_VE14	9049D3F7	~s~TUJUAN ~y~Stasiun Kereta Yellow Bell.
+TX_VE15	E74EE361	~s~TUJUAN ~y~Stadion bisbol.
+TX_VE16	7E47B2DB	~s~TUJUAN ~y~Restoran Steik.
+TX_VE17	0940824D	~s~TUJUAN ~y~Pemadam kebakaran Redsands West.
+TX_VE18	99FF9FDC	~s~TUJUAN ~y~Hotel.
+TX_VE19	EEF8AF4A	~s~TUJUAN ~y~Toko Suvenir.
+TX_VE2	6FC73781	~s~TUJUAN ~y~Pusat perbelanjaan.
+TX_VE20	BC09442D	~s~TUJUAN ~y~Galeri Seni.
+TX_VE21	CB0E74BB	~s~TUJUAN ~y~Bank.
+TX_VE22	52072501	~s~TUJUAN ~y~Gedung Pengadilan.
+TX_VE23	25001597	~s~TUJUAN ~y~Agen Properti.
+TX_VE24	BB648034	~s~TUJUAN ~y~Kasino Freemont St.
+TX_VE25	CC63B0A2	~s~TUJUAN ~y~Topless Girls of Bush County.
+TX_VE26	556AE118	~s~TUJUAN ~y~Ammu-Nation.
+TX_VE27	226DD18E	~s~TUJUAN ~y~24/7.
+TX_VE28	B2D2CC1F	~s~TUJUAN ~y~Pusat Perbelanjaan Cina.
+TX_VE29	C5D5FC89	~s~TUJUAN ~y~Burger Shot.
+TX_VE3	18C00717	~s~TUJUAN ~y~Kasino Clown's Pocket.
+TX_VE30	A512756C	~s~TUJUAN ~y~Kasino Visage.
+TX_VE31	D21545FA	~s~TUJUAN ~y~Informasi Wisata.
+TX_VE32	4B1C1440	~s~TUJUAN ~y~Kasino Caligula.
+TX_VE33	3C1B24D6	~s~TUJUAN ~y~Kasino Pirates in Men's Pants.
+TX_VE34	A27FB175	~s~TUJUAN ~y~Kasino Royal.
+TX_VE35	D57881E3	~s~TUJUAN ~y~Kasino High Roller.
+TX_VE36	4C71D059	~s~TUJUAN ~y~Kasino Camel's Toe.
+TX_VE37	3B76E0CF	~s~TUJUAN ~y~Kasino Come-a-lot.
+TX_VE38	ABC9FD5E	~s~TUJUAN ~y~Kasino Pink Swan.
+TX_VE39	DCCECDC8	~s~TUJUAN ~y~Kasino The Four Dragons.
+TX_VE4	86A492B4	~s~TUJUAN ~y~Kasino Starfish.
+TX_VE40	EA53E3AB	~s~TUJUAN ~y~Rumah Sakit.
+TX_VE41	9D54D33D	~s~TUJUAN ~y~Gereja.
+TX_VE42	045D8287	~s~TUJUAN ~y~Klub Pria 24Jam.
+TX_VE43	735AB211	~s~TUJUAN ~y~Hotel Tiki.
+TX_VE44	ED3E27B2	~s~TUJUAN ~y~Stasiun Linden.
+TX_VE45	9A391724	~s~TUJUAN ~y~Toko Seks.
+TX_VE5	F1A3A222	~s~TUJUAN ~y~The Emerald Isle.
+TX_VE6	68AAF398	~s~TUJUAN ~y~Kantor polisi.
+TX_VE7	1FADC30E	~s~TUJUAN ~y~Kasino VRock.
+TX_VE8	8F12DE9F	~s~TUJUAN ~y~Kapel Blackfield.
+TX_VE9	F815EE09	~s~TUJUAN ~y~Stadion Blackfield.
+TX_WIN	9B032FAD	Tarif selesai!
+TX_ZERO	5398FC9F	~r~Waktumu habis!

@@ -1,0 +1,99 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	A2EF4632	Pencet ~m~~widget_mission_cancel~ buat keluar dari kerek derek (crane).
+	5800AEB8	Pencet ~m~~widget_drop_crane~ buat melepas kontainer pas posisi udah bener.
+ST4_02	068C2C06	~r~Cesar udah tewas.
+ST4_03	718B1C90	~r~Mobil yang seharusnya lu curi udah hancur.
+ST4_05	98E8B9A5	~s~Masuk ke dalam mobil bareng ~b~Cesar~s~.
+ST4_13	68902DD1	~s~Masuk ke dalam ~y~kerek derek (crane)~s~.
+ST4_26	33D78A9D	~s~Bawa Cesar sama mobilnya balik ke ~y~bengkel garasi~s~ lu.
+ST4_27	44D0BA0B	~s~Lu ninggalin Cesar di belakang!!
+ST4_28	D46FA79A	~s~Masuk ke dalam mobil bareng Cesar.
+ST4_29	A368970C	~s~Tungguin Cesar!
+ST4_30	C3AF1EE9	Cesar
+ST4_32	2DA17FC5	~s~Pastiin kereta api kagak menabrak hancur mobil yang mau lu curi di sini.
+ST4_36	2ACCBBDC	~s~Putar balik kerek derek ke atas kapal.
+ST4_40	8CEE882E	~r~Lu kehilangan kontainer yang berisi mobil di dalamnya!
+ST4_42	62E0E902	~s~Lu ninggalin ~b~Cesar~s~ di belakang.
+ST4_43	15E7D994	~s~Nyetir ke area ~y~dermaga (docks)~w~.
+ST4_44	8B834C37	~r~Mobil di dalam kontainer udah hancur!!
+ST4_45	FC847CA1	~s~Fitur Ekspor dan Impor mobil udah terbuka.
+ST4_46	658D2D1B	~s~Cek papan daftar di Dermaga Easter Basin buat melihat kendaraan apa aja yang dicari buat diekspor.
+ST4_47	128A1D8D	~s~Antarkan kendaraan yang dicari ke kapal.
+ST4_48	8235001C	~s~Kendaraan impor juga tersedia di hari-hari tertentu.
+ST4_H01	D06F7249	Pencet terus tahan ~m~~widget_crane_up~ buat menurunkan tali derek.
+ST4_H02	496623F3	Pencet terus tahan ~m~~widget_crane_down~ buat menaikkan tali derek.
+ST4_H03	3E611365	Ketuk ~m~~widget_drop_crane~ buat melepas kontainer pas posisi udah bener.
+ST4_H04	A00586C6	Dorong kontrol pergerakan ke kiri atau kanan buat memutar kerek derek.
+ST4_H05	D702B650	Dorong kontrol pergerakan ke arah yang lu inginkan buat menggerakkan kerek derek. Gunakan ~m~~widget_camera~ buat mengubah sudut pandang kamera.
+ST4_H07	390CD77C	Gunakan bayangan magnet buat memperkirakan di mana objek bakal jatuh.
+ST4_H09	DEB4FA7B	Ketuk ~m~~widget_mission_cancel~ buat keluar dari kerek derek.
+ST4_H10	BE73739E	Pencet terus tahan ~m~~widget_crane_down~ buat menurunkan magnet. Pencet terus tahan ~m~~widget_crane_up~ buat menaikkan magnet.
+ST4_T01	C553285D	~s~Angkat ~g~kontainer~s~ pake kerek derek.
+ST4_T02	5C5A79E7	~s~Pindahkan kontainer ke ~y~posisi~s~ yang bener pake cara memutar kerek derek.
+ST4_T03	2B5D4971	~S~Jatuhkan ~g~kontainer~s~.
+ST4_T04	B539DCD2	~s~Angkat ~g~kontainer~s~ lainnya pake kerek derek.
+ST4_T05	C23EEC44	~s~Pindahkan ~g~kontainer~s~ keluar dari kapal pake cara memutar kerek derek.
+ST4_T06	5B37BDFE	~s~Taruh ~g~kontainer~s~ di ~y~posisi~s~ yang bener.
+STL4@00	8CFEC86B	Yoi gue paham, itu ada di bagian manifold.
+STL4@01	FBF9F8FD	Taik, gue baru aja mengganti karet pelindung (*seal*) itu!
+STL4@02	62F0A947	Pasti ada lecet sedikit di dalam sana, sialan!
+STL4@03	15F799D1	Woy Ces, cowok lu dateng tuh.
+STL4@04	8B930C72	Dia bukan cowok gue.
+STL4@05	FC943CE4	Woy, kita hampir menjalani hidup normal nih, hah. Ini jauh banget dibandingin kehidupan di Grove Street, kan?
+STL4@06	659D6D5E	Yoi, gue tahu, tapi gue kagak bisa membuang hal itu dari pikiran gue.
+STL4@07	129A5DC8	Ibu, Sweet, Smoke - gue kagak bisa begitu aja melepaskan hal itu.
+STL4@08	82254059	Gue tahu. Terus sekarang apa yang mau kita lakuin soal Sweet?
+STL4@09	F52270CF	Ini situasi yang parah tapi gue harus membiarkan hal ini berjalan sebentar lagi, oke?
+STL4@10	95E5F92A	Oke, tapi lu hati-hati. Kita kagak mau kehilangan lu lagi.
+STL4@11	E2E2C9BC	Gue kenal seseorang yang punya kenalan
+STL4@12	7BEB9806	yang ngurusin kontainer kargo kargo di dermaga bawah sana.
+STL4@13	0CECA890	Dia ngeliat salah satu kontainer lagi memuat mobil-mobil
+STL4@14	92883D33	sama salah satunya cocok banget sama mobil impian pelanggan kita.
+STL4@15	E58F0DA5	Jadi, dia menandai kontainer itu pake cat semprot Pilox,
+STL4@16	7C865C1F	tapi kayaknya udah terlambat,
+STL4@17	0B816C89	kapalnya lagi proses memuat barang sama mau berlayar besok.
+STL4@18	9B3E7118	Oke, ayo kita pergi mengintip ke sana - liat apa yang bisa kita temuin.
+STL4@19	EC39418E	Bener banget, sis - informasi yang mantap.
+STL4@20	BEC8AAE9	Woy, Carl, gue mau ngobrol bentar sama lu, bro (*holmes*).
+STL4_AA	8AA2253B	Ayolah, bro (*ese*), lu yang nyetir!
+STL4_AB	13AB7481	Kan emang selalu gue yang nyetir!
+STL4_BA	A18F76F8	Gimana cara kita mencuri mobil dari atas kapal kontainer, bro (*holmes*)?
+STL4_BB	38862742	Lu tahu sendiri, pake cara yang sama kek gimana mobil itu dinaikkan - nggunain kerek derek (*crane*) dermaga!
+STL4_BC	4F8117D4	Bro, tuh kerek derek tinggi banget - gue kagak jago memanjat tangga sama gue takut ketinggian!
+STL4_BD	D1E58277	Yaudah oke, gue yang nggunain kerek dereknya, lu mending siap-siap buat membobol kontainernya.
+STL4_CA	B89447B9	Itu kapalnya, CJ!
+STL4_CB	219D1603	Oke, gue mau pergi ngurusin kerek dereknya dulu. Kasih gue waktu sebentar.
+STL4_CC	569A2695	Cepat ya, gue kagak mau ketangkap basah lagi bengong di luar sini!
+STL4_DA	F7D5D17E	Cesar! kagak ada satu pun dari kontainer ini yang ditandai cat semprot!
+STL4_DB	6EDC80C4	Kita terpaksa nyoba satu per satu kalo gitu, hah!
+STL4_DC	19DBB052	Luar biasa! [TIDAK TEREKAM]
+STL4_EA	EECEE03F	Oke, CJ, ini dia kontainernya, kerja bagus, bro (*holmes*)!
+STL4_FA	C5E3B3FC	Bukan yang ini, CJ!
+STL4_FB	5CEAE246	Kagak beruntung, CJ, coba cari yang lain!
+STL4_FC	2BEDD2D0	Bukan yang ini juga, pasti kontainer yang terakhir!
+STL4_GA	DCF882BD	Woy! Menurut lu apa yang lagi lu lakuin, hah?
+STL4_GB	45F1D307	Woy, tahan di situ!
+STL4_GC	32F6E391	Di situ aja lu, pencuri keparat!
+STL4_HA	5B609E72	CJ, gue butuh bantuan nih!
+STL4_HB	C269CFC8	Bantu gue ngadepin orang-orang ini, CJ!
+STL4_HC	B56EFF5E	Gue butuh bantuan dikit nih, CJ!
+STL4_JA	6956FCF0	Ayo kita ambil mobilnya terus cabut!
+STL4_JB	F05FAD4A	Ayo kita ambil mobilnya terus pergi dari sini!
+STL4_KA	704DCDB1	CJ, keretanya bakal menabrak mobil itu!
+STL4_KB	E9449C0B	CJ, mobilnya ada di atas jalur rel!
+STL4_LA	3F0C5B76	Pasti ada cara lain yang lebih gampang buat mencari nafkah dibandingin ini.
+STL4_LB	A6050ACC	Pasti lah, bro (*holmes*), gue rasa gitu.
+STL4_LC	D1023A5A	tapi keahlian apaan lagi yang lu punya?
+STL4_LD	4F66AFF9	Yoi, gue paham perasaan lu.
+STL4_LE	38619F6F	Bro, ayo kita bikin para polisi ini mengejar kita sampai kewalahan.
+STL4_MA	26176A37	Woy, CJ!
+STL4_MB	BF1E3B8D	Bayaran kita tergantung sama kondisi mulusnya mobil, bro (*holmes*)!
+STL4_MC	C8190B1B	Lebih hati-hati lagi kenapa!
+STL4_MD	567D9EB8	Siapa yang nyetir? Gue apa lu?
+STL4_NA	0D3A39F4	Itu tadi gampang banget kek makan kue tortilla!
+STL4_NB	9433684E	Woy, bro (*holmes*), itu tadi seru banget, kita kudu ngelakuin hal itu lagi!

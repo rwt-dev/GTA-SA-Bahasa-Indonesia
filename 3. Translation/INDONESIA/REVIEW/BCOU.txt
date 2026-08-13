@@ -1,0 +1,44 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	3038A1A6	Pencet ~m~~widget_vehicle_shoot_left~ atau ~m~~widget_vehicle_shoot_right~ buat melemparkan paket ke sebelah kiri atau kanan. Gilas paket terakhir yang gagal dilempar buat mengambilnya balik.
+BCOU_10	99DF5288	~s~Lemparkan paket terus masukin ngelewatin ~y~penanda pengantaran~s~ buat mencatat pengiriman yang berhasil.
+BCOU_11	EED8621E	~r~Lu kagak punya cukup paket yang tersedia buat memenuhi kuota pengiriman putaran ini!
+BCOU_12	77D133A4	Kerja bagus! Ayo kita hitung bagian keuntungan lu!
+BCOU_18	9704DABA	Geng Motor LA
+BCOU_19	E003EA2C	Geng Motor LV
+BCOU_20	B2F2014B	Geng Motor SF
+BCOU_21	C5F531DD	Pembayaran:
+BCOU_22	5CFC6067	Waktu Tersisa
+BCOU_23	2BFB50F1	Sisa Paket
+BCOU_24	B59FC552	Total Uang
+BCOU_3	380D531F	~s~Lemparkan paket-paket itu ngelewatin ~y~lingkaran pengantaran~s~ dengan cepat!
+BCOU_31	DCEE009C	Naik ke motor:
+BCOU_33	32E061B0	~r~Kehabisan waktu!
+BCOU_34	AC84F413	Waktu
+BCOU_35	DB83C485	~r~Putaran pengiriman selesai.
+BCOU_37	358DA5A9	~s~Lu punya waktu ~1~ detik buat naik balik ke atas ~b~motor~s~ atau putaran ini selesai!
+BCOU_4	A669C6BC	~s~Kendarai motor keliling kota terus lemparkan paket ngelewatin ~y~lingkaran pengantaran~s~ sebelum waktunya habis.
+BCOU_40	E4A8A6CD	0 dari 4 putaran selesai
+BCOU_41	93AF965B	1 dari 4 putaran selesai
+BCOU_42	0AA6C7E1	2 dari 4 putaran selesai
+BCOU_43	7DA1F777	3 dari 4 putaran selesai
+BCOU_44	E3C562D4	4 dari 4 putaran selesai
+BCOU_45	94C25242	5 dari 4 putaran selesai
+BCOU_46	0DCB03F8	6 dari 4 putaran selesai
+BCOU_47	7ACC336E	7 dari 4 putaran selesai
+BCOU_48	EA732EFF	~y~Kurir San Fierro selesai!
+BCOU_49	9D741E69	~y~Kurir Los Santos selesai!
+BCOU_5	D16EF62A	~s~Paket Berhasil Diantar! Pergi ke ~y~lingkaran pengantaran~s~ lain terus antarkan paket berikutnya.
+BCOU_50	FDB3978C	~y~Kurir Las Venturas selesai!
+BCOU_6	4867A790	~s~Semua paket berhasil diantar! Balik ke ~y~titik penjemputan~s~ lu buat mengambil pembayaran.
+BCOU_7	3F609706	~s~Pembayaran $~1~
+BCOU_8	AFDF8A97	paket di atas motor
+BCOU_80	481DE9C1	San Fierro
+BCOU_81	3F1AD957	Los Santos
+BCOU_82	A61388ED	Las Venturas
+BCOU_83	D114B87B	Paket Dipegang
+BCOU_84	4F702DD8	Ketuk ~m~~widget_vehicle_shoot_left~ atau ~m~~widget_vehicle_shoot_right~ buat melemparkan paket ke sebelah kiri atau kanan. Gilas paket terakhir yang gagal dilempar buat mengambilnya balik.

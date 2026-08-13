@@ -1,0 +1,60 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	AB03CB16	Lakukan pembunuhan diam-diam (stealth kill) pake cara bergerak pelan ke arah penjaga sambil menguncinya (pencet ~m~~widget_enter_targeting~ buat mengunci). Terus pencet ~m~~widget_attack~ pas tangan lu udah terangkat.
+	A28B4B9D	Pencet ~m~~widget_attack~ buat melakukan pembunuhan diam-diam (stealth kill).
+LOC2_AA	D51EF349	Oh bro, nih game ampas banget!
+LOC2_AB	4C17A2F3	Yoi, liat tuh gimana cara si Tanner ini lari!
+LOC2_AC	3B109265	Cara jalannya kek orang mencret berak di celana...
+LOC2_BA	FE33A08A	Ampas banget. Maksud gue, gimana bisa Refractions mengacaukan game sebocor ini?
+LOC2_BB	673AF130	Tanner, lu bener-bener busuk ampas!
+LOC2_CA	E72891CB	Woy Loc, gue udah dapet barang yang lu mau.
+LOC2_CB	7E21C071	Bro (*holmes*), lu bener-bener dingin kek es, kawan!
+LOC2_CC	0926F0E7	Woy, ntar gue temuin lu lagi belakangan.
+LOC2_DC	46676620	Salam damai, bro!
+STP2_1	89AB32F3	~s~Pergi ke ~y~mansion milik Madd Dogg~s~.
+STP2_10	02E43838	Lakukan pembunuhan diam-diam (stealth kill) pake cara bergerak pelan ke arah penjaga sambil menguncinya (ketuk penjaga buat mengunci). Terus ketuk ~m~~widget_attack~ pas lu ada di sebelah dia.
+STP2_11	75E308AE	Ketuk ~m~~widget_attack~ buat melakukan pembunuhan diam-diam (stealth kill).
+STP2_13	9BED6982	~s~Seorang ~r~penjaga ~s~lagi patroli di area kolam renang. Mengamati rute jalannya bakal ngebantu lu mencari cara buat melewatinya tanpa ketahuan.
+STP2_14	0589FC21	~s~Ada banyak bayangan di area ini buat bersembunyi. Bersembunyi di dalam bayangan bikin ~r~penjaga ~s~sulit memergoki lu.
+STP2_15	728ECCB7	~s~Ada ~r~penjaga ~s~lagi datang.
+STP2_16	EB879D0D	~s~Cari tempat yang cocok buat bersembunyi sebelum dia memergoki lu. Cari area yang ada bayangannya.
+STP2_19	7B38809C	~s~Kalo lu jalan lurus melewatin ~r~penjaga ~s~di sini dia bakal ngeliat lu. Coba merunduk terus jalan melewatin area meja bar biar tetep di luar jangkauan pandangannya.
+STP2_2	10A26349	~s~~y~Pintu utama ~s~ada di bagian belakang mansion.
+STP2_29	5015D35F	~s~Gunakan keahlian yang udah lu pelajari buat melewatin para ~r~penjaga ~s~yang lagi patroli terus ~y~keluar ~s~dari mansion biar lu bisa membawa buku rima lagu balik ke OG Loc.
+STP2_3	67A553DF	~s~~g~Buku rima lagu ~s~ada di dalam studio rekaman Madd Dogg.
+STP2_30	30D25ABA	~s~Lu harus membawa buku rima lagu balik ke OG Loc. Dia ada di ~y~Burger Shot~s~.
+STP2_32	DEDC3B96	Nggunain kontrol pergerakan kamera lu bisa memutar kamera, ini gunanya buat mengintip sudut ruangan sama memantau musuh.
+STP2_33	A9DB0B00	Para ~r~penjaga ~w~nggunain senjata berperedam suara. Kalo lu berhasil merebutnya, itu bakal ngebikin lu bisa menembak tanpa terdengar sama penjaga di sekitar.
+STP2_36	D9B1FF8F	Biar tetep tersembunyi lu harus tetep merunduk sama jalan melewatin area meja bar.
+STP2_39	490EE21E	~r~Pengawal pribadi Madd Dogg ~s~lagi patroli di dalam mansion. Jangan nggunain senjata apa pun pas jalan mengambil buku rima - lu bakal memicu alarm mereka. Gunakan aksi penyusupan diam-diam buat mencuri buku rima lagu.
+STP2_4	F9C1C67C	~r~Pengawal pribadi Madd Dogg ~s~lagi patroli di dalam mansion. Lu kagak punya senjata kuat apa pun, penyusupan diam-diam adalah pilihan terbaik lu di sini.
+STP2_40	7F93CC7D	~y~Keluar ~s~dari mansion terus bawa buku rima lagu balik ke OG Loc. Lu udah aman buat nggunain senjata lu sekarang, walaupun resikonya bakal lebih kecil kalo lu nggunain aksi penyusupan diam-diam buat melewatin para ~r~penjaga ~s~yang patroli.
+STP2_41	0894FCEB	Kalo titik putih di radar yang mewakili posisi lu berubah jadi biru, itu menandakan kalo lu ada di dalam bayangan sama tersembunyi dari penjaga yang patroli.
+STP2_5	8EC6F6EA	~s~~r~Penjaga ~s~pertama kagak bisa ngeliat lu. Ini artinya lu bisa mengendap-endap di belakangnya membawa senjata jarak dekat terus melakukan ~h~pembunuhan diam-diam (stealth kill)~s~.
+STP2_7	60C897C6	~s~Para ~r~penjaga ~s~yang patroli ditunjukin di radar pake titik merah yang mengarah ke sudut pandang pengawal tersebut.
+STP2_9	8770BAC1	Kalo lu merunduk pas bergerak lu bakal menghasilkan lebih sedikit suara. Merunduk terus kunci target ke ~r~penjaga.
+STR2A00	7787D463	Woy yo, pas gue datang di tempat ini, Lu kagak bakal mau gue samperin membawa pistol di depan muka lu...
+STR2A01	0080E4F5	Gue ngerasain lebih keras, Dari siapa pun di dunia yang bisa ngelakuin, Kek semacam...
+STR2A02	9989B54F	Yo! Tuh lagu ampas banget bangsat! Sialan!
+STR2A03	EE8E85D9	Woy, ada cerita apaan, Loc?
+STR2A04	70EA107A	Woy, Carl - ada apaan, bro?
+STR2A05	07ED20EC	Woy, bro - lu pernah mikir kagak buat
+STR2A06	9EE47156	nyari penulis lirik lagu buat ngebantu lu di masalah lagu ampas ini?
+STR2A07	E9E341C0	Yoi, pernah. Tapi siapa, bro, siapa?
+STR2A08	795C5C51	Sialan, gue kan bukan anak dunia rap, lu tahu lah, itu bukan bidang gue. Tapi kita kudu mikirin sesuatu nih. Bro.
+STR2A09	0E5B6CC7	Gimana kalo gue nyuruh seseorang nulis sesuatu buat gue,
+STR2A10	6E9CE522	tapi merekanya sendiri kagak tahu soal hal itu?
+STR2A11	199BD5B4	Apaan?
+STR2A12	8092840E	Kayaknya gue baru aja nemuin penulis bayangan (*ghost writer*).
+STR2A13	F795B498	Gue yang bakal membawakannya, semalaman penuh, makin mantap!
+STR2A14	69F1213B	Buku rima lagu Madd Dogg! Dari rumah mewahnya di atas bukit!
+STR2A15	1EF611AD	Buku rima lagunya Madd Dogg?
+STR2A16	87FF4017	Bro, lu udah janji mau ngebantu, Carl.
+STR2A17	F0F87081	Woy woy woyoyoy. Gue bakal ngelakuin apa aja, bro. Gue sumpah demi itu. Oke?
+STR2A18	60476D10	Woy woy woy, ini OG Loc, bro, sama gue bakal menyanyikannya dikit kek gini nih...
+STR2A19	17405D86	Sialan - lagu gue busuk banget!
+STR2A20	45B1B6E1	Ayolah, bro. Gue panas, Kek api, Semalaman penuh, Makin mantap, Pas gue nyanyiin, Gue ngerasa pas banget...
