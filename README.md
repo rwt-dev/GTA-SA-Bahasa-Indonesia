@@ -28,3 +28,4 @@ Dikembangkan Oleh: Buset Project
 - Gemini AI
 - Google Translate
 - Kamus Lengkap 999 Triliun
+- Buku resep Nusantara
