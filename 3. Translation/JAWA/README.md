@@ -1,1 +1,1 @@
-COMING SOON
+Sabar bro, engko tak rilis

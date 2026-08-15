@@ -1,1 +1,1 @@
-FIX
+File yang sudah selesai diterjemahkan dan siap digunakan.

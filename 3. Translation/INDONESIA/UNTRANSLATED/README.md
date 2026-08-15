@@ -1,1 +1,1 @@
-Translate belum selesai
+File mentah yang belum diterjemahkan.

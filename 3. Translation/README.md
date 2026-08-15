@@ -1,2 +1,0 @@
-Hasil Translate
-LAST=BCOU

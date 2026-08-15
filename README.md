@@ -11,6 +11,12 @@ Kedepannya. jika hasil translate bahasa indonesia sudah mencapai 100% kami juga 
 
   - RAW Upload
 </details>
+<details>
+<summary>V26.08.16</summary>
+
+  - RAW Gemini Translation
+  - Remove Cut Content
+</details>
 
 ## UNUSED ASSETS (DELETED MISSION)
 - CESAR2.txt (Impounded Mission)
