@@ -1,0 +1,1 @@
+Berkas mentah sing durung diterjemahke.

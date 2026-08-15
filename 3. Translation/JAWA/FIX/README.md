@@ -1,0 +1,1 @@
+Berkas sing uwis rampung diterjemahke lan siap dienggo.

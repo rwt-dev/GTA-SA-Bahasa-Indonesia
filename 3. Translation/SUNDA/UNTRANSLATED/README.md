@@ -1,0 +1,1 @@
+File mentah anu can diterjemahkeun.

@@ -1,0 +1,1 @@
+File anu masih kénéh dina tahap ditinjau atawa dipariksa deui.

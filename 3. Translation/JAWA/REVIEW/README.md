@@ -1,0 +1,1 @@
+Berkas sing ijek ana ing tahap ditinjau utawa dicheck maneh.
