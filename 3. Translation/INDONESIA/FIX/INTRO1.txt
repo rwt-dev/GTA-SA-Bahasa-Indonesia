@@ -155,8 +155,6 @@ INT1_GJ	4D879539	Hei yo, mampir aja dulu. Kita semua lagi pada kumpul nih.
 INT1_GL	A4E4300C	Iya, terus pake pakaian warna ijo khas geng kita, bego.
 INT1_GM	D3E3009A	Sama cukur rambut lu - malu-maluin diliat orang kalo jalan bareng lu!
 
-# UNUSED LINE (?)
-
 PRO@06	A371ACC1	Gimana? Gimana beliau meninggal?
 PRO@07	D4769C57	Jangan sekarang. Lu pulang gak?
 PRO@08	44C981C6	Iya, iya, gue pulang.

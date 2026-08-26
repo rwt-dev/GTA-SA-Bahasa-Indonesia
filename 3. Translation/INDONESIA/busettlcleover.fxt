@@ -150,8 +150,6 @@ INT1_GJ Hei yo, mampir aja dulu. Kita semua lagi pada kumpul nih.
 INT1_GL Iya, terus pake pakaian warna ijo khas geng kita, bego.
 INT1_GM Sama cukur rambut lu - malu-maluin diliat orang kalo jalan bareng lu!
 
-# UNUSED LINE (?)
-
 PRO@06 Gimana? Gimana beliau meninggal?
 PRO@07 Jangan sekarang. Lu pulang gak?
 PRO@08 Iya, iya, gue pulang.
@@ -212,3 +210,81 @@ INT1_FI Udah ketebak, larinya cepet banget kayak setan, dasar lu pecundang!
 INT1_GF Gue ketinggalan woy! Kalian semua bajingan tega ninggalin gue di belakang!
 INT1_GG Yo, Pantai Timur bener-bener bikin kaki lu berotot juga ya, bocah!
 INT1_GK Bung, lu mesti buang jauh-jauh rasa parnoan ala Liberty City itu, kawan!
+
+#INTRO2
+HOOD2_A ~s~Pergi bersama Ryder ke ~y~tukang cukur~s~.
+HOOD2_B ~s~Masuk ke ~y~restoran pizza~s~ dan beli makanan.
+INT2_13 s~Masuk ke penanda untuk membeli pizza.
+INT2_8 Jalan ke penanda kuning untuk masuk ke tempat cukur rambut.
+INT2_9 ~s~Jalan ke penanda untuk potong rambut.
+INT2_O ~s~Antar Ryder ~y~pulang~s~.
+INT2_10 ~r~Kamu tidak seharusnya membunuh pemilik toko!
+INT2_11 ~r~Mobil Ryder hancur!
+INT2_12 ~r~Ryder tewas!
+INT2_14 ~r~Kamu membuat pemilik toko panik!
+INT2_5 ~s~Kamu meninggalkan ~b~Ryder~s~!
+INT2_6 ~s~Masuk ke ~b~mobil Ryder~s~!
+INT2A02 Hei kawan, mau apa kamu?
+INT2A03 Mau ketemu kawan gue. Ada apa denganmu?
+INT2A04 Iya kawan, iya iya. Senang bisa melihatmu kembali.
+INT2A05 Tidak ada rasa rindu antar kawan nih? Tidak mau pelukan?
+INT2A99 Oh, tentu saja, tentu kawan, maaf gue salah. Ada apa denganmu?
+INT2A06 Hei kawan, kenapa kamu bawa-bawa senjata?
+INT2A07 Sialan, ada restoran pizza yang sengaja menimpa grafiti kita, bangsat!
+INT2A08 Grafiti itu bagus sekali. Beri pelajaran pemiliknya.
+INT2A09 Dia sudah berani mengusik Grove Street. Kamu ikut atau tidak?
+INT2A10 Gue selalu siap.
+INT2A11 Ahhhh, mantap... Ayo berangkat, keparat.
+INT2_AA Hei, coba tunjukkan bagaimana gaya menyetir orang Pantai Timur, bro!
+INT2_CA Hei, Old Reece masih buka tempat cukurnya?
+INT2_CB Masih, kayak kakek-kakek bangsat sialan!
+INT2_CC Otaknya sudah letoy dari bertahun-tahun lalu!
+INT2_CD Tidak BAKALAN gue membiarkan orang tua pikun itu menyentuh kepala GUE!
+INT2_CE Yaudah, kayaknya gue mau potong rambut di sana.
+INT2_CF Terserah lu. Waktu lu lima menit.
+INT2_CG Gue bakal memotong rambut lu kayak DJ memutar piringan.
+INT2_BA Jadi kapan lu mau kabur lagi?
+INT2_BB Gue tidak mau, gue mikir buat menetap di sini.
+INT2_BC Ngapain?
+INT2_BD Keluarga gue, kawan-kawan gue ada di sini.
+INT2_BE Dari dulu kita juga selalu ada di sini, bego!
+INT2_BF Iya, tapi sekarang gue sudah balik dan gue tahu apa yang gue lewatkan.
+INT2_BG Jangan berharap gue bakal menjilat pantat lu atau semacamnya.
+INT2_BH Di mata gue lu tetap pecundang.
+INT2_BJ Iya dah, terserah lu. Makasih ya kawan.
+INT2_BK Iya, santai saja.
+INT2_EA Lu tahu tidak? Gue tarik ucapan gue tadi. Old Reece ternyata masih jago.
+INT2_FA Kawan, apa-apaan ini? Bentuknya terlihat konyol banget bangsat.
+INT2_FB Tidak ada wibawanya buat anak tongkrongan, terlalu rapi sok suci.
+INT2_FC Lu terlihat kurus kering, CJ.
+INT2_FD Sana cariin makanan buat kita. Gue mau ngabisin ini dulu, abis itu baru beresin urusan.
+INT2_GA Serahkan uangnya! Ini perampokan!
+INT2_GB Ryder! Jangan mulai lagi!
+INT2_GC Bukan gue, bego!
+INT2_GD Tidak ada orang lain yang badannya sekecil itu! Kasihan gue sama bapak lu!
+INT2_GE Sialan, lu gila! Ayo cabut dari sini!
+INT2_GF CJ yang dulu! Pecundang! Benar-benar pecundang!
+INT2_HB Oh, sialan! KABUR!
+INT2_HA Restoran pizza ini tidak bisa diremehkan!
+INT2_JA Nunggu apa lagi lu, bego!
+INT2_JB Bawa kita balik ke Grove, bajingan!
+INT2_NB Sebaiknya mampir ketemu Sweet.
+INT2_NC Dia dari tadi ngoceh terus soal grafiti itu juga.
+INT2_ND Duluan ya, kawan.
+
+INT2_KA CJ! Sialan... Kamu malah lengah.
+INT2_KB Masa begitu saja kena tembak, bego!
+INT2_LA CJ, jangan mengeluh, cepat bangun!
+INT2_LB Sudah kuduga, CJ.
+INT2_LC Kamu memang tidak cocok hidup di jalanan, CJ.
+INT2_MA Oh sialan, RYDER!
+INT2_MB Kacau banget ini!
+INT2A00 Dari dulu Ryder memang sudah gila.
+INT2A01 Orang bertubuh kecil dengan nyali sombong, dan dia sangat emosional soal itu.
+INT2_DA Sialan! Sudah kubilang dia itu gila!
+INT2_DB Kawan, kepala lu jadi ancur!
+INT2_DC Apaan tuh? Wig atau apa?
+INT2_EB Mantap.
+INT2_IA CJ, kita butuh kendaraan!
+INT2_IB Kita butuh tumpangan cepat! Ambil mobil sekarang!
+INT2_NA Sip, urusan kita beres! Ini bagian lu.
