@@ -5711,7 +5711,7 @@ VO_AA	C2A01C2D	Ah sial, kita mulai lagi.
 VO_AB	5BA94D97	Tempat terburuk di dunia.
 VO_AC	2CAE7D01	Wilayah Rollin Heights Balla.
 VO_AD	B2CAE8A2	Aku tidak mewakili Grove Street selama lima tahun,
-VO_AE	C5CDD834	tapi anak-anak Balla tidak akan peduli.
+VO_AE	C5CDD834	tapi anak-anak Ballas tidak akan peduli.
 VO_AF	5CC4898E	Grove Street - Rumah.
 VO_AG	2BC3B918	Setidaknya sebelum aku mengacaukan segalanya.
 VOFFE1N	943CCAB3	Nggak, mungkin nanti kucari kamu.

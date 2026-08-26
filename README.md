@@ -3,7 +3,12 @@
 # Project GTA:SA Bahasa Indonesia
 Project ini dimulai karena belum menemukan hasil terjemahan Bahasa Indonesia yang pas di berbagai forum. Kebanyakan terjemahan yang beredar terasa kaku, asal-asalan, atau tidak diterjemahkan secara penuh (100%). Selain itu, mayoritas hanya mengandalkan hasil terjemahan mentah (raw translate) dari mesin penerjemah otomatis tanpa disunting ulang, sehingga kalimatnya berantakan.
 
-Kedepannya. jika hasil translate bahasa indonesia sudah mencapai 100% kami juga akan mencoba untuk mengubahnya menjadi bahasa daerah, bahasa genz, atau mungkin bahasa unik lainnya
+Kedepannya. jika hasil translate bahasa indonesia sudah mencapai 100% kami juga akan mencoba untuk mengubahnya menjadi bahasa daerah, bahasa genz, atau mungkin bahasa unik lainnya.
+
+## PERHATIAN
+Project ini awalnya dikembangkan menggunakan basis berkas teks versi mobile. Oleh karena itu, tahap awal pengembangan akan difokuskan untuk platform Mobile terlebih dahulu, mengingat adanya sedikit perbedaan key/string teks antara versi PC klasik dan versi remastered (Mobile/XBOX/PS3).
+
+Adaptasi untuk versi PC tetap direncanakan, namun saat ini fokus utama pengerjaan masih diprioritaskan untuk versi mobile.
 
 ## Changelog
 <details>

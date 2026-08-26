@@ -1,174 +1,214 @@
-#AMBULAE
-A_CANC	~r~Misi paramedis dibatalkan!
-A_COMP1	Misi paramedis selesai: $~1~
-A_COMP2	Kamu tidak akan pernah lelah!
-A_COMP3	~s~Kesehatan maksimum Kamu telah meningkat!
-A_FAIL1	Misi paramedis dibatalkan
-A_FAIL2	~r~Kurangnya urgensi Kamu berakibat fatal bagi pasien!
-A_FAIL3	~r~Pasien sudah meninggal!!
-A_FULL	~s~Ambulan penuh!!
-A_PASS	Diselamatkan!
-A_SAVES	DISELAMATKAN: ~1~
-ALEV	LEVEL
-ALEVEL	Level Misi Paramedis ~1~
-AMBSEAT	KURSI KOSONG
-AMBTIME	WAKTU TERSIA
-ATUTOR2	~s~Antarkan ~b~pasien~s~ ke ~y~Rumah Sakit~s~ dengan HATI-HATI. Setiap benturan akan mengurangi peluang mereka untuk bertahan hidup.
-#BCESAR2
-BCE2@00	Hei Carl.
-BCE2@01	Apa kabar, sis?
-BCE2@02	Lebih baik. Terima kasih. Kau sudah membantuku.
-BCE2@03	Ini belum selesai, kawan. Aku melakukan ini demi wanitaku.
-BCE2@04	Tapi sekarang aku akan langsung pulang ke rumah,
-BCE2@05	dan aku akan menghabisi para pengedar narkoba sialan itu!
-BCE2@06	Hei dengar, kalau kau masuk ke barrio dengan omong kosong sok jagoan itu,
-BCE2@07	kau bakal mati tercabik-cabik.
-BCE2@08	Dan aku tidak mau kehilanganmu hanya karena aksi macho yang konyol!
-BCE2@09	Hei, santai saja.
-BCE2@10	Semuanya akan diurus saat waktunya tiba.
-BCE2@11	Kita sudah tahu siapa bajingan yang sebenarnya,
-BCE2@12	saudaramu dari Grove Street yang busuk itu, Smoke,
-BCE2@13	dan polisi-polisi kotor itu, Tenpenny dan Pulaski!
-BCE2@14	Smoke itu pengedar, kawan!
-BCE2@15	Tidak, tidak mungkin Smoke. Dia mungkin berurusan dengan C.R.A.S.H,
-BCE2@16	tapi dia tidak bermain dengan kokain.
-BCE2@17	Ayolah, CJ! Menurutmu bagaimana dia bisa punya rumah baru itu, hah?
-BCE2@18	Lupakan omong kosong setiamu pada Grove itu dan lihatlah sekelilingmu.
-BCE2@19	Kabar yang beredar di jalanan adalah dua kali seminggu,
-BCE2@20	Smoke mengirim mobil ke San Fierro,
-BCE2@21	dan bagasinya kembali dalam keadaan penuh dengan barang putih itu.
-BCE2@22	Sial. Aku harus mengawasi jalan raya menuju San Fierro.
-BCE2@23	Mungkin aku akan menemukan sesuatu.
-BCE2@24	Tunggu saja... Tetaplah bersembunyi dan aku akan kembali.
-#BCESAR4
-BCE4@00	Hei, aku sudah menunggu selamanya, kawan. Dari mana saja kau?
-BCE4@01	Maaf, sobat, aku tidak tahu kapan balapannya dimulai.
-BCE4@02	Tentu saja - kau kebetulan muncul
-BCE4@03	lima menit setelah orang lain, ya?
-BCE4@04	Ketika bensin mengalir di nadimu seperti gairah yang membara,
-BCE4@05	kau akan tahu kapan waktunya untuk balapan!
-BCE4@06	Kurasa kau terlalu banyak menghirup udara pedesaan, kawan!
-BCE4@07	Hei, CJ, lihat...
-BCE4@08	Kau belum pernah ikut pertemuan kami sebelumnya,
-BCE4@09	dari mana asalmu, teman?
-BCE4@10	Aku dari Grove Street Families, Los Santos. Ada apa?
-BCE4@11	Santai. Ini bukan parade, kawan. Tapi, kau tahu, kami harus berhati-hati.
-BCE4@12	Wu Zi Mu, tapi teman-temanku memanggilku 'Woozie'. Apa kabar?
-BCE4@13	Apa..? CJ. Carl Johnson.
-BCE4@14	Dengar, di sini kami suka balapan demi uang atau BPKB - pilihan pembalap.
-BCE4@15	Nyalakan mobilmu, kita akan segera mulai. Semoga beruntung, Carl Johnson.
-BCE4@16	Hati-hati CJ!
-BCE4@17	Ada sesuatu yang sangat aneh tentang orang itu, kawan.
-BCE4@18	Sial, di mana orang ini?
-BCE4@19	Tentu saja, kawan.
-BCE4W00	Kau menyetir dengan gaya, Carl Johnson -
-BCE4W01	dan aku tidak keberatan kalah dari orang yang berani memacu dirinya hingga batas maksimal.
-BCE4W02	Bagiku, aku adalah orang yang menghormati taruhan.
-BCE4W03	Yah, kau belajar dengan cepat saat polisi mengejarmu.
-BCE4W04	Dengar, sebaiknya kita segera pergi dari sini secepat mungkin
-BCE4W05	karena, entah kenapa, polisi lokal tidak menghargai olahraga mulia kita.
-BCE4W06	Ya. Terima kasih atas sarannya.
-BCE4W07	Oke, aku harus pergi.
-BCE4W08	Uh, kau tahu? Jika kau pernah berada di San Fierro, hubungi aku,
-BCE4W09	mungkin kita bisa melakukan bisnis bersama.
-BCE4W10	Ya, mungkin aku akan melakukannya.
-BCE4W11	Kurasa itu peringatan untuk kita. Senang bertemu denganmu.
-BCE4W12	Oooh, ya!
-BCE5@00	Sial, sekarang apa lagi?
-BCE5@01	BABI!
-BCE5@02	Apa? Apa lagi yang kulakukan sekarang?
-BCE5@03	Oh, jadi DI SINI kau berada, eh?
-BCE5@04	Begini caramu membalas kelembutanku!
-BCE5@05	Kau lebih suka lekukan mobil daripada lekukan wanita sungguhan?
-BCE5@06	Dengar, Catalina, kau yang membatalkannya, ingat, 'hanya bisnis'.
-BCE5@07	Pria macam apa kau ini?
-BCE5@08	Saat aku bilang 'hanya bisnis', itu artinya aku mencintaimu!
-BCE5@09	Saat aku bilang aku tidak tertarik lagi, itu artinya aku merindukanmu!
-BCE5@10	Tunggu, Catalina, tunggu! Jangan sentuh mobilku,
-BCE5@11	Aku melakukan ini untuk kita, untukku dan untukmu!
-BCE5@12	Sudah terlambat. Aku tidak mencintaimu lagi. Aku cinta yang lain, oke?
-BCE5@13	Apa?
-BCE5@14	Lalu apa maksud semua ini?
-BCE5@15	Aku tidak bisa menahan gairahku, mereka butuh pelampiasan.
-BCE5@16	Itu tadi pelampiasan yang bagus,
-BCE5@17	seperti memukul pria dengan penggorengan saat dia tidur.
-BCE5@18	Ini, CARL, INI pria baruku.
-BCE5@19	Kau cemburu? Kau mau bertarung demi aku?
-BCE5@20	Tidak, tidak, aku bisa menerima penolakan.
-BCE5@21	Kau cemburu dan pengecut!
-BCE5@22	Sekarang ayo balapan!
-BCE5@23	Wanita gila.
-BCE5@24	Apa-apaan ini?
-BCE5@25	Tunggu! Hei, itu punyaku...
-BCE5@26	Dan saat aku bilang aku merindukanmu..!
-BCE5W00	Kau punya keuntungan yang tidak adil!
-BCE5W01	Menjadi pengemudi yang lebih baik bukanlah keuntungan yang tidak adil.
-BCE5W02	Kau pikir kau pintar, tapi kaulah yang tidak mengerti intinya!
-BCE5W03	Bukan saja dia balapan, tapi dia memuaskanku sepenuhnya!
-BCE5W04	Keunggulan dari mobil manual, kurasa.
-BCE5W05	Ya terserahlah, pokoknya, apa pilihannya, uang atau BPKB?
-BCE5W06	Ini dia!
-BCE5W07	Selamat tinggal Tuan Johnson, aku TIDAK akan merindukanmu!
-BCE5W08	Hei, tunggu sebentar, jalang! Apa-apaan ini?
-BCE5W09	Sertifikat sebuah bengkel di San Fierro.
-BCE5W10	Kekasihku butuh mobilnya agar kami bisa pergi ke Liberty City.
-BCE5W11	Liberty City? Ya, terserahlah, selamat bersenang-senang.
-BCE5W12	Tentu saja.
-BCE5W13	Bagus.
-BCE5W14	OKE.
-BCE5W15	SELAMAT TINGGAL!
-BCE5W16	Apa yang akan kau katakan tentang itu?
-BCE5W17	Pergi sana, aku tidak akan merindukanmu.
-BCS5_AA	Oh, Claude, kau sangat besar dan jantan!
-BCS5_AB	Claude, kau pengemudi terbaik yang pernah meniduriku!
-BCS5_AC	Tangan tetap di kemudi, Claude, tetap di kemudi!
-BCS5_AD	Oh Claude, ini lebih besar dari tuas persneling!
-BCS5_AE	Aku tidak pernah merasa sepuas ini!
-BCS5_AF	Lima kali orgasme dalam beberapa menit saja!
-BCS5_AG	Nikahi aku, Claude, nikahi aku!
-BCS5_AH	Oh Claude, aku tidak tahu apakah aku cukup wanita untukmu!
-BCS5_BA	Hei, Carl, kau menyetir seperti unta mabuk!
-BCS5_BB	Carl, kau cemburu, ya?
-BCS5_BC	Claude sangat kekar, dia LUAR BIASA!
-BCS5_BD	Claude akan membuatmu merasa tidak sebanding!
-BCS5_BE	Akhirnya aku menemukan pria yang bisa memuaskanku!
-BCS5_BF	Claude sangat jantan, sangat PERKASA!
-BCS5_BG	Aku tidak pernah tahu ada hal LEBIH dalam seks!
-#BCOU
-BCOU_10	~s~Lempar paket dan masukkan ke dalam ~y~penanda pengantaran~s~ agar pengiriman berhasil.
-BCOU_11	~r~Anda tidak memiliki cukup barang untuk memenuhi kuota pengiriman kali ini!
-BCOU_12	Kerja bagus! Ayo hitung bagian keuntunganmu!
-BCOU_18	Pengendara Motor LA
-BCOU_19	Pengendara Motor LV
-BCOU_20	Pengendara Motor SF
-BCOU_21	Pembayaran:
-BCOU_22	Sisa Waktu
-BCOU_23	Sisa Barang
-BCOU_24	Total Uang
-BCOU_3	~s~Segera lempar barang-barang itu ke dalam ~y~tanda lingkaran pengantaran~s~!
-BCOU_31	Naik ke motor:
-BCOU_33	~r~Waktu habis!
-BCOU_34	Waktu
-BCOU_35	~r~Misi pengantaran berakhir.
-BCOU_37	~s~Anda punya waktu ~1~ detik untuk kembali ke ~b~motor~s~ atau misi ini gagal!
-BCOU_4	~s~Kendarai motor keliling kota dan lempar barang ke dalam ~y~tanda lingkaran pengantaran~s~ sebelum waktu habis.
-BCOU_40	0 dari 4 pengiriman selesai
-BCOU_41	1 dari 4 pengiriman selesai
-BCOU_42	2 dari 4 pengiriman selesai
-BCOU_43	3 dari 4 pengiriman selesai
-BCOU_44	4 dari 4 pengiriman selesai
-BCOU_45	5 dari 4 pengiriman selesai
-BCOU_46	6 dari 4 pengiriman selesai
-BCOU_47	7 dari 4 pengiriman selesai
-BCOU_48	~y~Kurir San Fierro selesai!
-BCOU_49	~y~Kurir Los Santos selesai!
-BCOU_5	~s~Barang Terkirim! Pergi ke ~y~tanda lingkaran pengantaran~s~ lainnya dan kirim barang berikutnya.
-BCOU_50	~y~Kurir Las Venturas selesai!
-BCOU_6	~s~Semua barang terkirim! Kembali ke ~y~titik pengambilan~s~ untuk mengambil bayaranmu.
-BCOU_7	~s~Pembayaran $~1~
-BCOU_8	barang dibawa
-BCOU_80	San Fierro
-BCOU_81	Los Santos
-BCOU_82	Las Venturas
-BCOU_83	Barang di Tangan
-BCOU_84	Tekan ~m~~widget_vehicle_shoot_left~ atau ~m~~widget_vehicle_shoot_right~ untuk melempar barang ke kiri atau kanan. Tabrak barang terakhir yang gagal dilempar untuk mengambilnya kembali.
+#INTRO1
+DBFD18C7 Kamu bisa melakukan bunny hop dengan menahan tombol ~m~~widget_explicit_bunny_hop~.
+E223861D Tekan dan tahan sudut kiri bawah layar untuk memiringkan badan.
+044678A8 Tekan dan tahan ~m~~widget_ped_move_up~ dan ~m~~widget_ped_move_down~ untuk memiringkan badan.
+F3976091 Kamu bisa melakukan bunny hop dengan mengetuk dua kali sudut kanan bawah layar.
+INTRO2D Kamu bisa melakukan bunny hop dengan mengetuk dua kali ~m~~widget_accelerate~.
+INTRO2A ~s~Berkendara ke pemakaman bersama Big Smoke.
+INTRO2G ~s~Kamu terlalu jauh. Tetap bersama ~b~Sweet~s~.
+INTRO2I ~s~Ikuti ~b~Sweet~s~ kembali ke markas.
+INTRO2J ~s~Kamu terlalu jauh. Tetap bersama ~b~Ryder~s~.
+INTRO2K ~s~Ikuti ~b~Ryder~s~.
+INT2_F1 ~r~Smoke tewas!
+INT2_F2 ~r~Sweet tewas!
+INT2_F3 ~r~Ryder tewas!
+INT2_F4 ~r~BMX kamu hancur!
+LOAD_01 Bandara Internasional Francis,
+LOAD_03 Liberty City,
+LOAD_04 1992.
+LOAD_02 Bandara Internasional Los Santos.
+PRO@01 Setelah lima tahun di Pantai Timur, sudah waktunya pulang.
+PRO@02 Ada apa?
+PRO@03 Carl, ini Sweet.
+PRO@04 Ada apa, Sweet, mau lu apa?
+PRO@05 Ini Ibu... Beliau meninggal, bro.
+PRO@09 Penumpang. Tunjukkan tangan kalian.
+PRO@53 Berhenti. Berlutut.
+PRO@54 Sekarang tiarap di tanah.
+PRO@70 Nah, begitulah.
+PRO@58 Gue ambil itu, Hernandez.
+PRO@57 Hei, itu duit gue bung. Itu duit beneran.
+PRO@16 Ini duit narkoba.
+PRO@59 Duit gue, bung...
+PRO@18 Hei gak usah khawatir soal itu, biar nanti gue yang urus laporannya.
+PRO@15 Selamat datang di rumah, Carl. Senang bisa balik lagi?
+PRO@17 Lu gak lupa sama kita, kan bocah?
+PRO@19 Jelas kagak, Opsir Tenpenny.
+PRO@20 Gue cuma heran kenapa kalian lama banget.
+PRO@22 Masuk ke mobil.
+PRO@60 Santai dong, bangsat. Sialan.
+PRO@61 Awas kepalamu.
+PRO@62 Aduh!
+PRO@63 Oh! Sori gue sengaja.
+PRO@23 Pergi dari sini, lu sopir taksi brengsek!
+PRO@65 Orang Meksiko tolol...
+PRO@66 Oh, hei, sori.
+PRO@67 Tas gue. Hei, bangsat, tas gue!
+PRO@24 Gimana kabarmu, Carl? Gimana keluargamu yang hebat itu?
+PRO@25 Gue ke sini buat nguburin Ibu gue. Lu tahu itu.
+PRO@26 Iya, kayaknya gue tahu.
+PRO@49 Jadi ada urusan apa lagi lu di sini, Carl?
+PRO@68 Jadi ada urusan apa lagi lu di sini, Carl?
+PRO@27 Gak ada. Sekarang gue tinggal di Liberty City. Gue udah bersih. Asli.
+PRO@28 Kagak, lu gak bakalan pernah bersih, Carl.
+PRO@29 Nah, apa yang kita punya di sini?
+PRO@30 Ini adalah senjata, Opsir Pulaski, yang dipake buat nembak mati
+PRO@30B seorang petugas polisi kurang dari sepuluh menit yang lalu.
+PRO@31 Opsir Pendelbury. Orang yang sangat baik, kalau boleh gue bilang..
+PRO@33 Kerja lu cepet juga, bangsat.
+PRO@32 Lu tahu gue baru aja turun dari pesawat!
+PRO@34 Untung aja kita nemuin lu dan ngamanin senjata pembunuhan ini.
+PRO@35 Itu bukan senjata gue.
+PRO@36 Jangan bohong sama gue, Carl.
+PRO@37 Iya, jangan bohong sama dia, Carl.
+PRO@38 Mau lu apa lagi dari gue bangsat?
+PRO@40 Kalo kita butuh lu, kita bakal nemuin lu.
+PRO@41 Sementara itu, usahain jangan nembak aparat penegak hukum lagi.
+PRO@43 Lu gak bisa ninggalin gue di sini - ini wilayah BALLAS.
+PRO@44 Gue kira lu bilang lu bersih, Carl? Lu bilang lu udah gak ikut-ikutan geng?
+PRO@45 Ini mobil 58... APA?!
+PRO@47 Selamat luntang-lantung, Carl...
+PRO@46 Opsir Pendelbury tewas? Kita segera merapat ke sana.
+INT1A01 Berhenti! Kalian ngapain sih? Carl, Brian, berhenti!
+INT1A17 Berhenti! Kalian ngapain sih? Carl, Brian, berhenti!
+INT1A02 Hentikan! Ibu bakal denger!
+INT1A03 Ibu! Mereka berdua bikin ribut lagi!
+INT1A05 Lu salah masuk rumah, bangsat!
+INT1A06 Big Smoke! Ini gue, Carl! Santai, woy santai!
+INT1A07 CJ, bro gue! Ada apa nih? Hei sayang, lu gapapa kan, bung?
+INT1A08 Kagak, bung, ini soal Ibu gue, kawan...
+INT1A09 Denger, gue gak tahu kenapa musibah ini harus terjadi,
+INT1A10 tapi gue janji sama lu, gue bakal nyari tahu siapa keparat yang ngebunuh Ibu lu!
+INT1A11 Jalanan itu kejam, Bro.
+INT1A12 Kayak yang tertulis di kitab, kita diberkati sekaligus dikutuk.
+INT1A13 Kitab apaan bangsat?
+INT1A14 Hal yang sama bikin kita tertawa, bisa bikin kita nangis juga.
+INT1A15 Tapi sekarang, kita mesti beresin urusan kita dulu.
+INT1A16 Temuin abang lu di pemakaman. Ayo, kita cabut.
+INT1_AB Lu mau nyetir?
+INT1_AC Iya, boleh juga tuh.
+INT1_AR Mobil bagus, Smoke.
+INT1_AA Lu kenal gue. Bodinya masih orisinal. Jaga nilainya. Tetap apa adanya.
+INT1B25 Gue kangen sama lu selama lima tahun ini, bung - mereka pasti bakal seneng banget ngeliat lu balik.
+INT1B00 Hei, ada kabar apa nih semuanya? Liat siapa yang gue temuin lagi kelayapan.
+INT1B26 Carl, hei, seneng bisa ketemu lu lagi.
+INT1B01 Gue masih gak percaya beliau udah gak ada, bung.
+INT1B02 Itu satu lagi pemakaman yang lu kabur darinya, bangsat. Sama kayak pemakaman Brian dulu.
+INT1B03 Hei, dia itu Ibu gue juga.
+INT1B04 Kagak dianggep Ibu selama 5 tahun belakangan ini bagi lu, bangsat.
+INT1B05 Dan mau ke mana lu pikir lu mau pergi, hah?
+INT1B06 Apaan sih? Minggir dari muka gue. Gue mau nemuin Cesar.
+INT1B07 Gak bakalan gue biarin, cewek sialan!
+INT1B08 Lu gak boleh maen-maen sama orang Meksiko itu, lu tahu kita lagi perang wilayah -
+INT1B09 Denger ya, gue cinta sama dia! Emangnya lu siapa sok ngatur bangsat?
+INT1B10 Paling gak gue punya prinsip.
+INT1B11 Oh, dan menurut lu itu bikin lu jadi warga Amerika yang bermartabat? Carl, kasih tahu dia!
+INT1B12 Carl, kasih tahu dia!
+INT1B13 - Carl gak bakal ngelarang apa-apa ke gue, perek.~n~- Asal dia memperlakukan dia dengan bener.
+INT1B14 Asal dia memperlakukan dia dengan bener.
+INT1B15 Kalo dia gak sopan sama lu, mati dia.
+INT1B16 Bisa-bisanya lu ngomong enteng kayak gitu?
+INT1B17 Kayak emang itu urusan lu aja.
+INT1B18 Persetan sama lu, Sweet.
+INT1B29 Oh, sialan - mulai lagi dah.
+INT1B19 Situasi ini bener-bener ancur parah. Semuanya!
+INT1B20 Apa maksud lu?
+INT1B21 Apalagi, selain masalah Ibu lu yang tewas?
+INT1B22 Semuanya makin memburuk. Sini, biar gue tunjukin ke lu, sang pelari. Tony dikubur di sebelah sana.
+INT1B23 Little Devil di sana, Big Devil di sebelah sana.
+INT1B24 Bung, ini bener-bener gila - semua orang nembak kepala orang lain dulu baru nanya belakangan.
+INT1_AI Ballas! Nembak dari mobil! Awas!
+INT1_AJ Awww, keparat bajingan, mobil gue!!
+INT1_AK Kita harus balik ke markas, bung, di sini udah terlalu gila keadaannya!
+INT1_AP Ambil sepeda terus gowes. Orang kayak lu masa udah lupa caranya.
+INT1_AQ Ikuti arahan gue!
+INT1_BA Bikin lu bernostalgia ke masa lalu kan, CJ? Mantap!
+INT1_BC Keadaan udah berubah total di daerah sini!
+INT1_BB CJ, awasin belakang lu di sekitar sini, bung.
+INT1_BD Gimana ceritanya bisa seancur ini?
+INT1_AM Gue kira ini wilayah kekuasaan Families?
+INT1_AN Iya, ini kawasan Temple Drive Families - tapi kita udah gak sejalan lagi sama mereka.
+INT1_EA Cepetan gerak, CJ, cepetan!
+INT1_EE Ayo kejar, CJ!
+INT1_EE Ayo kejar, CJ!
+INT1_CA Sialan! Mobil Ballas ngincer kita! Pencar!
+INT1_EI Jangan ketinggalan, bajingan!
+INT1_BI Lu cuma bakal jadi beban doang, CJ!
+INT1_BK Ngapain juga lu repot-repot balik ke sini?
+INT1_BF Langsung balik ke jalanan lagi, ya kan sob?
+INT1_BG Emang udah separah ini sebelum lu cabut?
+INT1_BH Pantai Timur bikin badan lu krempeng banget, kawan.
+INT1_GN Tapi tadi gue tetep ngelawan bajingan-bajingan itu - gue tunjukin ke para bangsat itu siapa gengster sejati. Ryder nih bos, bangsat!
+INT1_GA Jadi kapan lu cabut lagi, Carl?
+INT1_GB Gue belum yakin. Tadinya kepikiran gue bakal netap di sini.
+INT1_GC Keadaannya lagi ancur-ancuran.
+INT1_GD Yah, hal paling terakhir yang kita butuhin saat ini adalah bantuan lu.
+INT1_GE Aduh bung, gue gak bakalan ngecewain kalian lagi, sumpah dah.
+INT1_GH Hei, kita mau manggil beberapa cewek jalanan buat nongkrong santai. Lu mau ikut kagak?
+INT1_GI Urusan gue masih numpuk, dan gue juga capek. Nanti gue nyusul kalian dah.
+INT1_GJ Hei yo, mampir aja dulu. Kita semua lagi pada kumpul nih.
+INT1_GL Iya, terus pake pakaian warna ijo khas geng kita, bego.
+INT1_GM Sama cukur rambut lu - malu-maluin diliat orang kalo jalan bareng lu!
+
+# UNUSED LINE (?)
+
+PRO@06 Gimana? Gimana beliau meninggal?
+PRO@07 Jangan sekarang. Lu pulang gak?
+PRO@08 Iya, iya, gue pulang.
+PRO@10 Keluarkan tangan dari jendela mobil dan buka kunci pintumu.
+PRO@11 Keluar dari mobil.
+PRO@12 Jalan ke arah kami dengan tangan di belakang kepala.
+PRO@13 Gue gak nyuruh lu menghadap ke gue, bocah.
+PRO@14 Mundur ke arah suara gue.
+PRO@55 Hei. Ayolah bung, sialan. Lu bikin sakit tangan gue.
+PRO@56 Ngeraba-raba badan gue kayak... Apaan sih?
+PRO@21 Ya, lu tahu sendiri, di dalem bandara itu urusan federal. Bukan wewenang kita.
+PRO@39 Jaga mulut lu, Carl, dasar lu sampah bajingan perek gengster keparat.
+PRO@42 Carl, kita di sini cuma buat mengayomi dan melayani masyarakat.
+PRO@48 Lihat itu, Hernandez, begitu caranya polisi berpengalaman ngadepin ancaman nyata.
+PRO@50 Aduh, sialan...
+PRO@51 Bener banget begitu... Ayo... Ayo...
+PRO@52 ...pada nyari gara-gara mulu sama gue...
+PRO@69 Ah! Brengsek...
+PRO@99 Sialan... Bangsat...
+INT1A04 Brian! Carl! Berhenti berantem, terus pergi cuci tangan kalian!
+INT1_AD Lu masih suka mobil?
+INT1_AE Selalu demen mobil, bung.
+INT1_AF Gue kira orang-orang gak begitu peduli mobil di Liberty. Lu naik apaan di sana?
+INT1_AG Kereta bawah tanah.
+INT1_AH Ha, ha ha. Itu baru saudara gue. Nah, sampe juga kita.
+INT1B27 Aduh, mulai dah drama ginian...
+INT1B28 Dasar bajingan keparat.
+INT1_AL Udah terlalu gila di sini.
+INT1_AO Pantesan aja, situasinya EMANG beneran udah berubah total. Terus gimana kita pulang?
+INT1_BE Hei Sweet, usahain jangan ketinggalan!
+INT1_BJ Oh, lu belum kabur lagi kan, CJ?
+INT1_CB Bangsat, anak Ballas ngejar kita!
+INT1_CC BALLAS! SEMUANYA BUBAR!
+INT1_DA Bangun, CJ, genjot sepedanya!
+INT1_DB Cepetan gerak, CJ, dikit lagi nyampe Grove!
+INT1_DC Lu gapapa, CJ?
+INT1_DD Hei, hei, si Carl nyungsep!
+INT1_DE Aduh bung, jatuhnya keliatan sakit banget tuh, kawan!
+INT1_DF Naik ke sepedamu lagi woy, jagoan!
+INT1_DG Ha ha! Bocah bego ini jatoh!
+INT1_DH Naik sepeda aja kaga becus!
+INT1_DI CJ, lu gowes sepeda lelet kayak lonte sakaw, bego!
+INT1_EC Ayo, CJ. Genjot sekuat tenaga bangsat!
+INT1_ED Ayolah bung, lu harus tetep ngekor!
+INT1_EF Jangan sampe lu kehilangan jejak kita, CJ!
+INT1_EG Ada apaan, bego? Lu udah ngos-ngosan?
+INT1_EH Cepetan gerak, CJ - lu bikin malu kita aja, bangsat!
+INT1_EJ Ada masalah apa, CJ? Gak sanggup ngimbangin si gendut ini?
+INT1_FA Hei, liat tuh si CJ ngebut!
+INT1_FB Hei, CJ, tungguin kita dong, bung!
+INT1_FC CJ, lu lari kenceng kayak banci penakut, bung!
+INT1_FD Carl lagi nunjukin ke kita gimana cara gowes yang bener.
+INT1_FE Bocah krempeng itu ngibrit sendirian di depan.
+INT1_FF CJ lagi pamer skil kecepatan penuh, bro!
+INT1_FG Kebiasaan lu, CJ! Ninggalin kawan-kawan di belakang, ya?
+INT1_FH Woy tungguin kawan-kawan lu, bego!
+INT1_FI Udah ketebak, larinya cepet banget kayak setan, dasar lu pecundang!
+INT1_GF Gue ketinggalan woy! Kalian semua bajingan tega ninggalin gue di belakang!
+INT1_GG Yo, Pantai Timur bener-bener bikin kaki lu berotot juga ya, bocah!
+INT1_GK Bung, lu mesti buang jauh-jauh rasa parnoan ala Liberty City itu, kawan!
