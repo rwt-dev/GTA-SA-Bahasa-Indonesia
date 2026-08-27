@@ -26,7 +26,7 @@ INT2A07	0740561D	Sialan, ada restoran pizza yang sengaja menimpa grafiti kita, b
 INT2A08	97FF4B8C	Grafiti itu bagus sekali. Beri pelajaran pemiliknya.
 INT2A09	E0F87B1A	Dia sudah berani mengusik Grove Street. Kamu ikut atau tidak?
 INT2A10	803FF2FF	Gue selalu siap.
-INT2A11	F738C269	Ahhhh, mantap... Ayo berangkat, keparat.
+INT2A11	F738C269	Ahhhh, mantap... Ayo cabut, bangsat.
 INT2_AA	9EBA44D9	Hei, coba tunjukkan bagaimana gaya menyetir orang Pantai Timur, bro!
 INT2_CA	AC8C265B	Hei, Old Reece masih buka tempat cukurnya?
 INT2_CB	358577E1	Masih, kayak kakek-kakek bangsat sialan!
@@ -62,7 +62,7 @@ INT2_JA	7D4E9D12	Nunggu apa lagi lu, bego!
 INT2_JB	E447CCA8	Bawa kita balik ke Grove, bajingan!
 INT2_NB	802B09AC	Sebaiknya mampir ketemu Sweet.
 INT2_NC	F72C393A	Dia dari tadi ngoceh terus soal grafiti itu juga.
-INT2_ND	6948AC99	Duluan ya, kawan.
+INT2_ND	6948AC99	Duluan ya, bro.
 
 INT2_KA	6455AC53	CJ! Sialan... Kamu malah lengah.
 INT2_KB	FD5CFDE9	Masa begitu saja kena tembak, bego!

@@ -1,0 +1,88 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	7414C1D3	Berdirilah di depan tembok lalu tekan dan tahan ~m~~widget_sprint~ untuk memanjat.
+	A51349B1	Berdirilah di depan pagar lalu tekan dan tahan ~m~~widget_sprint~ untuk memanjat pagar.
+	2F6ACA5F	Berdirilah di depan tembok lalu ketuk dua kali sudut kanan bawah layar untuk memanjat.
+	8BBB0E32	Berdirilah di depan pagar lalu ketuk dua kali sudut kanan bawah layar untuk memanjat pagar.
+JUMPH1	7CB15C8A	Berdirilah di depan pagar lalu ketuk dua kali ~m~~widget_sprint~ untuk memanjat pagar.
+JUMPH2	E5B80D30	Ketuk dua kali ~m~~widget_sprint~ untuk memanjat ke atas tembok.
+SWE1_D	8BE5D464	Arahkan pandangan ke grafiti dan tahan ~m~~widget_attack~ untuk menyemprotnya.
+SWE1_F	65EBB548	Tahan terus tombol ~m~~widget_attack~ sampai grafiti tertutup cat sepenuhnya.
+SWE1_G	12EC85DE	Menimpa grafiti musuh akan meningkatkan respek dari gengmu. Ada banyak grafiti tersebar di sekitar Los Santos untuk ditemukan.
+SWE1_H	8253984F	Ini adalah anggota geng Ballas yang memakai baju ungu. Mereka adalah musuh bebuyutanmu.
+SWE1_I	F554A8D9	Tekan dan tahan ~m~~widget_attack~ untuk menyemprot wajah anggota geng tersebut.
+SWE1_Z1	CFCB7F70	Wilayah geng musuh sangat berbahaya. Berada di sana terlalu lama akan menarik perhatian mereka.
+HOOD3_A	3F79C880	~s~Berkendaralah bersama Sweet ke ~y~Idlewood~s~.
+HOOD3_B	A670993A	~s~Berkendaralah ke ~y~East Los Santos~s~.
+SWE1_A	FB8F20EB	~s~Masuk ke ~b~mobil Sweet~s~.
+SWE1_S	083651A3	~s~Masuk kembali ke ~b~mobil Sweet!
+SWE1_M	F2396CC0	~s~Cari dan semprot ~g~grafiti musuh~s~.
+SWE1_X	9FE4882B	~s~Semprot sisa ~g~grafiti musuh~s~ di area ini.
+SWE1_Z	71EAE907	~s~Pergi ke ~y~titik penanda~s~ untuk menemukan grafiti berikutnya.
+SWE1_B	62867151	~s~Kembalilah ke ~y~rumah Sweet~s~.
+SWE1SPF	F25F8A01	~r~Kamu membutuhkan cat semprot!
+SWE1_P	913F0019	~r~Sweet tewas!
+SWE1_Q	E638308F	~r~Kamu menghancurkan mobil Sweet!
+SWE1A11	5F7A4366	Ayo sini, gembrot. Maju lu, gembrot. Si gembrot, liat tuh gaya lu...~n~Iya, iya, awas lu ya. Bego... Liat nih, liat nih...
+SWE1A13	B174224A	Ah ha ha ha! Kena lu!
+SWE1A00	316642B1	Liat siapa yang dateng nih, si jago kabur. Kenapa, lu ngerasa udah balik jadi anak geng lagi?
+SWE1A01	46617227	Kan udah gue bilang, bang.
+SWE1A02	DF68239D	Omongan lu gak ada harganya di sini.
+SWE1A03	A86F130B	Ayolah bang, kasih gue kesempatan.
+SWE1A04	360B86A8	Kita harus bikin tanda di tongkrongan kita.
+SWE1A14	2F10B7E9	Hei, CJ.
+SWE1A05	410CB63E	Biar mereka semua tahu kalau lu udah balik ke tongkrongan.
+SWE1A06	D805E784	Johnson bersaudara udah kembali beraksi.
+SWE1A07	AF02D712	Bawa pilok ini terus coret-coret tuh wilayah.
+SWE1A08	3FBDCA83	Mulai dulu dari wilayah tongkrongan kita sendiri.
+SWE1A09	48BAFA15	Ntar kalau udah, baru kita sebar dan rebut balik seluruh wilayah ini.
+SWE1A10	287D73F0	Badan lu noh yang makin melar, gembrot. Udah ah ayo kita main.
+SWE1A15	5817877F	Coba kita lihat apa yang bisa lu lakuin, si gembrot!
+SWE1_AA	36F8C5D6	Hei, tungguin gue.
+SWE1_AB	AFF1946C	Lu kira lu bakal jalan bareng abang lu, hah?
+SWE1_AC	D8F6A4FA	Santai dikit napa bang, ayolah, kondisi emang lagi susah.
+SWE1_AD	46923159	Lu mau nyetir?
+SWE1_AE	319501CF	Boleh, jelas lah.
+SWE1_AR	B2468408	Awasi anak-anak Ballas pas gue lagi nyemprot grafiti ini.
+SWE1_CA	04CEA754	Masih ada dua grafiti Ballas lagi di sekitar sini.
+SWE1_CB	9DC7F6EE	Lu pergi beresin tuh grafiti, gue tunggu di sini sambil panasin mesin.
+SWE1_AS	C541B49E	Ayo, kita meluncur masuk ke wilayah Ballas.
+SWE1_AV	B52B4011	Lu semprot yang di sini, ntar gue jalan buat beresin wilayah lain.
+SWE1_BA	1DD59615	Apa-apaan nih bangsat?
+SWE1_BH	64092EB1	CARL, CEPETAN, MASUK!
+SWE1_BN	8D6A8B84	Udah kayak naik sepeda aja, gampang kan?
+SWE1_BO	FA6DBB12	Iya, semuanya udah mulai kerasa biasa lagi.
+SWE1_BP	7765B6E7	Gimana kondisi duit lu?
+SWE1_BQ	00628671	Lagi seret banget nih, lu tahu sendiri lah.
+SWE1_BX	79BE3ED5	Orang-orang C.R.A.S.H. nyikat semua duit gue, cuma disisain recehan doang bangsat...
+SWE1_BT	700872FE	Nih, buat lu beli bir atau apa kek.
+SWE1_BU	070F4268	Nanti kita ngobrol lagi ya.
+
+SWE1A12	C67312DC	Iya, iya, awas lu ya. Bego... Liat nih, liat nih...
+SWE1_AF	A89C5075	Ini bukan Liberty, bro, liat jalanan!
+SWE1_AG	DF9B60E3	Injek gasnya pelan-pelan, kawan.
+SWE1_AH	4F247D72	Itu setir dipake napa, bukan buat pajangan doang, bego!
+SWE1_AJ	A12A1C5E	Anak-anak Ballas bakal liat kita dari jarak sekilo kalau begini!
+SWE1_AK	D62D2CC8	Bung, cara nyetir lu kayak orang sakau!
+SWE1_AL	4849B96B	Hei, semuanya, liat nih si jago nyetir lewat!
+SWE1_AM	3F4E89FD	Mobil gue woy! Lu nyetir payah amat kayak cewek manja!
+SWE1_AN	A647D847	Woy, ini mobil baru kelar dicat bangsat!
+SWE1_AO	D140E8D1	Lu baru balik lima menit aja udah ngerusakin mobil gue!
+SWE1_AP	5C48E524	Gue mau nembak grafiti di blok ini, ikutin gue pake mobil.
+SWE1_AQ	2B4FD5B2	Biar yang ini gue yang beresin, ikutin gue pake mobil.
+SWE1_AT	5B25213D	Ayo kita intip wilayah anak Ballas.
+SWE1_AU	2C2211AB	CJ, cek wilayah Ballas bareng gue.
+SWE1_AW	C22C7087	Coret yang di sini, ntar gue coret di blok sebelahnya.
+SWE1_AX	52936D16	Pas lu lagi ngerjain ini, gue bakal beresin blok yang lain.
+SWE1_BB	84DCC7AF	Woy, itu coretan grafiti kita!
+SWE1_BC	F3DBF739	Lu ada gangguan jiwa ya, bego?
+SWE1_BD	6DBF629A	Tembak kepalanya tuh bangsat!
+SWE1_BE	1AB8520C	Hajar tuh orang bego!
+SWE1_BF	83B103B6	Kejar dia sampai dapet!
+SWE1_BJ	8A074F9D	CARL, CEPETAN MASUK MOBIL!
+SWE1_BR	996BD7CB	Duit bawaan gue udah disikat abis sama anak-anak C.R.A.S.H.
+SWE1_BS	EE6CE75D	Cepet amat? Sialan, polisi-polisi itu emang licik banget!

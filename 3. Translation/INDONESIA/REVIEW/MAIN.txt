@@ -2591,7 +2591,7 @@ FEC_QUE	3AE49EF9	???
 FEC_RAD	610BC763	Radio
 FEC_RAL	6FD04F51	RALT
 FEC_RCT	4E8AB585	RCTRL
-FEC_RED	05670267	Atur Ulang Kontrol
+FEC_RED	05670267	Kontrol
 FEC_REV	F6DE732F	Mundur
 FEC_RFA	5E20A52B	KANAN
 FEC_RIG	30DB1CD1	Kanan
@@ -2792,7 +2792,7 @@ FEO_DIS	F75AFA6F	Pengaturan Tampilan
 FEO_LAN	52964D06	Pengaturan Bahasa
 FEO_PLA	62BB74CE	Pengaturan Pemain
 FEP_BRI	4533B46E	Ringkasan
-FEP_OPT	1CDB2966	Opsi
+FEP_OPT	1CDB2966	Pengaturan
 FEP_QUI	14123F80	Keluar Game
 FEP_RES	A1F46AF2	Lanjutkan
 FEP_STA	0056529D	Statistik
@@ -2821,7 +2821,7 @@ FES_LOE	FED7C383	Pemuatan Gagal! Terjadi galat saat memuat game. Harap periksa d
 FES_MIS	5D9BBB63	MISI
 FES_MON	68C7703C	UANG
 FES_MSC	F00151DC	LAIN-LAIN
-FES_NGA	32E759FC	Game Baru
+FES_NGA	32E759FC	Mulai Baru
 FES_NIM	A5D23859	Penyimpanan gagal! Paket Misi saat ini tidak tersedia. Harap periksa kembali apakah Paket Misi saat ini terpasang dengan benar.
 FES_ONL	9C56F43F	ONLINE!
 FES_PLA	C7AB0E4D	PEMAIN
@@ -5511,7 +5511,7 @@ SWEET_6	C4D0C6BC	Cesar Vialpando
 SWEET_7	B3D7F62A	Los Sepulcros
 SWEET1B	68C635B0	Cleaning the Hood
 SWEETS	B83A48E4	Rumah Sweet
-SWEX_AH	090AC5FB	Bawa kita kembali ke lingkungan rumah, CJ!
+SWEX_AH	090AC5FB	Bawa kita balik ke tongkrongan, CJ!
 SWEX_BP	314B0E6E	Jangan jadi pecundang, CJ!
 SWEX_BS	A8425FD4	CJ, sekali ini saja, jangan jadi pengecut!
 SWM4_R	BC4E8B31	~h~Keahlian M4~w~ - Meningkat. Terus berlatih dan kamu akan mencapai tingkat Hitman.
@@ -5707,7 +5707,7 @@ VO_001	77D4B683	Di sinilah aku berada. Tempat terburuk di dunia; Wilayah Balla.
 VO_002	EEDDE739	Aku tidak mewakili Grove Street selama lima tahun,
 VO_003	99DAD7AF	tapi anak-anak Balla tidak akan peduli.
 VO_004	07BE420C	Grove Street - Rumah. Setidaknya sebelum aku mengacaukan segalanya.
-VO_AA	C2A01C2D	Ah sial, kita mulai lagi.
+VO_AA	C2A01C2D	Ah sialan, mulai lagi dah.
 VO_AB	5BA94D97	Tempat terburuk di dunia.
 VO_AC	2CAE7D01	Wilayah Rollin Heights Balla.
 VO_AD	B2CAE8A2	Aku tidak mewakili Grove Street selama lima tahun,

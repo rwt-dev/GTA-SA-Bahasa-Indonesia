@@ -1,5 +1,8 @@
 # Riwayat Pembaruan
 
+* `[27/08/2026]` **Misi Sweet 1 & 2 Selesai Diuji (Status: Fix)**
+  * **SWEET1.txt (Tagging up Turf)** — Selesai diterjemahkan dan sudah dites langsung *in-game* via CLEO.
+  * **SWEET1B.txt (Cleaning the Hood)** — Selesai diterjemahkan dan sudah dites langsung *in-game* via CLEO.
 * `[26/08/2026]` **Misi Awal Selesai Diuji (Status: Fix)**
   * **INTRO1.txt** — Selesai diterjemahkan dan sudah dites langsung *in-game* via CLEO.
   * **INTRO2.txt** — Selesai diterjemahkan dan sudah dites langsung *in-game* via CLEO.

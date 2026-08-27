@@ -1,0 +1,129 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+SW1B_A	4965C129	~s~Pergilah ke ~y~apartemen B Dup~s~.
+SW1B_1	1960B015	~s~Pergilah ke ~y~tempat pengedar narkoba~s~.
+SW1B_B	D06C9093	~s~Hajar ~r~pengedar narkoba itu~s~.
+SW1B_F	D701548A	~s~Kembalilah ke ~y~rumah Sweet~s~.
+SW1B_H	30B9798D	~s~Jarakmu terlalu jauh dari ~b~Ryder~s~, putar balik dan jemput dia.
+SW1B_G	A006641C	~r~Ryder tewas!
+SWE1B00	3320FCE8	Woy, lu harus tetep setia sama tongkrongan, bro.
+SWE1B01	4427CC7E	Sialan, gak ada yang peduli lagi sama tongkrongan kita.
+SWE1B24	067B5A73	Gue setuju!
+SWE1B02	DD2E9DC4	Kerjaan mereka cuma jualan narkoba dan ngerusak tempat ini doang.
+SWE1B03	AA29AD52	Gak ada ceritanya narkoba bikin geng jadi solid.
+SWE1B25	717C6AE5	Gak tahu deh, bro.
+SWE1B04	344D38F1	Ada apa nih pada kumpul?
+SWE1B05	434A0867	Ada apa, CJ?~n~Gimana kabarnya?
+SWE1B06	DA4359DD	Bung, yang mereka pikirin cuma nyabu sama duit doang.
+SWE1B07	AD44694B	Lu gak bisa nyalahin usaha anak tongkrongan nyari duit, Sweet.
+SWE1B08	3DFB74DA	Orang-orang goblok itu bukan pasukan kita. Mereka cuma orang bego yang sok-sokan jadi pebisnis.
+SWE1B09	4AFC444C	Iya, tapi mereka tetep setia sama kita, bro.
+SWE1B10	2A3BCDA9	Yang mereka setiai itu cuma duit doang!
+SWE1B11	5D3CFD3F	CJ, samperin ke sana dan tunjukin ke orang-orang bego itu kalau kita serius.
+SWE1B12	C435AC85	Anak-anak pecundang dari geng Ballas itu lagi neken anak tongkrongan kita.
+SWE1B13	B3329C13	Kasih pelajaran mereka. Sikat langsung.
+SWE1B14	2D5609B0	Kita udah ngorbanin waktu buat tongkrongan kita,
+SWE1B15	5A513926	tapi kita harus kumpulin lagi anak-anak tongkrongan,
+SWE1B16	C358689C	kayak zaman dulu lagi.
+SWE1B17	B45F580A	Nah, bener tuh omongan lu! Jadi lu sama Ryder langsung beresin urusan lu di sana!
+SWE1B18	24E0459B	Bung, ke emak kandungnya sendiri aja mereka tega jualan. Mereka gak peduli sama sekali.
+SWE1B19	53E7750D	Lu polos banget, kawan. Kita harus tetep fokus.
+SWE1B20	01169E6A	Kita butuh bantuan tenaga. Lu ada liat B Dup gak?
+SWE1B21	7611AEFC	Gak liat, tapi kalau dia sama kawan kita si Bear mau gabung,
+SWE1B22	EF18FF46	bakal mantap banget tuh punya mereka di pihak kita.
+SWE1B23	981FCFD0	Oh! Big Bear? Wah, para pengedar narkoba itu beneran bakal nyesel dah sekarang.
+SWE1_ZF	01AA9BEF	Woy, tempat B Dup cuma lewat beberapa blok doang dari sini.
+SWE1_YA	B4E35D8F	Tongkrongan kita bener-bener udah ancur lebur ya?
+SWE1_YB	2DEA0C35	Iya, coba aja lu minta tolong sama tuh pecandu-pecandu narkoba, mana mau mereka.
+SWE1_YC	5AED3CA3	Gak heran Families udah gak ada taringnya lagi.
+SWE1_YD	C489A900	Kecuali Smoke, Sweet, sama ya lu tahu sendiri lah, gue yang paling keren,
+SWE1_YE	B38E9996	anak-anak Grove Street udah gak ada yang mau tawuran lagi.
+SWE1_YF	2A87C82C	Iya, pada sibuk nyabu doang.
+SWE1_YG	5D80F8BA	Bener banget tuh.
+SWE1C20	00D4F45D	Woy, pelan-pelan napa, bego. Lu aja gak tahu pintunya yang mana.
+SWE1C21	77D3C4CB	Terserah lu deh. Ini pintunya bukan?
+SWE1C22	EEDA9571	Iya, bener yang ini tempatnya.
+SWE1C00	32E296DF	Buka pintunya! Lu yakin dia masih tinggal di sini?
+SWE1C23	99DDA5E7	Tuh kan bego, udah dibilang bener yang ini.
+SWE1C24	07B93044	Buka pintunya woy!
+SWE1C25	70BE00D2	Siapa bangsat yang gedor-gedor?
+SWE1C01	45E5A649	CJ? Mau ngapain lu bangsat? Cabut lu dari sini, anjing.
+SWE1C02	DCECF7F3	Tunggu dulu napa, bro. Mana janji setia sehidup semati lu ke geng kita dulu?
+SWE1C03	ABEBC765	Hal terpenting itu cuma tongkrongan kita, kawan,
+SWE1C26	E9B75168	tapi lu gak bakal pernah paham gimana rasanya megang duit sebanyak ini.
+SWE1C04	358F52C6	Lu tahu gak, mending lu cabut dari sini sebelum gue bikin lu terkapar mampus.
+SWE1C27	9EB061FE	Big Bear, coba lu urus nih orang bego.
+SWE1C05	42886250	Hei, Bear? Big Bear, ini beneran elu? Woy, lu masih jadi bagian tongkrongan kita gak sih, kawan?
+SWE1C06	DB8133EA	Gak lah, yang dipeduliin si Bear sekarang cuma nyabu sama bersihin rumah gue doang.
+SWE1C07	AC86037C	Bener gak yang gue omongin, Big Bear?
+SWE1C08	3C391EED	Bener banget, bos.
+SWE1C09	4B3E2E7B	Bener banget apa, bangsat?
+SWE1C10	2BF9A79E	Bener banget, tuan!
+SWE1C11	5CFE9708	Sekarang lu pergi bersihin tuh kloset toilet sampai kinclong, bangsat!
+SWE1C12	C5F7C6B2	Ya ampun... Bear! Lu kok jadi gini sih!
+SWE1C13	B2F0F624	Wajar lah orang sesekali pengen seneng-seneng, CJ. Dah ya, gue cabut dulu.
+SWE1C14	2C946387	Jangan pernah lu berani-berani nginjekin kaki di sini lagi, berengsek!
+SWE1C15	5B935311	Woy bangsat, ngentot lu!
+SWE1C29	79084CF9	Sialan, bener-bener udah ancur parah nih urusan.
+SWE1C16	C29A02AB	Gue paham sekarang apa maksud omongan lu tadi, bro. Kalau narkoba aja bisa bikin Big Bear jadi budak pecandu kayak gitu,
+SWE1C17	B59D323D	orang biasa mana punya harapan buat bertahan.
+SWE1C18	25222FAC	Dasar pecandu laknat sama pemakai narkoba sialan ada di mana-mana di kota ini. Bikin naik darah aja.
+SWE1C19	52251F3A	Kelihatannya emang udah jadi tugas kita buat beresin ini semua.
+SWE1_YH	CD3FE52B	Ayo kita muter-muter tongkrongan terus cari pengedar yang lagi jualan.
+SWE1_YK	5436B491	Woy, liat tuh! Ada yang lagi jualan ke salah satu anak tongkrongan kita!
+SWE1_SA	4E0CB505	Hei kawan, gue lagi kerja nih, lu butuh apa? Mau cari barang apa lu, bro?
+SWE1_YM	BD5511A4	Bung, gue kenal nih orang!
+SWE1_YN	245C401E	Dia nih pecundang yang dulu suka nongkrong bareng dedengkot Front Yard Ballas dari Idlewood.
+SWE1_YO	535B7088	Gue tahu markasnya, tempatnya persis di seberang rel kereta sono tuh.
+SWE1_YP	DE537D7D	Ayo kita samperin ke sana!
+SWE1_YQ	A9544DEB	Bentar, itu bukannya wilayah kekuasaan Front Yard?
+SWE1_YR	305D1C51	Bung, lu penakut amat kayak pecundang?
+SWE1_YS	475A2CC7	Kagak lah, gue siap tempur, kawan!
+SWE1_ZC	71C06F60	Woy! Ambil tuh tongkat bisbol di sebelah sono!
+SWE1_YT	D93EB964	Bung, urusan kita sekarang ini misi serius.
+SWE1_YU	AE3989F2	Udah santai aja, kawan, semua anak di tongkrongan juga tahu kalau anak Ballas itu cemen semua.
+SWE1_YV	3730D848	Waduh! Bung, bau busuk sarang narkoba kecium dari jarak sekilo gini!
+SWE1_YW	4037E8DE	Cakep, ayo kita masuk dan kenalan sama mereka.
+SWE1_YX	D088F54F	Selamat siang, para pengedar narkoba Ballas keparat!
+SWE1_YY	A78FC5D9	Dedengkot Grove Street dateng buat ngebantai lu semua!
+BALLA_2	BD6E3839	Bantai semua anak Grove Street tolol itu!
+BALLA_1	24676983	Grove Street bakal rata sama tanah!
+RYDX_BC	14E80CC4	Bantai tuh bangsat-bangsat semua!
+SWE1_TA	014D23C2	Sekarang anak-anak Ballas tahu kalau Grove Street Families udah bangkit lagi.
+SWE1_TB	98447278	Jelas lah, kawan, dan hebatnya lagi lu gak kabur ninggalin gue kali ini!
+SWE1_TC	EF4342EE	Zaman udah berubah...
+SWE1_TD	7127D74D	Aduh bro, mereka pasti bakal murka banget sama kita.
+SWE1_TE	0620E7DB	Biarin dah, ntar gue kasih peringatan ke anak-anak tongkrongan.
+SWE1_TF	9F29B661	Buat sekarang, mari kita nikmatin keheningan aroma kemenangan ini, bajingan.
+SWE1_UA	18561283	Sekarang berhubung narkoba udah gak dijejalin lagi ke muka mereka...
+SWE1_UB	815F4339	Bisa jadi orang-orang bego itu udah siap diajak tawuran yang beneran!
+SWE1_UC	F65873AF	Iya, tongkrongan Grove sekarang beneran bakal bangkit lagi dah.
+SWE1_UD	683CE60C	Gue duluan ya, bro.
+
+SWE1B26	E8753B5F	Gimana kabarnya?
+SWE1B27	9F720BC9	Mmm hmmm, bener.
+SWE1_YJ	23318407	Nah cakep, kenalin dia sama tongkat bisbol ini!
+SWE1_ZD	EFA4FAC3	Woy, ayo kita meluncur ke tempat tongkrongan B Dup.
+SWE1_ZE	98A3CA55	Ayo kita ajak B Dup.
+SWE1C28	0E0F7C6F	Aduh, parah banget bro!
+SWE1_YL	CA522132	CJ! Liat! Di sebelah sono! Itu dia target yang kita cari!
+SWE1_SB	D705E4BF	Bro, gue punya barang kualitas paling mantap nih di sini.
+SWE1_VA	337B4140	Gue gak ada sangkut pautnya sama ginian, pak polisi!
+SWE1_VB	AA7210FA	Tuh orangnya yang di sebelah sana, pak polisi!
+SWE1_VC	DD75206C	Sialan, mending gue kabur dari sini!
+SWE1_ZA	9FCE0E4C	Woy, ambil tongkat pemukul itu!
+SWE1_ZB	06C75FF6	Woy bego, ambil tuh tongkat kayu rongsokan!
+SWE1_WA	2A607001	CJ! Bangun lu, CJ!
+SWE1_WB	B36921BB	CJ! Jangan pura-pura mati lu! Bangun, bego!
+SWE1_WC	C46E112D	Ini bukan waktunya buat tidur siang, CJ!
+SWE1_XA	ADF86CCE	YA AMPUN SIALAN, RYDER!
+SWE1_XB	34F13D74	Aduh bangsat, Ryder, bangun woy!
+RYDX_AL	AF7A4296	Woy pecundang, tungguin gue!
+RYDX_AM	D87D7200	Jangan tinggalin gue woy!
+RYDX_AN	417423BA	Tungguin gue, CJ!
+RYDX_AO	3673132C	Tunggu bentar, bego!
+RYDX_AP	BB7B1ED9	Hei, CJ, di mana lu?

@@ -1,3 +1,12 @@
+#MENU
+FEP_QUI Keluar Game
+FEP_OPT Pengaturan
+FEC_RED	Kontrol
+FEP_RES	Lanjutkan
+FEP_STG	Mulai Game
+FES_NGA	Mulai Baru
+FES_DEL	Hapus Game
+
 #INTRO1
 DBFD18C7 Kamu bisa melakukan bunny hop dengan menahan tombol ~m~~widget_explicit_bunny_hop~.
 E223861D Tekan dan tahan sudut kiri bawah layar untuk memiringkan badan.
@@ -69,6 +78,13 @@ PRO@44 Gue kira lu bilang lu bersih, Carl? Lu bilang lu udah gak ikut-ikutan gen
 PRO@45 Ini mobil 58... APA?!
 PRO@47 Selamat luntang-lantung, Carl...
 PRO@46 Opsir Pendelbury tewas? Kita segera merapat ke sana.
+VO_AA Ah sialan, mulai lagi dah.
+VO_AB Tempat terburuk di dunia.
+VO_AC Wilayah Rollin Heights Balla.
+VO_AD Aku tidak mewakili Grove Street selama lima tahun,
+VO_AE tapi anak-anak Ballas tidak akan peduli.
+VO_AF Grove Street - Rumah.
+VO_AG Setidaknya sebelum aku mengacaukan segalanya.
 INT1A01 Berhenti! Kalian ngapain sih? Carl, Brian, berhenti!
 INT1A17 Berhenti! Kalian ngapain sih? Carl, Brian, berhenti!
 INT1A02 Hentikan! Ibu bakal denger!
@@ -214,7 +230,7 @@ INT1_GK Bung, lu mesti buang jauh-jauh rasa parnoan ala Liberty City itu, kawan!
 #INTRO2
 HOOD2_A ~s~Pergi bersama Ryder ke ~y~tukang cukur~s~.
 HOOD2_B ~s~Masuk ke ~y~restoran pizza~s~ dan beli makanan.
-INT2_13 s~Masuk ke penanda untuk membeli pizza.
+INT2_13 ~s~Masuk ke penanda untuk membeli pizza.
 INT2_8 Jalan ke penanda kuning untuk masuk ke tempat cukur rambut.
 INT2_9 ~s~Jalan ke penanda untuk potong rambut.
 INT2_O ~s~Antar Ryder ~y~pulang~s~.
@@ -224,6 +240,17 @@ INT2_12 ~r~Ryder tewas!
 INT2_14 ~r~Kamu membuat pemilik toko panik!
 INT2_5 ~s~Kamu meninggalkan ~b~Ryder~s~!
 INT2_6 ~s~Masuk ke ~b~mobil Ryder~s~!
+INT2_1 ~s~Temui Ryder, dia tinggal di ujung jalan.
+MSWE10A	Halo?
+MSWE10D	Kupikir aku harus menjelaskan beberapa hal.
+MSWE10C	Sweet, hei, ada apa?
+MSWE10E	Sejak kamu pergi, banyak hal telah berubah di sini.
+MSWE10F	Grove Street Families tidak lagi sebesar dulu.
+MSWE10G	Seville Boulevard Families dan Temple Drive Families saling bermusuhan, lalu memisahkan diri dari Grove.
+MSWE10H	Sekarang kita terlalu sibuk bertengkar sendiri, Ballas dan Vagos sudah mengambil alih, jadi berhati-hatilah di luar sana.
+MSWE10K	Ya, aku paham.
+MSWE10L	Terima kasih atas infonya.
+MSWE10N	Bukan masalah.
 INT2A02 Hei kawan, mau apa kamu?
 INT2A03 Mau ketemu kawan gue. Ada apa denganmu?
 INT2A04 Iya kawan, iya iya. Senang bisa melihatmu kembali.
@@ -234,7 +261,7 @@ INT2A07 Sialan, ada restoran pizza yang sengaja menimpa grafiti kita, bangsat!
 INT2A08 Grafiti itu bagus sekali. Beri pelajaran pemiliknya.
 INT2A09 Dia sudah berani mengusik Grove Street. Kamu ikut atau tidak?
 INT2A10 Gue selalu siap.
-INT2A11 Ahhhh, mantap... Ayo berangkat, keparat.
+INT2A11 Ahhhh, mantap... Ayo cabut, bangsat.
 INT2_AA Hei, coba tunjukkan bagaimana gaya menyetir orang Pantai Timur, bro!
 INT2_CA Hei, Old Reece masih buka tempat cukurnya?
 INT2_CB Masih, kayak kakek-kakek bangsat sialan!
@@ -270,7 +297,7 @@ INT2_JA Nunggu apa lagi lu, bego!
 INT2_JB Bawa kita balik ke Grove, bajingan!
 INT2_NB Sebaiknya mampir ketemu Sweet.
 INT2_NC Dia dari tadi ngoceh terus soal grafiti itu juga.
-INT2_ND Duluan ya, kawan.
+INT2_ND Duluan ya, bro.
 
 INT2_KA CJ! Sialan... Kamu malah lengah.
 INT2_KB Masa begitu saja kena tembak, bego!
@@ -288,3 +315,223 @@ INT2_EB Mantap.
 INT2_IA CJ, kita butuh kendaraan!
 INT2_IB Kita butuh tumpangan cepat! Ambil mobil sekarang!
 INT2_NA Sip, urusan kita beres! Ini bagian lu.
+
+#SWEET1
+JUMPH1	Berdirilah di depan pagar lalu ketuk dua kali ~m~~widget_sprint~ untuk memanjat pagar.
+JUMPH2	Ketuk dua kali ~m~~widget_sprint~ untuk memanjat ke atas tembok.
+SWE1_D	Arahkan pandangan ke grafiti dan tahan ~m~~widget_attack~ untuk menyemprotnya.
+SWE1_F	Tahan terus tombol ~m~~widget_attack~ sampai grafiti tertutup cat sepenuhnya.
+SWE1_G	Menimpa grafiti musuh akan meningkatkan respek dari gengmu. Ada banyak grafiti tersebar di sekitar Los Santos untuk ditemukan.
+SWE1_H	Ini adalah anggota geng Ballas yang memakai baju ungu. Mereka adalah musuh bebuyutanmu.
+SWE1_I	Tekan dan tahan ~m~~widget_attack~ untuk menyemprot wajah anggota geng tersebut.
+SWE1_Z1	Wilayah geng musuh sangat berbahaya. Berada di sana terlalu lama akan menarik perhatian mereka.
+HOOD3_A	~s~Berkendaralah bersama Sweet ke ~y~Idlewood~s~.
+HOOD3_B	~s~Berkendaralah ke ~y~East Los Santos~s~.
+SWE1_A	~s~Masuk ke ~b~mobil Sweet~s~.
+SWE1_S	~s~Masuk kembali ke ~b~mobil Sweet!
+SWE1_M	~s~Cari dan semprot ~g~grafiti musuh~s~.
+SWE1_X	~s~Semprot sisa ~g~grafiti musuh~s~ di area ini.
+SWE1_Z	~s~Pergi ke ~y~titik penanda~s~ untuk menemukan grafiti berikutnya.
+SWE1_B	~s~Kembalilah ke ~y~rumah Sweet~s~.
+SWE1SPF	~r~Kamu membutuhkan cat semprot!
+SWE1_P	~r~Sweet tewas!
+SWE1_Q	~r~Kamu menghancurkan mobil Sweet!
+SWE1A11	Ayo sini, gembrot. Maju lu, gembrot. Si gembrot, liat tuh gaya lu...~n~Iya, iya, awas lu ya. Bego... Liat nih, liat nih...
+SWE1A13	Ah ha ha ha! Kena lu!
+SWE1A00	Liat siapa yang dateng nih, si jago kabur. Kenapa, lu ngerasa udah balik jadi anak geng lagi?
+SWE1A01	Kan udah gue bilang, bang.
+SWE1A02	Omongan lu gak ada harganya di sini.
+SWE1A03	Ayolah bang, kasih gue kesempatan.
+SWE1A04	Kita harus bikin tanda di tongkrongan kita.
+SWE1A14	Hei, CJ.
+SWE1A05	Biar mereka semua tahu kalau lu udah balik ke tongkrongan.
+SWE1A06	Johnson bersaudara udah kembali beraksi.
+SWE1A07	Bawa pilok ini terus coret-coret tuh wilayah.
+SWE1A08	Mulai dulu dari wilayah tongkrongan kita sendiri.
+SWE1A09	Ntar kalau udah, baru kita sebar dan rebut balik seluruh wilayah ini.
+SWE1A10	Badan lu noh yang makin melar, gembrot. Udah ah ayo kita main.
+SWE1A15	Coba kita lihat apa yang bisa lu lakuin, si gembrot!
+SWE1_AA	Hei, tungguin gue.
+SWE1_AB	Lu kira lu bakal jalan bareng abang lu, hah?
+SWE1_AC	Santai dikit napa bang, ayolah, kondisi emang lagi susah.
+SWE1_AD	Lu mau nyetir?
+SWE1_AE	Boleh, jelas lah.
+SWE1_AR	Awasi anak-anak Ballas pas gue lagi nyemprot grafiti ini.
+SWE1_CA	Masih ada dua grafiti Ballas lagi di sekitar sini.
+SWE1_CB	Lu pergi beresin tuh grafiti, gue tunggu di sini sambil panasin mesin.
+SWE1_AS	Ayo, kita meluncur masuk ke wilayah Ballas.
+SWE1_AV	Lu semprot yang di sini, ntar gue jalan buat beresin wilayah lain.
+SWE1_BA	Apa-apaan nih bangsat?
+SWE1_BH	CARL, CEPETAN, MASUK!
+SWEX_AH	Bawa kita balik ke tongkrongan, CJ!
+SWE1_BN	Udah kayak naik sepeda aja, gampang kan?
+SWE1_BO	Iya, semuanya udah mulai kerasa biasa lagi.
+SWE1_BP	Gimana kondisi duit lu?
+SWE1_BQ	Lagi seret banget nih, lu tahu sendiri lah.
+SWE1_BX	Orang-orang C.R.A.S.H. nyikat semua duit gue, cuma disisain recehan doang bangsat...
+SWE1_BT	Nih, buat lu beli bir atau apa kek.
+SWE1_BU	Nanti kita ngobrol lagi ya.
+
+SWE1A12	Iya, iya, awas lu ya. Bego... Liat nih, liat nih...
+SWE1_AF	Ini bukan Liberty, bro, liat jalanan!
+SWE1_AG	Injek gasnya pelan-pelan, kawan.
+SWE1_AH	Itu setir dipake napa, bukan buat pajangan doang, bego!
+SWE1_AJ	Anak-anak Ballas bakal liat kita dari jarak sekilo kalau begini!
+SWE1_AK	Bung, cara nyetir lu kayak orang sakau!
+SWE1_AL	Hei, semuanya, liat nih si jago nyetir lewat!
+SWE1_AM	Mobil gue woy! Lu nyetir payah amat kayak cewek manja!
+SWE1_AN	Woy, ini mobil baru kelar dicat bangsat!
+SWE1_AO	Lu baru balik lima menit aja udah ngerusakin mobil gue!
+SWE1_AP	Gue mau nembak grafiti di blok ini, ikutin gue pake mobil.
+SWE1_AQ	Biar yang ini gue yang beresin, ikutin gue pake mobil.
+SWE1_AT	Ayo kita intip wilayah anak Ballas.
+SWE1_AU	CJ, cek wilayah Ballas bareng gue.
+SWE1_AW	Coret yang di sini, ntar gue coret di blok sebelahnya.
+SWE1_AX	Pas lu lagi ngerjain ini, gue bakal beresin blok yang lain.
+SWE1_BB	Woy, itu coretan grafiti kita!
+SWE1_BC	Lu ada gangguan jiwa ya, bego?
+SWE1_BD	Tembak kepalanya tuh bangsat!
+SWE1_BE	Hajar tuh orang bego!
+SWE1_BF	Kejar dia sampai dapet!
+SWE1_BJ	CARL, CEPETAN MASUK MOBIL!
+SWE1_BR	Duit bawaan gue udah disikat abis sama anak-anak C.R.A.S.H.
+SWE1_BS	Cepet amat? Sialan, polisi-polisi itu emang licik banget!
+
+MHRZ01A	Carl, ini Opsir Hernandez
+MHRZ01B	Siapa?
+MHRZ01C	Opsir Hernandez.
+MHRZ01D	Aku bekerja dengan Tenpenny dan Pulaski.
+MHRZ01E	Oh, si pesuruh, apa maumu?
+MHRZ01F	Hei, tunjukkan rasa hormatmu, bocah.
+MHRZ01G	Persetan denganmu, kamu cuma pesuruh mereka!
+MHRZ01H	Jaga bicaramu, bocah.
+MHRZ01J	Sekarang dengar. Aku punya pesan dari Opsir Tenpenny.
+MHRZ01K	Jangan coba-coba meninggalkan kota, itu akan jadi kesalahan besar.
+MHRZ01L	Kamu dengar aku?
+MHRZ01M	Kami mengawasimu.
+MHRZ01N	Terserah apa katamu, pesuruh.
+
+#SWEET1B
+SW1B_A	~s~Pergilah ke ~y~apartemen B Dup~s~.
+SW1B_1	~s~Pergilah ke ~y~tempat pengedar narkoba~s~.
+SW1B_B	~s~Hajar ~r~pengedar narkoba itu~s~.
+SW1B_F	~s~Kembalilah ke ~y~rumah Sweet~s~.
+SW1B_H	~s~Jarakmu terlalu jauh dari ~b~Ryder~s~, putar balik dan jemput dia.
+SW1B_G	~r~Ryder tewas!
+SWE1B00	Woy, lu harus tetep setia sama tongkrongan, bro.
+SWE1B01	Sialan, gak ada yang peduli lagi sama tongkrongan kita.
+SWE1B24	Gue setuju!
+SWE1B02	Kerjaan mereka cuma jualan narkoba dan ngerusak tempat ini doang.
+SWE1B03	Gak ada ceritanya narkoba bikin geng jadi solid.
+SWE1B25	Gak tahu deh, bro.
+SWE1B04	Ada apa nih pada kumpul?
+SWE1B05	Ada apa, CJ?~n~Gimana kabarnya?
+SWE1B06	Bung, yang mereka pikirin cuma nyabu sama duit doang.
+SWE1B07	Lu gak bisa nyalahin usaha anak tongkrongan nyari duit, Sweet.
+SWE1B08	Orang-orang goblok itu bukan pasukan kita. Mereka cuma orang bego yang sok-sokan jadi pebisnis.
+SWE1B09	Iya, tapi mereka tetep setia sama kita, bro.
+SWE1B10	Yang mereka setiai itu cuma duit doang!
+SWE1B11	CJ, samperin ke sana dan tunjukin ke orang-orang bego itu kalau kita serius.
+SWE1B12	Anak-anak pecundang dari geng Ballas itu lagi neken anak tongkrongan kita.
+SWE1B13	Kasih pelajaran mereka. Sikat langsung.
+SWE1B14	Kita udah ngorbanin waktu buat tongkrongan kita,
+SWE1B15	tapi kita harus kumpulin lagi anak-anak tongkrongan,
+SWE1B16	kayak zaman dulu lagi.
+SWE1B17	Nah, bener tuh omongan lu! Jadi lu sama Ryder langsung beresin urusan lu di sana!
+SWE1B18	Bung, ke emak kandungnya sendiri aja mereka tega jualan. Mereka gak peduli sama sekali.
+SWE1B19	Lu polos banget, kawan. Kita harus tetep fokus.
+SWE1B20	Kita butuh bantuan tenaga. Lu ada liat B Dup gak?
+SWE1B21	Gak liat, tapi kalau dia sama kawan kita si Bear mau gabung,
+SWE1B22	bakal mantap banget tuh punya mereka di pihak kita.
+SWE1B23	Oh! Big Bear? Wah, para pengedar narkoba itu beneran bakal nyesel dah sekarang.
+SWE1_ZF	Woy, tempat B Dup cuma lewat beberapa blok doang dari sini.
+SWE1_YA	Tongkrongan kita bener-bener udah ancur lebur ya?
+SWE1_YB	Iya, coba aja lu minta tolong sama tuh pecandu-pecandu narkoba, mana mau mereka.
+SWE1_YC	Gak heran Families udah gak ada taringnya lagi.
+SWE1_YD	Kecuali Smoke, Sweet, sama ya lu tahu sendiri lah, gue yang paling keren,
+SWE1_YE	anak-anak Grove Street udah gak ada yang mau tawuran lagi.
+SWE1_YF	Iya, pada sibuk nyabu doang.
+SWE1_YG	Bener banget tuh.
+SWE1C20	Woy, pelan-pelan napa, bego. Lu aja gak tahu pintunya yang mana.
+SWE1C21	Terserah lu deh. Ini pintunya bukan?
+SWE1C22	Iya, bener yang ini tempatnya.
+SWE1C00	Buka pintunya! Lu yakin dia masih tinggal di sini?
+SWE1C23	Tuh kan bego, udah dibilang bener yang ini.
+SWE1C24	Buka pintunya woy!
+SWE1C25	Siapa bangsat yang gedor-gedor?
+SWE1C01	CJ? Mau ngapain lu bangsat? Cabut lu dari sini, anjing.
+SWE1C02	Tunggu dulu napa, bro. Mana janji setia sehidup semati lu ke geng kita dulu?
+SWE1C03	Hal terpenting itu cuma tongkrongan kita, kawan,
+SWE1C26	tapi lu gak bakal pernah paham gimana rasanya megang duit sebanyak ini.
+SWE1C04	Lu tahu gak, mending lu cabut dari sini sebelum gue bikin lu terkapar mampus.
+SWE1C27	Big Bear, coba lu urus nih orang bego.
+SWE1C05	Hei, Bear? Big Bear, ini beneran elu? Woy, lu masih jadi bagian tongkrongan kita gak sih, kawan?
+SWE1C06	Gak lah, yang dipeduliin si Bear sekarang cuma nyabu sama bersihin rumah gue doang.
+SWE1C07	Bener gak yang gue omongin, Big Bear?
+SWE1C08	Bener banget, bos.
+SWE1C09	Bener banget apa, bangsat?
+SWE1C10	Bener banget, tuan!
+SWE1C11	Sekarang lu pergi bersihin tuh kloset toilet sampai kinclong, bangsat!
+SWE1C12	Ya ampun... Bear! Lu kok jadi gini sih!
+SWE1C13	Wajar lah orang sesekali pengen seneng-seneng, CJ. Dah ya, gue cabut dulu.
+SWE1C14	Jangan pernah lu berani-berani nginjekin kaki di sini lagi, berengsek!
+SWE1C15	Woy bangsat, ngentot lu!
+SWE1C29	Sialan, bener-bener udah ancur parah nih urusan.
+SWE1C16	Gue paham sekarang apa maksud omongan lu tadi, bro. Kalau narkoba aja bisa bikin Big Bear jadi budak pecandu kayak gitu,
+SWE1C17	orang biasa mana punya harapan buat bertahan.
+SWE1C18	Dasar pecandu laknat sama pemakai narkoba sialan ada di mana-mana di kota ini. Bikin naik darah aja.
+SWE1C19	Kelihatannya emang udah jadi tugas kita buat beresin ini semua.
+SWE1_YH	Ayo kita muter-muter tongkrongan terus cari pengedar yang lagi jualan.
+SWE1_YK	Woy, liat tuh! Ada yang lagi jualan ke salah satu anak tongkrongan kita!
+SWE1_SA	Hei kawan, gue lagi kerja nih, lu butuh apa? Mau cari barang apa lu, bro?
+SWE1_YM	Bung, gue kenal nih orang!
+SWE1_YN	Dia nih pecundang yang dulu suka nongkrong bareng dedengkot Front Yard Ballas dari Idlewood.
+SWE1_YO	Gue tahu markasnya, tempatnya persis di seberang rel kereta sono tuh.
+SWE1_YP	Ayo kita samperin ke sana!
+SWE1_YQ	Bentar, itu bukannya wilayah kekuasaan Front Yard?
+SWE1_YR	Bung, lu penakut amat kayak pecundang?
+SWE1_YS	Kagak lah, gue siap tempur, kawan!
+SWE1_ZC	Woy! Ambil tuh tongkat bisbol di sebelah sono!
+SWE1_YT	Bung, urusan kita sekarang ini misi serius.
+SWE1_YU	Udah santai aja, kawan, semua anak di tongkrongan juga tahu kalau anak Ballas itu cemen semua.
+SWE1_YV	Waduh! Bung, bau busuk sarang narkoba kecium dari jarak sekilo gini!
+SWE1_YW	Cakep, ayo kita masuk dan kenalan sama mereka.
+SWE1_YX	Selamat siang, para pengedar narkoba Ballas keparat!
+SWE1_YY	Dedengkot Grove Street dateng buat ngebantai lu semua!
+BALLA_2	Bantai semua anak Grove Street tolol itu!
+BALLA_1	Grove Street bakal rata sama tanah!
+RYDX_BC	Bantai tuh bangsat-bangsat semua!
+SWE1_TA	Sekarang anak-anak Ballas tahu kalau Grove Street Families udah bangkit lagi.
+SWE1_TB	Jelas lah, kawan, dan hebatnya lagi lu gak kabur ninggalin gue kali ini!
+SWE1_TC	Zaman udah berubah...
+SWE1_TD	Aduh bro, mereka pasti bakal murka banget sama kita.
+SWE1_TE	Biarin dah, ntar gue kasih peringatan ke anak-anak tongkrongan.
+SWE1_TF	Buat sekarang, mari kita nikmatin keheningan aroma kemenangan ini, bajingan.
+SWE1_UA	Sekarang berhubung narkoba udah gak dijejalin lagi ke muka mereka...
+SWE1_UB	Bisa jadi orang-orang bego itu udah siap diajak tawuran yang beneran!
+SWE1_UC	Iya, tongkrongan Grove sekarang beneran bakal bangkit lagi dah.
+SWE1_UD	Gue duluan ya, bro.
+
+SWE1B26	Gimana kabarnya?
+SWE1B27	Mmm hmmm, bener.
+SWE1_YJ	Nah cakep, kenalin dia sama tongkat bisbol ini!
+SWE1_ZD	Woy, ayo kita meluncur ke tempat tongkrongan B Dup.
+SWE1_ZE	Ayo kita ajak B Dup.
+SWE1C28	Aduh, parah banget bro!
+SWE1_YL	CJ! Liat! Di sebelah sono! Itu dia target yang kita cari!
+SWE1_SB	Bro, gue punya barang kualitas paling mantap nih di sini.
+SWE1_VA	Gue gak ada sangkut pautnya sama ginian, pak polisi!
+SWE1_VB	Tuh orangnya yang di sebelah sana, pak polisi!
+SWE1_VC	Sialan, mending gue kabur dari sini!
+SWE1_ZA	Woy, ambil tongkat pemukul itu!
+SWE1_ZB	Woy bego, ambil tuh tongkat kayu rongsokan!
+SWE1_WA	CJ! Bangun lu, CJ!
+SWE1_WB	CJ! Jangan pura-pura mati lu! Bangun, bego!
+SWE1_WC	Ini bukan waktunya buat tidur siang, CJ!
+SWE1_XA	YA AMPUN SIALAN, RYDER!
+SWE1_XB	Aduh bangsat, Ryder, bangun woy!
+RYDX_AL	Woy pecundang, tungguin gue!
+RYDX_AM	Jangan tinggalin gue woy!
+RYDX_AN	Tungguin gue, CJ!
+RYDX_AO	Tunggu bentar, bego!
+RYDX_AP	Hei, CJ, di mana lu?
