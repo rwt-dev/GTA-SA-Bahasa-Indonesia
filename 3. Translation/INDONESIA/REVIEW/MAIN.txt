@@ -1119,7 +1119,7 @@ BUST_1	22AED201	Saat kamu memiliki level buronan, kepolisian setempat akan menco
 BUST_2	BBA783BB	Semakin tinggi level buronanmu, aparat penegak hukum yang berbeda akan dilibatkan dan kemungkinan mereka untuk membunuhmu akan meningkat.
 BUST_3	CCA0B32D	Jika kamu ditangkap oleh penegak hukum, kamu akan diproses di kantor polisi setempat.
 BUST_4	52C4268E	Para polisi akan menyita senjatamu dan mengambil sebagian uangmu sebagai uang suap.
-BUSTED	B2ECAD69	Tertangkap
+BUSTED	B2ECAD69	TERTANGKAP
 BUSY	06F0BBC9	Kamu kelihatannya agak sibuk, bagaimana kalau kembali lagi nanti.
 BUY_AIR	9EAF4CB8	~s~Pergilah ke landasan udara terbengkalai dan belilah.
 BUYPRO	4809B8CF	Properti dibeli!
@@ -1393,7 +1393,7 @@ COHEAT1	D36633C6	Hi-Top Hitam
 COHEAT2	4A6F627C	Hi-Top Merah
 COHEAT3	3D6852EA	Hi-Top Oranye
 COLORNO	50ABCEAB	~s~Kendaraanmu sudah berwarna ini.
-COLORS	CDB9FBE6	Pergilah ke ~y~Binco~s~ dan dapatkan pakaian warna khas Grove Street!
+COLORS	CDB9FBE6	Pergilah ke ~y~Binco~s~ dan belilah pakaian dengan warna khas Grove Street!
 COLOUR2	9D2788F2	warna tiga ~1~ warna empat ~1~
 COLOURS	A792D93C	warna satu ~1~ warna dua ~1~
 COM	0DEE7B93	Commerce
@@ -2237,7 +2237,7 @@ DAY_6	26F2080E	JUM
 DAY_7	51F53898	SAB
 DBINST	994F3108	Aksi gila ganda
 DBPINS	D019C627	Aksi gila ganda sempurna
-DEAD	244F5B6F	Gagal (Wasted)
+DEAD	244F5B6F	TEWAS
 DEAGLE	46E0D014	Desert Eagle
 DEAL1	442EB9A0	Mau beli barang?
 DEAL1N	47F6E1C6	Enyah dan mati saja sana!
@@ -2329,7 +2329,7 @@ DOZER	3E999EFE	Dozer
 DRAG	A42FBF20	Kasino The Four Dragons
 DRIVES	69667436	Sekolah Mengemudi
 DRIVES2	0704A26D	Sekolah Mengemudi
-DUMBELL	4A1DA678	Pergilah ke ikon dumbel (ditampilkan di radar) dan cobalah tempat gym itu.
+DUMBELL	4A1DA678	Pergilah ke ikon barbel (ditampilkan pada radar) dan kunjungi tempat gym.
 DUMMY1	019C2EC9	LABEL INI HARUS ADA DI SINI !!!
 DUMMY2	98957F73	LABEL INI HARUS ADA DI SINI !!!
 DUMMY3	EF924FE5	LABEL INI HARUS ADA DI SINI !!!
@@ -2939,8 +2939,8 @@ GA_1	C5DDE631	~r~Wah! Aku tidak mau menyentuh barang SEPANAS itu!
 GA_12	99CC8C5C	Bom aktif
 GA_13	EECBBCCA	Diantar bak profesional~n~Selesaikan daftarnya dan akan ada bonus untukmu
 GA_14	70AF2969	Semua mobil sudah terkumpul. MANTAP!~n~Ini ada sedikit hadiah
-GA_15	07A819FF	Semoga kamu suka warna barunya
-GA_16	9EA14845	Pengecatan ulang gratis
+GA_15	07A819FF	Semoga kamu suka warna barunya.
+GA_16	9EA14845	Pengecatan ulang ini gratis.
 GA_19	0E1E55D4	~r~Kami tidak tertarik dengan model yang itu
 GA_1A	50C0ACDA	~r~Kembalilah saat kamu sedang tidak sibuk...
 GA_1B	C9C9FD60	~r~Aku tidak mengurus mainan!
@@ -3201,7 +3201,7 @@ GYM1_F	8728634B	Treadmill
 GYM1_G	F02F53DD	Dumbel
 GYM2	36153590	Bela Diri Cobra
 GYM3	41120506	Gym Below the Belt
-GYMHELP	778BC0B5	Jika ingin meningkatkan stamina atau otot, ATAU jika ingin mempelajari gerakan baru, cobalah kunjungi gym di seluruh San Andreas.
+GYMHELP	778BC0B5	Jika ingin meningkatkan stamina atau otot, ATAU ingin mempelajari gerakan baru, kunjungi tempat gym di sekitar San Andreas.
 HAIRCHO	498B95D2	Pangkas Rambut
 HAIRSTY	470EDEAE	Gaya Rambut
 HANKY	09C8FB66	Hankypanky Point
@@ -3562,8 +3562,8 @@ LVA	9404D99D	Depot Kargo LVA
 M_FAIL	D64E0615	~r~MISI GAGAL!
 M_PASS	9E19F978	MISI SELESAI!~n~~w~$~1~
 M_PASSD	2FF1657E	MISI SELESAI!
-M_PASSR	DB25D02F	MISI SELESAI!~n~~w~KEHORMATAN +
-M_PASSS	AC22E0B9	MISI SELESAI!~n~~w~$~1~~n~~w~KEHORMATAN +
+M_PASSR	DB25D02F	MISI SELESAI!~n~~w~RESPEK BERTAMBAH
+M_PASSS	AC22E0B9	MISI SELESAI!~n~~w~$~1~~n~~w~RESPEK BERTAMBAH
 M4	DA4528FD	M4
 MACX_AF	839C1B49	Jadi sekarang kamu tahu kenyataan sebenarnya.
 MACX_AG	F49B2BDF	Ya, begitulah cara kami melakukannya di Salford
@@ -4109,30 +4109,30 @@ MSWE05G	854E06A0	Ada gym yang sering kukunjungi beberapa blok dari Grove.
 MSWE05H	15F11B31	Pergi dan periksa tempat itu.
 MSWE05J	FBFF7A1D	Oke, aku bakal lihat ke sana nanti.
 MSWE05K	8CF84A8B	Tapi kalau kamu terus bercanda soal lemak, aku bisa minder.
-MSWE06A	4700F056	Ya?
-MSWE06B	DE09A1EC	Hei, CJ, ini Sweet.
-MSWE06C	A90E917A	Hei, ada apa?
-MSWE06D	376A04D9	Kalau kamu tidak menghargai tubuhmu sendiri, tidak akan ada orang yang menghormatimu!
-MSWE06E	406D344F	Kamu terlalu kurus, CJ, kamu harus menambah massa otot!
-MSWE06F	D96465F5	Kalau aku mau terus diomeli, mending aku beli robot pengomel saja!
-MSWE06G	AE635563	Aku cuma peduli padamu, kawan.
-MSWE06H	3EDC48F2	Semuanya demi wibawa dan rasa hormat, paham kan?
-MSWE06J	D0D229DE	Ya, kurasa begitu.
-MSWE06K	A7D51948	Ada gym yang sering kukunjungi beberapa blok dari Grove.
-MSWE06L	39B18CEB	Pergilah ke sana dan bentuk fisikmu layaknya gangster sejati.
-MSWE06M	4EB6BC7D	Sampai jumpa nanti.
-MSWE06N	D7BFEDC7	Aku akan memeriksanya.
-MSWE06O	A0B8DD51	Kamu terlalu gemuk, CJ, kamu butuh olahraga.
-MSWE07A	5E1BC117	Bicara.
-MSWE07B	C71290AD	Kukira kamu mewakili geng kita?
-MSWE07C	B015A03B	Apa?
-MSWE07D	2E713598	Koreksi kalau aku salah, tapi kukira kamu sudah bergabung bersama Grove Street lagi.
-MSWE07E	5976050E	Sudah kubilang aku memang bergabung lagi!
-MSWE07F	C07F54B4	Tapi aku belum melihatmu memakai pakaian warna geng kita!
-MSWE07G	B7786422	Kamu harus mengibarkan identitas geng kita, bro!
-MSWE07H	27C779B3	Tidak ada yang bakal menghormatimu kalau kamu tidak mewakili kawasanmu!
-MSWE07J	C9C9189F	Baiklah bro, salahku. Aku cuma belum sempat membelinya.
-MSWE07K	BECE2809	Ada toko Binco di dekat tikungan gym di Ganton, belilah pakaian serba hijau di sana!
+MSWE06A	4700F056	Halo?
+MSWE06B	DE09A1EC	Hei, CJ, ini si Sweet.
+MSWE06C	A90E917A	Hei, ada apaan?
+MSWE06D	376A04D9	Kalau lu gak ngehargai badan lu sendiri, gak bakal ada orang yang bakal ngehargai lu!
+MSWE06E	406D344F	Lu krempeng banget, CJ, lu kudu ngebentuk otot!
+MSWE06F	D96465F5	Kalau gue mau denger orang ngomel mulu, mending gue nikah sama robot!
+MSWE06G	AE635563	Gue cuma peduli sama lu doang, bro.
+MSWE06H	3EDC48F2	Ini semua soal pamor sama respek, paham kan lu?
+MSWE06J	D0D229DE	Iya dah, kayaknya bener juga omongan lu.
+MSWE06K	A7D51948	Ada tempat gym yang biasa gue datengin, beberapa blok dari Grove.
+MSWE06L	39B18CEB	Coba lu samperin ke sana, bikin bentuk badan lu sangar kayak gangster beneran.
+MSWE06M	4EB6BC7D	Cabut dulu ya, bro.
+MSWE06N	D7BFEDC7	Ntar gue cek ke sana.
+MSWE06O	A0B8DD51	Lu kegendutan, CJ, lu kudu banyak olahraga.
+MSWE07A	5E1BC117	Halo.
+MSWE07B	C71290AD	Gue kira lu bangga bawa nama geng kita?
+MSWE07C	B015A03B	Maksud lu apaan?
+MSWE07D	2E713598	Koreksi kalau gue salah ya, tapi setahu gue lu udah gabung lagi sama anak-anak Grove Street.
+MSWE07E	5976050E	Kan udah pernah gue bilang, emang iya!
+MSWE07F	C07F54B4	Tapi buktinya gue belum pernah liat lu pake warna kebanggaan kita!
+MSWE07G	B7786422	Lu kudu nunjukin jati diri geng lu, kawan!
+MSWE07H	27C779B3	Gak bakal ada yang segan sama lu kalau lu sendiri gak mau bawa nama tongkrongan lu!
+MSWE07J	C9C9189F	Iya bro, salah gue. Gue emang belum sempet nyari baju aja.
+MSWE07K	BECE2809	Tuh ada toko Binco di deket tikungan gym Ganton, sono cari baju serba ijo buat lu pake!
 MSWE08A	D983DDD8	Ada apa, bro?
 MSWE08B	408A8C62	CJ, aku sedang berpikir.
 MSWE08C	378DBCF4	Kota ini memang luas, tapi tidak seluas itu.
@@ -5808,7 +5808,7 @@ WAGER2	0AED5613	Minimal
 WAGER3	7DEA6685	Maksimal
 WALTON	66D7495E	Walton
 WANG_C	E6CDF210	Mobil yang kamu curi untuk bisnis garasi bisa ditemukan di ruang pamer Wang Cars.
-WANT_L	6812F2A8	Tingkat buronanmu telah ditangguhkan, jika kamu melakukan kejahatan saat bintang berkedip maka tingkat buronan penuhmu akan dikembalikan.
+WANT_L	6812F2A8	Tingkat buronanmu telah ditangguhkan. Jika kamu melakukan kejahatan saat bintang-bintang masih berkedip, status buronan penuhmu akan kembali aktif.
 WARDH4	35A6C467	Ketuk ~m~~widget_store_accept~ untuk memakai. Ketuk ~m~~widget_store_back~ untuk kembali.
 WARDNO	A42BCB55	Kamu sudah mengenakan pakaian ini!
 WARDNO2	D372DF30	~s~Kamu tidak mengenakan pakaian apa pun yang bisa dilepas!

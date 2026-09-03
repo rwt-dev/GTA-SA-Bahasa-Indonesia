@@ -1,5 +1,9 @@
 # Riwayat Pembaruan
 
+* `[03/09/2026]` **Misi Sweet 2, 3, & 4 Selesai Diuji (Status: Fix)**
+  * **SWEET2.txt (Drive-Thru)** — Selesai diterjemahkan dan sudah dites langsung *in-game* via CLEO.
+  * **SWEET3.txt (Nines and AK's)** — Selesai diterjemahkan dan sudah dites langsung *in-game* via CLEO.
+  * **SWEET4.txt (Drive-By)** — Selesai diterjemahkan dan sudah dites langsung *in-game* via CLEO.
 * `[27/08/2026]` **Misi Sweet 1 & 2 Selesai Diuji (Status: Fix)**
   * **SWEET1.txt (Tagging up Turf)** — Selesai diterjemahkan dan sudah dites langsung *in-game* via CLEO.
   * **SWEET1B.txt (Cleaning the Hood)** — Selesai diterjemahkan dan sudah dites langsung *in-game* via CLEO.

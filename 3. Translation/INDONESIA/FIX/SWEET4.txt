@@ -1,0 +1,99 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+SWE4_02	FE0E5DD5	~s~Bantai musuh di kawasan ini.
+SWE4_03	89096D43	~s~Pergilah ke ~y~bengkel cat (spray shop)~s~, kamu bisa meloloskan diri dari kejaran polisi di sana!
+SWE4_04	176DF8E0	~r~Kawan-kawanmu tidak selamat.
+SWE4_05	606AC876	~r~Kamu yakin masih setia sama tongkrongan?
+SWE4_07	8E64A95A	Ikon bengkel cat ditandai pada radar berupa kaleng semprot.
+SWE4_08	1EDBB4CB	KONDISI MOBIL
+SWE4_09	69DC845D	~s~Kamu meninggalkan ~b~Smoke~s~!
+SWE4_10	091B0DB8	~s~Kamu meninggalkan ~b~Ryder~s~!
+SWE4_11	7E1C3D2E	~s~Kamu meninggalkan ~b~Sweet~s~!
+SWE4_12	E7156C94	~s~Tingkat buronanmu bintang dua, polisi akan memburumu.
+SWE4_13	90125C02	Tekan dan tahan ~m~~widget_look_left~ atau ~m~~widget_look_right~ untuk menoleh ke kiri atau kanan saat berada di dalam mobil.
+SWE4_15	7971F937	Ini akan membantumu melihat keberadaan musuh di sekitar.
+SWE4_00	10003CF9	~s~Masuklah ke dalam ~b~mobil~s~.
+SWE4_01	67070C6F	~s~Bawa kawan-kawanmu ke ~y~wilayah Ballas~s~.
+SWE4_06	F96399CC	Kemudikan kendaraanmu ke bengkel cat untuk menghilangkan ~h~bintang buronan (wanted level)~w~, ~h~memperbaiki ~w~dan ~h~mengecat ulang ~w~kendaraanmu. Biaya - ~h~$100~w~. Kali ini gratis.
+SWE4_14	0E76C9A1	~s~Bawa kawan-kawanmu kembali ke ~y~tongkrongan (hood)~s~.
+SWE4A00	06B8B283	Skill nyetir gue juga sejago si CJ kali, suer dah.
+SWE4A01	71BF8215	Woy bro, ada apaan nih?
+SWE4A02	E8B6D3AF	Woy, lu barusan ngomongin apaan soal gue, bego?
+SWE4A13	86AAD278	Apa kabar, bro?
+SWE4A03	9FB1E339	Gue lagi ngomong kalau hidup di Pantai Timur bikin lu nyetir kayak orang bego, tolol!
+SWE4A04	01D5769A	Lu mah dari dulu hobi banget nabrak-nabrakin mobil.
+SWE4A05	76D2460C	Dan entah kenapa sekarang pas lu udah balik ke sini,
+SWE4A06	EFDB17B6	semuanya serba 'CJ anterin ke sini, CJ anterin ke sana.' Tai kucing lah!
+SWE4A07	98DC2720	Elah, santai napa lu.
+SWE4A08	08633AB1	Bukannya gak respek nih ya, tapi skill nyetir lu emang ampas banget, kawan!
+SWE4A09	7F640A27	Makasih loh ya. Gak usah ragu, keluarin aja semua unek-unek lu.
+SWE4A10	1FA383C2	Skill nembak lu kan dewa banget, bro, lu kudu duduk di kursi depan samping sopir.
+SWE4A11	68A4B354	Biar lu bisa pamer aksi ke si CJ.
+SWE4A12	F1ADE2EE	Eh tapi dipikir-pikir... bener juga omongan lu. Ya udah deh CJ, lu aja yang nyetir, bro.
+SWE4A14	18CE47DB	Ngalor-ngidul tuh bocah otaknya.
+SWE4_AA	012635E4	Kita mau ke mana nih, bro?
+SWE4_AB	982F645E	Kandang anak Rollin' Heights Ballas.
+SWE4_AE	064BF1FD	Bantai mereka sambil jalan (drive-by), hah?
+SWE4_AI	0FFDBDD6	Tahu gak, mending lu jadi sopir kita aja buat aksi kali ini. Ayo cepetan.
+SWE4_AJ	96F4EC6C	Wah, makasih banyak ya, bangsat.
+SWE4_AK	E1F3DCFA	Yang penting lu nyetirnya jangan kayak orang bego.
+SWE4_BA	2A0B6627	Nah - ini sarang anak Ballas. Kalian siap gak nih?
+SWE4_BB	B302379D	Jelas, gue udah siap tempur.
+SWE4_BC	C405070B	Carl, lu fokus nyetir aja, urusan dor-doran biar kita yang beresin.
+SWE4_BD	5A6192A8	Dengerin tuh bego! Dan jangan sampe mobil kita lu tabrakin ke pohon!
+SWE4_BE	2D66A23E	Bener, kalau sampe mobilnya berhenti, mampus kita semua.
+SWE4_LA	B4884BA9	Mampus semua tuh orang! CJ, ayo kita bantai yang lain lagi!
+SWE4_LB	2D811A13	Gampang banget anjir! Ayo kita berondong anak-anak Ballas tolol lainnya.
+SWE4_LC	5A862A85	Nunggu apaan lagi lu, CJ? Cariin anak Ballas lagi biar kita bolongin palanya.
+SWE4_GA	577C9262	Tancep gas terus, Carl, tancep pol!
+SWE4_KA	FBC9DD6E	Nah gitu dong, anak Grove udah bangkit lagi, Grove is back bro!
+SWE4_KB	62C08CD4	Pasti lah. Mereka kaga ada waspadanya sama sekali tadi!
+SWE4_KC	15C7BC42	Gila lu ya, gue kaget lu gak bikin kita semua mati konyol, CJ!
+SWE4_KD	8BA329E1	Coba gue raba badan gue dulu. Gue beneran belum mati kan?
+SWE4_KF	65AD48CD	Woy Carl, gak usah lu dengerin tuh cocot si kampret, lu keren banget hari ini.
+SWE4_KG	12AA785B	Lu udah setia kawan sama Grove dan anak-anak Ballas udah pada tahu itu,
+SWE4_KH	821565CA	jadi mulai sekarang lu kudu ekstra hati-hati, CJ.
+SWE4_KE	FCA41977	Iya, iya, terserah lu pada dah. Cabut duluan ya gue.
+SWE4_KI	F512555C	Nih ambil, pake buat beli bir sono.
+
+SWE4_DB	E558901B	Bangsat, maju woy! MAJU!
+SWE4_EB	FC43A15A	Carl, jangan kabur ninggalin gue lagi!
+SWE4_EA	654AF0E0	Buset, gue bilang juga apa dari tadi - dibilangin nih bocah emang pecundang!
+SWE4_AC	EF2854C8	Kandang anak Front Yard Ballas.
+SWE4_AD	714CC16B	Kandang anak Kilo Trays.
+SWE4_AF	9F42A047	Jelas lah. Lu siap ikut, Carl?
+SWE4_AG	E84590D1	Buset, gue megang pistol aja kaga.
+SWE4_AH	78FA8D40	Lu emang belum cukup berdarah dingin buat urusan ginian, CJ.
+SWE4_CA	33105766	Tuh kan, gue bilang juga apa! CJ nyetirnya emang persis kayak orang buta sialan.
+SWE4_CB	AA1906DC	CJ, lu jadi beban doang sumpah. Mending lu seumur hidup jangan pernah beli mobil, haram!
+SWE4_CC	DD1E364A	Nih orang sengaja nabrak-nabrakin mobil - sumpah dah!
+SWE4_DA	7C51C1A1	Sialan! Bawa kita cabut dari sini! Kita bisa jadi sasaran empuk bego!
+SWE4_DC	925FA08D	Lu lagi ngapain sih! CJ?!
+SWE4_DD	0C3B352E	Bawa kita kabur dari tempat laknat ini!
+SWE4_DE	7B3C05B8	Buset, mereka beneran mau ngebolongin pala kita!
+SWE4_DF	E2355402	Lu lagi ngapain sih bangsat, CJ? Tancep gas!
+SWE4_EC	8B4491CC	Si Carl malah kabur ninggalin kita!
+SWE4_FA	4E67A323	Sialan, dia beneran ninggalin kita!
+SWE4_FB	D76EF299	Bangsat lu, CJ! Biar gue yang ambil alih.
+SWE4_FC	A069C20F	Biar gue yang bawa kita cabut dari sini!
+SWE4_FD	3E0D57AC	Bangsat lu semua! Setirnya gue yang megang sekarang!
+SWE4_GB	CE75C3D8	Gawat, mobil ini udah jadi inceran! Semua polisi di South Central pasti lagi nyariin mobil ini!
+SWE4_HA	D0E48EAD	Mantap bener! Sekarang ayo kita balik ke Grove!
+SWE4_HB	49EDDF17	Woy, lu nungguin apaan lagi, Carl? Gas!
+SWE4_MA	AD937AE8	Tuh orang masih ada yang diri, kita kudu muter sekali lagi!
+SWE4_MB	349A2B52	Belum pada mati semua tuh bangsat-bangsat!
+SWE4_MC	439D1BC4	Ayo kita ratain semuanya! Huuu haaa!
+SWE4_MD	DDF98E67	Mau ke mana lu CJ? Masih ada anak Ballas yang belum kena dor tuh.
+SWE4_NA	86BE292B	CJ! Lu jadi beban mulu sumpah!
+SWE4_NB	1FB77891	Tuh polisi sialan ngejar kita lagi!
+SWE4_NC	68B04807	CJ! Lu sengaja pengen bikin kita diciduk polisi, hah?
+SWE4_OA	9FA5186A	Ayo buruan, CJ, kita kudu ilangin jejak dari polisi!
+SWE4_OB	06AC49D0	CJ, bawa kita ke bengkel cat cepetan!
+SWE4_OC	71AB7946	Ayo dong CJ, bawa kita ke tempat yang aman!
+SWE4_PA	52FF16F4	Tadi gue lagi ngomongin apaan ya?
+SWE4_PB	CBF6474E	Woy, tadi kita lagi ributin apaan sih?
+SWE4_PC	BCF177D8	Oke, udah aman. Tadi gue lagi ngomong apaan ya?

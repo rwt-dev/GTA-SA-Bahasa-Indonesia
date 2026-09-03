@@ -1,11 +1,72 @@
-#MENU
-FEP_QUI Keluar Game
-FEP_OPT Pengaturan
-FEC_RED	Kontrol
-FEP_RES	Lanjutkan
-FEP_STG	Mulai Game
-FES_NGA	Mulai Baru
-FES_DEL	Hapus Game
+#UI
+M_FAIL ~r~MISI GAGAL!
+M_PASS MISI SELESAI!~n~~w~$~1~
+M_PASSD	MISI SELESAI!
+M_PASSR	MISI SELESAI!~n~~w~RESPEK BERTAMBAH
+M_PASSS MISI SELESAI!~n~~w~$~1~~n~~w~RESPEK BERTAMBAH
+BUSTED Tertangkap
+DEAD TEWAS
+
+#SYSTEM
+GYMHELP Jika ingin meningkatkan stamina atau otot, ATAU ingin mempelajari gerakan baru, kunjungi tempat gym di sekitar San Andreas.
+DUMBELL Pergilah ke ikon barbel (ditampilkan pada radar) dan kunjungi tempat gym.
+EMMET_G	Kamu bisa mengunjungi tempat Emmet kapan saja untuk mendapatkan senjata!
+COLORS Pergilah ke ~y~Binco~s~ dan belilah pakaian dengan warna khas Grove Street!
+GA_15 Semoga kamu suka warna barunya.
+GA_16 Pengecatan ulang ini gratis.
+WANT_L Tingkat buronanmu telah ditangguhkan. Jika kamu melakukan kejahatan saat bintang-bintang masih berkedip, status buronan penuhmu akan kembali aktif.
+
+#TELPON
+MSWE10A	Halo?
+MSWE10D	Kupikir aku harus menjelaskan beberapa hal.
+MSWE10C	Sweet, hei, ada apa?
+MSWE10E	Sejak kamu pergi, banyak hal telah berubah di sini.
+MSWE10F	Grove Street Families tidak lagi sebesar dulu.
+MSWE10G	Seville Boulevard Families dan Temple Drive Families saling bermusuhan, lalu memisahkan diri dari Grove.
+MSWE10H	Sekarang kita terlalu sibuk bertengkar sendiri, Ballas dan Vagos sudah mengambil alih, jadi berhati-hatilah di luar sana.
+MSWE10K	Ya, aku paham.
+MSWE10L	Terima kasih atas infonya.
+MSWE10N	Bukan masalah.
+
+MHRZ01A	Carl, ini Opsir Hernandez
+MHRZ01B	Siapa?
+MHRZ01C	Opsir Hernandez.
+MHRZ01D	Aku bekerja dengan Tenpenny dan Pulaski.
+MHRZ01E	Oh, si pesuruh, apa maumu?
+MHRZ01F	Hei, tunjukkan rasa hormatmu, bocah.
+MHRZ01G	Persetan denganmu, kamu cuma pesuruh mereka!
+MHRZ01H	Jaga bicaramu, bocah.
+MHRZ01J	Sekarang dengar. Aku punya pesan dari Opsir Tenpenny.
+MHRZ01K	Jangan coba-coba meninggalkan kota, itu akan jadi kesalahan besar.
+MHRZ01L	Kamu dengar aku?
+MHRZ01M	Kami mengawasimu.
+MHRZ01N	Terserah apa katamu, pesuruh.
+
+MSWE06A	Halo?
+MSWE06B	Hei, CJ, ini si Sweet.
+MSWE06C	Hei, ada apaan?
+MSWE06D	Kalau lu gak ngehargai badan lu sendiri, gak bakal ada orang yang bakal ngehargai lu!
+MSWE06E	Lu krempeng banget, CJ, lu kudu ngebentuk otot!
+MSWE06F	Kalau gue mau denger orang ngomel mulu, mending gue nikah sama robot!
+MSWE06G	Gue cuma peduli sama lu doang, bro.
+MSWE06H	Ini semua soal pamor sama respek, paham kan lu?
+MSWE06J	Iya dah, kayaknya bener juga omongan lu.
+MSWE06K	Ada tempat gym yang biasa gue datengin, beberapa blok dari Grove.
+MSWE06L	Coba lu samperin ke sana, bikin bentuk badan lu sangar kayak gangster beneran.
+MSWE06M	Cabut dulu ya, bro.
+MSWE06N	Ntar gue cek ke sana.
+MSWE06O	Lu kegendutan, CJ, lu kudu banyak olahraga.
+
+MSWE07A Halo.
+MSWE07B Gue kira lu bangga bawa nama geng kita?
+MSWE07C Maksud lu apaan?
+MSWE07D Koreksi kalau gue salah ya, tapi setahu gue lu udah gabung lagi sama anak-anak Grove Street.
+MSWE07E Kan udah pernah gue bilang, emang iya!
+MSWE07F Tapi buktinya gue belum pernah liat lu pake warna kebanggaan kita!
+MSWE07G Lu kudu nunjukin jati diri geng lu, kawan!
+MSWE07H Gak bakal ada yang segan sama lu kalau lu sendiri gak mau bawa nama tongkrongan lu!
+MSWE07J Iya bro, salah gue. Gue emang belum sempet nyari baju aja.
+MSWE07K Tuh ada toko Binco di deket tikungan gym Ganton, sono cari baju serba ijo buat lu pake!
 
 #INTRO1
 DBFD18C7 Kamu bisa melakukan bunny hop dengan menahan tombol ~m~~widget_explicit_bunny_hop~.
@@ -241,16 +302,6 @@ INT2_14 ~r~Kamu membuat pemilik toko panik!
 INT2_5 ~s~Kamu meninggalkan ~b~Ryder~s~!
 INT2_6 ~s~Masuk ke ~b~mobil Ryder~s~!
 INT2_1 ~s~Temui Ryder, dia tinggal di ujung jalan.
-MSWE10A	Halo?
-MSWE10D	Kupikir aku harus menjelaskan beberapa hal.
-MSWE10C	Sweet, hei, ada apa?
-MSWE10E	Sejak kamu pergi, banyak hal telah berubah di sini.
-MSWE10F	Grove Street Families tidak lagi sebesar dulu.
-MSWE10G	Seville Boulevard Families dan Temple Drive Families saling bermusuhan, lalu memisahkan diri dari Grove.
-MSWE10H	Sekarang kita terlalu sibuk bertengkar sendiri, Ballas dan Vagos sudah mengambil alih, jadi berhati-hatilah di luar sana.
-MSWE10K	Ya, aku paham.
-MSWE10L	Terima kasih atas infonya.
-MSWE10N	Bukan masalah.
 INT2A02 Hei kawan, mau apa kamu?
 INT2A03 Mau ketemu kawan gue. Ada apa denganmu?
 INT2A04 Iya kawan, iya iya. Senang bisa melihatmu kembali.
@@ -397,20 +448,6 @@ SWE1_BJ	CARL, CEPETAN MASUK MOBIL!
 SWE1_BR	Duit bawaan gue udah disikat abis sama anak-anak C.R.A.S.H.
 SWE1_BS	Cepet amat? Sialan, polisi-polisi itu emang licik banget!
 
-MHRZ01A	Carl, ini Opsir Hernandez
-MHRZ01B	Siapa?
-MHRZ01C	Opsir Hernandez.
-MHRZ01D	Aku bekerja dengan Tenpenny dan Pulaski.
-MHRZ01E	Oh, si pesuruh, apa maumu?
-MHRZ01F	Hei, tunjukkan rasa hormatmu, bocah.
-MHRZ01G	Persetan denganmu, kamu cuma pesuruh mereka!
-MHRZ01H	Jaga bicaramu, bocah.
-MHRZ01J	Sekarang dengar. Aku punya pesan dari Opsir Tenpenny.
-MHRZ01K	Jangan coba-coba meninggalkan kota, itu akan jadi kesalahan besar.
-MHRZ01L	Kamu dengar aku?
-MHRZ01M	Kami mengawasimu.
-MHRZ01N	Terserah apa katamu, pesuruh.
-
 #SWEET1B
 SW1B_A	~s~Pergilah ke ~y~apartemen B Dup~s~.
 SW1B_1	~s~Pergilah ke ~y~tempat pengedar narkoba~s~.
@@ -535,3 +572,373 @@ RYDX_AM	Jangan tinggalin gue woy!
 RYDX_AN	Tungguin gue, CJ!
 RYDX_AO	Tunggu bentar, bego!
 RYDX_AP	Hei, CJ, di mana lu?
+
+#SWEET3
+TWAR2_A ~s~Masuk ke dalam ~b~mobil~s~.
+TWAR2_C ~s~Berkendaralah ke drive-thru ~y~Cluckin' Bell~s~.
+SWE3_B ~s~Kejar ~r~mobil geng musuh~s~ sebelum mereka menghabisi kawan-kawanmu!
+K_BALLA ~s~Habisi anggota geng ~r~Ballas~s~.
+SWE3_H ~s~Anggota geng di mobilmu akan menembaki ancaman jika jarakmu cukup dekat.
+TW2_X ~s~Masuk kembali ke dalam ~b~mobil~s~.
+TW2_W ~s~Kembalilah ke ~y~rumah Sweet~s~.
+TW2_Z ~s~Antarkan Smoke pulang ke ~y~rumahnya~s~.
+SWE3_D ~r~Mobilnya hancur!
+SWE3_E ~r~Sweet tewas!
+SWE3_F ~r~Ryder tewas!
+SWE3_G ~r~Smoke tewas!
+SWE3_FG Tenang dulu napa, bocah.
+SWE3_FH Kamu tidak bisa menembak Smoke!
+SWE3_I ~r~Kawanan Ballas menghabisi kawan-kawanmu!
+TW2_Y ~r~Kamu gagal melindungi kawan-kawanmu.
+SWE2A00 Respek itu harus diusahain, Sweet, sama persis kayak nyari duit.
+SWE2A01 Maksud omongan lu apa nih? Lu gak ngerespek gue?
+SWE2A02 Maksud gue tuh gini ya...
+SWE2A13 Ngomong napa, bangsat!
+SWE2A14 Gue laper bego!
+SWE2A15 Aduh ampun dah sialan... Hei, ada apaan sih nih ribut-ribut?
+SWE2A03 Manusia gak bisa hidup cuma modal makan roti doang. Gue paham betul, udah pernah gue cobain tuh hal bodoh.
+SWE2A04 Carl, lu keliatan krempeng banget, bro.
+SWE2A05 Lu pasti laper kan, bro.~n~Iya nih, boleh lah makan.
+SWE2A07 Bung, kalian pada mau makan apa nih? Gimana kalau makan taco?
+SWE2A08 Taco? Lagi? Ogah banget bangsat.
+SWE2A09 Ayam goreng lah, bro. Gak ada tawar-menawar.~n~Bung, gue lagi gak kepengen makan ayam...
+SWE2_AA Carl, lu yang nyetir. Si Smoke tampangnya udah kayak mau pingsan tuh.
+SWE2_BA Gimana ceritanya Ibu bisa tewas ditembak? Kita kudu bahas masalah ini.
+SWE2_BB Kita semua emang kudu bahas ini! Sasaran mereka tuh sebenernya si Sweet!
+SWE2_BC Gimana ceritanya lu bisa tahu soal itu? Lu paham sendiri sifat orang-orang kayak gimana.
+SWE2_BD Ngakunya sih sayang sama lu, giliran ditanya pada mingkem semua.
+SWE2_BE Pada ketakutan setengah mati bangsat.
+SWE2_BF Ada beberapa orang yang bilang liat mobil Sabre warna ijo yang ngeberondong,
+SWE2_BG abis itu langsung tancap gas kabur.
+SWE2_BH Iya sih, tapi orang-orang kan emang demen bikin gosip, bener kan?
+SWE2_BJ Lagian juga, omongan lu barusan mah udah jadi rahasia umum separuh orang di Santos.
+SWE2_BK Iya, lu bener, omongan gue yang salah.
+SWE2_BL Hei, bang?
+SWE2B23 Bisa dibantu mau pesan apa?
+SWE2B00 Carl, lu mau pesen apaan? Lu mesti makan biar bertenaga lagi, bro.
+SWE2B01 Woy, gue pesen paket nomor 9 aja, gembrot.
+SWE2B02 Bikinin gue paket nomor 9, samaan kayak pesenan dia.
+SWE2B04 Bungkusin gue paket nomor 6 tapi bumbu cocolannya dibanyakin.
+SWE2B05 Gue pesen paket nomor 9 dua porsi, paket nomor 9 porsi gede satu,
+SWE2B06 paket nomor 6 saus cocolan ekstra satu, paket nomor 7 satu,
+SWE2B07 paket nomor 45 dua porsi pake keju satu, sama soda porsi jumbo satu.
+SWE2B08 Hei maaf ya bang, lu paham kan gue harus tahu kebenaran soal almarhumah Ibu.
+SWE2B09 Gue paham CJ, gue paham kok. Maksud gue, gue cuma lagi berusaha buat gak kepikiran itu mulu, itu doang.
+SWE2B10 Maksud gue tuh, gue bahkan gak tahu kalau Ibu kena tembak sampai semuanya udah bener-bener telat...
+SWE2B11 Iya, bener, paham gue. Udah ayo kita makan dulu.
+SWE2B12 Hei, bukannya kita lagi ada ribut di sekitar sini? Belakangan ini kita sering bentrok sama anak-anak sini.
+SWE2B13 Gue paling gak demen makan makanan dingin.
+SWE2B14 Beda sama lu, seumur hidup gue mah gak sudi makan dari tong sampah.
+SWE2B20 Aduh sialan, dasar sampah lu berengsek!
+SWE2B22 Oper sini makanan punya gue.
+SWE2B15 Woy, woy liat tuh! Anak-anak Kilo Trays lagi mantau kita!
+SWE2B16 Sialan lu Ryder, omongan lu bawa sial mulu!
+SWE2B18 Bangsat, tuh bajingan pada tancap gas ngarah ke tongkrongan kita!
+SWE2B17 DRIVE-BY!
+SWE2_CA Tancap gas! Gas, gas, gas!
+SWE2_CC Injek gasnya, kita kudu bantai nih bajingan-bajingan!
+SWE2_GA Napa lu gak ikutan nembak, Smoke?
+SWE2_GB Ntar gue tembak abis kelar makan.
+SWE2_GC Berhenti lu ngejejelin tuh mulut bangsat lu! Ayo buruan!
+SWE2_GD Gue gak ngejejelin makanan kawan, gue lagi nikmatin santapan gue.
+SWE2_GE Woy, bunuh tuh bajingan! Gila ya, mantap banget rasa roti lapisnya!
+SWE2_HA Smoke! Berhenti ngunyah tuh makanan dan mulai tembakin anak-anak Ballas itu!
+SWE2_HB Gue lagi berusaha nikmatin makanan gue bego!
+SWE2_HC Dan anak-anak bego itu lagi berusaha nikmatin kematian kita bangsat!
+SWE2_HD Ayolah cepetan, Smoke, tembak!
+SWE2_HE Sabar napa, kentang goreng gue dikit lagi abis nih!
+SWE2_DA Menu Spesial gue tumpah!
+SWE2_DB Aduh sialan! Saus tomat pesenan lu blepotan ke jok mobil gue!
+SWE2_DC Fokus ke urusan yang ada di depan mata bangsat, urusan di depan mata!
+SWE2_DD Tapi ini celana gue baru dicuci bersih!
+SWE2_MA Gila! Barusan bener-bener situasi tegang banget!
+SWE2_MB Iya bro, anak-anak Ballas tolol itu gak bakal berani ngulangin lagi dah!
+SWE2_MC Carl, ayo kita balik ke Grove!
+SWE2_MD Beres, langsung gue gas.
+SWE2_ME Aduh nikmatnya! Kenyang banget perut gue!
+SWE2_MF Dasar lu gembrot sialan!
+SWE2_MG Lain kali lu kudu ikutan nembak, kalau kagak kepala lu yang gue tembak!
+SWE2_MH Smoke, perut lu buncit lebar banget bangsat, bener-bener melar!
+SWE2_MJ Dan gara-gara itulah lu semua sayang sama gue, bro!
+SWE2_NA Poin kemenangan tambahan buat anak Grove!
+SWE2_NB Ngomong apaan barusan lu, Smoke?
+SWE2_NC Dari tadi kerjaan lu cuma ngabisin makanan gue doang bangsat!
+SWE2_ND Iya lah, keburu dingin ntar!
+SWE2_NE Lu semua mau mampir masuk minum bir dulu gak?
+SWE2_NF Gak dulu bro, gue kudu balik ke rumah.
+SWE2_NG CJ, bisa tumpangi gue balik gak?
+SWE2_NH Ayo dah Smoke, cabut kita. Cabut duluan ya bro.
+SWE2_OA Ada apa sama lu pas kejadian tadi, Smoke?
+SWE2_OB Bro, kalau lu tetep bisa anteng makan di saat orang lain panik histeris
+SWE2_OC dan nyalah-nyalahin lu, tandanya lu cowok sejati, kawan.
+SWE2_OD Hah? Maksud lu apaan?
+SWE2_OE Gak ada, bukan apa-apa. Cuma kutipan puisi yang pernah gue baca doang.
+SWE2_OF Woy Smoke, ceritain ke gue napa lu pindah rumah keluar dari Grove?
+SWE2_OG Bro, gue dapet warisan duit dari bibi gue. Maksud gue tempatnya emang lumayan enak,
+SWE2_OH tapi Grove bakal selalu ada di hati gue, kawan. Di sanalah tempat kawan-kawan setia gue berada.
+SWE2_OJ Iya dah, terserah apa kata lu.
+SWE2_PA Makasih banyak ya, Carl. Asli dah, gue kangen banget ada lu di sekitar kita kayak gini lagi, bro.
+SWE2_PB Makasih bro. Andai si Sweet punya pikiran kayak gitu juga ke gue.
+SWE2_PC Omongan dia gak sejahat itu kok, CJ.
+SWE2_PD Dia cuma masih sakit hati banget kepikiran soal Ibu lu, kawan.
+SWE2_PE Nih, buat jajan rokok lu dari Smoke. Santai dulu, kawan.
+
+SWE2A06 Iya nih, boleh lah makan.
+SWE2A16 Bung, gue lagi gak kepengen makan ayam...
+SWE2A10 Nah, boleh tuh.
+SWE2A11 Ayo kita cabut.
+SWE2A12 Kenapa lu bengong mulu, Ryder?
+SWE2_AB Si Smoke tampangnya udah kayak mau pingsan tuh.
+SWE2B03 Lu mau apa, Sweet?
+SWE2_BM Mereka berondong rumah kita pake peluru. Gue gak sempet liat apa-apaan sialan.
+SWE2B19 Bangsat! Kentang keju gue tumpah! Carl, bantai mereka semua!
+SWE2_CB Kejar tuh mobil, CJ!
+SWE2_EA CJ, liat jalanan napa sialan!
+SWE2_EB Santai bangsat, ini bukan situasi buat jalan santai di hari Minggu!
+SWE2_EC Soda gue tumpah! Berceceran di lantai mobil bangsat!
+SWE2_ED Bodo amat, lu jilatin tuh lantai ntar abis urusan kita kelar.
+SWE2_EE Sekarang mata lu fokus ngeliatin mobil Ballas!
+SWE2_FA Tuh mereka kabur!
+SWE2_FB Pepet samping mobil bajingan itu, CJ!
+SWE2_FC Ballas! Lu liat gak? Di sebelah sono tuh!
+SWE2_FD Pepet mereka, CJ!
+SWE2_FE Udah siap belum lu pada?
+SWE2_JA CJ tepar, sialan!
+SWE2_JB CJ! Sweet, si CJ tepar tuh!
+SWE2_JC Dia cuma pura-pura pingsan doang tuh, ya kan CJ?
+SWE2_KA Aaargh! Mobil kita kebakar! Selamatkan diri masing-masing! Kabur!
+SWE2_KB Woy mobil sialan ini mau meledak, buruan loncat keluar!
+SWE2_KC Mobil kita ringsek ancur bro, cepetan keluar semua!
+SWE2_LA Sialan, kita udah telat banget!
+SWE2_LB Aduh bangsat, kita ngecewain kawan-kawan kita!
+SWE2_LC Kita ngecewain seluruh anak tongkrongan!
+
+#SWEET2
+HOOD2C Untuk membidik secara manual, sentuh bagian tengah layar lalu geser ke kiri dan kanan sambil menembak.
+HOOD2D ~h~Kemahiran senjatamu~w~ akan meningkat setiap kali tembakan senjatamu mengenai sasaran dengan tepat.
+HOOD2E Tingkat kemahiran senjata yang tinggi akan meningkatkan keahlianmu. Tahan ~m~~widget_player_info~ saat berjalan kaki untuk melihat kemahiran senjata.
+RECOIL Menembak tanpa henti akan memicu sentakan senjata (recoil) yang mengurangi akurasi. Tembakkan secara bertahap untuk menjaga ketepatan bidikan.
+S2HELP1 ~s~Masuklah ke dalam ~y~toko pakaian Binco~s~.
+S2HELP2 ~s~Masuklah ke dalam penanda untuk mencoba pakaian baru.
+SWE2_A ~s~Pergilah bersama Smoke ke ~y~rumah Emmet~s~.
+SWE2_B ~r~Smoke tewas!
+SWE2_C ~r~Mobil Smoke hancur berantakan!
+SWE2_D ~s~Antarkan Smoke ~y~pulang ke rumahnya~s~.
+SWE2_E ~s~Tunggu ~b~Smoke~s~!
+SWE2_F ~s~Gunakan bidikan manual untuk menembak tangki bensin mobil.
+SWE2_G ~s~Tembak botol itu.
+SWE2_H ~s~Tembak botol-botol itu.
+SWE2_I ~s~Cobalah menembak botol-botol itu sambil berjongkok.
+SWE2_J ~s~Kembalilah ke ~y~halaman rumah Emmet~s~.
+SWE2_K ~r~Kamu menewaskan Emmet!
+SWE2_L ~s~Masuk kembali ke dalam ~b~mobil Smoke~s~.
+SWE2_M ~s~Kamu harus berjalan kaki!
+SWE2_N ~s~Gunakan bidikan manual untuk menembak ban mobil.
+SWE3A00 Catet 15 poin buat gue, bangsat.
+SWE3A01 Bentar, lagi gue catet nih.
+SWE3A02 Gak usah nyoba main curang lu, gembrot sialan.
+SWE3A03 Gue lempar dadu duluan.
+SWE3A21 - Yo, ada apaan nih?~n~- Yo, apa kabar bro?
+SWE3A23 - Lagi pada ngapain nih?~n~- Siapa yang menang?
+SWE3A05 Menurut lu siapa lagi, hah? Gue lah!
+SWE3A06 Udah kelar. Mainnya kita ulang dari awal, gak sah bangsat!
+SWE3A07 Jadi, kita sekarang punya senjata apaan aja nih?
+SWE3A08 Polisi sialan pada dateng,
+SWE3A09 terus markas kita digerebek. Kita kaga megang senjata apa-apaan sekarang.
+SWE3A10 Terus lu mau ngapain kalau anak-anak Ballas berondong markas kita,
+SWE3A11 ngelemparin sepatu ke mereka?
+SWE3A12 Ngomong-ngomong, si Emmet kabarnya gimana?
+SWE3A13 Emmet? Buset dah, gangster zaman sekarang senjatanya udah pake Mac, AK, sama segala macem.
+SWE3A14 Sedangkan si Emmet barangnya rongsokan semua bangsat.
+SWE3A15 Ya mau gimana lagi, sebelum dapet pemasok yang bener,
+SWE3A16 kita kudu ngandelin orang yang selalu ada buat kita.
+SWE3A17 Si Emmet emang anak Seville Boulevard Families,
+SWE3A18 dan belakangan ini hubungan kita lagi agak renggang sih,
+SWE3A19 tapi gak masalah, bakal gue anterin lu ke tempat dia.
+SWE3A20 Biar kita megang senjata lagi. Ayo cabut.
+SWE3_AA Ada apaan sih sama anak-anak Families, ke mana rasa persaudaraan dulu?
+SWE3_AB Ya emang udah nasibnya gini.
+SWE3_AC Seville ribut sama Temple, Temple ribut sama Grove.
+SWE3_AD Dendam kusumat cuma bakal mancing dendam baru.
+SWE3_AE Kalau lu baca buku, emang begitulah hukum dunia, bung!
+SWE3_AF Iya sih, tapi kan lu tahu kita kudu tetep setia kawan.
+SWE3_AH Gue salut sama lu, Carl. Lu punya jiwa pemimpin, visioner sejati.
+SWE3_AJ Jangan lupain gue pas lu udah di puncak kejayaan ntar ya.
+SWE3_AK Udah deh Smoke, diem napa. Bacot lu omong kosong semua.
+SWE3B10 Ini baru kakek jagoan gue, paham kan maksud gue?
+SWE3B00 Woy! Siapa yang nembak gue? Mau ngapain kalian bocah-bocah?
+SWE3B11 Halo, halo kek, apa kabar nih?
+SWE3B01 Bukannya lu anaknya Beverly Johnson ya?
+SWE3B02 Iya bener, Kek.
+SWE3B03 Brian! Lah, bukannya lu udah mati?
+SWE3B04 Bukan, Emmet - gue anaknya yang satu lagi. Carl.
+SWE3B05 Kakek turut berduka ya soal si Beverly.
+SWE3B06 Justru itu alasan kami ke sini, Kek.
+SWE3B07 Kami mau bales dendam ke orang-orang yang ngebunuh Ibu.
+SWE3B08 Nah, tempat yang kalian datengin ini pas banget.
+SWE3B09 Pilih aja mana yang lu suka, tong.
+SWE3B12 Buset, rongsokan tua gini semua barangnya.
+SWE3_BC Mampus lu, botol Ballas tolol!
+SWE3_DC Wah, almarhumah Beverly pasti bangga banget sama lu, tong.
+SWE3_BA Bangsat, gue emang yang paling jago sedunia!
+SWE3_DA Nah, baru ini gaya anak Grove Street asli!
+SWE3_BD Pecah pala lu!
+SWE3_BE Pala lu juga!
+SWE3_BF Lu pada mau ikutan juga?
+SWE3_BG Dingin banget tangan gue, bung!
+SWE3_BB Udah gue duga, gue emang manusia terpilih!
+SWE3_ZZ Buset dah, liat tuh lagaknya 'Agen Khusus Big Smoke'!
+SWE3_DG Aduh, lu bikin kakek bangga banget!
+SWE3_GA Gila, lu berdarah dingin banget, sadis bung!
+SWE3_GB Tapi inget satu hal, kekuatan sejati itu asalnya dari dalam hati, saudaraku.
+SWE3_GC Dengerin tuh kata anak muda.
+SWE3_GD Iya deh, kayaknya hidup di Liberty City gak bikin lu lembek ya?
+SWE3_GE Woy, ayo kita cabut.
+SWE3_GF Kek, kami pamit duluan ya.
+SWE3_GG Kakek dukung seratus persen kalian berdua, tong.
+SWE3_GH Tapi inget baik-baik ya, kalian gak pernah dapet pistol ini dari kakek.
+SWE3_GJ Dan inget juga satu hal. Emmet adalah gudangnya senjata mantap!
+SWE3_GK Barang dagangan kakek mutunya selalu nomor satu.
+SWE3_GL Dan kakek udah dengan bangga melayani warga sini lebih dari 30 tahun!
+SWE3_GM Kakek tua bangka gila. Woy, lu aja yang nyetir.
+SWE3_GN Meriam purba di museum aja kayaknya lebih baru dari pistol butut ini. Kita mau ke mana nih?
+SWE3_GO Aduh capek banget gue bro, anterin gue balik ke rumah gue ya, kawan.
+SWE3_HA Sebenernya ada apaan sih, keadaan kok jadi ancur-ancuran gini?
+SWE3_HB Orang-orang kudu buka mata sama buka hati mereka lebar-lebar, CJ.
+SWE3_HC Lu ngomong apaan sih barusan?
+SWE3_HD Gue lagi bahas soal pilihan hidup yang dihadapi setiap manusia, saudaraku.
+SWE3_HE Terkadang pilihan itu terasa nyata, tapi di waktu lain kita gak punya pilihan sama sekali.
+SWE3_HF Syukur deh lu masih suka ngebacot sok bijak. Gak berubah sedikit pun lu.
+SWE3_HG Gue? Gak bakal pernah berubah lah.
+SWE3_JA Makasih ya CJ, sampai ketemu lagi.
+SWE3_JB Cabut dulu ya, Smoke.
+
+SWE2_HG ...coba sentuh sisi batin lu atau hal-hal semacam itulah.
+SWE2_HF Denger ya, kalian berdua kudu lebih santai, kawan.
+SWE3_AG Bikin tuh anak-anak Ballas bertekuk lutut memohon ampun!
+SWE3_BH Merem juga kena!
+SWE3_BJ Nembak dari pinggang nih bos!
+SWE3_BK Pake tangan kidal juga gak ada lawan gue!
+SWE3_CA Peluru lu kagak pake pelacak, bego!
+SWE3_CB Bakat nembak di keluarga lu diborong semua sama abang lu!
+SWE3_CC Pantesan aja si bocah Brian mati konyol!
+SWE3_CD Gue bilang tembak botolnya, bukan bangunannya!
+SWE3_CE Gemetaran lu persis kayak anak cewek!
+SWE3_CF Pelatuknya jangan diusel-usel bangsat, tarik langsung!
+SWE3_CG Lu tahu bentuk botol kan, hah?
+SWE3_CH Ayolah bego, nembak yang lurus napa!
+SWE3_CJ Cuma segitu doang kemampuan lu, bocah?
+SWE3_CK Tembakan lu bener-bener bikin malu!
+SWE3_DB Jiwa pembunuhnya bener-bener merasuk ke raga!
+SWE3_DD Bakal nangis darah tuh anak-anak Ballas tolol!
+SWE3_DE Mantap bener, tong!
+SWE3_DF Jago banget nembak lu!
+SWE3_EA Buset dah, si Emmet lu bantai!
+SWE3_EB Bakal ngamuk besar anak-anak Seville Families!
+SWE3_EC Terus kita dapet pasokan senjata dari mana lagi nih?
+SWE3_ED Itu bukan botol, bego!
+SWE3_EE CJ, lu barusan ngapain sih bangsat?
+SWE3_EF Ya ampun sialan, Emmet!
+SWE3_FA Liat-liat napa kalau nodongin pistol!
+SWE3_FB Lu barusan ngebantai Big Smoke!
+SWE3_FC Astaga sialan... Smoke!
+SWE3_FD Nih bocah udah gila beneran!
+SWE3_FE Tembakan lu busuk parah, beneran dah.
+SWE3_FF Waktu bayi lu dicekokin racun apa gimana sama Beverly?
+SWE3A04 Siapa yang menang nih?
+SWE3A22 Apa kabar bro?
+
+#SWEET4
+SWE4_02 ~s~Bantai musuh di kawasan ini.
+SWE4_03 ~s~Pergilah ke ~y~bengkel cat (spray shop)~s~, kamu bisa meloloskan diri dari kejaran polisi di sana!
+SWE4_04 ~r~Kawan-kawanmu tidak selamat.
+SWE4_05 ~r~Kamu yakin masih setia sama tongkrongan?
+SWE4_07 Ikon bengkel cat ditandai pada radar berupa kaleng semprot.
+SWE4_08 KONDISI MOBIL
+SWE4_09 ~s~Kamu meninggalkan ~b~Smoke~s~!
+SWE4_10 ~s~Kamu meninggalkan ~b~Ryder~s~!
+SWE4_11 ~s~Kamu meninggalkan ~b~Sweet~s~!
+SWE4_12 ~s~Tingkat buronanmu bintang dua, polisi akan memburumu.
+SWE4_13 Tekan dan tahan ~m~~widget_look_left~ atau ~m~~widget_look_right~ untuk menoleh ke kiri atau kanan saat berada di dalam mobil.
+SWE4_15 Ini akan membantumu melihat keberadaan musuh di sekitar.
+SWE4_00 ~s~Masuklah ke dalam ~b~mobil~s~.
+SWE4_01 ~s~Bawa kawan-kawanmu ke ~y~wilayah Ballas~s~.
+SWE4_06 Kemudikan kendaraanmu ke bengkel cat untuk menghilangkan ~h~bintang buronan (wanted level)~w~, ~h~memperbaiki ~w~dan ~h~mengecat ulang ~w~kendaraanmu. Biaya - ~h~$100~w~. Kali ini gratis.
+SWE4_14 ~s~Bawa kawan-kawanmu kembali ke ~y~tongkrongan (hood)~s~.
+SWE4A00 Skill nyetir gue juga sejago si CJ kali, suer dah.
+SWE4A01 Woy bro, ada apaan nih?
+SWE4A02 Woy, lu barusan ngomongin apaan soal gue, bego?
+SWE4A13 Apa kabar, bro?
+SWE4A03 Gue lagi ngomong kalau hidup di Pantai Timur bikin lu nyetir kayak orang bego, tolol!
+SWE4A04 Lu mah dari dulu hobi banget nabrak-nabrakin mobil.
+SWE4A05 Dan entah kenapa sekarang pas lu udah balik ke sini,
+SWE4A06 semuanya serba 'CJ anterin ke sini, CJ anterin ke sana.' Tai kucing lah!
+SWE4A07 Elah, santai napa lu.
+SWE4A08 Bukannya gak respek nih ya, tapi skill nyetir lu emang ampas banget, kawan!
+SWE4A09 Makasih loh ya. Gak usah ragu, keluarin aja semua unek-unek lu.
+SWE4A10 Skill nembak lu kan dewa banget, bro, lu kudu duduk di kursi depan samping sopir.
+SWE4A11 Biar lu bisa pamer aksi ke si CJ.
+SWE4A12 Eh tapi dipikir-pikir... bener juga omongan lu. Ya udah deh CJ, lu aja yang nyetir, bro.
+SWE4A14 Ngalor-ngidul tuh bocah otaknya.
+SWE4_AA Kita mau ke mana nih, bro?
+SWE4_AB Kandang anak Rollin' Heights Ballas.
+SWE4_AE Bantai mereka sambil jalan (drive-by), hah?
+SWE4_AI Tahu gak, mending lu jadi sopir kita aja buat aksi kali ini. Ayo cepetan.
+SWE4_AJ Wah, makasih banyak ya, bangsat.
+SWE4_AK Yang penting lu nyetirnya jangan kayak orang bego.
+SWE4_BA Nah - ini sarang anak Ballas. Kalian siap gak nih?
+SWE4_BB Jelas, gue udah siap tempur.
+SWE4_BC Carl, lu fokus nyetir aja, urusan dor-doran biar kita yang beresin.
+SWE4_BD Dengerin tuh bego! Dan jangan sampe mobil kita lu tabrakin ke pohon!
+SWE4_BE Bener, kalau sampe mobilnya berhenti, mampus kita semua.
+SWE4_LA Mampus semua tuh orang! CJ, ayo kita bantai yang lain lagi!
+SWE4_LB Gampang banget anjir! Ayo kita berondong anak-anak Ballas tolol lainnya.
+SWE4_LC Nunggu apaan lagi lu, CJ? Cariin anak Ballas lagi biar kita bolongin palanya.
+SWE4_GA Tancep gas terus, Carl, tancep pol!
+SWE4_KA Nah gitu dong, anak Grove udah bangkit lagi, Grove is back bro!
+SWE4_KB Pasti lah. Mereka kaga ada waspadanya sama sekali tadi!
+SWE4_KC Gila lu ya, gue kaget lu gak bikin kita semua mati konyol, CJ!
+SWE4_KD Coba gue raba badan gue dulu. Gue beneran belum mati kan?
+SWE4_KF Woy Carl, gak usah lu dengerin tuh cocot si kampret, lu keren banget hari ini.
+SWE4_KG Lu udah setia kawan sama Grove dan anak-anak Ballas udah pada tahu itu,
+SWE4_KH jadi mulai sekarang lu kudu ekstra hati-hati, CJ.
+SWE4_KE Iya, iya, terserah lu pada dah. Cabut duluan ya gue.
+SWE4_KI Nih ambil, pake buat beli bir sono.
+
+SWE4_DB Bangsat, maju woy! MAJU!
+SWE4_EB Carl, jangan kabur ninggalin gue lagi!
+SWE4_EA Buset, gue bilang juga apa dari tadi - dibilangin nih bocah emang pecundang!
+SWE4_AC Kandang anak Front Yard Ballas.
+SWE4_AD Kandang anak Kilo Trays.
+SWE4_AF Jelas lah. Lu siap ikut, Carl?
+SWE4_AG Buset, gue megang pistol aja kaga.
+SWE4_AH Lu emang belum cukup berdarah dingin buat urusan ginian, CJ.
+SWE4_CA Tuh kan, gue bilang juga apa! CJ nyetirnya emang persis kayak orang buta sialan.
+SWE4_CB CJ, lu jadi beban doang sumpah. Mending lu seumur hidup jangan pernah beli mobil, haram!
+SWE4_CC Nih orang sengaja nabrak-nabrakin mobil - sumpah dah!
+SWE4_DA Sialan! Bawa kita cabut dari sini! Kita bisa jadi sasaran empuk bego!
+SWE4_DC Lu lagi ngapain sih! CJ?!
+SWE4_DD Bawa kita kabur dari tempat laknat ini!
+SWE4_DE Buset, mereka beneran mau ngebolongin pala kita!
+SWE4_DF Lu lagi ngapain sih bangsat, CJ? Tancep gas!
+SWE4_EC Si Carl malah kabur ninggalin kita!
+SWE4_FA Sialan, dia beneran ninggalin kita!
+SWE4_FB Bangsat lu, CJ! Biar gue yang ambil alih.
+SWE4_FC Biar gue yang bawa kita cabut dari sini!
+SWE4_FD Bangsat lu semua! Setirnya gue yang megang sekarang!
+SWE4_GB Gawat, mobil ini udah jadi inceran! Semua polisi di South Central pasti lagi nyariin mobil ini!
+SWE4_HA Mantap bener! Sekarang ayo kita balik ke Grove!
+SWE4_HB Woy, lu nungguin apaan lagi, Carl? Gas!
+SWE4_MA Tuh orang masih ada yang diri, kita kudu muter sekali lagi!
+SWE4_MB Belum pada mati semua tuh bangsat-bangsat!
+SWE4_MC Ayo kita ratain semuanya! Huuu haaa!
+SWE4_MD Mau ke mana lu CJ? Masih ada anak Ballas yang belum kena dor tuh.
+SWE4_NA CJ! Lu jadi beban mulu sumpah!
+SWE4_NB Tuh polisi sialan ngejar kita lagi!
+SWE4_NC CJ! Lu sengaja pengen bikin kita diciduk polisi, hah?
+SWE4_OA Ayo buruan, CJ, kita kudu ilangin jejak dari polisi!
+SWE4_OB CJ, bawa kita ke bengkel cat cepetan!
+SWE4_OC Ayo dong CJ, bawa kita ke tempat yang aman!
+SWE4_PA Tadi gue lagi ngomongin apaan ya?
+SWE4_PB Woy, tadi kita lagi ributin apaan sih?
+SWE4_PC Oke, udah aman. Tadi gue lagi ngomong apaan ya?

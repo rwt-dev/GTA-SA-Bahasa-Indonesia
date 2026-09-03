@@ -1,0 +1,145 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	52957CFF	Akurasi tembakan dapat ditingkatkan dengan berjongkok. Tekan ~m~~widget_explicit_crouch~ untuk berjongkok.
+	AB0585A7	Ketuk layar untuk mengunci sasaran. Ketuk ~m~~widget_attack~ untuk menembak.
+	4D607B12	Bidik sasaran menggunakan ~m~~widget_enter_targeting~, lalu tekan ~m~~widget_attack~ untuk menembak.
+	34B5700B	Akurasi tembakan dapat ditingkatkan dengan berjongkok. Ketuk dua kali sudut kiri bawah layar untuk berjongkok.
+	ED4AF0DC	Saat mengunci sasaran, sasaran dapat diganti dengan mengusap bagian tengah layar.
+	0B2F0E69	Saat mengunci sasaran, sasaran dapat diganti menggunakan ~m~~widget_look_left~ atau ~m~~widget_look_right~.
+HOOD2C	C1D430E9	Untuk membidik secara manual, sentuh bagian tengah layar lalu geser ke kiri dan kanan sambil menembak.
+HOOD2D	5FB0A54A	~h~Kemahiran senjatamu~w~ akan meningkat setiap kali tembakan senjatamu mengenai sasaran dengan tepat.
+HOOD2E	28B795DC	Tingkat kemahiran senjata yang tinggi akan meningkatkan keahlianmu. Tahan ~m~~widget_player_info~ saat berjalan kaki untuk melihat kemahiran senjata.
+RECOIL	33DEE440	Menembak tanpa henti akan memicu sentakan senjata (recoil) yang mengurangi akurasi. Tembakkan secara bertahap untuk menjaga ketepatan bidikan.
+S2HELP1	6FB0E740	~s~Masuklah ke dalam ~y~toko pakaian Binco~s~.
+S2HELP2	F6B9B6FA	~s~Masuklah ke dalam penanda untuk mencoba pakaian baru.
+SWE2_A	F9C99EB2	~s~Pergilah bersama Smoke ke ~y~rumah Emmet~s~.
+SWE2_B	60C0CF08	~r~Smoke tewas!
+SWE2_C	17C7FF9E	~r~Mobil Smoke hancur berantakan!
+SWE2_D	89A36A3D	~s~Antarkan Smoke ~y~pulang ke rumahnya~s~.
+SWE2_E	FEA45AAB	~s~Tunggu ~b~Smoke~s~!
+SWE2_F	67AD0B11	~s~Gunakan bidikan manual untuk menembak tangki bensin mobil.
+SWE2_G	10AA3B87	~s~Tembak botol itu.
+SWE2_H	80152616	~s~Tembak botol-botol itu.
+SWE2_I	F7121680	~s~Cobalah menembak botol-botol itu sambil berjongkok.
+SWE2_J	6E1B473A	~s~Kembalilah ke ~y~halaman rumah Emmet~s~.
+SWE2_K	191C77AC	~r~Kamu menewaskan Emmet!
+SWE2_L	8778E20F	~s~Masuk kembali ke dalam ~b~mobil Smoke~s~.
+SWE2_M	F07FD299	~s~Kamu harus berjalan kaki!
+SWE2_N	69768323	~s~Gunakan bidikan manual untuk menembak ban mobil.
+SWE3A00	9B6F8A3A	Catet 15 poin buat gue, bangsat.
+SWE3A01	EC68BAAC	Bentar, lagi gue catet nih.
+SWE3A02	7561EB16	Gak usah nyoba main curang lu, gembrot sialan.
+SWE3A03	0266DB80	Gue lempar dadu duluan.
+SWE3A21	DE5ED82E	- Yo, ada apaan nih?~n~- Yo, apa kabar bro?
+SWE3A23	3050B902	- Lagi pada ngapain nih?~n~- Siapa yang menang?
+SWE3A05	EB057EB5	Menurut lu siapa lagi, hah? Gue lah!
+SWE3A06	720C2F0F	Udah kelar. Mainnya kita ulang dari awal, gak sah bangsat!
+SWE3A07	050B1F99	Jadi, kita sekarang punya senjata apaan aja nih?
+SWE3A08	95B40208	Polisi sialan pada dateng,
+SWE3A09	E2B3329E	terus markas kita digerebek. Kita kaga megang senjata apa-apaan sekarang.
+SWE3A10	8274BB7B	Terus lu mau ngapain kalau anak-anak Ballas berondong markas kita,
+SWE3A11	F5738BED	ngelemparin sepatu ke mereka?
+SWE3A12	6C7ADA57	Ngomong-ngomong, si Emmet kabarnya gimana?
+SWE3A13	1B7DEAC1	Emmet? Buset dah, gangster zaman sekarang senjatanya udah pake Mac, AK, sama segala macem.
+SWE3A14	85197F62	Sedangkan si Emmet barangnya rongsokan semua bangsat.
+SWE3A15	F21E4FF4	Ya mau gimana lagi, sebelum dapet pemasok yang bener,
+SWE3A16	6B171E4E	kita kudu ngandelin orang yang selalu ada buat kita.
+SWE3A17	1C102ED8	Si Emmet emang anak Seville Boulevard Families,
+SWE3A18	8CAF3349	dan belakangan ini hubungan kita lagi agak renggang sih,
+SWE3A19	FBA803DF	tapi gak masalah, bakal gue anterin lu ke tempat dia.
+SWE3A20	A959E8B8	Biar kita megang senjata lagi. Ayo cabut.
+SWE3_AA	9CF10D5D	Ada apaan sih sama anak-anak Families, ke mana rasa persaudaraan dulu?
+SWE3_AB	05F85CE7	Ya emang udah nasibnya gini.
+SWE3_AC	72FF6C71	Seville ribut sama Temple, Temple ribut sama Grove.
+SWE3_AD	EC9BF9D2	Dendam kusumat cuma bakal mancing dendam baru.
+SWE3_AE	9B9CC944	Kalau lu baca buku, emang begitulah hukum dunia, bung!
+SWE3_AF	029598FE	Iya sih, tapi kan lu tahu kita kudu tetep setia kawan.
+SWE3_AH	E52DB5F9	Gue salut sama lu, Carl. Lu punya jiwa pemimpin, visioner sejati.
+SWE3_AJ	0B23D4D5	Jangan lupain gue pas lu udah di puncak kejayaan ntar ya.
+SWE3_AK	7C24E443	Udah deh Smoke, diem napa. Bacot lu omong kosong semua.
+SWE3B10	80320522	Ini baru kakek jagoan gue, paham kan maksud gue?
+SWE3B00	99293463	Woy! Siapa yang nembak gue? Mau ngapain kalian bocah-bocah?
+SWE3B11	F73535B4	Halo, halo kek, apa kabar nih?
+SWE3B01	EE2E04F5	Bukannya lu anaknya Beverly Johnson ya?
+SWE3B02	7727554F	Iya bener, Kek.
+SWE3B03	002065D9	Brian! Lah, bukannya lu udah mati?
+SWE3B04	9E44F07A	Bukan, Emmet - gue anaknya yang satu lagi. Carl.
+SWE3B05	E943C0EC	Kakek turut berduka ya soal si Beverly.
+SWE3B06	704A9156	Justru itu alasan kami ke sini, Kek.
+SWE3B07	074DA1C0	Kami mau bales dendam ke orang-orang yang ngebunuh Ibu.
+SWE3B08	97F2BC51	Nah, tempat yang kalian datengin ini pas banget.
+SWE3B09	E0F58CC7	Pilih aja mana yang lu suka, tong.
+SWE3B12	6E3C640E	Buset, rongsokan tua gini semua barangnya.
+SWE3_BC	59D23FB2	Mampus lu, botol Ballas tolol!
+SWE3_DC	0F889834	Wah, almarhumah Beverly pasti bangga banget sama lu, tong.
+SWE3_BA	B7DC5E9E	Bangsat, gue emang yang paling jago sedunia!
+SWE3_DA	E186F918	Nah, baru ini gaya anak Grove Street asli!
+SWE3_BD	C7B6AA11	Pecah pala lu!
+SWE3_BE	B0B19A87	Pala lu juga!
+SWE3_BF	29B8CB3D	Lu pada mau ikutan juga?
+SWE3_BG	5EBFFBAB	Dingin banget tangan gue, bung!
+SWE3_BB	2ED50F24	Udah gue duga, gue emang manusia terpilih!
+SWE3_ZZ	BFA20F2B	Buset dah, liat tuh lagaknya 'Agen Khusus Big Smoke'!
+SWE3_DG	08E55C2D	Aduh, lu bikin kakek bangga banget!
+SWE3_GA	CAABAADB	Gila, lu berdarah dingin banget, sadis bung!
+SWE3_GB	53A2FB61	Tapi inget satu hal, kekuatan sejati itu asalnya dari dalam hati, saudaraku.
+SWE3_GC	24A5CBF7	Dengerin tuh kata anak muda.
+SWE3_GD	BAC15E54	Iya deh, kayaknya hidup di Liberty City gak bikin lu lembek ya?
+SWE3_GE	CDC66EC2	Woy, ayo kita cabut.
+SWE3_GF	54CF3F78	Kek, kami pamit duluan ya.
+SWE3_GG	23C80FEE	Kakek dukung seratus persen kalian berdua, tong.
+SWE3_GH	B377127F	Tapi inget baik-baik ya, kalian gak pernah dapet pistol ini dari kakek.
+SWE3_GJ	5D797353	Dan inget juga satu hal. Emmet adalah gudangnya senjata mantap!
+SWE3_GK	2A7E43C5	Barang dagangan kakek mutunya selalu nomor satu.
+SWE3_GL	B41AD666	Dan kakek udah dengan bangga melayani warga sini lebih dari 30 tahun!
+SWE3_GM	C31DE6F0	Kakek tua bangka gila. Woy, lu aja yang nyetir.
+SWE3_GN	5A14B74A	Meriam purba di museum aja kayaknya lebih baru dari pistol butut ini. Kita mau ke mana nih?
+SWE3_GO	2D1387DC	Aduh capek banget gue bro, anterin gue balik ke rumah gue ya, kawan.
+SWE3_HA	4D33B614	Sebenernya ada apaan sih, keadaan kok jadi ancur-ancuran gini?
+SWE3_HB	D43AE7AE	Orang-orang kudu buka mata sama buka hati mereka lebar-lebar, CJ.
+SWE3_HC	A33DD738	Lu ngomong apaan sih barusan?
+SWE3_HD	3D59429B	Gue lagi bahas soal pilihan hidup yang dihadapi setiap manusia, saudaraku.
+SWE3_HE	4A5E720D	Terkadang pilihan itu terasa nyata, tapi di waktu lain kita gak punya pilihan sama sekali.
+SWE3_HF	D35723B7	Syukur deh lu masih suka ngebacot sok bijak. Gak berubah sedikit pun lu.
+SWE3_HG	A4501321	Gue? Gak bakal pernah berubah lah.
+SWE3_JA	7F05D496	Makasih ya CJ, sampai ketemu lagi.
+SWE3_JB	E60C852C	Cabut dulu ya, Smoke.
+
+SWE2_HG	1CEC7444	...coba sentuh sisi batin lu atau hal-hal semacam itulah.
+SWE2_HF	6BEB44D2	Denger ya, kalian berdua kudu lebih santai, kawan.
+SWE3_AG	7592A868	Bikin tuh anak-anak Ballas bertekuk lutut memohon ampun!
+SWE3_BH	CE00E63A	Merem juga kena!
+SWE3_BJ	200E8716	Nembak dari pinggang nih bos!
+SWE3_BK	5709B780	Pake tangan kidal juga gak ada lawan gue!
+SWE3_CA	AEC76FDF	Peluru lu kagak pake pelacak, bego!
+SWE3_CB	37CE3E65	Bakat nembak di keluarga lu diborong semua sama abang lu!
+SWE3_CC	40C90EF3	Pantesan aja si bocah Brian mati konyol!
+SWE3_CD	DEAD9B50	Gue bilang tembak botolnya, bukan bangunannya!
+SWE3_CE	A9AAABC6	Gemetaran lu persis kayak anak cewek!
+SWE3_CF	30A3FA7C	Pelatuknya jangan diusel-usel bangsat, tarik langsung!
+SWE3_CG	47A4CAEA	Lu tahu bentuk botol kan, hah?
+SWE3_CH	D71BD77B	Ayolah bego, nembak yang lurus napa!
+SWE3_CJ	3915B657	Cuma segitu doang kemampuan lu, bocah?
+SWE3_CK	4E1286C1	Tembakan lu bener-bener bikin malu!
+SWE3_DB	788FA8A2	Jiwa pembunuhnya bener-bener merasuk ke raga!
+SWE3_DD	91EC0D97	Bakal nangis darah tuh anak-anak Ballas tolol!
+SWE3_DE	E6EB3D01	Mantap bener, tong!
+SWE3_DF	7FE26CBB	Jago banget nembak lu!
+SWE3_EA	F89DC859	Buset dah, si Emmet lu bantai!
+SWE3_EB	619499E3	Bakal ngamuk besar anak-anak Seville Families!
+SWE3_EC	1693A975	Terus kita dapet pasokan senjata dari mana lagi nih?
+SWE3_ED	88F73CD6	Itu bukan botol, bego!
+SWE3_EE	FFF00C40	CJ, lu barusan ngapain sih bangsat?
+SWE3_EF	66F95DFA	Ya ampun sialan, Emmet!
+SWE3_FA	D3B09B9A	Liat-liat napa kalau nodongin pistol!
+SWE3_FB	4AB9CA20	Lu barusan ngebantai Big Smoke!
+SWE3_FC	3DBEFAB6	Astaga sialan... Smoke!
+SWE3_FD	A3DA6F15	Nih bocah udah gila beneran!
+SWE3_FE	D4DD5F83	Tembakan lu busuk parah, beneran dah.
+SWE3_FF	4DD40E39	Waktu bayi lu dicekokin racun apa gimana sama Beverly?
+SWE3A04	9C024E23	Siapa yang menang nih?
+SWE3A22	47578994	Apa kabar bro?

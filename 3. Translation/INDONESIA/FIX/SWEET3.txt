@@ -1,0 +1,143 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+TWAR2_A	BB0262D9	~s~Masuk ke dalam ~b~mobil~s~.
+TWAR2_C	550C03F5	~s~Berkendaralah ke drive-thru ~y~Cluckin' Bell~s~.
+SWE3_B	6102A53F	~s~Kejar ~r~mobil geng musuh~s~ sebelum mereka menghabisi kawan-kawanmu!
+K_BALLA	FC4B8AFA	~s~Habisi anggota geng ~r~Ballas~s~.
+SWE3_H	81D74C21	~s~Anggota geng di mobilmu akan menembaki ancaman jika jarakmu cukup dekat.
+TW2_X	DDE8FF51	~s~Masuk kembali ke dalam ~b~mobil~s~.
+TW2_W	4D57E2C0	~s~Kembalilah ke ~y~rumah Sweet~s~.
+TW2_Z	33E69E7D	~s~Antarkan Smoke pulang ke ~y~rumahnya~s~.
+SWE3_D	8861000A	~r~Mobilnya hancur!
+SWE3_E	FF66309C	~r~Sweet tewas!
+SWE3_F	666F6126	~r~Ryder tewas!
+SWE3_G	116851B0	~r~Smoke tewas!
+SWE3_FG	3AD33EAF	Tenang dulu napa, bocah.
+SWE3_FH	AA6C233E	Kamu tidak bisa menembak Smoke!
+SWE3_I	F6D07CB7	~r~Kawanan Ballas menghabisi kawan-kawanmu!
+TW2_Y	AAEFCFC7	~r~Kamu gagal melindungi kawan-kawanmu.
+SWE2A00	23D3ED5F	Respek itu harus diusahain, Sweet, sama persis kayak nyari duit.
+SWE2A01	54D4DDC9	Maksud omongan lu apa nih? Lu gak ngerespek gue?
+SWE2A02	CDDD8C73	Maksud gue tuh gini ya...
+SWE2A13	A3C18DA4	Ngomong napa, bangsat!
+SWE2A14	3DA51807	Gue laper bego!
+SWE2A15	4AA22891	Aduh ampun dah sialan... Hei, ada apaan sih nih ribut-ribut?
+SWE2A03	BADABCE5	Manusia gak bisa hidup cuma modal makan roti doang. Gue paham betul, udah pernah gue cobain tuh hal bodoh.
+SWE2A04	24BE2946	Carl, lu keliatan krempeng banget, bro.
+SWE2A05	53B919D0	Lu pasti laper kan, bro.~n~Iya nih, boleh lah makan.
+SWE2A07	BDB778FC	Bung, kalian pada mau makan apa nih? Gimana kalau makan taco?
+SWE2A08	2D08656D	Taco? Lagi? Ogah banget bangsat.
+SWE2A09	5A0F55FB	Ayam goreng lah, bro. Gak ada tawar-menawar.~n~Bung, gue lagi gak kepengen makan ayam...
+SWE2_AA	244D6A38	Carl, lu yang nyetir. Si Smoke tampangnya udah kayak mau pingsan tuh.
+SWE2_BA	0F6039FB	Gimana ceritanya Ibu bisa tewas ditembak? Kita kudu bahas masalah ini.
+SWE2_BB	96696841	Kita semua emang kudu bahas ini! Sasaran mereka tuh sebenernya si Sweet!
+SWE2_BC	E16E58D7	Gimana ceritanya lu bisa tahu soal itu? Lu paham sendiri sifat orang-orang kayak gimana.
+SWE2_BD	7F0ACD74	Ngakunya sih sayang sama lu, giliran ditanya pada mingkem semua.
+SWE2_BE	080DFDE2	Pada ketakutan setengah mati bangsat.
+SWE2_BF	9104AC58	Ada beberapa orang yang bilang liat mobil Sabre warna ijo yang ngeberondong,
+SWE2_BG	E6039CCE	abis itu langsung tancap gas kabur.
+SWE2_BH	76BC815F	Iya sih, tapi orang-orang kan emang demen bikin gosip, bener kan?
+SWE2_BJ	98B2E073	Lagian juga, omongan lu barusan mah udah jadi rahasia umum separuh orang di Santos.
+SWE2_BK	EFB5D0E5	Iya, lu bener, omongan gue yang salah.
+SWE2_BL	71D14546	Hei, bang?
+SWE2B23	8AAA603E	Bisa dibantu mau pesan apa?
+SWE2B00	21955306	Carl, lu mau pesen apaan? Lu mesti makan biar bertenaga lagi, bro.
+SWE2B01	56926390	Woy, gue pesen paket nomor 9 aja, gembrot.
+SWE2B02	CF9B322A	Bikinin gue paket nomor 9, samaan kayak pesenan dia.
+SWE2B04	26F8971F	Bungkusin gue paket nomor 6 tapi bumbu cocolannya dibanyakin.
+SWE2B05	51FFA789	Gue pesen paket nomor 9 dua porsi, paket nomor 9 porsi gede satu,
+SWE2B06	C8F6F633	paket nomor 6 saus cocolan ekstra satu, paket nomor 7 satu,
+SWE2B07	BFF1C6A5	paket nomor 45 dua porsi pake keju satu, sama soda porsi jumbo satu.
+SWE2B08	2F4EDB34	Hei maaf ya bang, lu paham kan gue harus tahu kebenaran soal almarhumah Ibu.
+SWE2B09	5849EBA2	Gue paham CJ, gue paham kok. Maksud gue, gue cuma lagi berusaha buat gak kepikiran itu mulu, itu doang.
+SWE2B10	388E6247	Maksud gue tuh, gue bahkan gak tahu kalau Ibu kena tembak sampai semuanya udah bener-bener telat...
+SWE2B11	4F8952D1	Iya, bener, paham gue. Udah ayo kita makan dulu.
+SWE2B12	D680036B	Hei, bukannya kita lagi ada ribut di sekitar sini? Belakangan ini kita sering bentrok sama anak-anak sini.
+SWE2B13	A18733FD	Gue paling gak demen makan makanan dingin.
+SWE2B14	3FE3A65E	Beda sama lu, seumur hidup gue mah gak sudi makan dari tong sampah.
+SWE2B20	13A33184	Aduh sialan, dasar sampah lu berengsek!
+SWE2B22	FDAD50A8	Oper sini makanan punya gue.
+SWE2B15	48E496C8	Woy, woy liat tuh! Anak-anak Kilo Trays lagi mantau kita!
+SWE2B16	D1EDC772	Sialan lu Ryder, omongan lu bawa sial mulu!
+SWE2B18	3655EA75	Bangsat, tuh bajingan pada tancap gas ngarah ke tongkrongan kita!
+SWE2B17	A6EAF7E4	DRIVE-BY!
+SWE2_CA	167B08BA	Tancap gas! Gas, gas, gas!
+SWE2_CC	F8756996	Injek gasnya, kita kudu bantai nih bajingan-bajingan!
+SWE2_GA	7217CDBE	Napa lu gak ikutan nembak, Smoke?
+SWE2_GB	EB1E9C04	Ntar gue tembak abis kelar makan.
+SWE2_GC	9C19AC92	Berhenti lu ngejejelin tuh mulut bangsat lu! Ayo buruan!
+SWE2_GD	027D3931	Gue gak ngejejelin makanan kawan, gue lagi nikmatin santapan gue.
+SWE2_GE	757A09A7	Woy, bunuh tuh bajingan! Gila ya, mantap banget rasa roti lapisnya!
+SWE2_HA	F58FD171	Smoke! Berhenti ngunyah tuh makanan dan mulai tembakin anak-anak Ballas itu!
+SWE2_HB	6C8680CB	Gue lagi berusaha nikmatin makanan gue bego!
+SWE2_HC	1B81B05D	Dan anak-anak bego itu lagi berusaha nikmatin kematian kita bangsat!
+SWE2_HD	85E525FE	Ayolah cepetan, Smoke, tembak!
+SWE2_HE	F2E21568	Sabar napa, kentang goreng gue dikit lagi abis nih!
+SWE2_DA	593A9E7D	Menu Spesial gue tumpah!
+SWE2_DB	C033CFC7	Aduh sialan! Saus tomat pesenan lu blepotan ke jok mobil gue!
+SWE2_DC	B734FF51	Fokus ke urusan yang ada di depan mata bangsat, urusan di depan mata!
+SWE2_DD	29506AF2	Tapi ini celana gue baru dicuci bersih!
+SWE2_MA	88F82534	Gila! Barusan bener-bener situasi tegang banget!
+SWE2_MB	11F1748E	Iya bro, anak-anak Ballas tolol itu gak bakal berani ngulangin lagi dah!
+SWE2_MC	66F64418	Carl, ayo kita balik ke Grove!
+SWE2_MD	F892D1BB	Beres, langsung gue gas.
+SWE2_ME	8F95E12D	Aduh nikmatnya! Kenyang banget perut gue!
+SWE2_MF	169CB097	Dasar lu gembrot sialan!
+SWE2_MG	619B8001	Lain kali lu kudu ikutan nembak, kalau kagak kepala lu yang gue tembak!
+SWE2_MH	F1249D90	Smoke, perut lu buncit lebar banget bangsat, bener-bener melar!
+SWE2_MJ	1F2AFCBC	Dan gara-gara itulah lu semua sayang sama gue, bro!
+SWE2_NA	A3D576F7	Poin kemenangan tambahan buat anak Grove!
+SWE2_NB	3ADC274D	Ngomong apaan barusan lu, Smoke?
+SWE2_NC	4DDB17DB	Dari tadi kerjaan lu cuma ngabisin makanan gue doang bangsat!
+SWE2_ND	D3BF8278	Iya lah, keburu dingin ntar!
+SWE2_NE	A4B8B2EE	Lu semua mau mampir masuk minum bir dulu gak?
+SWE2_NF	3DB1E354	Gak dulu bro, gue kudu balik ke rumah.
+SWE2_NG	4AB6D3C2	CJ, bisa tumpangi gue balik gak?
+SWE2_NH	DA09CE53	Ayo dah Smoke, cabut kita. Cabut duluan ya bro.
+SWE2_OA	BACE47B6	Ada apa sama lu pas kejadian tadi, Smoke?
+SWE2_OB	23C7160C	Bro, kalau lu tetep bisa anteng makan di saat orang lain panik histeris
+SWE2_OC	54C0269A	dan nyalah-nyalahin lu, tandanya lu cowok sejati, kawan.
+SWE2_OD	CAA4B339	Hah? Maksud lu apaan?
+SWE2_OE	BDA383AF	Gak ada, bukan apa-apa. Cuma kutipan puisi yang pernah gue baca doang.
+SWE2_OF	24AAD215	Woy Smoke, ceritain ke gue napa lu pindah rumah keluar dari Grove?
+SWE2_OG	53ADE283	Bro, gue dapet warisan duit dari bibi gue. Maksud gue tempatnya emang lumayan enak,
+SWE2_OH	C312FF12	tapi Grove bakal selalu ada di hati gue, kawan. Di sanalah tempat kawan-kawan setia gue berada.
+SWE2_OJ	2D1C9E3E	Iya dah, terserah apa kata lu.
+SWE2_PA	77944928	Makasih banyak ya, Carl. Asli dah, gue kangen banget ada lu di sekitar kita kayak gini lagi, bro.
+SWE2_PB	EE9D1892	Makasih bro. Andai si Sweet punya pikiran kayak gitu juga ke gue.
+SWE2_PC	999A2804	Omongan dia gak sejahat itu kok, CJ.
+SWE2_PD	07FEBDA7	Dia cuma masih sakit hati banget kepikiran soal Ibu lu, kawan.
+SWE2_PE	70F98D31	Nih, buat jajan rokok lu dari Smoke. Santai dulu, kawan.
+SWE2A06	CAB0486A	Iya nih, boleh lah makan.
+SWE2A16	D3AB792B	Bung, gue lagi gak kepengen makan ayam...
+SWE2A10	3AC8DC1E	Nah, boleh tuh.
+SWE2A11	4DCFEC88	Ayo kita cabut.
+SWE2A12	D4C6BD32	Kenapa lu bengong mulu, Ryder?
+SWE2_AB	BD443B82	Si Smoke tampangnya udah kayak mau pingsan tuh.
+SWE2B03	B89C02BC	Lu mau apa, Sweet?
+SWE2_BM	06D675D0	Mereka berondong rumah kita pake peluru. Gue gak sempet liat apa-apaan sialan.
+SWE2B19	4152DAE3	Bangsat! Kentang keju gue tumpah! Carl, bantai mereka semua!
+SWE2_CB	8F725900	Kejar tuh mobil, CJ!
+SWE2_EA	4021AF3C	CJ, liat jalanan napa sialan!
+SWE2_EB	D928FE86	Santai bangsat, ini bukan situasi buat jalan santai di hari Minggu!
+SWE2_EC	AE2FCE10	Soda gue tumpah! Berceceran di lantai mobil bangsat!
+SWE2_ED	304B5BB3	Bodo amat, lu jilatin tuh lantai ntar abis urusan kita kelar.
+SWE2_EE	474C6B25	Sekarang mata lu fokus ngeliatin mobil Ballas!
+SWE2_FA	6B0CFCFF	Tuh mereka kabur!
+SWE2_FB	F205AD45	Pepet samping mobil bajingan itu, CJ!
+SWE2_FC	85029DD3	Ballas! Lu liat gak? Di sebelah sono tuh!
+SWE2_FD	1B660870	Pepet mereka, CJ!
+SWE2_FE	6C6138E6	Udah siap belum lu pada?
+SWE2_JA	C7B9B3F3	CJ tepar, sialan!
+SWE2_JB	5EB0E249	CJ! Sweet, si CJ tepar tuh!
+SWE2_JC	29B7D2DF	Dia cuma pura-pura pingsan doang tuh, ya kan CJ?
+SWE2_KA	DEA282B2	Aaargh! Mobil kita kebakar! Selamatkan diri masing-masing! Kabur!
+SWE2_KB	47ABD308	Woy mobil sialan ini mau meledak, buruan loncat keluar!
+SWE2_KC	30ACE39E	Mobil kita ringsek ancur bro, cepetan keluar semua!
+SWE2_LA	91E31475	Sialan, kita udah telat banget!
+SWE2_LB	08EA45CF	Aduh bangsat, kita ngecewain kawan-kawan kita!
+SWE2_LC	7FED7559	Kita ngecewain seluruh anak tongkrongan!
