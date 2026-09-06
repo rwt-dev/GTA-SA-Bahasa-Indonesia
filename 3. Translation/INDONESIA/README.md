@@ -9,7 +9,7 @@
   * **SWEET1B.txt (Cleaning the Hood)** — Selesai diterjemahkan dan sudah dites langsung *in-game* via CLEO.
 * `[26/08/2026]` **Misi Awal Selesai Diuji (Status: Fix)**
   * **INTRO1.txt (In the Beginning)** — Selesai diterjemahkan dan sudah dites langsung *in-game* via CLEO.
-  * **INTRO2.txt (Big Smoke)** — Selesai diterjemahkan dan sudah dites langsung *in-game* via CLEO.
+  * **INTRO2.txt (Big Smoke - Sweet & Kendl)** — Selesai diterjemahkan dan sudah dites langsung *in-game* via CLEO.
 * `[16/08/2026]` **Lokalisasi Awal (Status: Peninjauan / Draft)**
   * Menerjemahkan semua berkas teks menggunakan bantuan Gemini AI.
 * `[14/02/2026]` **Eksperimen CLEO (Status: Berhasil)**

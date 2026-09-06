@@ -1,4 +1,4 @@
-#UI
+//UI
 M_FAIL ~r~MISI GAGAL!
 M_PASS MISI SELESAI!~n~~w~$~1~
 M_PASSD	MISI SELESAI!
@@ -16,7 +16,7 @@ INTRO2E	~s~Naiki ~b~sepeda~s~ itu.
 RYBLIP Ikuti ikon 'R' pada radar untuk menuju ke rumah Ryder.
 
 
-#SYSTEM
+//SYSTEM
 GYMHELP Jika ingin meningkatkan stamina atau otot, ATAU ingin mempelajari gerakan baru, kunjungi tempat gym di sekitar San Andreas.
 DUMBELL Pergilah ke ikon barbel (ditampilkan pada radar) dan kunjungi tempat gym.
 EMMET_G	Kamu bisa mengunjungi tempat Emmet kapan saja untuk mendapatkan senjata!
@@ -25,7 +25,7 @@ GA_15 Semoga kamu suka warna barunya.
 GA_16 Pengecatan ulang ini gratis.
 WANT_L Tingkat buronanmu telah ditangguhkan. Jika kamu melakukan kejahatan saat bintang-bintang masih berkedip, status buronan penuhmu akan kembali aktif.
 
-#TELPON
+//TELPON
 MSWE10A	Halo?
 MSWE10D	Kupikir aku harus menjelaskan beberapa hal.
 MSWE10C	Sweet, hei, ada apa?
@@ -77,7 +77,7 @@ MSWE07H Gak bakal ada yang segan sama lu kalau lu sendiri gak mau bawa nama tong
 MSWE07J Iya bro, salah gue. Gue emang belum sempet nyari baju aja.
 MSWE07K Tuh ada toko Binco di deket tikungan gym Ganton, sono cari baju serba ijo buat lu pake!
 
-#INTRO1
+//INTRO1 (In the Beginning)
 DBFD18C7 Kamu bisa melakukan bunny hop dengan menahan tombol ~m~~widget_explicit_bunny_hop~.
 E223861D Tekan dan tahan sudut kiri bawah layar untuk memiringkan badan.
 044678A8 Tekan dan tahan ~m~~widget_ped_move_up~ dan ~m~~widget_ped_move_down~ untuk memiringkan badan.
@@ -297,7 +297,7 @@ INT1_GF Gue ketinggalan woy! Kalian semua bajingan tega ninggalin gue di belakan
 INT1_GG Yo, Pantai Timur bener-bener bikin kaki lu berotot juga ya, bocah!
 INT1_GK Bung, lu mesti buang jauh-jauh rasa parnoan ala Liberty City itu, kawan!
 
-#INTRO2
+//INTRO2 (Big Smoke - Sweet & Kendl)
 HOOD2_A ~s~Pergi bersama Ryder ke ~y~tukang cukur~s~.
 HOOD2_B ~s~Masuk ke ~y~restoran pizza~s~ dan beli makanan.
 INT2_13 ~s~Masuk ke penanda untuk membeli pizza.
@@ -376,7 +376,7 @@ INT2_IA CJ, kita butuh kendaraan!
 INT2_IB Kita butuh tumpangan cepat! Ambil mobil sekarang!
 INT2_NA Sip, urusan kita beres! Ini bagian lu.
 
-#SWEET1
+//SWEET1 (Tagging up Turf)
 JUMPH1	Berdirilah di depan pagar lalu ketuk dua kali ~m~~widget_sprint~ untuk memanjat pagar.
 JUMPH2	Ketuk dua kali ~m~~widget_sprint~ untuk memanjat ke atas tembok.
 SWE1_D	Arahkan pandangan ke grafiti dan tahan ~m~~widget_attack~ untuk menyemprotnya.
@@ -457,7 +457,7 @@ SWE1_BJ	CARL, CEPETAN MASUK MOBIL!
 SWE1_BR	Duit bawaan gue udah disikat abis sama anak-anak C.R.A.S.H.
 SWE1_BS	Cepet amat? Sialan, polisi-polisi itu emang licik banget!
 
-#SWEET1B
+//SWEET1B (Cleaning the Hood)
 SW1B_A	~s~Pergilah ke ~y~apartemen B Dup~s~.
 SW1B_1	~s~Pergilah ke ~y~tempat pengedar narkoba~s~.
 SW1B_B	~s~Hajar ~r~pengedar narkoba itu~s~.
@@ -582,7 +582,7 @@ RYDX_AN	Tungguin gue, CJ!
 RYDX_AO	Tunggu bentar, bego!
 RYDX_AP	Hei, CJ, di mana lu?
 
-#SWEET3
+//SWEET3 (Nines and AK's)
 TWAR2_A ~s~Masuk ke dalam ~b~mobil~s~.
 TWAR2_C ~s~Berkendaralah ke drive-thru ~y~Cluckin' Bell~s~.
 SWE3_B ~s~Kejar ~r~mobil geng musuh~s~ sebelum mereka menghabisi kawan-kawanmu!
@@ -722,7 +722,7 @@ SWE2_LA Sialan, kita udah telat banget!
 SWE2_LB Aduh bangsat, kita ngecewain kawan-kawan kita!
 SWE2_LC Kita ngecewain seluruh anak tongkrongan!
 
-#SWEET2
+//SWEET2 (Drive-Thru)
 HOOD2C Untuk membidik secara manual, sentuh bagian tengah layar lalu geser ke kiri dan kanan sambil menembak.
 HOOD2D ~h~Kemahiran senjatamu~w~ akan meningkat setiap kali tembakan senjatamu mengenai sasaran dengan tepat.
 HOOD2E Tingkat kemahiran senjata yang tinggi akan meningkatkan keahlianmu. Tahan ~m~~widget_player_info~ saat berjalan kaki untuk melihat kemahiran senjata.
@@ -857,7 +857,7 @@ SWE3_FF Waktu bayi lu dicekokin racun apa gimana sama Beverly?
 SWE3A04 Siapa yang menang nih?
 SWE3A22 Apa kabar bro?
 
-#SWEET4
+//SWEET4 (Drive-By)
 SWE4_02 ~s~Bantai musuh di kawasan ini.
 SWE4_03 ~s~Pergilah ke ~y~bengkel cat (spray shop)~s~, kamu bisa meloloskan diri dari kejaran polisi di sana!
 SWE4_04 ~r~Kawan-kawanmu tidak selamat.
