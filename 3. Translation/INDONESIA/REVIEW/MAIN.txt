@@ -3231,7 +3231,7 @@ HELP32	BCE7FCE1	Lalu tembak menggunakan ~m~~widget_attack~.
 HELP34	558459D4	Kamu harus memiliki sub machine gun untuk melakukan drive-by.
 HELP3B	ECE28DDD	Kamu hanya bisa mengayuh cepat atau sprint untuk durasi waktu yang terbatas.
 HELP3B2	30591D64	Semakin sering kamu berolahraga, semakin tinggi ~h~stamina~w~ milikmu, membuatmu bisa memforsir tenaga lebih lama.
-HELP42	F3A66A26	Ikuti ikon ~h~'CJ'~w~ di radar untuk kembali ke lingkungan rumahmu.
+HELP42	F3A66A26	Ikuti ikon ~h~'CJ'~w~ pada radar untuk kembali ke rumah.
 HELP44	1AC5CF13	Berjalanlah ke penanda merah untuk melanjutkan. Tahan ~m~~widget_sprint~ untuk berlari cepat.
 HELP44B	1C76A4AD	Kendarai kendaraanmu ke atas penanda merah.
 HELP5_A	02B42D4C	Tekan ~m~~widget_brake~ untuk mengerem. Tekan dan tahan untuk mundur jika sepeda sudah berhenti.
@@ -4795,7 +4795,7 @@ RSTRSWE	6DE2E201	Sweater Rockstar
 RSW	0B1F16F3	Rockshore West
 RUMPO	A347741F	Rumpo
 RUSTLER	C0AD9389	Rustler
-RYBLIP	38351BB0	Ikuti blip 'R' di radar untuk menemukan rumah Ryder.
+RYBLIP	38351BB0	Ikuti ikon 'R' pada radar untuk menuju ke rumah Ryder.
 RYD1_BE	BBA51178	Diam!
 RYDER_1	FF246CD9	Home Invasion
 RYDER_2	662D3D63	Robbing Uncle Sam

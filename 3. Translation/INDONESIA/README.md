@@ -4,12 +4,12 @@
   * **SWEET2.txt (Drive-Thru)** — Selesai diterjemahkan dan sudah dites langsung *in-game* via CLEO.
   * **SWEET3.txt (Nines and AK's)** — Selesai diterjemahkan dan sudah dites langsung *in-game* via CLEO.
   * **SWEET4.txt (Drive-By)** — Selesai diterjemahkan dan sudah dites langsung *in-game* via CLEO.
-* `[27/08/2026]` **Misi Sweet 1 & 2 Selesai Diuji (Status: Fix)**
+* `[27/08/2026]` **Misi Sweet 1 & 1B Selesai Diuji (Status: Fix)**
   * **SWEET1.txt (Tagging up Turf)** — Selesai diterjemahkan dan sudah dites langsung *in-game* via CLEO.
   * **SWEET1B.txt (Cleaning the Hood)** — Selesai diterjemahkan dan sudah dites langsung *in-game* via CLEO.
 * `[26/08/2026]` **Misi Awal Selesai Diuji (Status: Fix)**
-  * **INTRO1.txt** — Selesai diterjemahkan dan sudah dites langsung *in-game* via CLEO.
-  * **INTRO2.txt** — Selesai diterjemahkan dan sudah dites langsung *in-game* via CLEO.
+  * **INTRO1.txt (In the Beginning)** — Selesai diterjemahkan dan sudah dites langsung *in-game* via CLEO.
+  * **INTRO2.txt (Big Smoke)** — Selesai diterjemahkan dan sudah dites langsung *in-game* via CLEO.
 * `[16/08/2026]` **Lokalisasi Awal (Status: Peninjauan / Draft)**
   * Menerjemahkan semua berkas teks menggunakan bantuan Gemini AI.
 * `[14/02/2026]` **Eksperimen CLEO (Status: Berhasil)**
